@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# TODO: заменить домен
+Sitemap: https://lockbilbao.es/sitemap.xml
