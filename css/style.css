@@ -62,8 +62,8 @@
   --shadow-soft: 0 24px 50px -28px rgba(7, 21, 32, .35);
   --shadow-card: 0 1px 0 rgba(7, 21, 32, .04), 0 18px 40px -30px rgba(7, 21, 32, .3);
 
-  --container: 1240px;
-  --gutter: clamp(16px, 4vw, 32px);
+  --container: 1600px;
+  --gutter: clamp(16px, 4vw, 64px);
   --header-h: 76px;
   --section-y: clamp(72px, 9vw, 128px);
 
@@ -392,7 +392,7 @@ section[id], [id^="guide-"] { scroll-margin-top: calc(var(--header-h) + 16px); }
 }
 
 .stage__chip {
-  position: absolute; left: var(--gutter); top: calc(var(--D) * .36); z-index: 5;
+  position: absolute; left: var(--gutter); top: calc(var(--D) * .47); z-index: 5;
   display: inline-flex; align-items: center; gap: 12px;
   padding: 14px 22px;
   border-radius: 999px; background: #fff;
@@ -507,7 +507,7 @@ section[id], [id^="guide-"] { scroll-margin-top: calc(var(--header-h) + 16px); }
 /* track: на всю ширину вправо, слева — по контейнеру */
 .svc-slider { margin-right: calc(50% - 50vw); }
 .svc-track {
-  --card-w: clamp(216px, 16.4vw, 244px);
+  --card-w: clamp(216px, 16.4vw, 264px);
   --gap: 16px;
   display: flex; gap: var(--gap);
   overflow-x: auto; overscroll-behavior-x: contain;
@@ -638,7 +638,7 @@ section[id], [id^="guide-"] { scroll-margin-top: calc(var(--header-h) + 16px); }
 }
 
 /* визуал слева */
-.pr__visual { --V: min(100%, 420px); position: relative; grid-column: 1 / 5; grid-row: 1 / 3; aspect-ratio: 1 / 1.32; margin: 0; }
+.pr__visual { position: relative; grid-column: 1 / 5; grid-row: 1 / 3; width: min(100%, 440px); justify-self: center; aspect-ratio: 1 / 1.32; margin: 0; }
 .pr__orbit {
   position: absolute; left: -12%; top: -6%; width: 124%; aspect-ratio: 1; border-radius: 50%;
   border: 1.5px solid rgba(23, 107, 69, .14);
