@@ -263,10 +263,17 @@ section[id], [id^="guide-"] { scroll-margin-top: calc(var(--header-h) + 16px); }
    HERO
    ========================================================= */
 .hero {
-  --D: clamp(300px, 44vw, 640px);
+  /* --Dw — диаметр круга с мастером по ширине экрана (минимум);
+     --D — фактический диаметр: растёт, пока сцена заполняет экран по высоте (см. @supports ниже) */
+  --Dw: clamp(300px, 44vw, 640px);
+  --D: var(--Dw);
+  --stage-h: calc(var(--Dw) * .74); /* базовая высота сцены (видимая часть круга) */
+  --stage-gap: 0px;                  /* свободное место над сценой, когда экран выше композиции */
   position: relative;
   overflow: hidden;
-  padding-top: calc(var(--header-h) + clamp(22px, 3vw, 40px));
+  display: flex; flex-direction: column;
+  min-height: 100vh; min-height: 100svh; /* баннер на всю высоту экрана */
+  padding-top: calc(var(--header-h) + clamp(22px, 3.2svh, 48px));
   background:
     radial-gradient(60% 50% at 50% 36%, #FCFCFA 0%, rgba(252, 252, 250, 0) 70%),
     linear-gradient(180deg, #F8F8F5 0%, var(--paper) 100%);
@@ -316,11 +323,12 @@ section[id], [id^="guide-"] { scroll-margin-top: calc(var(--header-h) + 16px); }
 /* Stage — композиция с мастером */
 .hero__stage {
   position: relative;
-  height: calc(var(--D) * .74);
-  margin-top: clamp(24px, 3vw, 36px);
+  flex: 1 1 0; /* basis 0, не auto: иначе в Chromium 100cqh внутри сцены считается как 0 */
+  min-height: var(--stage-h);
+  margin-top: clamp(24px, 3.4svh, 48px);
 }
 .stage {
-  position: absolute; left: 50%; top: 0;
+  position: absolute; left: 50%; top: var(--stage-gap);
   width: var(--D); height: var(--D);
   transform: translateX(-50%);
   z-index: 2;
@@ -392,7 +400,7 @@ section[id], [id^="guide-"] { scroll-margin-top: calc(var(--header-h) + 16px); }
 }
 
 .stage__chip {
-  position: absolute; left: var(--gutter); top: calc(var(--D) * .47); z-index: 5;
+  position: absolute; left: var(--gutter); top: calc(var(--stage-gap) + var(--D) * .47); z-index: 5;
   display: inline-flex; align-items: center; gap: 12px;
   padding: 14px 22px;
   border-radius: 999px; background: #fff;
@@ -403,7 +411,7 @@ section[id], [id^="guide-"] { scroll-margin-top: calc(var(--header-h) + 16px); }
 .stage__chip svg { width: 18px; height: 18px; color: var(--green); }
 
 .stage__script {
-  position: absolute; right: calc(var(--gutter) + 8px); top: calc(var(--D) * .1); z-index: 5;
+  position: absolute; right: calc(var(--gutter) + 8px); top: calc(var(--stage-gap) + var(--D) * .1); z-index: 5;
   font: 400 clamp(22px, 1.1rem + .6vw, 30px)/1.12 var(--ff-script);
   color: var(--ink);
   transform: rotate(-11deg);
@@ -425,9 +433,23 @@ section[id], [id^="guide-"] { scroll-margin-top: calc(var(--header-h) + 16px); }
 }
 .hero__counter-label.is-out { opacity: 0; transform: translateY(6px); }
 .hero__counter::after { content: ""; width: clamp(60px, 14vw, 200px); height: 1px; background: var(--line-2); }
+@supports (container-type: size) {
+  /* линия счётчика заканчивается до круга с мастером (50cqw − D/2 — левый край круга) */
+  .hero__counter::after { width: clamp(0px, 50cqw - var(--D) / 2 - var(--gutter) - 330px, 200px); }
+}
 .hero__line-right {
   position: absolute; right: 0; bottom: 71px; z-index: 1;
   width: 24%; height: 1px; background: var(--line-2);
+}
+
+/* Сцена заполняет экран по высоте: .hero__stage — size-контейнер, 100cqh = высота, оставшаяся под заголовком.
+   Круг растёт до этой высоты (но не шире 52vw и не больше 920px); если упёрлись в предел — остаток уходит отступом сверху. */
+@supports (container-type: size) {
+  .hero__stage { container-type: size; }
+  .hero {
+    --D: max(var(--Dw), min(100cqh / .74, 52vw, 920px));
+    --stage-gap: max(0px, 100cqh - var(--D) * .74);
+  }
 }
 
 /* Hero entrance — единственная оркестрованная анимация */
@@ -1661,10 +1683,15 @@ input[type="file"]:focus-visible + .file, .field:focus-within .file { border-col
   .burger { display: block; }
   .logo img { height: 36px; }
 
-  .hero { --D: min(56vw, 480px); }
+  .hero { --Dw: min(56vw, 480px); --stage-h: calc(var(--Dw) * 1.06 + 70px); }
+  @supports (container-type: size) {
+    .hero {
+      --D: max(var(--Dw), min((100cqh - 70px) / 1.06, 60vw, 600px)); /* 60vw — боковые фото не выходят за экран */
+      --stage-gap: max(0px, 100cqh - var(--D) * 1.06 - 70px);
+    }
+  }
   .hero__title { text-wrap: balance; }
   .divider-v { display: none; }
-  .hero__stage { height: calc(var(--D) * 1.06 + 70px); }
   .stage__script { display: none; }
   .stage__chip { top: auto; bottom: calc(var(--D) * .2 + 60px); }
   .hero__counter { bottom: 46px; right: var(--gutter); }
@@ -1713,7 +1740,13 @@ input[type="file"]:focus-visible + .file, .field:focus-within .file { border-col
   .footer { padding-bottom: calc(76px + env(safe-area-inset-bottom)); }
 
   /* Hero mobile — по мобильному макету */
-  .hero { --D: min(64vw, 300px); padding-top: calc(var(--header-h) + 28px); }
+  .hero { --Dw: min(64vw, 300px); --stage-h: calc(var(--Dw) * 1.28 + 44px); padding-top: calc(var(--header-h) + 28px); }
+  @supports (container-type: size) {
+    .hero {
+      --D: max(var(--Dw), min((100cqh - 44px) / 1.28, 78vw, 360px));
+      --stage-gap: max(0px, 100cqh - var(--D) * 1.28 - 44px);
+    }
+  }
   .hero__leaves { width: 170vw; opacity: .7; }
   .kicker-bar { width: 40px; margin-bottom: 14px; }
   .eyebrow { font-size: 11.5px; letter-spacing: .28em; }
@@ -1733,8 +1766,8 @@ input[type="file"]:focus-visible + .file, .field:focus-within .file { border-col
   .rating .stars svg { width: 16px; height: 16px; }
   .rating__text { font-size: 12.5px; }
 
-  .hero__stage { height: calc(var(--D) * 1.28 + 44px); margin-top: 32px; }
-  .stage { top: calc(var(--D) * .06); }
+  .hero__stage { margin-top: 32px; }
+  .stage { top: calc(var(--stage-gap) + var(--D) * .06); }
   .stage__orbit { width: calc(var(--D) * 1.62); top: calc(var(--D) * -.1); }
   .stage__disc { border-width: 5px; }
   .stage__bubble { border-width: 4px; }
