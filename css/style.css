@@ -1201,10 +1201,10 @@ ul.facts { /* ul.* — перебиваем сброс ul[role="list"] { padding
 .fact + .fact { border-left: 1px solid #E6EAE3; }
 .fact__ic {
   display: grid; place-items: center; width: 40px; height: 40px; border-radius: 50%; margin-bottom: 14px;
-  background: radial-gradient(circle at 35% 30%, #EDF7E6 0%, #DCEFD3 100%); color: var(--green);
+  background: radial-gradient(circle at 35% 30%, #E4F7E9 0%, #D8F1DE 100%); color: #16603F;
 }
 .fact__ic svg { width: 20px; height: 20px; }
-.fact__num { font: 800 clamp(28px, 1.3rem + .9vw, 36px)/1 var(--ff-display); letter-spacing: -.035em; color: var(--forest); margin-bottom: 8px; }
+.fact__num { font: 800 clamp(28px, 1.3rem + .9vw, 36px)/1 var(--ff-display); letter-spacing: -.035em; color: #023A25; margin-bottom: 8px; }
 .fact__text { font-size: 13px; line-height: 1.45; color: var(--muted); }
 
 /* фото: белая рамка, зелёное пятно позади, орбита с точками */
@@ -1437,9 +1437,14 @@ ul.facts { /* ul.* — перебиваем сброс ul[role="list"] { padding
 }
 .tips-help__ic svg { width: 18px; height: 18px; }
 .tips-help__text { flex: 1 1 380px; font-size: 14.5px; line-height: 1.5; color: var(--muted); }
-.tips-help__link { margin-left: auto; font-size: 15px; }
+.tips-help .tips-help__link {
+  margin-left: auto; padding-bottom: 3px; border-bottom: 1.5px solid #BFDC8E;
+  font-size: 14.5px; font-weight: 700; color: var(--forest);
+}
+.tips-help .tips-help__link svg { width: 15px; height: 15px; }
+.tips-help .tips-help__link:hover { color: var(--green); border-color: var(--green); }
 .tips-sign { margin-top: 6px; text-align: right; font: 700 10.5px/1 var(--ff-body); letter-spacing: .3em; text-transform: uppercase; color: #A6AFA9; }
-.tips-sign b { color: var(--ink-2); font-weight: 700; }
+.tips-sign b { color: var(--green); font-weight: 700; }
 
 /* ---------- FAQ ---------- */
 .faq { display: grid; grid-template-columns: minmax(0, 5fr) minmax(0, 7fr); gap: 48px clamp(40px, 6vw, 96px); align-items: start; }
@@ -1862,7 +1867,7 @@ input[type="file"]:focus-visible + .file, .field:focus-within .file { border-col
   .tip p { font-size: 14.5px; }
   .tips-help { align-items: flex-start; }
   .tips-help__text { flex-basis: calc(100% - 60px); }
-  .tips-help__link { margin-left: 60px; }
+  .tips-help .tips-help__link { margin-left: 60px; }
   .tips-sec__spark { display: none; }
 
   .areas__map { min-height: 400px; border-radius: 20px; }
