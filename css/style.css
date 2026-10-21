@@ -1179,17 +1179,52 @@ ul.rv-track { /* ul.* — перебиваем сброс ul[role="list"] { padd
 .rv__cta { margin-top: 32px; }
 .center-cta { display: flex; justify-content: center; margin-top: 44px; }
 
-/* ---------- About ---------- */
+/* ---------- About (блок 14) ---------- */
+.about-sec {
+  overflow: hidden; overflow: clip;
+  background:
+    radial-gradient(40% 60% at 0% 40%, rgba(255, 255, 255, .9) 0%, rgba(255, 255, 255, 0) 70%),
+    linear-gradient(180deg, #F7F8F4 0%, #F9FAF7 100%);
+}
 .about { display: grid; grid-template-columns: minmax(0, 6fr) minmax(0, 5fr); gap: 48px clamp(40px, 6vw, 96px); align-items: center; }
-.about__content .h2 { margin-bottom: 24px; }
-.about__content .lead { margin-bottom: 16px; }
-.about__content > p:not(.lead):not(.kicker) { color: var(--muted); }
-.facts { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 24px; margin-top: 40px; padding-top: 28px; border-top: 1px solid var(--line-2); }
-.facts b { display: block; font: 800 clamp(34px, 1.6rem + 1.2vw, 48px)/1 var(--ff-display); letter-spacing: -.04em; color: var(--green); margin-bottom: 8px; }
-.facts span { font-size: 14px; color: var(--muted); display: block; max-width: 22ch; }
-.about__visual { position: relative; width: 100%; }
-.about__visual img { width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 50%; border: 8px solid #fff; box-shadow: var(--shadow-soft); }
-.about__chip { position: absolute; left: -12px; top: auto; bottom: 12%; }
+.about__title { max-width: 13.5em; margin-bottom: 26px; text-wrap: wrap; } /* balance переносит после «и» */
+.about__content .lead { margin-bottom: 18px; max-width: 60ch; }
+.about__text { font-size: 15px; line-height: 1.65; color: var(--muted); max-width: 64ch; }
+
+ul.facts { /* ul.* — перебиваем сброс ul[role="list"] { padding: 0 } */
+  display: grid; grid-template-columns: repeat(3, minmax(0, 1fr));
+  max-width: 660px; margin-top: clamp(28px, 3vw, 40px); padding: 22px 6px;
+  border-radius: 20px; background: var(--white); border: 1px solid #ECEFEA;
+  box-shadow: 0 1px 0 rgba(7, 21, 32, .03), 0 24px 50px -38px rgba(7, 21, 32, .35);
+}
+.fact { display: flex; flex-direction: column; align-items: flex-start; padding: 2px clamp(14px, 1.4vw, 24px); }
+.fact + .fact { border-left: 1px solid #E6EAE3; }
+.fact__ic {
+  display: grid; place-items: center; width: 40px; height: 40px; border-radius: 50%; margin-bottom: 14px;
+  background: radial-gradient(circle at 35% 30%, #EDF7E6 0%, #DCEFD3 100%); color: var(--green);
+}
+.fact__ic svg { width: 20px; height: 20px; }
+.fact__num { font: 800 clamp(28px, 1.3rem + .9vw, 36px)/1 var(--ff-display); letter-spacing: -.035em; color: var(--forest); margin-bottom: 8px; }
+.fact__text { font-size: 13px; line-height: 1.45; color: var(--muted); }
+
+/* фото: белая рамка, зелёное пятно позади, орбита с точками */
+.about__visual { position: relative; width: 100%; max-width: 580px; justify-self: center; margin: 0; isolation: isolate; }
+.about__photo {
+  position: relative; display: block; width: 100%; aspect-ratio: 1; object-fit: cover; border-radius: 50%;
+  border: 10px solid #fff; box-shadow: 0 30px 60px -36px rgba(7, 21, 32, .45);
+}
+.about__blob {
+  position: absolute; z-index: -2; inset: -8% -9% -6% -2%;
+  border-radius: 56% 44% 50% 50% / 46% 54% 46% 54%;
+  background: radial-gradient(70% 70% at 60% 40%, #E6F1DF 0%, #EAF3E4 60%, rgba(234, 243, 228, .6) 100%);
+  transform: rotate(-14deg);
+}
+.about__orbit { position: absolute; z-index: -1; inset: 0; width: 100%; height: 100%; overflow: visible; pointer-events: none; }
+.about__orbit path { fill: none; stroke: rgba(23, 107, 69, .28); stroke-width: 1.2; vector-effect: non-scaling-stroke; }
+.about__orbit-dot { fill: var(--green); }
+.about__orbit-dot--pale { fill: #DCEBD3; }
+.about__chip { position: absolute; z-index: 1; left: 0; top: auto; bottom: 14%; padding: 12px 18px; font-size: 11px; letter-spacing: .2em; }
+.about__chip svg { width: 16px; height: 16px; }
 
 /* ---------- Areas (блок 15: география) ---------- */
 .geo {
@@ -1799,10 +1834,13 @@ input[type="file"]:focus-visible + .file, .field:focus-within .file { border-col
   .rv-dots__btn[aria-current="true"] { width: 44px; }
   .center-cta .btn { width: 100%; white-space: normal; }
 
-  .facts { grid-template-columns: minmax(0, 1fr); gap: 18px; }
-  .facts li { display: grid; grid-template-columns: 96px 1fr; align-items: center; gap: 12px; }
-  .facts b { margin: 0; font-size: 34px; }
-  .about__chip { left: 0; }
+  ul.facts { grid-template-columns: minmax(0, 1fr); padding: 6px 18px; }
+  .fact { display: grid; grid-template-columns: 40px 76px minmax(0, 1fr); align-items: center; column-gap: 14px; padding: 14px 0; }
+  .fact + .fact { border-left: 0; border-top: 1px solid #E6EAE3; }
+  .fact__ic, .fact__num { margin: 0; }
+  .fact__num { font-size: 26px; }
+  .about__photo { border-width: 7px; }
+  .about__chip { bottom: 8%; }
 
   .areas__map { min-height: 400px; border-radius: 20px; }
   .areas__side { grid-template-columns: minmax(0, 1fr); }

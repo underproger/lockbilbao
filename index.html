@@ -262,6 +262,8 @@
   <symbol id="i-close" viewBox="0 0 24 24"><path d="M6 6l12 12M18 6 6 18" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"/></symbol>
   <symbol id="i-wa" viewBox="0 0 24 24"><path fill="currentColor" d="M12 2a10 10 0 0 0-8.6 15.1L2 22l5-1.3A10 10 0 1 0 12 2zm0 18.2c-1.5 0-3-.4-4.2-1.2l-.3-.2-3 .8.8-2.9-.2-.3A8.2 8.2 0 1 1 12 20.2z"/><path fill="currentColor" d="M16.6 14.3c-.3-.1-1.5-.7-1.7-.8-.2-.1-.4-.1-.6.1l-.8 1c-.1.2-.3.2-.5.1a6.7 6.7 0 0 1-3.4-2.9c-.3-.4.3-.4.7-1.4.1-.2 0-.3 0-.4l-.8-1.8c-.2-.5-.4-.4-.6-.4h-.5c-.2 0-.4.1-.7.3-.2.3-.9.9-.9 2.1s.9 2.4 1 2.6c.1.2 1.8 2.7 4.3 3.8 1.6.7 2.2.7 3 .6.5-.1 1.5-.6 1.7-1.2.2-.6.2-1.1.1-1.2z"/></symbol>
   <symbol id="i-google" viewBox="0 0 24 24"><path fill="#4285F4" d="M23.5 12.3c0-.8-.1-1.6-.2-2.3H12v4.5h6.5a5.6 5.6 0 0 1-2.4 3.6v3h3.9c2.2-2.1 3.5-5.2 3.5-8.8z"/><path fill="#34A853" d="M12 24c3.2 0 6-1.1 7.9-2.9l-3.9-3c-1.1.7-2.4 1.2-4 1.2-3.1 0-5.8-2.1-6.7-5H1.3v3.1A12 12 0 0 0 12 24z"/><path fill="#FBBC05" d="M5.3 14.3a7.2 7.2 0 0 1 0-4.6V6.6h-4a12 12 0 0 0 0 10.8z"/><path fill="#EA4335" d="M12 4.8c1.8 0 3.4.6 4.6 1.8l3.4-3.4A12 12 0 0 0 1.3 6.6l4 3.1C6.2 6.9 8.9 4.8 12 4.8z"/></symbol>
+  <symbol id="i-pin-line" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"><path d="M12 21.2s-6.8-6.3-6.8-11.6a6.8 6.8 0 0 1 13.6 0c0 5.3-6.8 11.6-6.8 11.6z"/><circle cx="12" cy="9.6" r="2.5"/></g></symbol>
+  <symbol id="i-phone-line" viewBox="0 0 24 24"><path fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round" d="M21 16.4v2.7a1.8 1.8 0 0 1-2 1.8 17.8 17.8 0 0 1-7.8-2.8 17.6 17.6 0 0 1-5.4-5.4A17.8 17.8 0 0 1 3 4.9 1.8 1.8 0 0 1 4.8 3h2.7a1.8 1.8 0 0 1 1.8 1.5c.1.9.3 1.7.6 2.5a1.8 1.8 0 0 1-.4 1.9L8.3 10a14.4 14.4 0 0 0 5.4 5.4l1.1-1.1a1.8 1.8 0 0 1 1.9-.4c.8.3 1.6.5 2.5.6a1.8 1.8 0 0 1 1.8 1.9z"/></symbol>
   <!-- типы дверей и замков (блок 10) -->
   <symbol id="t-door-steel" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M6.5 21V4.5A1.5 1.5 0 0 1 8 3h8a1.5 1.5 0 0 1 1.5 1.5V21M4.5 21h15M14.6 10.8v2.8"/></g></symbol>
   <symbol id="t-shield" viewBox="0 0 24 24"><g fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 3 5.5 5.6v5.3c0 4.3 2.8 8 6.5 9.6 3.7-1.6 6.5-5.3 6.5-9.6V5.6z"/></g></symbol>
@@ -947,24 +949,31 @@
   </section>
 
   <!-- ============ 14. О КОМПАНИИ ============ -->
-  <section class="section section--paper" id="about" aria-labelledby="about-title">
+  <section class="section about-sec" id="about" aria-labelledby="about-title">
     <div class="container about">
       <div class="about__content">
         <p class="kicker"><i aria-hidden="true"></i>О компании</p>
-        <h2 class="h2" id="about-title">О компании и мастерах LockBilbao</h2>
+        <h2 class="h2 about__title" id="about-title">О компании и мастерах LockBilbao</h2>
         <p class="lead">LockBilbao — служба аварийного вскрытия и обслуживания замков в Бильбао и Гран-Бильбао. Открываем двери квартир и домов, автомобили, сейфы и гаражи, а после открытия ремонтируем, меняем и устанавливаем замки.</p>
-        <p>На вызов приезжает мастер в фирменной форме, с документами и полным набором инструмента. Перед работой он объясняет, что будет делать, и называет цену. После — проверяет замок вместе с вами и оформляет документ с гарантией.</p>
+        <p class="about__text">На вызов приезжает мастер в фирменной форме, с документами и полным набором инструмента. Перед работой он объясняет, что будет делать, и называет цену. После — проверяет замок вместе с вами и оформляет документ с гарантией.</p>
 
         <!-- TODO: добавить подтверждённые цифры — годы работы, число мастеров, выполненных заказов, среднее время приезда -->
         <ul class="facts" role="list">
-          <li><b>24/7</b><span>круглосуточно, без выходных и праздников</span></li>
-          <li><b>26</b><span>муниципалитетов Гран-Бильбао в зоне выезда</span></li>
-          <li><b>0&nbsp;€</b><span>консультация по телефону и оценка по фото</span></li>
+          <li class="fact"><span class="fact__ic" aria-hidden="true"><svg><use href="#i-clock"/></svg></span><b class="fact__num">24/7</b><span class="fact__text">круглосуточно, без выходных и праздников</span></li>
+          <li class="fact"><span class="fact__ic" aria-hidden="true"><svg><use href="#i-pin-line"/></svg></span><b class="fact__num">26</b><span class="fact__text">муниципалитетов Гран-Бильбао в зоне выезда</span></li>
+          <li class="fact"><span class="fact__ic" aria-hidden="true"><svg><use href="#i-phone-line"/></svg></span><b class="fact__num">0&nbsp;€</b><span class="fact__text">консультация по телефону и оценка по фото</span></li>
         </ul>
       </div>
 
       <figure class="about__visual">
-        <img src="img/guggenheim.webp" alt="Музей Гуггенхайма на берегу Нервиона, Бильбао" width="1000" height="1000" loading="lazy">
+        <span class="about__blob" aria-hidden="true"></span>
+        <svg class="about__orbit" viewBox="0 0 100 100" aria-hidden="true" focusable="false">
+          <path d="M74 -20C30 -16 2 6 -3 40C-7 76 8 104 40 111C70 118 98 106 118 86"/>
+          <path d="M60 124C76 104 94 92 124 88"/>
+          <circle class="about__orbit-dot" cx="13.59" cy="5.34" r="1.25"/>
+          <circle class="about__orbit-dot about__orbit-dot--pale" cx="94.45" cy="96.03" r="3.1"/>
+        </svg>
+        <img class="about__photo" src="img/guggenheim.webp" alt="Музей Гуггенхайма на берегу Нервиона, Бильбао" width="1000" height="1000" loading="lazy">
         <figcaption class="stage__chip about__chip"><svg aria-hidden="true"><use href="#i-pin"/></svg>Бильбао • Бискайя</figcaption>
       </figure>
     </div>
