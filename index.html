@@ -868,78 +868,79 @@
   </section>
 
   <!-- ============ 13. ОТЗЫВЫ ============ -->
-  <section class="section" id="reviews" aria-labelledby="reviews-title">
+  <section class="section rv" id="reviews" aria-labelledby="reviews-title">
+    <div class="rv__deco" aria-hidden="true"><i class="rv__ring rv__ring--a"></i><i class="rv__ring rv__ring--b"></i><i class="rv__spark rv__spark--a"></i><i class="rv__spark rv__spark--b"></i></div>
     <div class="container">
-      <header class="sec-head">
+      <header class="sec-head rv__head">
         <div class="sec-head__main">
           <p class="kicker"><i aria-hidden="true"></i>Отзывы</p>
           <h2 class="h2" id="reviews-title">Отзывы клиентов о нашей службе открытия замков в&nbsp;Бильбао</h2>
         </div>
-        <!-- TODO: рейтинг и количество отзывов — актуальные данные из Google Business Profile -->
-        <div class="g-score">
-          <svg class="g-score__logo" aria-hidden="true"><use href="#i-google"/></svg>
-          <div>
-            <p class="g-score__value">5.0 <span class="stars" role="img" aria-label="5 из 5"><svg aria-hidden="true"><use href="#i-star"/></svg><svg aria-hidden="true"><use href="#i-star"/></svg><svg aria-hidden="true"><use href="#i-star"/></svg><svg aria-hidden="true"><use href="#i-star"/></svg><svg aria-hidden="true"><use href="#i-star"/></svg></span></p>
-            <p class="g-score__count">70 отзывов в Google</p>
+        <div class="rv__aside">
+          <!-- TODO: рейтинг и количество отзывов — актуальные данные из Google Business Profile -->
+          <div class="g-score">
+            <svg class="g-score__logo" aria-hidden="true"><use href="#i-google"/></svg>
+            <div>
+              <p class="g-score__value">5.0 <span class="stars" role="img" aria-label="5 из 5"><svg aria-hidden="true"><use href="#i-star"/></svg><svg aria-hidden="true"><use href="#i-star"/></svg><svg aria-hidden="true"><use href="#i-star"/></svg><svg aria-hidden="true"><use href="#i-star"/></svg><svg aria-hidden="true"><use href="#i-star"/></svg></span></p>
+              <p class="g-score__count">70 отзывов в Google</p>
+            </div>
           </div>
         </div>
       </header>
-
-      <div class="reviews-bar">
-        <div class="chips" role="group" aria-label="Фильтр отзывов по услуге" data-review-filter>
-          <button class="chip is-active" type="button" data-filter="all" aria-pressed="true">Все</button>
-          <button class="chip" type="button" data-filter="flat" aria-pressed="false">Квартиры</button>
-          <button class="chip" type="button" data-filter="car" aria-pressed="false">Автомобили</button>
-          <button class="chip" type="button" data-filter="lock" aria-pressed="false">Замена замков</button>
-        </div>
-        <div class="reviews-bar__links">
-          <!-- TODO: ссылки на профиль компании в Google Maps -->
-          <a class="link-arrow" href="https://www.google.com/maps/search/?api=1&amp;query=LockBilbao" target="_blank" rel="noopener">Все отзывы в Google Maps <svg aria-hidden="true"><use href="#i-arrow"/></svg></a>
-          <a class="link-arrow" href="https://www.google.com/maps/search/?api=1&amp;query=LockBilbao" target="_blank" rel="noopener">Оставить отзыв <svg aria-hidden="true"><use href="#i-arrow"/></svg></a>
-        </div>
+      <div class="rv__links">
+        <!-- TODO: ссылки на профиль компании в Google Maps -->
+        <a class="link-arrow" href="https://www.google.com/maps/search/?api=1&amp;query=LockBilbao" target="_blank" rel="noopener">Все отзывы в Google Maps <svg aria-hidden="true"><use href="#i-arrow"/></svg></a>
+        <a class="link-arrow" href="https://www.google.com/maps/search/?api=1&amp;query=LockBilbao" target="_blank" rel="noopener">Оставить отзыв <svg aria-hidden="true"><use href="#i-arrow"/></svg></a>
       </div>
+    </div>
 
+    <div class="rv-slider" role="region" aria-roledescription="карусель" aria-label="Отзывы клиентов" data-rv>
+      <button class="rv-slider__nav rv-slider__nav--prev" type="button" aria-label="Предыдущий отзыв" data-rv-prev><svg aria-hidden="true"><use href="#i-chev-left"/></svg></button>
       <!-- TODO: шаблоны карточек. Вставить 4–6 НАСТОЯЩИХ отзывов из Google: имя, дата, услуга, текст без изменений -->
-      <ul class="reviews" role="list" data-reviews>
-        <li class="review" data-cat="flat">
+      <ul class="rv-track" role="list" tabindex="0" aria-label="Листайте отзывы стрелками" data-rv-track>
+        <li class="review" data-rv-slide>
           <div class="review__head"><span class="review__avatar" aria-hidden="true">А</span><div><p class="review__name">Имя клиента</p><p class="review__date">Дата отзыва</p></div><svg class="review__g" role="img" aria-label="Отзыв из Google"><use href="#i-google"/></svg></div>
           <span class="stars stars--sm" role="img" aria-label="Оценка 5 из 5"><svg aria-hidden="true"><use href="#i-star"/></svg><svg aria-hidden="true"><use href="#i-star"/></svg><svg aria-hidden="true"><use href="#i-star"/></svg><svg aria-hidden="true"><use href="#i-star"/></svg><svg aria-hidden="true"><use href="#i-star"/></svg></span>
           <p class="review__tag">Открытие квартиры ночью · Абандо</p>
           <p class="review__text">[Текст реального отзыва из Google Maps: что случилось, как быстро приехал мастер и удалось ли сохранить замок.]</p>
         </li>
-        <li class="review" data-cat="car">
+        <li class="review" data-rv-slide>
           <div class="review__head"><span class="review__avatar" aria-hidden="true">Г</span><div><p class="review__name">Имя клиента</p><p class="review__date">Дата отзыва</p></div><svg class="review__g" role="img" aria-label="Отзыв из Google"><use href="#i-google"/></svg></div>
           <span class="stars stars--sm" role="img" aria-label="Оценка 5 из 5"><svg aria-hidden="true"><use href="#i-star"/></svg><svg aria-hidden="true"><use href="#i-star"/></svg><svg aria-hidden="true"><use href="#i-star"/></svg><svg aria-hidden="true"><use href="#i-star"/></svg><svg aria-hidden="true"><use href="#i-star"/></svg></span>
           <p class="review__tag">Ключи остались в машине · Гечо</p>
           <p class="review__text">[Текст реального отзыва: открытие автомобиля, марка, сколько заняло, повреждений нет.]</p>
         </li>
-        <li class="review" data-cat="lock">
+        <li class="review" data-rv-slide>
           <div class="review__head"><span class="review__avatar" aria-hidden="true">Д</span><div><p class="review__name">Имя клиента</p><p class="review__date">Дата отзыва</p></div><svg class="review__g" role="img" aria-label="Отзыв из Google"><use href="#i-google"/></svg></div>
           <span class="stars stars--sm" role="img" aria-label="Оценка 5 из 5"><svg aria-hidden="true"><use href="#i-star"/></svg><svg aria-hidden="true"><use href="#i-star"/></svg><svg aria-hidden="true"><use href="#i-star"/></svg><svg aria-hidden="true"><use href="#i-star"/></svg><svg aria-hidden="true"><use href="#i-star"/></svg></span>
           <p class="review__tag">Замена цилиндра после переезда · Деусто</p>
           <p class="review__text">[Текст реального отзыва: замена личинки, подбор цилиндра, итоговая цена совпала с озвученной.]</p>
         </li>
-        <li class="review" data-cat="flat">
+        <li class="review" data-rv-slide>
           <div class="review__head"><span class="review__avatar" aria-hidden="true">Б</span><div><p class="review__name">Имя клиента</p><p class="review__date">Дата отзыва</p></div><svg class="review__g" role="img" aria-label="Отзыв из Google"><use href="#i-google"/></svg></div>
           <span class="stars stars--sm" role="img" aria-label="Оценка 5 из 5"><svg aria-hidden="true"><use href="#i-star"/></svg><svg aria-hidden="true"><use href="#i-star"/></svg><svg aria-hidden="true"><use href="#i-star"/></svg><svg aria-hidden="true"><use href="#i-star"/></svg><svg aria-hidden="true"><use href="#i-star"/></svg></span>
           <p class="review__tag">Захлопнулась дверь · Баракальдо</p>
           <p class="review__text">[Текст реального отзыва: выходной день, ребёнок или животное внутри, мастер приехал и открыл.]</p>
         </li>
-        <li class="review" data-cat="lock">
+        <li class="review" data-rv-slide>
           <div class="review__head"><span class="review__avatar" aria-hidden="true">Б</span><div><p class="review__name">Имя клиента</p><p class="review__date">Дата отзыва</p></div><svg class="review__g" role="img" aria-label="Отзыв из Google"><use href="#i-google"/></svg></div>
           <span class="stars stars--sm" role="img" aria-label="Оценка 5 из 5"><svg aria-hidden="true"><use href="#i-star"/></svg><svg aria-hidden="true"><use href="#i-star"/></svg><svg aria-hidden="true"><use href="#i-star"/></svg><svg aria-hidden="true"><use href="#i-star"/></svg><svg aria-hidden="true"><use href="#i-star"/></svg></span>
           <p class="review__tag">Установка дополнительного замка · Басаури</p>
           <p class="review__text">[Текст реального отзыва: установка или врезка замка, аккуратность, гарантия.]</p>
         </li>
-        <li class="review" data-cat="car">
+        <li class="review" data-rv-slide>
           <div class="review__head"><span class="review__avatar" aria-hidden="true">С</span><div><p class="review__name">Имя клиента</p><p class="review__date">Дата отзыва</p></div><svg class="review__g" role="img" aria-label="Отзыв из Google"><use href="#i-google"/></svg></div>
           <span class="stars stars--sm" role="img" aria-label="Оценка 5 из 5"><svg aria-hidden="true"><use href="#i-star"/></svg><svg aria-hidden="true"><use href="#i-star"/></svg><svg aria-hidden="true"><use href="#i-star"/></svg><svg aria-hidden="true"><use href="#i-star"/></svg><svg aria-hidden="true"><use href="#i-star"/></svg></span>
           <p class="review__tag">Открытие багажника · Сантурци</p>
           <p class="review__text">[Текст реального отзыва: открытие багажника или двери авто, ночное время, цена.]</p>
         </li>
       </ul>
+      <button class="rv-slider__nav rv-slider__nav--next" type="button" aria-label="Следующий отзыв" data-rv-next><svg aria-hidden="true"><use href="#i-chev-right"/></svg></button>
+    </div>
 
-      <div class="center-cta">
+    <div class="container">
+      <div class="rv-dots" data-rv-dots></div>
+      <div class="center-cta rv__cta">
         <a class="btn btn--lime btn--lg" href="tel:+34944123456">Вызвать мастера с проверенной репутацией <svg aria-hidden="true"><use href="#i-arrow"/></svg></a>
       </div>
     </div>

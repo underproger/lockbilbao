@@ -8,7 +8,7 @@
 ```
 index.html          разметка + schema.org (Locksmith, WebSite, WebPage, FAQPage)
 css/style.css       стили, токены в :root, адаптив 1320 / 1180 / 1024 / 760 / 380
-js/main.js          меню, параллакс hero, слайдер услуг, табы, фильтр отзывов, FAQ, карта, формы, модалка
+js/main.js          меню, параллакс hero, слайдер услуг, табы, слайдер отзывов, FAQ, карта, формы, модалка
 fonts/              Inter, Inter Tight, Marck Script (woff2, локально — без Google Fonts)
 vendor/leaflet/     Leaflet 1.9.4, грузится лениво при подлёте к блоку «Районы»
 img/                webp-ассеты, logo, favicon, og-image.jpg

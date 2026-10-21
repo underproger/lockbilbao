@@ -273,22 +273,128 @@
     });
   });
 
-  /* ---------------- Фильтр отзывов ---------------- */
-  var filter = $('[data-review-filter]');
-  if (filter) {
-    var reviews = $$('[data-reviews] [data-cat]');
-    $$('[data-filter]', filter).forEach(function (btn) {
-      btn.addEventListener('click', function () {
-        var f = btn.getAttribute('data-filter');
-        $$('[data-filter]', filter).forEach(function (b) {
-          var on = b === btn;
-          b.classList.toggle('is-active', on);
-          b.setAttribute('aria-pressed', String(on));
-        });
-        reviews.forEach(function (r) { r.classList.toggle('is-hidden', f !== 'all' && r.getAttribute('data-cat') !== f); });
+  /* ---------------- Слайдер отзывов (центральная карточка, по кругу) ---------------- */
+  $$('[data-rv]').forEach(function (root) {
+    var track = $('[data-rv-track]', root);
+    var slides = $$('[data-rv-slide]', track);
+    var prev = $('[data-rv-prev]', root);
+    var next = $('[data-rv-next]', root);
+    var dotsWrap = $('[data-rv-dots]', root.closest('section') || document);
+    if (!track || !slides.length) return;
+
+    var n = slides.length;
+    var current = -1;
+    var dots = [];
+    var lock = false, lockTimer; // пока идёт программная прокрутка, активную карточку не пересчитываем
+    function unlockSoon() {
+      clearTimeout(lockTimer);
+      lockTimer = setTimeout(function () { lock = false; setActive(nearest()); }, 160);
+    }
+
+    // Позиция прокрутки, при которой слайд i стоит по центру трека
+    function offsetFor(i) {
+      var s = slides[i];
+      return s.offsetLeft + s.offsetWidth / 2 - track.clientWidth / 2;
+    }
+    function nearest() {
+      var c = track.scrollLeft + track.clientWidth / 2, best = 0, dist = Infinity;
+      slides.forEach(function (s, i) {
+        var d = Math.abs(s.offsetLeft + s.offsetWidth / 2 - c);
+        if (d < dist) { dist = d; best = i; }
       });
+      return best;
+    }
+    function setActive(i) {
+      if (i === current) return;
+      current = i;
+      slides.forEach(function (s, k) {
+        s.classList.toggle('is-active', k === i);
+        s.classList.toggle('is-before', k < i);
+        s.classList.toggle('is-after', k > i);
+        s.style.setProperty('--d', Math.abs(k - i));
+      });
+      dots.forEach(function (d, k) {
+        if (k === i) d.setAttribute('aria-current', 'true'); else d.removeAttribute('aria-current');
+      });
+    }
+    function goTo(i, instant) {
+      i = (i + n) % n; // по кругу: с последнего на первый и обратно
+      setActive(i);
+      lock = true;
+      unlockSoon();
+      track.scrollTo({ left: offsetFor(i), behavior: instant || reduceMotion ? 'auto' : 'smooth' });
+    }
+
+    if (dotsWrap) {
+      slides.forEach(function (s, i) {
+        var b = document.createElement('button');
+        b.type = 'button';
+        b.className = 'rv-dots__btn';
+        b.setAttribute('aria-label', 'Отзыв ' + (i + 1) + ' из ' + n);
+        b.addEventListener('click', function () { goTo(i); });
+        dotsWrap.appendChild(b);
+        dots.push(b);
+      });
+    }
+
+    if (prev) prev.addEventListener('click', function () { goTo(current - 1); });
+    if (next) next.addEventListener('click', function () { goTo(current + 1); });
+
+    track.addEventListener('keydown', function (e) {
+      if (e.target !== track) return;
+      if (e.key === 'ArrowRight') { e.preventDefault(); goTo(current + 1); }
+      if (e.key === 'ArrowLeft') { e.preventDefault(); goTo(current - 1); }
     });
-  }
+
+    var ticking = false;
+    track.addEventListener('scroll', function () {
+      if (lock) { unlockSoon(); return; }
+      if (ticking || drag) return;
+      ticking = true;
+      requestAnimationFrame(function () { ticking = false; setActive(nearest()); });
+    }, { passive: true });
+
+    // Клик по боковой карточке — выводим её в центр
+    slides.forEach(function (s, i) {
+      s.addEventListener('click', function () { if (i !== current) goTo(i); });
+    });
+
+    // Перетаскивание мышью (тач и трекпад листают нативно)
+    var drag = null;
+    track.addEventListener('pointerdown', function (e) {
+      if (e.pointerType !== 'mouse' || e.button !== 0) return;
+      e.preventDefault();
+      drag = { x: e.clientX, left: track.scrollLeft, moved: false };
+    });
+    track.addEventListener('dragstart', function (e) { e.preventDefault(); });
+    window.addEventListener('pointermove', function (e) {
+      if (!drag) return;
+      var dx = e.clientX - drag.x;
+      if (!drag.moved && Math.abs(dx) > 5) { drag.moved = true; track.classList.add('is-dragging'); }
+      if (drag.moved) track.scrollLeft = drag.left - dx;
+    });
+    window.addEventListener('pointerup', function () {
+      if (!drag) return;
+      var moved = drag.moved;
+      drag = null;
+      if (!moved) return;
+      track.classList.remove('is-dragging');
+      current = -1;
+      goTo(nearest());
+      var suppress = function (ev) { ev.preventDefault(); ev.stopPropagation(); };
+      track.addEventListener('click', suppress, true);
+      setTimeout(function () { track.removeEventListener('click', suppress, true); }, 0);
+    });
+
+    var resizeTimer;
+    window.addEventListener('resize', function () {
+      clearTimeout(resizeTimer);
+      resizeTimer = setTimeout(function () { var i = current; current = -1; goTo(i, true); }, 120);
+    });
+
+    // Старт с карточки ближе к середине: слева и справа сразу видны соседние отзывы
+    goTo(Math.floor((n - 1) / 2), true);
+  });
 
   /* ---------------- FAQ: одна открытая панель ---------------- */
   var acc = $('[data-accordion]');
