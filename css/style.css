@@ -269,6 +269,8 @@ section[id], [id^="guide-"] { scroll-margin-top: calc(var(--header-h) + 16px); }
   --D: var(--Dw);
   --stage-h: calc(var(--Dw) * .74); /* базовая высота сцены (видимая часть круга) */
   --stage-gap: 0px;                  /* свободное место над сценой, когда экран выше композиции */
+  --Dmin: clamp(300px, 30vw, 460px); /* меньше круг не становится — на низких экранах hero тогда выше окна */
+  --hair-gap: clamp(28px, 4svh, 56px); /* зазор между строкой с кнопками и макушкой мастера (она выше круга на .08D) */
   position: relative;
   overflow: hidden;
   display: flex; flex-direction: column;
@@ -443,13 +445,17 @@ section[id], [id^="guide-"] { scroll-margin-top: calc(var(--header-h) + 16px); }
 }
 
 /* Сцена заполняет экран по высоте: .hero__stage — size-контейнер, 100cqh = высота, оставшаяся под заголовком.
-   Круг растёт до этой высоты (но не шире 52vw и не больше 920px); если упёрлись в предел — остаток уходит отступом сверху. */
+   Видимая часть композиции по высоте: макушка мастера (.08D над кругом) + .74D круга + зазор --hair-gap над макушкой.
+   Круг подбирается под эту высоту (не шире 52vw и не больше 920px); если упёрлись в предел — остаток уходит отступом сверху. */
 @supports (container-type: size) {
   .hero__stage { container-type: size; }
   .hero {
-    --D: max(var(--Dw), min(100cqh / .74, 52vw, 920px));
+    --D: min((100cqh - var(--hair-gap)) / .82, 52vw, 920px);
+    --stage-h: calc(var(--Dmin) * .82 + var(--hair-gap));
     --stage-gap: max(0px, 100cqh - var(--D) * .74);
   }
+  /* при небольшом круге чип опускается к счётчику «01 / 04» — держим его выше */
+  .stage__chip { top: min(var(--stage-gap) + var(--D) * .47, 100cqh - 150px); }
 }
 
 /* Hero entrance — единственная оркестрованная анимация */
@@ -1686,7 +1692,9 @@ input[type="file"]:focus-visible + .file, .field:focus-within .file { border-col
   .hero { --Dw: min(56vw, 480px); --stage-h: calc(var(--Dw) * 1.06 + 70px); }
   @supports (container-type: size) {
     .hero {
-      --D: max(var(--Dw), min((100cqh - 70px) / 1.06, 60vw, 600px)); /* 60vw — боковые фото не выходят за экран */
+      /* 1.14 = .08 (макушка) + 1.06 (круг и подпись); 60vw — боковые фото не выходят за экран */
+      --D: min((100cqh - 70px - var(--hair-gap)) / 1.14, 60vw, 600px);
+      --stage-h: calc(var(--Dw) * 1.14 + 70px + var(--hair-gap));
       --stage-gap: max(0px, 100cqh - var(--D) * 1.06 - 70px);
     }
   }
