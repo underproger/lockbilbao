@@ -425,25 +425,31 @@
   /* ---------------- Проверка района + карта ---------------- */
   var checker = $('[data-area-checker]');
   var checkerResult = $('[data-checker-result]');
+  var checkerIdle = checkerResult ? checkerResult.innerHTML : '';
   var mapApi = null;
 
   function renderCheck(id) {
+    if (!checkerResult) return;
     var a = AREA_BY_ID[id];
     if (!a) {
-      checkerResult.innerHTML = '<p>Выберите район, чтобы узнать, выезжаем ли мы к вам и как уточнить время приезда.</p>';
+      checkerResult.innerHTML = checkerIdle;
+      if (mapApi) mapApi.reset();
       return;
     }
     var z = ZONES[a.zone];
-    checkerResult.innerHTML =
-      '<div class="ok"><svg aria-hidden="true"><use href="#i-check"/></svg><div>' +
-      '<b>' + a.ru + ' — ' + z.title.toLowerCase() + '</b>' +
-      '<p>' + z.text + '</p>' +
-      '</div></div>' +
-      '<a class="btn btn--lime btn--block checker__call" href="' + CONFIG.phoneHref + '">' +
-      '<svg aria-hidden="true"><use href="#i-phone"/></svg>Уточнить время приезда</a>';
+    checkerResult.innerHTML = '<b>' + a.ru + ': ' + z.title.toLowerCase() + '.</b> ' + z.text;
     if (mapApi) mapApi.focus(id);
   }
   if (checker) checker.addEventListener('change', function () { renderCheck(checker.value); });
+
+  // Наведение на чип района — подсвечиваем точку на карте
+  $$('[data-area]').forEach(function (el) {
+    var id = el.getAttribute('data-area');
+    var on = function () { if (mapApi) mapApi.highlight(id, true); };
+    var off = function () { if (mapApi) mapApi.highlight(id, false); };
+    el.addEventListener('mouseenter', on); el.addEventListener('focus', on);
+    el.addEventListener('mouseleave', off); el.addEventListener('blur', off);
+  });
 
   var mapEl = $('[data-map]');
   if (mapEl) {
@@ -461,58 +467,140 @@
     }
   }
 
+  // Города с подписью на карте и сторона подписи (r / l / t / b), чтобы подписи не налезали друг на друга
+  var MAP_TOWNS = {
+    getxo: 'r', santurtzi: 't', portugalete: 'l', sestao: 'l', barakaldo: 'l',
+    leioa: 'r', erandio: 'r', etxebarri: 'r', basauri: 'b', galdakao: 't'
+  };
+  var MAP_CENTER = [43.2630, -2.9350]; // Бильбао (Абандо, у Гуггенхайма)
+
   function initMap() {
     if (!window.L) return;
     var L = window.L;
     mapEl.innerHTML = '';
     var map = L.map(mapEl, {
-      center: [43.285, -2.965],
-      zoom: 11,
+      // только целый зум: при дробном тайлы масштабируются и между ними проступают волосяные швы
+      zoomSnap: 1,
       scrollWheelZoom: false,
-      zoomControl: true,
+      zoomControl: false,
       attributionControl: true
     });
+    L.control.zoom({ position: 'bottomleft', zoomInTitle: 'Приблизить', zoomOutTitle: 'Отдалить' }).addTo(map);
     // TODO: для коммерческого трафика можно подключить тайлы MapTiler / Stadia по ключу
     L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
       maxZoom: 18,
       attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>'
     }).addTo(map);
 
-    L.circle([43.2600, -2.9300], {
-      radius: 4200, color: '#176B45', weight: 1.5, fillColor: '#C8F54A', fillOpacity: .18
-    }).addTo(map);
-
-    var markers = {};
-    Object.keys(AREA_BY_ID).forEach(function (id) {
-      var a = AREA_BY_ID[id];
-      if (a.zone === 1) return; // районы города покрыты кругом Бильбао
-      var m = L.marker([a.lat, a.lng], {
-        icon: L.divIcon({ className: '', html: '<span class="map-pin"></span>', iconSize: [16, 16], iconAnchor: [8, 8] }),
-        title: a.ru
+    // Кольца 5 и 10 км от центра; подписи колец — на северо-восточной диагонали, там нет городов-меток
+    var ne = function (km) {
+      var d = km * Math.SQRT1_2 / 111.32;
+      return [MAP_CENTER[0] + d, MAP_CENTER[1] + d / Math.cos(MAP_CENTER[0] * Math.PI / 180)];
+    };
+    L.circle(MAP_CENTER, { radius: 10000, color: '#1F8052', weight: 1.4, opacity: .55, dashArray: '3 7', fill: false, interactive: false }).addTo(map);
+    L.circle(MAP_CENTER, { radius: 5000, color: '#1F8052', weight: 1.4, opacity: .7, fillColor: '#C8F54A', fillOpacity: .07, interactive: false }).addTo(map);
+    [5, 10].forEach(function (km) {
+      L.marker(ne(km), {
+        icon: L.divIcon({ className: 'map-ring', html: '<span>' + km + ' км</span>', iconSize: [48, 22], iconAnchor: [24, 11] }),
+        interactive: false, keyboard: false
       }).addTo(map);
-      m.bindTooltip(a.ru, { className: 'map-label', direction: 'top', offset: [0, -10] });
-      m.on('click', function () { if (checker) { checker.value = id; renderCheck(id); } });
-      markers[id] = m;
     });
 
-    var main = L.marker([43.2630, -2.9350], {
-      icon: L.divIcon({ className: '', html: '<span class="map-pin map-pin--main"></span>', iconSize: [26, 26], iconAnchor: [13, 13] }),
-      title: 'Бильбао'
+    // Центр: фото Гуггенхайма + подпись «Бильбао»
+    L.marker(MAP_CENTER, {
+      icon: L.divIcon({
+        className: 'map-hub',
+        html: '<span class="map-hub__img"><img src="img/guggenheim-480.webp" alt="" width="104" height="104"></span><span class="map-hub__label">Бильбао</span>',
+        iconSize: [112, 112], iconAnchor: [56, 56]
+      }),
+      interactive: false, keyboard: false, zIndexOffset: 500
     }).addTo(map);
-    main.bindTooltip('Бильбао', { className: 'map-label', direction: 'top', offset: [0, -14], permanent: true });
+
+    function townIcon(a, dir) {
+      return L.divIcon({
+        className: 'map-pt',
+        html: '<span class="map-pt__dot"></span><span class="map-pt__tag map-pt__tag--' + dir + '">' + a.ru + '</span>',
+        iconSize: [14, 14], iconAnchor: [7, 7]
+      });
+    }
+
+    var markers = {};
+    var bounds = L.latLngBounds([MAP_CENTER]);
+    Object.keys(MAP_TOWNS).forEach(function (id) {
+      var a = AREA_BY_ID[id];
+      if (!a) return;
+      var m = L.marker([a.lat, a.lng], { icon: townIcon(a, MAP_TOWNS[id]), title: a.ru, alt: a.ru, riseOnHover: true }).addTo(map);
+      m.on('click', function () { if (checker) { checker.value = id; renderCheck(id); } });
+      markers[id] = m;
+      bounds.extend([a.lat, a.lng]);
+    });
+
+    // Подписи слева шире, чем справа, — оставляем под них больше места.
+    // Если с такими полями масштаб мелкий (точки слишком близко) — компактный режим:
+    // подписи скрыты (видна только у выбранной/наведённой точки), поля меньше, карта крупнее.
+    // Поля под подписи крайних точек: слева — «Португалете», справа — половина подписи «Гальдакао»
+    var LABEL_PAD = { paddingTopLeft: [70, 40], paddingBottomRight: [46, 30] };
+    var COMPACT_PAD = { paddingTopLeft: [24, 52], paddingBottomRight: [24, 30] };
+    var LABEL_MIN_ZOOM = 12;
+    var compact = false;
+    var fitOpts = LABEL_PAD;
+    function fitView(fly) {
+      var z = map.getBoundsZoom(bounds, false, L.point(LABEL_PAD.paddingTopLeft).add(LABEL_PAD.paddingBottomRight));
+      compact = z < LABEL_MIN_ZOOM;
+      fitOpts = compact ? COMPACT_PAD : LABEL_PAD;
+      if (fly) map.flyToBounds(bounds, { paddingTopLeft: fitOpts.paddingTopLeft, paddingBottomRight: fitOpts.paddingBottomRight, duration: reduceMotion ? 0 : 0.8 });
+      else map.fitBounds(bounds, fitOpts);
+    }
+    fitView(false);
 
     var active = null;
+    var temp = null; // точка для района, у которого нет постоянной метки
+    function setActive(m) {
+      if (active && active.getElement()) active.getElement().classList.remove('is-active');
+      active = m;
+      if (active && active.getElement()) active.getElement().classList.add('is-active');
+    }
+
     mapApi = {
       focus: function (id) {
         var a = AREA_BY_ID[id];
         if (!a) return;
+        if (temp) { map.removeLayer(temp); temp = null; }
+        var m = markers[id];
+        if (!m) {
+          temp = m = L.marker([a.lat, a.lng], { icon: townIcon(a, 'r'), title: a.ru, alt: a.ru, keyboard: false, zIndexOffset: 800 }).addTo(map);
+        }
+        setActive(m);
         map.flyTo([a.lat, a.lng], a.zone === 1 ? 14 : 13, { duration: reduceMotion ? 0 : 0.8 });
-        if (active) { active.getElement() && active.getElement().firstChild.classList.remove('is-active'); active.closeTooltip(); }
-        active = markers[id] || null;
-        if (active) { active.getElement().firstChild.classList.add('is-active'); active.openTooltip(); }
+      },
+      reset: function () {
+        if (temp) { map.removeLayer(temp); temp = null; }
+        setActive(null);
+        fitView(true);
+      },
+      highlight: function (id, on) {
+        var m = markers[id];
+        if (m && m.getElement()) m.getElement().classList.toggle('is-hover', on);
       }
     };
-    if (checker && checker.value) mapApi.focus(checker.value);
+
+    // При сильном приближении фото-метка центра перекрывает районы — прячем её
+    var syncZoom = function () {
+      var z = map.getZoom();
+      mapEl.classList.toggle('is-zoomed', z >= 13);
+      // в компактном режиме подписи возвращаются, только если пользователь заметно приблизил карту
+      mapEl.classList.toggle('is-compact', z < (compact ? LABEL_MIN_ZOOM + 1 : LABEL_MIN_ZOOM));
+    };
+    map.on('zoomend', syncZoom);
+    syncZoom();
+
+    var resizeTimer;
+    window.addEventListener('resize', function () {
+      clearTimeout(resizeTimer);
+      resizeTimer = setTimeout(function () { if (!active) { fitView(false); syncZoom(); } }, 150);
+    });
+
+    if (checker && checker.value) renderCheck(checker.value);
   }
 
   function loadCss(href) {
