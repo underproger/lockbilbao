@@ -5,6 +5,9 @@
 
 ## Структура
 
+Все внутренние ссылки и пути к ресурсам — относительные (без `/` в начале): сайт работает и в корне домена, и в подпапке
+(например, `front.touchit.vinnica.ua/lockbilbao/`). Новые ссылки добавлять так же: с главной — `servicios/…`, со страницы услуги — `../../…`.
+
 ```
 index.html          главная: разметка + schema.org (Locksmith, WebSite, WebPage, FAQPage)
 servicios/apertura-de-puertas/index.html
