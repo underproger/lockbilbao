@@ -185,7 +185,7 @@
       "name": "Можно ли заранее узнать стоимость по фотографии?",
       "acceptedAnswer": {
         "@type": "Answer",
-        "text": "Да. Отправьте фото двери и замка через форму на этой странице или в WhatsApp и коротко опишите проблему. Мастер определит тип механизма и назовёт ориентировочную стоимость. Лучше сделать два снимка: цилиндр крупным планом и дверь целиком. Окончательная цена подтверждается на месте после осмотра — до начала работ."
+        "text": "Да. Отправьте фото двери и замка в WhatsApp и коротко опишите проблему. Мастер определит тип механизма и назовёт ориентировочную стоимость. Лучше сделать два снимка: цилиндр крупным планом и дверь целиком. Окончательная цена подтверждается на месте после осмотра — до начала работ."
       }
     },
     {
@@ -585,56 +585,31 @@
           <span class="calc-item__ic" aria-hidden="true"><svg><use href="#i-doc-euro"/></svg></span>
           <h3 class="calc-item__title">Итоговая цена</h3>
           <p class="calc-item__text">Мастер называет её после осмотра и&nbsp;до начала работ — без вашего согласия работы не&nbsp;начинаются.</p>
-          <button class="btn btn--lime calc-item__btn" type="button" data-modal-open="price-modal"><svg aria-hidden="true"><use href="#i-camera"/></svg>Узнать цену по фото</button>
         </li>
       </ul>
       <p class="calc-sec__note"><svg aria-hidden="true"><use href="#i-check"/></svg>Если после открытия нужны дополнительные работы или материалы, например новый цилиндр, их стоимость согласовываем отдельно — до начала работ.</p>
     </div>
   </section>
 
-  <!-- ============ 06. ОЦЕНКА ПО ФОТО ============ -->
-  <section class="section est-sec" id="photo-estimate" aria-labelledby="est-title">
+  <!-- ============ 06. ВЫЗОВ МАСТЕРА ============ -->
+  <section class="section est-sec" id="call" aria-labelledby="est-title">
     <div class="container">
       <div class="est">
         <span class="est__deco" aria-hidden="true"><i></i><i></i><b></b></span>
 
         <div class="est__intro">
-          <p class="kicker kicker--light"><i aria-hidden="true"></i>Оценка по фото</p>
-          <h2 class="h2 h2--light est__title" id="est-title">Получите предварительную оценку открытия замка по&nbsp;фото</h2>
-          <p class="est__lead">Отправьте фотографию двери или замка, укажите проблему и район. Специалист оценит сложность работы и сообщит ориентировочную стоимость.</p>
-
-          <figure class="est__photo">
-            <img src="../../img/master-detail.webp" alt="Цилиндр входной двери крупным планом — так стоит сфотографировать замок" width="616" height="650" loading="lazy">
-          </figure>
-          <ul class="est__tips" role="list">
-            <li><svg aria-hidden="true"><use href="#i-camera"/></svg>Снаружи — цилиндр замка крупным планом</li>
-            <li><svg aria-hidden="true"><use href="#i-camera"/></svg>Дверь целиком, чтобы был виден тип полотна</li>
-            <li><svg aria-hidden="true"><use href="#i-camera"/></svg>Если есть доступ изнутри — ручку и задвижку</li>
-          </ul>
+          <p class="kicker kicker--light"><i aria-hidden="true"></i>Вызов мастера</p>
+          <h2 class="h2 h2--light est__title" id="est-title">Не можете попасть в&nbsp;квартиру? Вызовите мастера</h2>
+          <p class="est__lead">Оставьте имя и номер телефона — диспетчер перезвонит в&nbsp;течение нескольких минут, уточнит адрес и ситуацию и&nbsp;назовёт ориентировочную стоимость. Работаем круглосуточно в&nbsp;Бильбао и&nbsp;Гран-Бильбао.</p>
         </div>
 
-        <!-- Форма №2: оценка по фото -->
+        <!-- Форма №2: вызов мастера -->
         <form class="est__form lead-form" action="#" method="post" novalidate data-lead-form>
-          <input type="hidden" name="form" value="Открытие квартиры — оценка по фото">
-          <fieldset class="choice">
-            <legend class="choice__legend">Что произошло?</legend>
-            <div class="choice__list">
-              <label class="choice__item"><input type="radio" name="problem" value="Захлопнулась дверь" checked><span>Захлопнулась дверь</span></label>
-              <label class="choice__item"><input type="radio" name="problem" value="Потеряли ключи"><span>Потеряли ключи</span></label>
-              <label class="choice__item"><input type="radio" name="problem" value="Заклинило замок"><span>Заклинило замок</span></label>
-              <label class="choice__item"><input type="radio" name="problem" value="Сломался ключ"><span>Сломался ключ</span></label>
-              <label class="choice__item"><input type="radio" name="problem" value="Другая проблема"><span>Другая проблема</span></label>
-            </div>
-          </fieldset>
-
+          <input type="hidden" name="form" value="Открытие квартиры — вызов мастера">
           <div class="field">
-            <label class="file est__file" for="e-photo">
-              <span class="file__icon"><svg aria-hidden="true"><use href="#i-camera"/></svg></span>
-              <span class="file__text"><b data-file-name>Фото двери или замка</b><small>Сделайте снимок камерой телефона или выберите из галереи, до 10 МБ</small></span>
-            </label>
-            <input class="visually-hidden" id="e-photo" name="photo" type="file" accept="image/*" data-file>
+            <label for="e-name">Имя <span class="field__opt">необязательно</span></label>
+            <input class="input" id="e-name" name="name" type="text" autocomplete="name">
           </div>
-
           <div class="field">
             <label for="e-phone">Телефон</label>
             <div class="phone-input">
@@ -653,16 +628,10 @@
             </div>
             <p class="field__error" id="e-phone-err" hidden></p>
           </div>
-
-          <label class="consent">
-            <input type="checkbox" name="consent" required>
-            <span>Соглашаюсь с <a href="../../politica-de-privacidad/">политикой конфиденциальности</a></span>
-          </label>
-          <button class="btn btn--lime btn--block btn--lg" type="submit">Узнать стоимость <svg aria-hidden="true"><use href="#i-arrow"/></svg></button>
+          <button class="btn btn--lime btn--block btn--lg" type="submit">Вызвать мастера <svg aria-hidden="true"><use href="#i-arrow"/></svg></button>
+          <p class="form-card__note">Нажимая кнопку, вы соглашаетесь с <a href="../../politica-de-privacidad/">политикой конфиденциальности</a>.</p>
           <p class="form-status" role="status" aria-live="polite" data-form-status></p>
-
           <div class="est__alt">
-            <a class="est__alt-link" href="https://wa.me/34944123456?text=%D0%97%D0%B4%D1%80%D0%B0%D0%B2%D1%81%D1%82%D0%B2%D1%83%D0%B9%D1%82%D0%B5!%20%D0%9D%D1%83%D0%B6%D0%BD%D0%BE%20%D0%BE%D1%82%D0%BA%D1%80%D1%8B%D1%82%D1%8C%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%D1%83%2C%20%D0%BE%D1%82%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D1%8F%D1%8E%20%D1%84%D0%BE%D1%82%D0%BE%20%D0%B7%D0%B0%D0%BC%D0%BA%D0%B0." target="_blank" rel="noopener"><svg aria-hidden="true"><use href="#i-wa"/></svg>Отправить фото в WhatsApp</a>
             <a class="est__alt-link" href="tel:+34944123456"><svg aria-hidden="true"><use href="#i-phone"/></svg>Срочно: +34 944 123 456</a>
           </div>
         </form>
@@ -1265,7 +1234,7 @@
         </details>
         <details class="qa">
           <summary><h3>Можно ли заранее узнать стоимость по фотографии?</h3><svg aria-hidden="true"><use href="#i-plus"/></svg></summary>
-          <div class="qa__body"><p>Да. Отправьте фото двери и замка через <a href="#photo-estimate">форму на этой странице</a> или в WhatsApp и коротко опишите проблему. Мастер определит тип механизма и назовёт ориентировочную стоимость. Лучше сделать два снимка: цилиндр крупным планом и дверь целиком. Окончательная цена подтверждается на месте после осмотра — до начала работ.</p></div>
+          <div class="qa__body"><p>Да. Отправьте фото двери и замка в <a href="https://wa.me/34944123456" target="_blank" rel="noopener">WhatsApp</a> и коротко опишите проблему. Мастер определит тип механизма и назовёт ориентировочную стоимость. Лучше сделать два снимка: цилиндр крупным планом и дверь целиком. Окончательная цена подтверждается на месте после осмотра — до начала работ.</p></div>
         </details>
         <details class="qa">
           <summary><h3>Выезжаете ли вы в пригород Бильбао?</h3><svg aria-hidden="true"><use href="#i-plus"/></svg></summary>
