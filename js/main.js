@@ -72,6 +72,9 @@
     });
   });
 
+  // Корень сайта — от адреса самого скрипта (js/main.js → ../): пути к Leaflet и картинкам работают и на подстраницах
+  var BASE = (document.currentScript && document.currentScript.src) ? new URL('..', document.currentScript.src).href : '';
+
   var reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
   var $ = function (sel, ctx) { return (ctx || document).querySelector(sel); };
   var $$ = function (sel, ctx) { return Array.prototype.slice.call((ctx || document).querySelectorAll(sel)); };
@@ -79,7 +82,7 @@
   /* ---------------- Header ---------------- */
   var header = $('[data-header]');
   var mobileBar = $('[data-mobile-bar]');
-  var hero = $('.hero');
+  var hero = $('[data-hero]') || $('.hero'); // первый экран: после него показываем нижнюю мобильную панель
 
   function onScroll() {
     var y = window.scrollY || window.pageYOffset;
@@ -116,7 +119,7 @@
 
   /* ---------------- Hero: параллакс и счётчик ---------------- */
   var stageItems = $$('[data-parallax]');
-  if (!reduceMotion && window.matchMedia('(hover: hover) and (pointer: fine)').matches && stageItems.length) {
+  if (hero && !reduceMotion && window.matchMedia('(hover: hover) and (pointer: fine)').matches && stageItems.length) {
     var raf = null, mx = 0, my = 0;
     hero.addEventListener('pointermove', function (e) {
       var r = hero.getBoundingClientRect();
@@ -454,8 +457,8 @@
   var mapEl = $('[data-map]');
   if (mapEl) {
     var loadMap = function () {
-      loadCss('vendor/leaflet/leaflet.css');
-      loadScript('vendor/leaflet/leaflet.js', initMap);
+      loadCss(BASE + 'vendor/leaflet/leaflet.css');
+      loadScript(BASE + 'vendor/leaflet/leaflet.js', initMap);
     };
     if ('IntersectionObserver' in window) {
       var io = new IntersectionObserver(function (entries) {
@@ -510,7 +513,7 @@
     L.marker(MAP_CENTER, {
       icon: L.divIcon({
         className: 'map-hub',
-        html: '<span class="map-hub__img"><img src="img/guggenheim-480.webp" alt="" width="104" height="104"></span><span class="map-hub__label">Бильбао</span>',
+        html: '<span class="map-hub__img"><img src="' + BASE + 'img/guggenheim-480.webp" alt="" width="104" height="104"></span><span class="map-hub__label">Бильбао</span>',
         iconSize: [112, 112], iconAnchor: [56, 56]
       }),
       interactive: false, keyboard: false, zIndexOffset: 500
@@ -694,6 +697,7 @@
       var label = form.querySelector('label[for="' + fileInput.id + '"]');
       var nameEl = label ? $('[data-file-name]', label) : null;
       var defaultName = nameEl ? nameEl.textContent : '';
+      if (nameEl) nameEl.setAttribute('data-default', defaultName);
       fileInput.addEventListener('change', function () {
         var f = fileInput.files && fileInput.files[0];
         if (f && f.size > 10 * 1024 * 1024) {
@@ -734,7 +738,7 @@
         form.classList.remove('is-loading');
         form.reset();
         $$('.file', form).forEach(function (l) { l.classList.remove('has-file'); });
-        $$('[data-file-name]', form).forEach(function (n) { n.textContent = 'Фото замка'; });
+        $$('[data-file-name]', form).forEach(function (n) { n.textContent = n.getAttribute('data-default') || 'Фото замка'; });
         setStatus('Заявка отправлена. Диспетчер перезвонит вам в ближайшие минуты.', 'success');
       };
       var fail = function () {
