@@ -460,7 +460,6 @@
   <!-- ============ 03. ЗОНА ВЫЕЗДА ============ -->
   <section class="section geo" id="areas" aria-labelledby="areas-title">
     <div class="geo__deco" aria-hidden="true"><i class="geo__ring geo__ring--a"></i><i class="geo__ring geo__ring--b"></i><i class="geo__spark"></i></div>
-    <svg class="geo__filters" width="0" height="0" aria-hidden="true" focusable="false"><filter id="map-tint" color-interpolation-filters="sRGB"><feColorMatrix type="matrix" values="0.7271 0.1586 -0.1202 0.0000 0.2188 0.4958 0.2607 -0.0382 0.0000 0.2940 0.4556 -0.0521 0.2670 0.0000 0.3278 0 0 0 1 0"/></filter></svg>
     <div class="container">
       <header class="sec-head geo__head">
         <div class="sec-head__main">
@@ -471,13 +470,13 @@
       </header>
 
       <div class="areas">
-        <div class="areas__map">
-          <div class="areas__canvas" data-map role="region" aria-label="Карта зоны выезда в Бильбао и Гран-Бильбао">
-            <p class="areas__map-placeholder">Карта зоны выезда загружается…</p>
-          </div>
-          <p class="map-chip"><svg aria-hidden="true"><use href="#i-pin"/></svg>Зона выезда</p>
-          <span class="map-north" aria-hidden="true"><svg viewBox="0 0 12 16"><path d="M6 0 12 16 6 12.2 0 16z"/></svg>N</span>
-        </div>
+        <figure class="areas__map">
+          <picture>
+            <source media="(max-width: 760px)" srcset="../img/map-gran-bilbao-m.webp">
+            <img class="areas__img" src="../img/map-gran-bilbao-900.webp" srcset="../img/map-gran-bilbao-900.webp 900w, ../img/map-gran-bilbao.webp 1800w" sizes="(max-width: 1240px) 100vw, 60vw" width="1800" height="1500" loading="lazy" alt="Карта зоны выезда Cerrajero24: Бильбао и 26 муниципалитетов Гран-Бильбао — Гечо, Сантурци, Португалете, Сестао, Баракальдо, Лейоа, Эрандио, Басаури, Гальдакао и другие">
+          </picture>
+          <figcaption class="areas__credit">© <a href="https://www.openstreetmap.org/copyright" target="_blank" rel="noopener">OpenStreetMap</a> · IGN</figcaption>
+        </figure>
 
         <!-- Районы без ссылок: районные страницы добавлять только когда появятся качественные посадочные -->
         <div class="areas__side">
