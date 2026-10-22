@@ -382,8 +382,6 @@
 span.pill { cursor: default; }
 
 /* ---------- 16. SEO-текст: 5 блоков ---------- */
-.tips--5 .tip:last-child { grid-column: 1 / -1; }
-.tips--5 .tip:last-child p { max-width: 96ch; }
 
 /* ---------- 18. Другие услуги ---------- */
 .more-grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 16px; }
@@ -494,7 +492,6 @@ span.pill { cursor: default; }
 
   .docs__card { padding: 20px; }
 
-  .tips--5 .tip:last-child { grid-column: auto; }
 
   /* Другие услуги — горизонтальный слайдер */
   .more-grid {

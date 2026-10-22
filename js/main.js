@@ -83,12 +83,16 @@
   var header = $('[data-header]');
   var mobileBar = $('[data-mobile-bar]');
   var hero = $('[data-hero]') || $('.hero'); // первый экран: после него показываем нижнюю мобильную панель
+  var fab = $('[data-fab]'); // плавающие кнопки WhatsApp / «наверх»
 
   function onScroll() {
     var y = window.scrollY || window.pageYOffset;
     if (header) header.classList.toggle('is-scrolled', y > 10);
-    if (mobileBar && hero) {
-      mobileBar.classList.toggle('is-visible', y > hero.offsetHeight * 0.55);
+    var barVisible = !!(mobileBar && hero && y > hero.offsetHeight * 0.55);
+    if (mobileBar) mobileBar.classList.toggle('is-visible', barVisible);
+    if (fab) {
+      fab.classList.toggle('is-top-visible', y > window.innerHeight * 0.8);
+      fab.classList.toggle('is-raised', barVisible); // на телефоне поднимаем над нижней панелью
     }
   }
   window.addEventListener('scroll', onScroll, { passive: true });
@@ -751,6 +755,45 @@
         .then(function (r) { if (!r.ok) throw new Error(r.status); done(); })
         .catch(fail);
     });
+  });
+
+  /* ---------------- Кнопка «наверх» ---------------- */
+  $$('[data-to-top]').forEach(function (btn) {
+    btn.addEventListener('click', function () {
+      window.scrollTo({ top: 0, behavior: reduceMotion ? 'auto' : 'smooth' });
+      var logo = $('.header .logo');
+      if (logo) logo.focus({ preventScroll: true });
+    });
+  });
+
+  /* ---------------- SEO-текст: «Показать больше» ---------------- */
+  $$('[data-more]').forEach(function (box) {
+    var body = $('[data-more-body]', box);
+    var btn = $('[data-more-btn]', box);
+    if (!body || !btn) return;
+    var label = $('[data-more-label]', btn);
+    box.classList.add('is-ready');
+    // текст короче свёрнутой высоты — сворачивать нечего
+    if (body.scrollHeight <= body.clientHeight + 40) { box.classList.remove('is-ready'); return; }
+    btn.hidden = false;
+
+    function setOpen(open) {
+      box.classList.toggle('is-open', open);
+      btn.setAttribute('aria-expanded', String(open));
+      if (label) label.textContent = open ? 'Свернуть' : 'Показать больше';
+      body.style.maxHeight = body.scrollHeight + 'px';
+      if (!open) {
+        void body.offsetHeight; // фиксируем текущую высоту, чтобы анимация пошла от неё
+        body.style.maxHeight = '';
+        if (box.getBoundingClientRect().top < 0) box.scrollIntoView({ behavior: reduceMotion ? 'auto' : 'smooth', block: 'start' });
+      }
+    }
+    body.addEventListener('transitionend', function (e) {
+      if (e.propertyName === 'max-height' && box.classList.contains('is-open')) body.style.maxHeight = 'none';
+    });
+    btn.addEventListener('click', function () { setOpen(!box.classList.contains('is-open')); });
+    // переход по Tab на ссылку внутри свёрнутого текста — раскрываем
+    body.addEventListener('focusin', function () { if (!box.classList.contains('is-open')) setOpen(true); });
   });
 
   /* ---------------- Год в футере ---------------- */
