@@ -2,4 +2,4 @@ User-agent: *
 Allow: /
 
 # TODO: заменить домен
-Sitemap: https://lockbilbao.es/sitemap.xml
+Sitemap: https://cerrajero24.es/sitemap.xml

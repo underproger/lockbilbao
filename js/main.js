@@ -1,4 +1,4 @@
-/* LockBilbao — main.js (vanilla, без зависимостей; Leaflet подгружается лениво) */
+/* Cerrajero24 — main.js (vanilla, без зависимостей; Leaflet подгружается лениво) */
 (function () {
   'use strict';
 
@@ -121,7 +121,7 @@
     window.matchMedia('(min-width: 1025px)').addEventListener('change', function (e) { if (e.matches) setMenu(false); });
   }
 
-  /* ---------------- Hero: параллакс и счётчик ---------------- */
+  /* ---------------- Hero: параллакс ---------------- */
   var stageItems = $$('[data-parallax]');
   if (hero && !reduceMotion && window.matchMedia('(hover: hover) and (pointer: fine)').matches && stageItems.length) {
     var raf = null, mx = 0, my = 0;
@@ -139,23 +139,6 @@
       var k = parseFloat(el.getAttribute('data-parallax')) || 0;
       el.style.translate = (mx * k).toFixed(1) + 'px ' + (my * k).toFixed(1) + 'px';
     });
-  }
-
-  var counterNum = $('[data-counter-num]');
-  var counterLabel = $('[data-counter-label]');
-  var counterItems = ['Аварийная служба', 'Открытие автомобилей', 'Вскрытие сейфов', 'Замена замков'];
-  if (counterNum && counterLabel && !reduceMotion) {
-    var ci = 0;
-    setInterval(function () {
-      if (document.hidden) return;
-      ci = (ci + 1) % counterItems.length;
-      counterLabel.classList.add('is-out');
-      setTimeout(function () {
-        counterNum.textContent = '0' + (ci + 1);
-        counterLabel.textContent = counterItems[ci];
-        counterLabel.classList.remove('is-out');
-      }, 350);
-    }, 4200);
   }
 
   /* ---------------- Слайдер услуг ---------------- */

@@ -2,25 +2,25 @@
 <!-- TODO: заменить домен и добавить страницы услуг, районов и блога по мере публикации -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://lockbilbao.es/</loc>
+    <loc>https://cerrajero24.es/</loc>
     <lastmod>2026-10-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://lockbilbao.es/servicios/</loc>
+    <loc>https://cerrajero24.es/servicios/</loc>
     <lastmod>2026-10-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://lockbilbao.es/servicios/apertura-de-puertas/</loc>
+    <loc>https://cerrajero24.es/servicios/apertura-de-puertas/</loc>
     <lastmod>2026-10-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://lockbilbao.es/contacto/</loc>
+    <loc>https://cerrajero24.es/contacto/</loc>
     <lastmod>2026-10-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>

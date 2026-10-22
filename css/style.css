@@ -1,5 +1,5 @@
 /* =========================================================
-   LockBilbao — главная
+   Cerrajero24 — главная
    ========================================================= */
 
 /* ---------- Fonts (self-hosted, variable) ---------- */
@@ -421,28 +421,6 @@ section[id], [id^="guide-"] { scroll-margin-top: calc(var(--header-h) + 16px); }
 }
 .stage__stroke { width: 200px; height: 18px; margin: 4px 0 0 40px; color: var(--lime-2); }
 
-.hero__counter {
-  position: absolute; left: var(--gutter); bottom: 64px; z-index: 5;
-  display: flex; align-items: center; gap: 18px;
-  font: 500 14px/1 var(--ff-body); color: var(--muted);
-}
-.hero__counter-num b { font-weight: 600; color: var(--ink-2); }
-.hero__counter-line { width: 36px; height: 1px; background: var(--muted); }
-.hero__counter-label {
-  letter-spacing: .06em; text-transform: uppercase; color: var(--ink-2);
-  min-width: 15ch;
-  transition: opacity .35s, transform .35s var(--ease);
-}
-.hero__counter-label.is-out { opacity: 0; transform: translateY(6px); }
-.hero__counter::after { content: ""; width: clamp(60px, 14vw, 200px); height: 1px; background: var(--line-2); }
-@supports (container-type: size) {
-  /* линия счётчика заканчивается до круга с мастером (50cqw − D/2 — левый край круга) */
-  .hero__counter::after { width: clamp(0px, 50cqw - var(--D) / 2 - var(--gutter) - 330px, 200px); }
-}
-.hero__line-right {
-  position: absolute; right: 0; bottom: 71px; z-index: 1;
-  width: 24%; height: 1px; background: var(--line-2);
-}
 
 /* Сцена заполняет экран по высоте: .hero__stage — size-контейнер, 100cqh = высота, оставшаяся под заголовком.
    Видимая часть композиции по высоте: макушка мастера (.08D над кругом) + .74D круга + зазор --hair-gap над макушкой.
@@ -454,7 +432,7 @@ section[id], [id^="guide-"] { scroll-margin-top: calc(var(--header-h) + 16px); }
     --stage-h: calc(var(--Dmin) * .82 + var(--hair-gap));
     --stage-gap: max(0px, 100cqh - var(--D) * .74);
   }
-  /* при небольшом круге чип опускается к счётчику «01 / 04» — держим его выше */
+  /* при небольшом круге чип не опускается к нижнему краю hero */
   .stage__chip { top: min(var(--stage-gap) + var(--D) * .47, 100cqh - 150px); }
 }
 
@@ -469,7 +447,7 @@ section[id], [id^="guide-"] { scroll-margin-top: calc(var(--header-h) + 16px); }
   .stage__bubble--gug { animation: pop .8s var(--ease) .55s both; }
   .stage__lock { animation: pop .8s var(--ease) .7s both; }
   .stage__bubble--old { animation: pop .8s var(--ease) .85s both; }
-  .stage__chip, .stage__script, .hero__counter { animation: fade .9s ease 1s both; }
+  .stage__chip, .stage__script { animation: fade .9s ease 1s both; }
   .stage__stroke path { stroke-dasharray: 240; stroke-dashoffset: 240; animation: draw .9s var(--ease) 1.4s forwards; }
 }
 @keyframes rise { from { opacity: 0; transform: translateY(18px); } to { opacity: 1; transform: none; } }
@@ -1713,11 +1691,6 @@ input[type="file"]:focus-visible + .file, .field:focus-within .file { border-col
   .divider-v { display: none; }
   .stage__script { display: none; }
   .stage__chip { top: auto; bottom: calc(var(--D) * .2 + 60px); }
-  .hero__counter { bottom: 46px; right: var(--gutter); }
-  .hero__counter::after { display: none; }
-  .hero__counter-line { flex: 1; }
-  .hero__counter-label { min-width: 0; text-align: right; }
-  .hero__line-right { display: none; }
 
   .sec-head { grid-template-columns: minmax(0, 1fr); align-items: start; }
   .sec-head__link, .tabs__list { justify-self: start; }
@@ -1794,11 +1767,6 @@ input[type="file"]:focus-visible + .file, .field:focus-within .file { border-col
   .stage__lock { width: calc(var(--D) * .26); left: calc(var(--D) * .82); top: calc(var(--D) * -.06); }
   .stage__chip { left: var(--gutter); bottom: calc(var(--D) * .26); padding: 11px 16px; font-size: 10.5px; letter-spacing: .22em; gap: 8px; }
   .stage__chip svg { width: 16px; height: 16px; }
-  .hero__counter { bottom: 46px; right: var(--gutter); gap: 12px; font-size: 12.5px; }
-  .hero__counter::after { display: none; }
-  .hero__counter-line { flex: 1; }
-  .hero__counter-label { min-width: 0; text-align: right; }
-  .hero__line-right { display: none; }
 
   .section--sheet { margin-top: -28px; border-radius: 28px 28px 0 0; }
 
