@@ -1,0 +1,5 @@
+# Своя страница 404 (Apache).
+# Путь — от корня домена. Сейчас сайт лежит в подпапке /lockbilbao/;
+# при переносе в корень домена: ErrorDocument 404 /404.html (и <base href="/"> в 404.html).
+# nginx: error_page 404 /404.html;
+ErrorDocument 404 /lockbilbao/404.html
