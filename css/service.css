@@ -353,32 +353,6 @@
 .edge-item__text { font-size: 14.5px; line-height: 1.55; color: var(--muted); }
 
 
-/* ---------- 13. Ночью и в праздники ---------- */
-.night {
-  position: relative; isolation: isolate; overflow: hidden;
-  display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); gap: 32px clamp(32px, 5vw, 80px); align-items: center;
-  padding: clamp(28px, 4vw, 56px); border-radius: 28px; color: #fff; background: #07141B;
-}
-.night__bg { position: absolute; inset: 0; z-index: -2; width: 100%; height: 100%; object-fit: cover; object-position: center 40%; }
-.night::before {
-  content: ""; position: absolute; inset: 0; z-index: -1;
-  background: linear-gradient(90deg, rgba(5, 14, 20, .92) 0%, rgba(5, 14, 20, .66) 42%, rgba(5, 14, 20, .25) 100%);
-}
-.night__title { max-width: 16ch; margin-bottom: 18px; font-size: clamp(28px, 1rem + 1.8vw, 44px); }
-.night__lead { max-width: 52ch; font-size: 16.5px; line-height: 1.6; color: rgba(255, 255, 255, .78); }
-.night__btn { margin-top: 26px; }
-.night__info { padding: clamp(20px, 2.4vw, 28px); border-radius: 20px; background: rgba(255, 255, 255, .06); border: 1px solid rgba(255, 255, 255, .12); -webkit-backdrop-filter: blur(8px); backdrop-filter: blur(8px); }
-.night__list { margin: 0; }
-.night__list > div { padding: 12px 0; }
-.night__list > div + div { border-top: 1px solid rgba(255, 255, 255, .12); }
-.night__list dt { margin-bottom: 3px; font: 700 15.5px/1.3 var(--ff-display); color: #fff; }
-.night__list dd { font-size: 14.5px; line-height: 1.5; color: rgba(255, 255, 255, .74); }
-.night__sos {
-  display: flex; align-items: center; gap: 14px; margin-top: 14px; padding: 14px 16px; border-radius: 14px;
-  background: rgba(255, 110, 90, .1); border: 1px solid rgba(255, 138, 120, .4);
-}
-.night__sos b { flex: none; font: 800 26px/1 var(--ff-display); letter-spacing: -.02em; color: #FF9A88; }
-.night__sos span { font-size: 14px; line-height: 1.45; color: rgba(255, 255, 255, .88); }
 
 /* ---------- 14. Документы ---------- */
 .docs { display: grid; grid-template-columns: minmax(0, 5fr) minmax(0, 7fr); gap: 40px clamp(40px, 6vw, 96px); align-items: start; }
@@ -431,7 +405,7 @@ span.pill { cursor: default; }
 
 @media (max-width: 1024px) {
   .sit-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
-  .sp__grid, .est, .nd__grid, .edge, .night, .docs { grid-template-columns: minmax(0, 1fr); }
+  .sp__grid, .est, .nd__grid, .edge, .docs { grid-template-columns: minmax(0, 1fr); }
   .types--3 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .nd__visual, .docs__aside { position: relative; top: auto; }
   .nd__visual { aspect-ratio: 16 / 12; max-width: 640px; }
@@ -505,11 +479,6 @@ span.pill { cursor: default; }
   .edge-item { padding: 18px 0; }
 
 
-  .night { padding: 26px 18px; border-radius: 22px; }
-  .night::before { background: linear-gradient(180deg, rgba(5, 14, 20, .78) 0%, rgba(5, 14, 20, .94) 55%); }
-  .night__btn { width: 100%; }
-  .night__info { padding: 16px; }
-  .night__sos { align-items: flex-start; }
 
   .docs__card { padding: 20px; }
 
