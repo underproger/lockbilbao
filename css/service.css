@@ -276,6 +276,10 @@
 .types--3 { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; }
 .types--3 .type-card { min-height: 0; padding: 24px 24px 26px; }
 
+/* пузырь в hero: 3D-иконка услуги вместо фото города */
+.stage__bubble--svc { background: radial-gradient(circle at 35% 30%, #F4FBEA 0%, #DDEFD6 100%); }
+.stage__bubble--svc img { object-fit: contain; }
+
 /* ---------- 08. Без повреждений ---------- */
 .nd { overflow: hidden; overflow: clip; }
 .nd__grid { display: grid; grid-template-columns: minmax(0, 5fr) minmax(0, 7fr); gap: 48px clamp(40px, 6vw, 96px); align-items: start; }
@@ -310,6 +314,20 @@
 .nd-item__ic svg { width: 24px; height: 24px; }
 .nd-item__title { align-self: center; margin-bottom: 8px; font: 700 19px/1.3 var(--ff-display); letter-spacing: -.012em; color: var(--ink); }
 .nd-item p { max-width: 68ch; font-size: 15.5px; line-height: 1.65; color: var(--muted); }
+
+/* фото-вырезка «руки и замок» обрезана сверху — растворяем верхний край */
+.nd__photo--fade { -webkit-mask-image: linear-gradient(180deg, transparent 0, #000 22%); mask-image: linear-gradient(180deg, transparent 0, #000 22%); }
+
+/* вместо фото — 3D-иконка услуги (автомобили, сейфы, гаражи, помещения и т.п.) */
+.nd__visual--icon { display: grid; place-items: center; }
+.nd__icon {
+  position: relative; width: min(74%, 360px); height: auto; margin-top: 8%;
+  border-radius: 50%; filter: drop-shadow(0 30px 40px rgba(14, 49, 34, .22));
+}
+@media (prefers-reduced-motion: no-preference) {
+  .nd__icon { transition: transform .6s var(--ease); }
+  .nd__visual--icon:hover .nd__icon { transform: translateY(-6px) rotate(-2deg); }
+}
 
 /* ---------- 09. Процесс — горизонтальная схема ---------- */
 .flow-steps--line .flow-step { position: relative; }
