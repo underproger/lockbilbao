@@ -44,9 +44,6 @@
 .sh__title .accent { display: block; color: var(--green); }
 .sh__lead { margin-top: 22px; max-width: 60ch; font-size: clamp(16.5px, 1rem + .22vw, 19px); line-height: 1.6; color: var(--muted); }
 
-.sh__perks { display: flex; flex-wrap: wrap; gap: 10px 24px; margin-top: 22px; }
-.sh__perks li { display: inline-flex; align-items: center; gap: 10px; font-size: 15px; font-weight: 600; color: var(--ink); }
-.sh__perks svg { width: 22px; height: 22px; padding: 4px; border-radius: 50%; background: var(--lime); color: var(--forest); flex: none; }
 
 .sh__actions { display: flex; flex-wrap: wrap; align-items: center; gap: 16px 30px; margin-top: 30px; }
 .sh__call .btn__lead-icon { width: 24px; height: 24px; }
@@ -159,21 +156,90 @@
 .sp-notes dd { font-size: 14.5px; line-height: 1.55; color: var(--muted); }
 .sp__cta { width: 100%; }
 
-/* ---------- 05. От чего зависит цена ---------- */
-.section.factors-sec { padding-top: 0; }
-.factors-sec__title { max-width: 26ch; margin-bottom: 26px; font-size: clamp(24px, 1rem + 1.3vw, 36px); }
-.factors { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); border-block: 1px solid var(--line-2); }
-.factor { padding: 24px 24px 26px 0; }
-.factor + .factor { padding-left: 24px; border-left: 1px solid var(--line); }
-.factor__ic {
-  display: grid; place-items: center; width: 44px; height: 44px; margin-bottom: 16px; border-radius: 50%;
+/* ---------- 02a. Преимущества и заявка под баннером ---------- */
+.quick { position: relative; z-index: 2; margin-top: calc(clamp(36px, 4vw, 64px) * -1); background: linear-gradient(180deg, transparent 50%, #FCFCFA 50%); }
+.quick__card {
+  position: relative; isolation: isolate; overflow: hidden;
+  display: grid; grid-template-columns: minmax(0, 4fr) minmax(0, 7fr); gap: 28px clamp(32px, 4vw, 64px); align-items: center;
+  padding: clamp(22px, 2.6vw, 36px) clamp(22px, 3vw, 44px); border-radius: 24px; color: #fff;
+  background: radial-gradient(110% 160% at 100% 0%, #1B5A3B 0%, #0F3524 48%, #0A2318 100%);
+  box-shadow: 0 40px 80px -48px rgba(7, 21, 32, .75);
+}
+.quick__deco { position: absolute; inset: 0; z-index: -1; pointer-events: none; }
+.quick__deco i { position: absolute; border-radius: 50%; border: 1px solid rgba(200, 245, 74, .14); }
+.quick__deco i:nth-child(1) { width: 520px; height: 520px; right: -200px; top: -330px; }
+.quick__deco i:nth-child(2) { width: 820px; height: 820px; right: -380px; top: -500px; border-color: rgba(200, 245, 74, .07); }
+.quick__deco b { position: absolute; right: 26px; top: 24px; width: 9px; height: 9px; border-radius: 50%; background: var(--lime); box-shadow: 0 0 0 6px rgba(200, 245, 74, .16); }
+.quick__perks { display: grid; gap: 16px; }
+.quick__perks li { display: flex; align-items: center; gap: 14px; }
+.quick__ic {
+  display: grid; place-items: center; width: 46px; height: 46px; flex: none; border-radius: 50%;
+  background: rgba(255, 255, 255, .06); border: 1px solid rgba(200, 245, 74, .35); color: var(--lime);
+}
+.quick__ic svg { width: 22px; height: 22px; }
+.quick__txt { display: grid; gap: 2px; font-size: 14px; line-height: 1.4; color: rgba(255, 255, 255, .7); }
+.quick__txt b { font: 700 16.5px/1.25 var(--ff-display); letter-spacing: -.01em; color: #fff; }
+.quick .sh-form {
+  margin: 0; padding: 0 0 0 clamp(28px, 3.4vw, 56px); border: 0; border-left: 1px solid rgba(255, 255, 255, .12); border-radius: 0;
+  background: none; box-shadow: none; -webkit-backdrop-filter: none; backdrop-filter: none;
+}
+.quick .sh-form__title { font: 700 clamp(19px, 1rem + .4vw, 23px)/1.25 var(--ff-display); letter-spacing: -.015em; color: #fff; }
+.quick .sh-form__note { color: rgba(255, 255, 255, .6); }
+.quick .sh-form__note a { color: rgba(255, 255, 255, .85); }
+.quick .field__error { color: #FFB4A8; }
+
+/* ---------- 05. Как рассчитывается стоимость — «формула» ---------- */
+.calc-sec {
+  overflow: hidden; overflow: clip;
+  background:
+    radial-gradient(40% 60% at 0% 100%, rgba(200, 245, 74, .08) 0%, rgba(200, 245, 74, 0) 70%),
+    linear-gradient(180deg, #FFFFFF 0%, #F9FAF7 100%);
+}
+.calc-sec__deco { position: absolute; inset: 0; pointer-events: none; }
+.calc-sec__deco i { position: absolute; border-radius: 50%; border: 1px solid rgba(23, 107, 69, .08); }
+.calc-sec__deco i:nth-child(1) { width: 760px; height: 760px; left: 66%; top: -520px; }
+.calc-sec__deco i:nth-child(2) { width: 480px; height: 480px; left: -10%; bottom: -330px; border-color: rgba(7, 21, 32, .05); }
+.calc-sec__deco b { position: absolute; left: calc(66% + 70px); top: 150px; width: 10px; height: 10px; border-radius: 50%; background: var(--lime-2); box-shadow: 0 0 0 6px rgba(200, 245, 74, .2); }
+.calc-sec .container { position: relative; }
+
+.calc { --op: 34px; --gap: 40px; display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)) minmax(0, 1.3fr); gap: 16px var(--gap); }
+.calc-item {
+  position: relative; display: flex; flex-direction: column; align-items: flex-start;
+  padding: 22px 22px 24px; border-radius: 20px; background: var(--white); border: 1px solid #E8ECE5;
+  box-shadow: 0 1px 0 rgba(7, 21, 32, .03), 0 22px 44px -34px rgba(7, 21, 32, .4);
+}
+/* знаки «+» и «=» между карточками */
+.calc-item + .calc-item::before {
+  content: "+"; position: absolute; left: calc(var(--gap) / -2); top: 50%; z-index: 1;
+  display: grid; place-items: center; width: var(--op); height: var(--op); border-radius: 50%;
+  background: var(--lime); color: var(--forest); font: 800 20px/1 var(--ff-display);
+  box-shadow: 0 0 0 6px #FBFCFA, 0 10px 20px -10px rgba(140, 200, 20, .9);
+  transform: translate(-50%, -50%);
+}
+.calc-item--total::before { content: "="; }
+.calc-item__num { position: absolute; top: 20px; right: 22px; font: 800 13px/1 var(--ff-display); letter-spacing: .08em; color: #A9B3AC; }
+.calc-item__ic {
+  display: grid; place-items: center; width: 56px; height: 56px; margin-bottom: 18px; border-radius: 50%;
   background: radial-gradient(circle at 35% 30%, #F4FBEA 0%, #DDEFD6 100%); color: var(--ink);
 }
-.factor__ic svg { width: 22px; height: 22px; }
-.factor__title { margin-bottom: 6px; font: 700 17px/1.3 var(--ff-display); letter-spacing: -.01em; color: var(--ink); }
-.factor__text { font-size: 14.5px; line-height: 1.55; color: var(--muted); }
-.factors-sec__note { display: flex; align-items: flex-start; gap: 12px; margin-top: 20px; font-size: 14.5px; line-height: 1.5; color: var(--muted); max-width: 80ch; }
-.factors-sec__note svg { width: 22px; height: 22px; padding: 4px; flex: none; border-radius: 50%; background: #3FAE5A; color: #fff; }
+.calc-item__ic svg { width: 28px; height: 28px; }
+.calc-item__title { margin-bottom: 8px; font: 700 18px/1.25 var(--ff-display); letter-spacing: -.012em; color: var(--ink); }
+.calc-item__text { font-size: 14.5px; line-height: 1.55; color: var(--muted); }
+.calc-item--total {
+  isolation: isolate; overflow: visible; border: 0; color: #fff;
+  background: radial-gradient(110% 140% at 100% 0%, #1B5A3B 0%, #0F3524 48%, #0A2318 100%);
+  box-shadow: 0 30px 60px -36px rgba(7, 21, 32, .7);
+}
+.calc-item__deco { position: absolute; inset: 0; z-index: -1; overflow: hidden; border-radius: inherit; pointer-events: none; }
+.calc-item__deco i { position: absolute; width: 300px; height: 300px; right: -150px; top: -170px; border-radius: 50%; border: 1px solid rgba(200, 245, 74, .2); }
+.calc-item__deco b { position: absolute; right: 30px; top: 30px; width: 9px; height: 9px; border-radius: 50%; background: var(--lime); box-shadow: 0 0 0 6px rgba(200, 245, 74, .16); }
+.calc-item--total .calc-item__ic { background: rgba(255, 255, 255, .06); border: 1px solid rgba(200, 245, 74, .4); color: var(--lime); }
+.calc-item--total .calc-item__title { color: #fff; }
+.calc-item--total .calc-item__text { color: rgba(255, 255, 255, .78); }
+.calc-item__btn { margin-top: auto; padding-top: 0; }
+.calc-item--total .calc-item__text { margin-bottom: 18px; }
+.calc-sec__note { display: flex; align-items: flex-start; gap: 12px; margin-top: 24px; font-size: 14.5px; line-height: 1.5; color: var(--muted); max-width: 90ch; }
+.calc-sec__note svg { width: 22px; height: 22px; padding: 4px; flex: none; border-radius: 50%; background: #3FAE5A; color: #fff; }
 
 /* ---------- 06. Оценка по фото ---------- */
 .est-sec { background: linear-gradient(180deg, var(--paper) 0%, #FAFBF8 100%); }
@@ -384,10 +450,8 @@ span.pill { cursor: default; }
 /* ---------- 16. SEO-текст: 5 блоков ---------- */
 
 /* ---------- 18. Другие услуги ---------- */
-.more-grid { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 16px; }
-.more-grid .svc-card { min-height: 0; }
-.more-grid .svc-card__foot { justify-content: flex-end; }
-.more-grid .svc-card:hover::before { opacity: 1; }
+.more-sec { overflow: hidden; overflow: clip; }
+.more-sec .svc-nav { padding-bottom: 0; border-bottom: 0; }
 
 /* =========================================================
    RESPONSIVE
@@ -395,6 +459,13 @@ span.pill { cursor: default; }
 @media (max-width: 1240px) {
   .sh-form__row { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); }
   .sh-form__btn { grid-column: 1 / -1; }
+  .calc { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 16px; }
+  .calc-item + .calc-item::before { display: none; }
+  .calc-item--total { grid-column: 1 / -1; }
+  .calc-item--total .calc-item__btn { margin-top: 0; }
+  .quick__card { grid-template-columns: minmax(0, 1fr); }
+  .quick__perks { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+  .quick .sh-form { padding: 24px 0 0; border-left: 0; border-top: 1px solid rgba(255, 255, 255, .12); }
 }
 
 @media (max-width: 1100px) {
@@ -407,16 +478,12 @@ span.pill { cursor: default; }
 @media (max-width: 1024px) {
   .sit-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .sp__grid, .est, .nd__grid, .edge, .night, .docs { grid-template-columns: minmax(0, 1fr); }
-  .factors { grid-template-columns: repeat(2, minmax(0, 1fr)); }
-  .factor:nth-child(3) { padding-left: 0; border-left: 0; }
-  .factor:nth-child(n+3) { border-top: 1px solid var(--line); }
   .types--3 { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .nd__visual, .docs__aside { position: relative; top: auto; }
   .nd__visual { aspect-ratio: 16 / 12; max-width: 640px; }
   .nd__photo { width: 70%; left: auto; right: 0; }
   .edge__media { max-width: 560px; }
   .cases { grid-template-columns: repeat(2, minmax(0, 1fr)); }
-  .more-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .flow-steps--line .flow-step::before, .flow-steps--line .flow-step::after { display: none; }
   .sit__spark { display: none; }
 }
@@ -426,7 +493,6 @@ span.pill { cursor: default; }
   .crumbs ol { font-size: 12.5px; }
   .sh__title { text-wrap: balance; }
   .sh__lead { margin-top: 16px; }
-  .sh__perks { flex-direction: column; gap: 10px; }
   .sh__actions { flex-direction: column; align-items: stretch; gap: 12px; margin-top: 24px; }
   .sh__call { justify-content: space-between; --btn-pad-y: 18px; --btn-pad-x: 22px; }
   .sh__actions .hero__prices {
@@ -437,6 +503,18 @@ span.pill { cursor: default; }
   .sh__rating .rating__text { font-size: 12.5px; }
   .sh-form { padding: 14px; }
   .sh-form__row { grid-template-columns: minmax(0, 1fr); }
+  .quick { margin-top: -28px; }
+  .quick__card { padding: 22px 18px; border-radius: 20px; }
+  .quick__perks { grid-template-columns: minmax(0, 1fr); gap: 12px; }
+  .quick__ic { width: 40px; height: 40px; }
+  .quick__ic svg { width: 20px; height: 20px; }
+  .quick .sh-form { padding-top: 20px; }
+  .calc { grid-template-columns: minmax(0, 1fr); gap: 34px; }
+  .calc-item { padding: 18px 18px 20px; }
+  .calc-item--total { grid-column: auto; }
+  .calc-item + .calc-item::before { display: grid; left: 50%; top: -17px; box-shadow: 0 0 0 5px #FBFCFA; }
+  .calc-item__ic { width: 48px; height: 48px; margin-bottom: 14px; }
+  .calc-item__ic svg { width: 24px; height: 24px; }
   .sh__visual { --D: min(66vw, 300px); }
   .sh__visual .stage__bubble--gug { width: calc(var(--D) * .34); left: calc(var(--D) * -.14); top: calc(var(--D) * -.02); border-width: 4px; }
   .sh__visual .stage__lock { width: calc(var(--D) * .24); left: calc(var(--D) * .8); }
@@ -453,11 +531,6 @@ span.pill { cursor: default; }
   .sit-card__text { font-size: 14px; }
 
   .sp-notes { padding: 4px 18px; }
-  .factors { grid-template-columns: minmax(0, 1fr); }
-  .factor, .factor + .factor { padding: 18px 0; border-left: 0; }
-  .factor + .factor { border-top: 1px solid var(--line); }
-  .factor { display: grid; grid-template-columns: 44px minmax(0, 1fr); column-gap: 14px; }
-  .factor__ic { grid-row: 1 / span 2; margin: 0; }
 
   .est { padding: 22px 18px; border-radius: 22px; }
   .est__intro { grid-template-columns: minmax(0, 1fr); }
@@ -493,13 +566,6 @@ span.pill { cursor: default; }
   .docs__card { padding: 20px; }
 
 
-  /* Другие услуги — горизонтальный слайдер */
-  .more-grid {
-    display: flex; gap: 12px; overflow-x: auto; scroll-snap-type: x mandatory; scrollbar-width: none;
-    margin-inline: calc(var(--gutter) * -1); padding: 4px var(--gutter) 24px;
-  }
-  .more-grid::-webkit-scrollbar { display: none; }
-  .more-grid .svc-card { flex: 0 0 min(76vw, 300px); scroll-snap-align: start; }
 }
 
 /* =========================================================

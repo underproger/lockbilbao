@@ -334,11 +334,6 @@
           <h1 class="sh__title" id="sh-title">Аварийное открытие квартир <span class="accent">в&nbsp;Бильбао</span></h1>
           <p class="sh__lead">Захлопнулась дверь, потеряли ключи или заклинило замок? Поможем попасть в&nbsp;квартиру. Работаем круглосуточно в&nbsp;Бильбао и&nbsp;ближайших районах. По&nbsp;возможности открываем двери без повреждения замков и&nbsp;дверного полотна.</p>
 
-          <ul class="sh__perks" role="list">
-            <li><svg aria-hidden="true"><use href="#i-check"/></svg>Работаем 24/7</li>
-            <li><svg aria-hidden="true"><use href="#i-check"/></svg>Бережное открытие дверей</li>
-            <li><svg aria-hidden="true"><use href="#i-check"/></svg>Стоимость — до начала работ</li>
-          </ul>
 
           <div class="sh__actions">
             <a class="btn btn--lime btn--xl sh__call" href="tel:+34944123456">
@@ -355,39 +350,6 @@
             <span class="stars" aria-hidden="true"><svg><use href="#i-star"/></svg><svg><use href="#i-star"/></svg><svg><use href="#i-star"/></svg><svg><use href="#i-star"/></svg><svg><use href="#i-star"/></svg></span>
             <span class="rating__text">Средняя оценка 5.0 из 70 отзывов</span>
           </a>
-
-          <!-- Форма №1: вызвать мастера -->
-          <form class="sh-form lead-form" action="#" method="post" novalidate data-lead-form>
-            <input type="hidden" name="form" value="Открытие квартиры — первый экран">
-            <p class="sh-form__title">Или оставьте номер — перезвоним за пару минут</p>
-            <div class="sh-form__row">
-              <div class="field sh-form__phone">
-                <label class="visually-hidden" for="h-phone">Телефон</label>
-                <div class="phone-input">
-                  <select class="phone-input__code" name="dial" aria-label="Код страны" data-dial>
-                    <option value="+34" selected>ES +34</option>
-                    <option value="+33">FR +33</option>
-                    <option value="+351">PT +351</option>
-                    <option value="+44">GB +44</option>
-                    <option value="+49">DE +49</option>
-                    <option value="+39">IT +39</option>
-                    <option value="+48">PL +48</option>
-                    <option value="+40">RO +40</option>
-                    <option value="+380">UA +380</option>
-                  </select>
-                  <input class="input" id="h-phone" name="phone" type="tel" inputmode="tel" autocomplete="tel" placeholder="Телефон" required aria-describedby="h-phone-err">
-                </div>
-              </div>
-              <div class="field sh-form__addr">
-                <label class="visually-hidden" for="h-addr">Район или адрес (необязательно)</label>
-                <input class="input" id="h-addr" name="address" type="text" autocomplete="address-line1" placeholder="Район или адрес">
-              </div>
-              <button class="btn btn--dark sh-form__btn" type="submit">Вызвать мастера <svg aria-hidden="true"><use href="#i-arrow"/></svg></button>
-            </div>
-            <p class="field__error" id="h-phone-err" hidden></p>
-            <p class="sh-form__note">Нажимая кнопку, вы соглашаетесь с <a href="../../politica-de-privacidad/">политикой конфиденциальности</a>.</p>
-            <p class="form-status" role="status" aria-live="polite" data-form-status></p>
-          </form>
         </div>
 
         <div class="sh__visual">
@@ -406,6 +368,53 @@
           </div>
           <p class="sh__chip"><svg aria-hidden="true"><use href="#i-pin"/></svg>Бильбао • Бискайя</p>
         </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ 02a. ПРЕИМУЩЕСТВА И ЗАЯВКА (под баннером) ============ -->
+  <section class="quick" aria-label="Быстрая заявка на выезд мастера">
+    <div class="container">
+      <div class="quick__card">
+        <span class="quick__deco" aria-hidden="true"><i></i><i></i><b></b></span>
+        <ul class="quick__perks" role="list">
+          <li><span class="quick__ic" aria-hidden="true"><svg><use href="#i-clock24"/></svg></span><span class="quick__txt"><b>Работаем 24/7</b>Ночью, в&nbsp;выходные и&nbsp;праздники</span></li>
+          <li><span class="quick__ic" aria-hidden="true"><svg><use href="#i-shield-lock"/></svg></span><span class="quick__txt"><b>Бережное открытие дверей</b>Сначала пробуем сохранить замок</span></li>
+          <li><span class="quick__ic" aria-hidden="true"><svg><use href="#i-doc-euro"/></svg></span><span class="quick__txt"><b>Стоимость — до&nbsp;начала работ</b>Называем заранее, без сюрпризов</span></li>
+        </ul>
+
+        <!-- Форма №1: вызвать мастера -->
+        <form class="sh-form quick__form lead-form" action="#" method="post" novalidate data-lead-form>
+          <input type="hidden" name="form" value="Открытие квартиры — первый экран">
+          <p class="sh-form__title">Оставьте номер — перезвоним за пару минут</p>
+          <div class="sh-form__row">
+            <div class="field sh-form__phone">
+              <label class="visually-hidden" for="h-phone">Телефон</label>
+              <div class="phone-input">
+                <select class="phone-input__code" name="dial" aria-label="Код страны" data-dial>
+                  <option value="+34" selected>ES +34</option>
+                  <option value="+33">FR +33</option>
+                  <option value="+351">PT +351</option>
+                  <option value="+44">GB +44</option>
+                  <option value="+49">DE +49</option>
+                  <option value="+39">IT +39</option>
+                  <option value="+48">PL +48</option>
+                  <option value="+40">RO +40</option>
+                  <option value="+380">UA +380</option>
+                </select>
+                <input class="input" id="h-phone" name="phone" type="tel" inputmode="tel" autocomplete="tel" placeholder="Телефон" required aria-describedby="h-phone-err">
+              </div>
+            </div>
+            <div class="field sh-form__addr">
+              <label class="visually-hidden" for="h-addr">Район или адрес (необязательно)</label>
+              <input class="input" id="h-addr" name="address" type="text" autocomplete="address-line1" placeholder="Район или адрес">
+            </div>
+            <button class="btn btn--lime sh-form__btn" type="submit">Вызвать мастера <svg aria-hidden="true"><use href="#i-arrow"/></svg></button>
+          </div>
+          <p class="field__error" id="h-phone-err" hidden></p>
+          <p class="sh-form__note">Нажимая кнопку, вы соглашаетесь с <a href="../../politica-de-privacidad/">политикой конфиденциальности</a>.</p>
+          <p class="form-status" role="status" aria-live="polite" data-form-status></p>
+        </form>
       </div>
     </div>
   </section>
@@ -535,32 +544,51 @@
   </section>
 
   <!-- ============ 05. ОТ ЧЕГО ЗАВИСИТ ЦЕНА ============ -->
-  <section class="section section--paper factors-sec" aria-labelledby="factors-title">
+  <section class="section calc-sec" aria-labelledby="factors-title">
+    <div class="calc-sec__deco" aria-hidden="true"><i></i><i></i><b></b></div>
     <div class="container">
-      <h2 class="h2 factors-sec__title" id="factors-title">Как рассчитывается стоимость открытия дверного замка?</h2>
-      <ul class="factors" role="list">
-        <li class="factor">
-          <span class="factor__ic" aria-hidden="true"><svg><use href="#t-door-steel"/></svg></span>
-          <h3 class="factor__title">Тип входной двери</h3>
-          <p class="factor__text">Деревянная, металлическая, бронированная или усиленная дверь.</p>
+      <header class="sec-head">
+        <div class="sec-head__main">
+          <p class="kicker kicker--lime"><i aria-hidden="true"></i>Из чего складывается цена</p>
+          <h2 class="h2" id="factors-title">Как рассчитывается стоимость открытия дверного замка?</h2>
+        </div>
+        <p class="sec-head__lead">Цену определяют четыре параметра. Назовите их диспетчеру или пришлите фото замка — ориентировочную стоимость вы узнаете ещё до выезда мастера.</p>
+      </header>
+
+      <ul class="calc" role="list">
+        <li class="calc-item">
+          <span class="calc-item__num" aria-hidden="true">01</span>
+          <span class="calc-item__ic" aria-hidden="true"><svg><use href="#t-door-steel"/></svg></span>
+          <h3 class="calc-item__title">Тип входной двери</h3>
+          <p class="calc-item__text">Деревянная, металлическая, бронированная или усиленная дверь.</p>
         </li>
-        <li class="factor">
-          <span class="factor__ic" aria-hidden="true"><svg><use href="#t-cylinder"/></svg></span>
-          <h3 class="factor__title">Тип и состояние замка</h3>
-          <p class="factor__text">Цилиндровый, сувальдный, многозапорный или электронный механизм.</p>
+        <li class="calc-item">
+          <span class="calc-item__num" aria-hidden="true">02</span>
+          <span class="calc-item__ic" aria-hidden="true"><svg><use href="#t-cylinder"/></svg></span>
+          <h3 class="calc-item__title">Тип и состояние замка</h3>
+          <p class="calc-item__text">Цилиндровый, сувальдный, многозапорный или электронный механизм.</p>
         </li>
-        <li class="factor">
-          <span class="factor__ic" aria-hidden="true"><svg><use href="#i-wrench"/></svg></span>
-          <h3 class="factor__title">Характер неисправности</h3>
-          <p class="factor__text">Захлопнувшаяся дверь, потерянный ключ, заклинивание или поломка замка.</p>
+        <li class="calc-item">
+          <span class="calc-item__num" aria-hidden="true">03</span>
+          <span class="calc-item__ic" aria-hidden="true"><svg><use href="#i-wrench"/></svg></span>
+          <h3 class="calc-item__title">Характер неисправности</h3>
+          <p class="calc-item__text">Захлопнувшаяся дверь, потерянный ключ, заклинивание или поломка замка.</p>
         </li>
-        <li class="factor">
-          <span class="factor__ic" aria-hidden="true"><svg><use href="#i-clock"/></svg></span>
-          <h3 class="factor__title">Время и адрес вызова</h3>
-          <p class="factor__text">Дневной или ночной выезд, район Бильбао или муниципалитет в пригороде.</p>
+        <li class="calc-item">
+          <span class="calc-item__num" aria-hidden="true">04</span>
+          <span class="calc-item__ic" aria-hidden="true"><svg><use href="#i-clock"/></svg></span>
+          <h3 class="calc-item__title">Время и адрес вызова</h3>
+          <p class="calc-item__text">Дневной или ночной выезд, район Бильбао или муниципалитет в пригороде.</p>
+        </li>
+        <li class="calc-item calc-item--total">
+          <span class="calc-item__deco" aria-hidden="true"><i></i><b></b></span>
+          <span class="calc-item__ic" aria-hidden="true"><svg><use href="#i-doc-euro"/></svg></span>
+          <h3 class="calc-item__title">Итоговая цена</h3>
+          <p class="calc-item__text">Мастер называет её после осмотра и&nbsp;до начала работ — без вашего согласия работы не&nbsp;начинаются.</p>
+          <button class="btn btn--lime calc-item__btn" type="button" data-modal-open="price-modal"><svg aria-hidden="true"><use href="#i-camera"/></svg>Узнать цену по фото</button>
         </li>
       </ul>
-      <p class="factors-sec__note"><svg aria-hidden="true"><use href="#i-check"/></svg>Если после открытия нужны дополнительные работы или материалы, например новый цилиндр, их стоимость согласовываем отдельно — до начала работ.</p>
+      <p class="calc-sec__note"><svg aria-hidden="true"><use href="#i-check"/></svg>Если после открытия нужны дополнительные работы или материалы, например новый цилиндр, их стоимость согласовываем отдельно — до начала работ.</p>
     </div>
   </section>
 
@@ -851,7 +879,6 @@
           <p class="kicker kicker--lime"><i aria-hidden="true"></i>Наши работы</p>
           <h2 class="h2" id="cases-title">Примеры аварийного открытия дверей квартир в&nbsp;Бильбао</h2>
         </div>
-        <a class="link-arrow sec-head__link" href="../../trabajos/">Все работы <svg aria-hidden="true"><use href="#i-arrow"/></svg></a>
       </header>
 
       <!-- TODO: шаблоны карточек. Только реальные работы Cerrajero24: своё фото двери или замка, район, причина, что сделано, время, итоговая цена.
@@ -868,7 +895,6 @@
               <div><dt>Время</dt><dd>—</dd></div>
               <div><dt>Стоимость</dt><dd>—</dd></div>
             </dl>
-            <a class="case__more" href="../../trabajos/">Подробнее о работе <svg aria-hidden="true"><use href="#i-arrow"/></svg></a>
           </div>
         </li>
         <li class="case">
@@ -880,7 +906,6 @@
               <div><dt>Причина</dt><dd>—</dd></div>
               <div><dt>Время</dt><dd>—</dd></div>
             </dl>
-            <a class="case__more" href="../../trabajos/">Подробнее о работе <svg aria-hidden="true"><use href="#i-arrow"/></svg></a>
           </div>
         </li>
         <li class="case">
@@ -892,7 +917,6 @@
               <div><dt>Причина</dt><dd>—</dd></div>
               <div><dt>Время</dt><dd>—</dd></div>
             </dl>
-            <a class="case__more" href="../../trabajos/">Подробнее о работе <svg aria-hidden="true"><use href="#i-arrow"/></svg></a>
           </div>
         </li>
         <li class="case">
@@ -904,7 +928,6 @@
               <div><dt>Причина</dt><dd>—</dd></div>
               <div><dt>Время</dt><dd>—</dd></div>
             </dl>
-            <a class="case__more" href="../../trabajos/">Подробнее о работе <svg aria-hidden="true"><use href="#i-arrow"/></svg></a>
           </div>
         </li>
         <li class="case">
@@ -916,7 +939,6 @@
               <div><dt>Причина</dt><dd>—</dd></div>
               <div><dt>Время</dt><dd>—</dd></div>
             </dl>
-            <a class="case__more" href="../../trabajos/">Подробнее о работе <svg aria-hidden="true"><use href="#i-arrow"/></svg></a>
           </div>
         </li>
       </ul>
@@ -1258,42 +1280,110 @@
     <div class="container">
       <header class="sec-head">
         <div class="sec-head__main">
-          <p class="kicker kicker--lime"><i aria-hidden="true"></i>После открытия</p>
-          <h2 class="h2" id="more-title">Другие услуги по ремонту и замене дверных замков</h2>
+          <p class="kicker kicker--lime"><i aria-hidden="true"></i>Ещё услуги</p>
+          <h2 class="h2" id="more-title">Другие услуги Cerrajero24 в&nbsp;Бильбао</h2>
         </div>
         <a class="link-arrow sec-head__link" href="../">Все услуги <svg aria-hidden="true"><use href="#i-arrow"/></svg></a>
       </header>
 
-      <ul class="more-grid" role="list">
-        <li class="svc-card">
-          <div class="svc-card__top" aria-hidden="true"><span class="svc-card__num">01 / 04</span><svg class="svc-card__corner"><use href="#i-arrow"/></svg></div>
-          <div class="svc-card__icon"><img src="../../img/services/reparacion-cerraduras.webp" alt="Ремонт дверного замка" width="360" height="360" loading="lazy"></div>
-          <h3 class="svc-card__title"><a href="../reparacion-de-cerraduras/">Ремонт дверных замков</a></h3>
-          <p class="svc-card__text">Устраняем неисправности и восстанавливаем работу механизмов.</p>
-          <div class="svc-card__foot"><span class="svc-card__more" aria-hidden="true">Подробнее <i><svg><use href="#i-arrow"/></svg></i></span></div>
-        </li>
-        <li class="svc-card">
-          <div class="svc-card__top" aria-hidden="true"><span class="svc-card__num">02 / 04</span><svg class="svc-card__corner"><use href="#i-arrow"/></svg></div>
-          <div class="svc-card__icon"><img src="../../img/services/cambio-cerraduras-bombines.webp" alt="Замена цилиндра замка" width="360" height="360" loading="lazy"></div>
-          <h3 class="svc-card__title"><a href="../cambio-de-cerraduras-y-bombines/">Замена цилиндра замка</a></h3>
-          <p class="svc-card__text">Замена личинок при износе, поломке или необходимости сменить ключи.</p>
-          <div class="svc-card__foot"><span class="svc-card__more" aria-hidden="true">Подробнее <i><svg><use href="#i-arrow"/></svg></i></span></div>
-        </li>
-        <li class="svc-card">
-          <div class="svc-card__top" aria-hidden="true"><span class="svc-card__num">03 / 04</span><svg class="svc-card__corner"><use href="#i-arrow"/></svg></div>
-          <div class="svc-card__icon"><img src="../../img/services/extraccion-llaves-rotas.webp" alt="Замена дверного замка" width="360" height="360" loading="lazy"></div>
-          <h3 class="svc-card__title"><a href="../cambio-de-cerraduras-y-bombines/">Замена дверных замков</a></h3>
-          <p class="svc-card__text">Установка нового механизма вместо неисправного или устаревшего.</p>
-          <div class="svc-card__foot"><span class="svc-card__more" aria-hidden="true">Подробнее <i><svg><use href="#i-arrow"/></svg></i></span></div>
-        </li>
-        <li class="svc-card">
-          <div class="svc-card__top" aria-hidden="true"><span class="svc-card__num">04 / 04</span><svg class="svc-card__corner"><use href="#i-arrow"/></svg></div>
-          <div class="svc-card__icon"><img src="../../img/services/instalacion-cerraduras.webp" alt="Установка дополнительного замка" width="360" height="360" loading="lazy"></div>
-          <h3 class="svc-card__title"><a href="../instalacion-de-cerraduras/">Установка дополнительных замков</a></h3>
-          <p class="svc-card__text">Монтаж новых запирающих механизмов для повышения безопасности двери.</p>
-          <div class="svc-card__foot"><span class="svc-card__more" aria-hidden="true">Подробнее <i><svg><use href="#i-arrow"/></svg></i></span></div>
-        </li>
-      </ul>
+      <!-- TODO: цены «от» — только подтверждённые заказчиком (как на главной) -->
+      <div class="svc-slider" data-slider>
+        <ul class="svc-track" role="list" tabindex="0" aria-label="Другие услуги — листайте горизонтально" data-slider-track>
+          <li class="svc-card is-current" data-slide>
+            <div class="svc-card__top" aria-hidden="true"><span class="svc-card__num">01 / 08</span><svg class="svc-card__corner"><use href="#i-arrow"/></svg></div>
+            <div class="svc-card__icon"><img src="../../img/services/apertura-coches.webp" alt="Аварийное открытие автомобиля" width="360" height="360" loading="lazy" draggable="false"></div>
+            <h3 class="svc-card__title"><a draggable="false" href="../apertura-de-coches/">Аварийное открытие автомобилей</a></h3>
+            <p class="svc-card__text">Двери и багажники автомобилей разных марок.</p>
+            <div class="svc-card__foot">
+              <span class="svc-card__price">от <b>45&nbsp;€</b></span>
+              <span class="svc-card__more" aria-hidden="true">Подробнее <i><svg><use href="#i-arrow"/></svg></i></span>
+            </div>
+          </li>
+          <li class="svc-card" data-slide>
+            <div class="svc-card__top" aria-hidden="true"><span class="svc-card__num">02 / 08</span><svg class="svc-card__corner"><use href="#i-arrow"/></svg></div>
+            <div class="svc-card__icon"><img src="../../img/services/apertura-cajas-fuertes.webp" alt="Открытие сейфа" width="360" height="360" loading="lazy" draggable="false"></div>
+            <h3 class="svc-card__title"><a draggable="false" href="../apertura-de-cajas-fuertes/">Открытие сейфов</a></h3>
+            <p class="svc-card__text">Механические, кодовые и электронные сейфовые замки.</p>
+            <div class="svc-card__foot">
+              <span class="svc-card__price">от <b>60&nbsp;€</b></span>
+              <span class="svc-card__more" aria-hidden="true">Подробнее <i><svg><use href="#i-arrow"/></svg></i></span>
+            </div>
+          </li>
+          <li class="svc-card" data-slide>
+            <div class="svc-card__top" aria-hidden="true"><span class="svc-card__num">03 / 08</span><svg class="svc-card__corner"><use href="#i-arrow"/></svg></div>
+            <div class="svc-card__icon"><img src="../../img/services/apertura-garajes.webp" alt="Открытие гаража и ворот" width="360" height="360" loading="lazy" draggable="false"></div>
+            <h3 class="svc-card__title"><a draggable="false" href="../apertura-de-garajes/">Открытие гаражей и ворот</a></h3>
+            <p class="svc-card__text">Гаражные замки, роллеты и запирающие механизмы.</p>
+            <div class="svc-card__foot">
+              <span class="svc-card__price">от <b>90&nbsp;€</b></span>
+              <span class="svc-card__more" aria-hidden="true">Подробнее <i><svg><use href="#i-arrow"/></svg></i></span>
+            </div>
+          </li>
+          <li class="svc-card" data-slide>
+            <div class="svc-card__top" aria-hidden="true"><span class="svc-card__num">04 / 08</span><svg class="svc-card__corner"><use href="#i-arrow"/></svg></div>
+            <div class="svc-card__icon"><img src="../../img/services/apertura-locales.webp" alt="Открытие офиса или магазина" width="360" height="360" loading="lazy" draggable="false"></div>
+            <h3 class="svc-card__title"><a draggable="false" href="../apertura-de-locales/">Открытие офисов и помещений</a></h3>
+            <p class="svc-card__text">Офисы, магазины, склады и другие коммерческие объекты.</p>
+            <div class="svc-card__foot">
+              <span class="svc-card__price">от <b>90&nbsp;€</b></span>
+              <span class="svc-card__more" aria-hidden="true">Подробнее <i><svg><use href="#i-arrow"/></svg></i></span>
+            </div>
+          </li>
+          <li class="svc-card" data-slide>
+            <div class="svc-card__top" aria-hidden="true"><span class="svc-card__num">05 / 08</span><svg class="svc-card__corner"><use href="#i-arrow"/></svg></div>
+            <div class="svc-card__icon"><img src="../../img/services/reparacion-cerraduras.webp" alt="Ремонт дверного замка" width="360" height="360" loading="lazy" draggable="false"></div>
+            <h3 class="svc-card__title"><a draggable="false" href="../reparacion-de-cerraduras/">Ремонт дверных замков</a></h3>
+            <p class="svc-card__text">Заедание, поломка механизма, проблемы с ключом.</p>
+            <div class="svc-card__foot">
+              <span class="svc-card__price">от <b>70&nbsp;€</b></span>
+              <span class="svc-card__more" aria-hidden="true">Подробнее <i><svg><use href="#i-arrow"/></svg></i></span>
+            </div>
+          </li>
+          <li class="svc-card" data-slide>
+            <div class="svc-card__top" aria-hidden="true"><span class="svc-card__num">06 / 08</span><svg class="svc-card__corner"><use href="#i-arrow"/></svg></div>
+            <div class="svc-card__icon"><img src="../../img/services/cambio-cerraduras-bombines.webp" alt="Замена цилиндра замка" width="360" height="360" loading="lazy" draggable="false"></div>
+            <h3 class="svc-card__title"><a draggable="false" href="../cambio-de-cerraduras-y-bombines/">Замена замков и личинок</a></h3>
+            <p class="svc-card__text">Замена цилиндра, механизма или дверной фурнитуры.</p>
+            <div class="svc-card__foot">
+              <span class="svc-card__price">от <b>70&nbsp;€</b></span>
+              <span class="svc-card__more" aria-hidden="true">Подробнее <i><svg><use href="#i-arrow"/></svg></i></span>
+            </div>
+          </li>
+          <li class="svc-card" data-slide>
+            <div class="svc-card__top" aria-hidden="true"><span class="svc-card__num">07 / 08</span><svg class="svc-card__corner"><use href="#i-arrow"/></svg></div>
+            <div class="svc-card__icon"><img src="../../img/services/instalacion-cerraduras.webp" alt="Установка и врезка замка" width="360" height="360" loading="lazy" draggable="false"></div>
+            <h3 class="svc-card__title"><a draggable="false" href="../instalacion-de-cerraduras/">Установка и врезка замков</a></h3>
+            <p class="svc-card__text">Монтаж новых и дополнительных замковых механизмов.</p>
+            <div class="svc-card__foot">
+              <span class="svc-card__price">от <b>90&nbsp;€</b></span>
+              <span class="svc-card__more" aria-hidden="true">Подробнее <i><svg><use href="#i-arrow"/></svg></i></span>
+            </div>
+          </li>
+          <li class="svc-card" data-slide>
+            <div class="svc-card__top" aria-hidden="true"><span class="svc-card__num">08 / 08</span><svg class="svc-card__corner"><use href="#i-arrow"/></svg></div>
+            <div class="svc-card__icon"><img src="../../img/services/extraccion-llaves-rotas.webp" alt="Извлечение сломанного ключа из замка" width="360" height="360" loading="lazy" draggable="false"></div>
+            <h3 class="svc-card__title"><a draggable="false" href="../extraccion-de-llaves-rotas/">Извлечение сломанного ключа</a></h3>
+            <p class="svc-card__text">Диагностика и восстановление работоспособности замка.</p>
+            <div class="svc-card__foot">
+              <span class="svc-card__price">от <b>60&nbsp;€</b></span>
+              <span class="svc-card__more" aria-hidden="true">Подробнее <i><svg><use href="#i-arrow"/></svg></i></span>
+            </div>
+          </li>
+        </ul>
+      </div>
+
+      <div class="svc-nav">
+        <div class="svc-progress" aria-hidden="true">
+          <b data-slider-current>01</b><span>/ 08</span>
+          <i class="svc-progress__bar"><i data-slider-bar></i></i>
+          <span class="svc-progress__hint">Листайте услуги</span>
+        </div>
+        <a class="svc-nav__help" href="#request">Не нашли нужную услугу? Свяжитесь с мастером <svg aria-hidden="true"><use href="#i-arrow"/></svg></a>
+        <div class="svc-nav__btns">
+          <button class="svc-btn" type="button" aria-label="Предыдущая услуга" data-slider-prev><svg aria-hidden="true"><use href="#i-chev-left"/></svg></button>
+          <button class="svc-btn svc-btn--next" type="button" aria-label="Следующая услуга" data-slider-next><svg aria-hidden="true"><use href="#i-chev-right"/></svg></button>
+        </div>
+      </div>
     </div>
   </section>
 
