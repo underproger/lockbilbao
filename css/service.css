@@ -111,7 +111,6 @@
 .sit__ring { position: absolute; border-radius: 50%; border: 1px solid rgba(23, 107, 69, .08); }
 .sit__ring--a { width: 820px; height: 820px; left: 60%; top: -520px; }
 .sit__ring--b { width: 520px; height: 520px; left: -12%; bottom: -380px; border-color: rgba(7, 21, 32, .05); }
-.sit__spark { position: absolute; left: calc(60% + 92px); top: 168px; width: 10px; height: 10px; border-radius: 50%; background: var(--lime-2); box-shadow: 0 0 0 6px rgba(200, 245, 74, .2); }
 .sit .container { position: relative; }
 
 .sit-grid { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; }
@@ -302,10 +301,15 @@
   margin-bottom: 30px; padding: 4px 0 4px 24px; border-left: 4px solid var(--lime-2);
   font: 600 clamp(18px, 1rem + .5vw, 22px)/1.45 var(--ff-display); letter-spacing: -.012em; color: var(--ink);
 }
-.nd-item { padding: 20px 0; border-top: 1px solid var(--line-2); }
-.nd-item__title { margin-bottom: 8px; font: 700 19px/1.3 var(--ff-display); letter-spacing: -.012em; color: var(--ink); }
+.nd-item { display: grid; grid-template-columns: 48px minmax(0, 1fr); column-gap: 18px; padding: 20px 0; border-top: 1px solid var(--line-2); }
+.nd-item > :not(.nd-item__ic) { grid-column: 2; }
+.nd-item__ic {
+  grid-row: 1 / span 2; display: grid; place-items: center; width: 48px; height: 48px; border-radius: 50%;
+  background: radial-gradient(circle at 35% 30%, #F4FBEA 0%, #DDEFD6 100%); color: var(--ink);
+}
+.nd-item__ic svg { width: 24px; height: 24px; }
+.nd-item__title { align-self: center; margin-bottom: 8px; font: 700 19px/1.3 var(--ff-display); letter-spacing: -.012em; color: var(--ink); }
 .nd-item p { max-width: 68ch; font-size: 15.5px; line-height: 1.65; color: var(--muted); }
-.nd__link { margin-top: 18px; }
 
 /* ---------- 09. Процесс — горизонтальная схема ---------- */
 .flow-steps--line .flow-step { position: relative; }
@@ -348,34 +352,6 @@
 .edge-item__title { margin: 2px 0 6px; font: 700 18px/1.3 var(--ff-display); letter-spacing: -.012em; color: var(--ink); }
 .edge-item__text { font-size: 14.5px; line-height: 1.55; color: var(--muted); }
 
-/* ---------- 11. Примеры работ ---------- */
-.cases { display: grid; grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 16px; }
-.case {
-  display: flex; flex-direction: column; overflow: hidden;
-  border: 1px solid #ECEFEA; border-radius: 20px; background: var(--white);
-  box-shadow: 0 1px 0 rgba(7, 21, 32, .03), 0 18px 40px -34px rgba(7, 21, 32, .35);
-}
-.case--wide { grid-column: span 2; flex-direction: row; }
-.case__photo {
-  position: relative; aspect-ratio: 16 / 10; display: grid; place-items: center;
-  background:
-    repeating-linear-gradient(135deg, rgba(23, 107, 69, .04) 0 14px, rgba(23, 107, 69, 0) 14px 28px),
-    linear-gradient(160deg, #EEF5EA 0%, #DDEAD8 100%);
-}
-.case--wide .case__photo { flex: 0 0 54%; aspect-ratio: auto; min-height: 300px; }
-.case__ph { display: flex; flex-direction: column; align-items: center; gap: 8px; font-size: 13px; font-weight: 600; color: #8DA394; }
-.case__ph svg { width: 34px; height: 34px; }
-.case__body { display: flex; flex-direction: column; flex: 1; padding: 20px 22px 22px; }
-.case--wide .case__body { padding: 28px; }
-.case__title { font: 700 18px/1.3 var(--ff-display); letter-spacing: -.012em; color: var(--ink); }
-.case--wide .case__title { font-size: 22px; }
-.case__meta { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 10px 16px; margin: 14px 0 18px; }
-.case__meta dt { font-size: 12.5px; color: var(--muted); }
-.case__meta dd { font-size: 14px; font-weight: 600; color: var(--ink); }
-.case__more { display: inline-flex; align-items: center; gap: 6px; margin-top: auto; font-size: 14.5px; font-weight: 700; color: var(--green); transition: color .2s; }
-.case__more svg { width: 15px; height: 15px; transition: transform .2s var(--ease); }
-.case__more:hover { color: var(--forest); }
-.case__more:hover svg { transform: translate(2px, -2px); }
 
 /* ---------- 13. Ночью и в праздники ---------- */
 .night {
@@ -461,9 +437,7 @@ span.pill { cursor: default; }
   .nd__visual { aspect-ratio: 16 / 12; max-width: 640px; }
   .nd__photo { width: 70%; left: auto; right: 0; }
   .edge__media { max-width: 560px; }
-  .cases { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .flow-steps--line .flow-step::before, .flow-steps--line .flow-step::after { display: none; }
-  .sit__spark { display: none; }
 }
 
 @media (max-width: 760px) {
@@ -521,17 +495,15 @@ span.pill { cursor: default; }
   .nd__visual { aspect-ratio: 1; border-radius: var(--r-lg); }
   .nd__photo { width: 86%; }
   .nd__badge { left: 14px; top: 14px; padding: 10px 14px; font-size: 13px; }
+  .nd-item { grid-template-columns: 40px minmax(0, 1fr); column-gap: 14px; }
+  .nd-item__ic { width: 40px; height: 40px; }
+  .nd-item__ic svg { width: 20px; height: 20px; }
   .nd-item p { font-size: 15px; }
 
   .edge__media { padding: 0 10% 16% 0; }
   .edge-list { grid-template-columns: minmax(0, 1fr); }
   .edge-item { padding: 18px 0; }
 
-  .cases { grid-template-columns: minmax(0, 1fr); }
-  .case--wide { grid-column: auto; flex-direction: column; }
-  .case--wide .case__photo { flex: none; aspect-ratio: 16 / 10; min-height: 0; }
-  .case--wide .case__body { padding: 20px 22px 22px; }
-  .case--wide .case__title { font-size: 18px; }
 
   .night { padding: 26px 18px; border-radius: 22px; }
   .night::before { background: linear-gradient(180deg, rgba(5, 14, 20, .78) 0%, rgba(5, 14, 20, .94) 55%); }
