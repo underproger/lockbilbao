@@ -45,6 +45,10 @@
 .sh__lead { margin-top: 22px; max-width: 60ch; font-size: clamp(16.5px, 1rem + .22vw, 19px); line-height: 1.6; color: var(--muted); }
 
 
+.sh__perks { display: flex; flex-wrap: wrap; gap: 10px 24px; margin-top: 22px; }
+.sh__perks li { display: inline-flex; align-items: center; gap: 10px; font-size: 15px; font-weight: 600; color: var(--ink); }
+.sh__perks svg { width: 22px; height: 22px; padding: 4px; border-radius: 50%; background: var(--lime); color: var(--forest); flex: none; }
+
 .sh__actions { display: flex; flex-wrap: wrap; align-items: center; gap: 16px 30px; margin-top: 30px; }
 .sh__call .btn__lead-icon { width: 24px; height: 24px; }
 .sh__rating { margin-top: 20px; }
@@ -157,7 +161,9 @@
 .sp__cta { width: 100%; }
 
 /* ---------- 02a. Преимущества и заявка под баннером ---------- */
-.quick { position: relative; z-index: 2; margin-top: calc(clamp(36px, 4vw, 64px) * -1); background: linear-gradient(180deg, transparent 50%, #FCFCFA 50%); }
+.sh--with-bar { padding-bottom: clamp(110px, 10vw, 170px); }
+.sh--with-bar .sh__grid { margin-top: clamp(28px, 3.6vw, 56px); }
+.quick { position: relative; z-index: 2; margin-top: calc(clamp(28px, 2.6vw, 40px) * -1); background: linear-gradient(180deg, transparent 50%, #FCFCFA 50%); }
 .quick__card {
   position: relative; isolation: isolate; overflow: hidden;
   display: grid; grid-template-columns: minmax(0, 4fr) minmax(0, 7fr); gap: 28px clamp(32px, 4vw, 64px); align-items: center;
@@ -465,6 +471,7 @@ span.pill { cursor: default; }
   .crumbs ol { font-size: 12.5px; }
   .sh__title { text-wrap: balance; }
   .sh__lead { margin-top: 16px; }
+  .sh__perks { flex-direction: column; gap: 10px; }
   .sh__actions { flex-direction: column; align-items: stretch; gap: 12px; margin-top: 24px; }
   .sh__call { justify-content: space-between; --btn-pad-y: 18px; --btn-pad-x: 22px; }
   .sh__actions .hero__prices {
@@ -475,7 +482,8 @@ span.pill { cursor: default; }
   .sh__rating .rating__text { font-size: 12.5px; }
   .sh-form { padding: 14px; }
   .sh-form__row { grid-template-columns: minmax(0, 1fr); }
-  .quick { margin-top: -28px; }
+  .sh--with-bar { padding-bottom: 76px; }
+  .quick { margin-top: -24px; }
   .quick__card { padding: 22px 18px; border-radius: 20px; }
   .quick__perks { grid-template-columns: minmax(0, 1fr); gap: 12px; }
   .quick__ic { width: 40px; height: 40px; }
@@ -547,18 +555,6 @@ span.pill { cursor: default; }
   gap: 32px clamp(32px, 5vw, 96px); align-items: center;
   margin-top: clamp(22px, 3vw, 40px);
 }
-.cat-jump { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 30px; }
-.cat-jump__item {
-  display: inline-flex; align-items: center; gap: 8px; padding: 10px 16px; border-radius: 999px;
-  background: var(--white); border: 1px solid #E3E8E0;
-  font-size: 14.5px; font-weight: 600; color: var(--ink);
-  transition: border-color .2s, background-color .2s;
-}
-.cat-jump__item span {
-  display: grid; place-items: center; min-width: 22px; height: 22px; padding: 0 6px; border-radius: 999px;
-  background: var(--lime); font-size: 12px; font-weight: 700; color: var(--forest);
-}
-.cat-jump__item:hover { border-color: #CFE9A3; background: #F6FBEE; }
 
 .cat-call {
   position: relative; isolation: isolate; overflow: hidden;
@@ -581,13 +577,6 @@ span.pill { cursor: default; }
 .cat-call__phone:hover { color: var(--lime); }
 .cat-call__text { margin-top: 14px; font-size: 15px; line-height: 1.55; color: rgba(255, 255, 255, .78); }
 .cat-call__actions { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; margin-top: 20px; }
-.cat-call__photo {
-  display: flex; align-items: center; justify-content: center; gap: 10px; width: 100%; margin-top: 10px; padding: 13px 16px;
-  border-radius: var(--r-xs); border: 1px dashed rgba(200, 245, 74, .45);
-  font-size: 15px; font-weight: 600; color: #fff; transition: background-color .2s, border-color .2s;
-}
-.cat-call__photo svg { width: 20px; height: 20px; color: var(--lime); }
-.cat-call__photo:hover { background: rgba(200, 245, 74, .08); border-color: var(--lime); }
 .cat-call__rating {
   display: flex; align-items: center; gap: 10px; margin-top: 20px; padding-top: 18px;
   border-top: 1px solid rgba(255, 255, 255, .12); font-size: 13.5px; color: rgba(255, 255, 255, .8);
@@ -698,8 +687,6 @@ span.pill { cursor: default; }
 }
 @media (max-width: 760px) {
   .sh--catalog .sh__title { text-wrap: balance; }
-  .cat-jump { margin-top: 22px; }
-  .cat-jump__item { padding: 8px 13px; font-size: 13.5px; }
   .cat-call { padding: 22px 18px; border-radius: 20px; }
   .cat-call__actions { grid-template-columns: 1fr; }
 
