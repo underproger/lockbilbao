@@ -775,7 +775,7 @@ ul.pr-notes {
   gap: 16px;
 }
 .why-card--a { grid-column: span 6; }
-.why-stat { grid-column: span 7; }
+.why-card--f { grid-column: span 7; }
 .why-card--b { grid-column: span 5; }
 .why-card--c { grid-column: span 6; }
 .why-card--d { grid-column: span 6; }
@@ -813,25 +813,6 @@ ul.pr-notes {
 .why-card__ic svg { width: 32px; height: 32px; }
 .why-card__title { font: 800 20px/1.2 var(--ff-display); letter-spacing: -.02em; color: var(--ink); }
 .why-card__text { margin: 6px 0 0; font-size: 14.5px; line-height: 1.5; color: var(--muted); max-width: 32ch; }
-
-/* карточка-цифра: опыт мастера */
-.why-stat {
-  position: relative; overflow: hidden; isolation: isolate;
-  display: flex; flex-direction: column; justify-content: flex-end; align-items: flex-start;
-  padding: 24px 28px 26px; border-radius: 18px; color: #fff;
-  background: radial-gradient(110% 140% at 100% 0%, #1B5A3B 0%, #0F3524 48%, #0A2318 100%);
-  box-shadow: 0 24px 50px -34px rgba(7, 21, 32, .6);
-}
-.why-stat__deco { position: absolute; inset: 0; z-index: -1; pointer-events: none; }
-.why-stat__deco i { position: absolute; border-radius: 50%; border: 1px solid rgba(200, 245, 74, .16); }
-.why-stat__deco i:nth-child(1) { width: 380px; height: 380px; right: -120px; top: -200px; }
-.why-stat__deco i:nth-child(2) { width: 600px; height: 600px; right: -260px; top: -330px; border-color: rgba(200, 245, 74, .08); }
-.why-stat__deco b { position: absolute; right: 44px; top: 40px; width: 10px; height: 10px; border-radius: 50%; background: var(--lime); box-shadow: 0 0 0 6px rgba(200, 245, 74, .18), 0 0 18px 4px rgba(200, 245, 74, .4); }
-.why-stat__num { display: flex; align-items: flex-end; gap: 12px; margin-bottom: auto; padding-bottom: 18px; }
-.why-stat__num b { font: 800 clamp(84px, 3rem + 4vw, 132px)/.8 var(--ff-display); letter-spacing: -.06em; color: var(--lime); }
-.why-stat__num span { padding-bottom: 4px; font: 700 15px/1.2 var(--ff-display); letter-spacing: .02em; text-transform: uppercase; color: rgba(255, 255, 255, .78); }
-.why-stat .why-card__title { color: #fff; }
-.why-stat .why-card__text { color: rgba(255, 255, 255, .78); max-width: 46ch; }
 
 /* фото-карточки */
 .why-photo {
@@ -1389,7 +1370,9 @@ ul.facts { /* ul.* — перебиваем сброс ul[role="list"] { padding
 
 /* ---------- Полезно знать (блок 16, SEO-текст) ---------- */
 /* ---------- SEO-текст: сплошной текст + «Показать больше» ---------- */
-.longread { display: grid; grid-template-columns: minmax(0, 5fr) minmax(0, 7fr); gap: 24px clamp(40px, 6vw, 96px); align-items: start; scroll-margin-top: calc(var(--header-h) + 16px); }
+.longread { scroll-margin-top: calc(var(--header-h) + 16px); }
+.longread__head { max-width: 1080px; margin-bottom: clamp(24px, 3vw, 36px); }
+.longread__main { max-width: 1080px; }
 .longread__head .kicker { color: var(--green); }
 .longread__title { text-wrap: balance; }
 .longread__title .accent { color: var(--green); }
@@ -1461,9 +1444,12 @@ ul.facts { /* ul.* — перебиваем сброс ul[role="list"] { padding
   color: #fff;
 }
 .final__orbit { position: absolute; width: 1100px; max-width: none; right: -260px; top: -200px; opacity: .22; pointer-events: none; }
-.final__inner { position: relative; display: grid; grid-template-columns: minmax(0, 6fr) minmax(0, 5fr); gap: 48px clamp(40px, 5vw, 80px); align-items: center; }
+.final__inner { position: relative; display: grid; grid-template-columns: minmax(0, 1fr) minmax(340px, 460px); gap: 40px clamp(40px, 6vw, 112px); align-items: center; }
 .final__content .h2 { margin-bottom: 20px; }
-.final__lead { font-size: 18px; color: rgba(255, 255, 255, .78); max-width: 52ch; }
+.final__lead { font-size: 18px; color: rgba(255, 255, 255, .78); max-width: 64ch; }
+.final__contact { display: flex; flex-wrap: wrap; align-items: center; gap: 16px 28px; margin-top: 30px; }
+.final__contact .final__phone { margin-top: 0; }
+.final__contact .final__hours { margin: 0; }
 .final__phone {
   display: inline-flex; align-items: center; gap: 14px; margin-top: 36px;
   font: 800 clamp(32px, 1.4rem + 2vw, 52px)/1 var(--ff-display); letter-spacing: -.035em; color: var(--lime);
@@ -1476,10 +1462,9 @@ ul.facts { /* ul.* — перебиваем сброс ul[role="list"] { padding
   .pulse::after { content: ""; position: absolute; inset: -5px; border-radius: 50%; border: 2px solid var(--lime); animation: pulse 2s ease-out infinite; }
 }
 @keyframes pulse { from { transform: scale(.6); opacity: .9; } to { transform: scale(1.8); opacity: 0; } }
-.final__guarantees { display: grid; gap: 10px; margin-top: 32px; padding-top: 28px; border-top: 1px solid rgba(255, 255, 255, .14); }
+.final__guarantees { display: flex; flex-wrap: wrap; gap: 12px 32px; margin-top: 28px; padding-top: 24px; border-top: 1px solid rgba(255, 255, 255, .14); }
 .final__guarantees li { display: flex; align-items: center; gap: 12px; color: rgba(255, 255, 255, .9); }
 .final__guarantees svg { width: 24px; height: 24px; padding: 5px; border-radius: 50%; background: rgba(200, 245, 74, .16); color: var(--lime); flex: none; }
-.final__master { display: none; }
 
 /* Forms */
 .form-card {
@@ -1638,19 +1623,6 @@ input[type="file"]:focus-visible + .file, .field:focus-within .file { border-col
 /* =========================================================
    RESPONSIVE
    ========================================================= */
-@media (min-width: 1200px) {
-  .final__inner { grid-template-columns: minmax(0, 5fr) minmax(0, 3fr) minmax(0, 4.4fr); gap: 0 32px; align-items: end; }
-  .final__content { align-self: center; }
-  .final__master {
-    display: block; align-self: end;
-    width: 125%; max-width: none; margin: 0 0 calc(var(--section-y) * -1) -18%;
-    -webkit-mask-image: linear-gradient(180deg, #000 70%, transparent 100%);
-    mask-image: linear-gradient(180deg, #000 70%, transparent 100%);
-    pointer-events: none;
-  }
-  .final .form-card { position: relative; z-index: 2; align-self: center; }
-}
-
 @media (max-width: 1320px) {
   .hero__prices + .divider-v { display: none; }
   .rating { flex-basis: 100%; justify-content: center; }
@@ -1672,7 +1644,6 @@ input[type="file"]:focus-visible + .file, .field:focus-within .file { border-col
 }
 
 @media (max-width: 1024px) {
-  .longread { grid-template-columns: minmax(0, 1fr); }
   :root { --header-h: 68px; }
   .nav, .header__actions { display: none; }
   .burger { display: block; }
@@ -1787,8 +1758,6 @@ input[type="file"]:focus-visible + .file, .field:focus-within .file { border-col
 
 
   .why-grid { grid-template-columns: minmax(0, 1fr); grid-auto-rows: auto; gap: 12px; }
-  .why-stat { padding: 22px 20px; }
-  .why-stat__num { padding-bottom: 28px; }
   .why-card { padding: 20px; }
   .why-card:hover { transform: none; }
   .why-card__ic { width: 56px; height: 56px; margin-bottom: 16px; }
@@ -1898,7 +1867,8 @@ input[type="file"]:focus-visible + .file, .field:focus-within .file { border-col
   .qa__body { padding-right: 0; }
 
 
-  .final__phone { margin-top: 28px; }
+  .final__contact { margin-top: 26px; gap: 14px; }
+  .final__guarantees { flex-direction: column; gap: 10px; }
   .final .btn--outline-light { width: 100%; }
   .form-card { border-radius: var(--r-lg); }
 

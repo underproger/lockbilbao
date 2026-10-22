@@ -646,9 +646,8 @@
           <p class="why-card__text">Оперативный выезд по Бильбао и ближайшим районам.</p>
         </article>
         <!-- TODO: подтвердить стаж мастера с заказчиком -->
-        <article class="why-stat">
-          <span class="why-stat__deco" aria-hidden="true"><i></i><i></i><b></b></span>
-          <p class="why-stat__num"><b>15</b><span>лет<br>опыта</span></p>
+        <article class="why-card why-card--f">
+          <span class="why-card__ic"><svg aria-hidden="true"><use href="#i-key"/></svg></span>
           <h3 class="why-card__title">Мастер с&nbsp;опытом 15&nbsp;лет</h3>
           <p class="why-card__text">Цилиндры, бронированные двери, автомобили и&nbsp;сейфы — знаем, как открыть замок без лишних повреждений.</p>
         </article>
@@ -806,9 +805,11 @@
         <h2 class="h2 h2--light" id="request-title">Вызвать мастера Cerrajero24 в&nbsp;Бильбао</h2>
         <p class="final__lead">Не можете открыть дверь, автомобиль или сейф? Оставьте заявку, и специалист свяжется с вами, уточнит проблему и условия выезда.</p>
 
-        <a class="final__phone" href="tel:+34944123456"><svg aria-hidden="true"><use href="#i-phone"/></svg>+34 944 123 456</a>
-        <p class="final__hours"><span class="pulse" aria-hidden="true"></span>Круглосуточно, без выходных и праздников</p>
-        <a class="btn btn--outline-light" href="https://wa.me/34944123456" target="_blank" rel="noopener"><svg aria-hidden="true"><use href="#i-wa"/></svg>Написать в WhatsApp</a>
+        <div class="final__contact">
+          <a class="final__phone" href="tel:+34944123456"><svg aria-hidden="true"><use href="#i-phone"/></svg>+34 944 123 456</a>
+          <p class="final__hours"><span class="pulse" aria-hidden="true"></span>Круглосуточно, без выходных и праздников</p>
+          <a class="btn btn--outline-light" href="https://wa.me/34944123456" target="_blank" rel="noopener"><svg aria-hidden="true"><use href="#i-wa"/></svg>Написать в WhatsApp</a>
+        </div>
 
         <ul class="final__guarantees" role="list">
           <li><svg aria-hidden="true"><use href="#i-check"/></svg>Цену согласовываем до начала работ</li>
@@ -816,8 +817,6 @@
           <li><svg aria-hidden="true"><use href="#i-check"/></svg>Гарантия на ремонт и установку</li>
         </ul>
       </div>
-
-      <img class="final__master" src="../img/master-640.webp" alt="" aria-hidden="true" width="640" height="794" loading="lazy">
 
       <form class="form-card lead-form" action="#" method="post" novalidate data-lead-form>
         <p class="form-card__title">Заявка на выезд мастера</p>

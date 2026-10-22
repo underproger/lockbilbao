@@ -588,9 +588,8 @@
           <p class="why-card__text">Оперативный выезд по Бильбао и ближайшим районам.</p>
         </article>
         <!-- TODO: подтвердить стаж мастера с заказчиком -->
-        <article class="why-stat">
-          <span class="why-stat__deco" aria-hidden="true"><i></i><i></i><b></b></span>
-          <p class="why-stat__num"><b>15</b><span>лет<br>опыта</span></p>
+        <article class="why-card why-card--f">
+          <span class="why-card__ic"><svg aria-hidden="true"><use href="#i-key"/></svg></span>
           <h3 class="why-card__title">Мастер с&nbsp;опытом 15&nbsp;лет</h3>
           <p class="why-card__text">Цилиндры, бронированные двери, автомобили и&nbsp;сейфы — знаем, как открыть замок без лишних повреждений.</p>
         </article>
@@ -871,43 +870,43 @@
 
     <div class="rv-slider" role="region" aria-roledescription="карусель" aria-label="Отзывы клиентов" data-rv>
       <button class="rv-slider__nav rv-slider__nav--prev" type="button" aria-label="Предыдущий отзыв" data-rv-prev><svg aria-hidden="true"><use href="#i-chev-left"/></svg></button>
-      <!-- TODO: шаблоны карточек. Вставить 4–6 НАСТОЯЩИХ отзывов из Google: имя, дата, услуга, текст без изменений -->
+      <!-- Примеры отзывов для показа макета (помечены «Пример отзыва», .review--demo). Заменить НАСТОЯЩИМИ отзывами из Google: имя, дата, текст без изменений; вернуть иконку Google .review__g -->
       <ul class="rv-track" role="list" tabindex="0" aria-label="Листайте отзывы стрелками" data-rv-track>
-        <li class="review" data-rv-slide>
-          <div class="review__head"><span class="review__avatar" aria-hidden="true">А</span><div><p class="review__name">Имя клиента</p><p class="review__date">Дата отзыва</p></div><svg class="review__g" role="img" aria-label="Отзыв из Google"><use href="#i-google"/></svg></div>
+        <li class="review review--demo" data-rv-slide>
+          <div class="review__head"><span class="review__avatar" aria-hidden="true">М</span><div><p class="review__name">Мария</p><p class="review__date">Пример отзыва</p></div></div>
           <span class="stars stars--sm" role="img" aria-label="Оценка 5 из 5"><svg aria-hidden="true"><use href="#i-star"/></svg><svg aria-hidden="true"><use href="#i-star"/></svg><svg aria-hidden="true"><use href="#i-star"/></svg><svg aria-hidden="true"><use href="#i-star"/></svg><svg aria-hidden="true"><use href="#i-star"/></svg></span>
           <p class="review__tag">Открытие квартиры ночью · Абандо</p>
-          <p class="review__text">[Текст реального отзыва из Google Maps: что случилось, как быстро приехал мастер и удалось ли сохранить замок.]</p>
+          <p class="review__text">Захлопнула дверь около полуночи, ключи остались внутри. Диспетчер сразу назвал цену с ночной доплатой, мастер приехал быстрее, чем обещали, и открыл дверь без повреждений — замок работает как раньше.</p>
         </li>
-        <li class="review" data-rv-slide>
-          <div class="review__head"><span class="review__avatar" aria-hidden="true">Г</span><div><p class="review__name">Имя клиента</p><p class="review__date">Дата отзыва</p></div><svg class="review__g" role="img" aria-label="Отзыв из Google"><use href="#i-google"/></svg></div>
+        <li class="review review--demo" data-rv-slide>
+          <div class="review__head"><span class="review__avatar" aria-hidden="true">Х</span><div><p class="review__name">Хавьер</p><p class="review__date">Пример отзыва</p></div></div>
           <span class="stars stars--sm" role="img" aria-label="Оценка 5 из 5"><svg aria-hidden="true"><use href="#i-star"/></svg><svg aria-hidden="true"><use href="#i-star"/></svg><svg aria-hidden="true"><use href="#i-star"/></svg><svg aria-hidden="true"><use href="#i-star"/></svg><svg aria-hidden="true"><use href="#i-star"/></svg></span>
           <p class="review__tag">Ключи остались в машине · Гечо</p>
-          <p class="review__text">[Текст реального отзыва: открытие автомобиля, марка, сколько заняло, повреждений нет.]</p>
+          <p class="review__text">Закрыл ключи в машине на парковке у пляжа. Мастер открыл дверь за несколько минут — ни царапин на кузове, ни повреждённого уплотнителя. Цена совпала с той, что назвали по телефону.</p>
         </li>
-        <li class="review" data-rv-slide>
-          <div class="review__head"><span class="review__avatar" aria-hidden="true">Д</span><div><p class="review__name">Имя клиента</p><p class="review__date">Дата отзыва</p></div><svg class="review__g" role="img" aria-label="Отзыв из Google"><use href="#i-google"/></svg></div>
+        <li class="review review--demo" data-rv-slide>
+          <div class="review__head"><span class="review__avatar" aria-hidden="true">О</span><div><p class="review__name">Ольга</p><p class="review__date">Пример отзыва</p></div></div>
           <span class="stars stars--sm" role="img" aria-label="Оценка 5 из 5"><svg aria-hidden="true"><use href="#i-star"/></svg><svg aria-hidden="true"><use href="#i-star"/></svg><svg aria-hidden="true"><use href="#i-star"/></svg><svg aria-hidden="true"><use href="#i-star"/></svg><svg aria-hidden="true"><use href="#i-star"/></svg></span>
           <p class="review__tag">Замена цилиндра после переезда · Деусто</p>
-          <p class="review__text">[Текст реального отзыва: замена личинки, подбор цилиндра, итоговая цена совпала с озвученной.]</p>
+          <p class="review__text">После переезда решили поменять личинку. Мастер привёз несколько цилиндров разного класса защиты, объяснил разницу и поставил новый минут за двадцать. Итоговая сумма — ровно как договаривались.</p>
         </li>
-        <li class="review" data-rv-slide>
-          <div class="review__head"><span class="review__avatar" aria-hidden="true">Б</span><div><p class="review__name">Имя клиента</p><p class="review__date">Дата отзыва</p></div><svg class="review__g" role="img" aria-label="Отзыв из Google"><use href="#i-google"/></svg></div>
+        <li class="review review--demo" data-rv-slide>
+          <div class="review__head"><span class="review__avatar" aria-hidden="true">А</span><div><p class="review__name">Анна</p><p class="review__date">Пример отзыва</p></div></div>
           <span class="stars stars--sm" role="img" aria-label="Оценка 5 из 5"><svg aria-hidden="true"><use href="#i-star"/></svg><svg aria-hidden="true"><use href="#i-star"/></svg><svg aria-hidden="true"><use href="#i-star"/></svg><svg aria-hidden="true"><use href="#i-star"/></svg><svg aria-hidden="true"><use href="#i-star"/></svg></span>
           <p class="review__tag">Захлопнулась дверь · Баракальдо</p>
-          <p class="review__text">[Текст реального отзыва: выходной день, ребёнок или животное внутри, мастер приехал и открыл.]</p>
+          <p class="review__text">В воскресенье захлопнулась дверь, а внутри осталась собака. Мастер приехал довольно быстро, открыл аккуратно и ещё проверил, как работает замок. Очень выручили, спасибо!</p>
         </li>
-        <li class="review" data-rv-slide>
-          <div class="review__head"><span class="review__avatar" aria-hidden="true">Б</span><div><p class="review__name">Имя клиента</p><p class="review__date">Дата отзыва</p></div><svg class="review__g" role="img" aria-label="Отзыв из Google"><use href="#i-google"/></svg></div>
+        <li class="review review--demo" data-rv-slide>
+          <div class="review__head"><span class="review__avatar" aria-hidden="true">И</span><div><p class="review__name">Игорь</p><p class="review__date">Пример отзыва</p></div></div>
           <span class="stars stars--sm" role="img" aria-label="Оценка 5 из 5"><svg aria-hidden="true"><use href="#i-star"/></svg><svg aria-hidden="true"><use href="#i-star"/></svg><svg aria-hidden="true"><use href="#i-star"/></svg><svg aria-hidden="true"><use href="#i-star"/></svg><svg aria-hidden="true"><use href="#i-star"/></svg></span>
           <p class="review__tag">Установка дополнительного замка · Басаури</p>
-          <p class="review__text">[Текст реального отзыва: установка или врезка замка, аккуратность, гарантия.]</p>
+          <p class="review__text">Поставили второй замок на входную дверь. Помогли выбрать модель, всё врезали аккуратно, убрали за собой стружку и выдали гарантию на работу. Рекомендую.</p>
         </li>
-        <li class="review" data-rv-slide>
-          <div class="review__head"><span class="review__avatar" aria-hidden="true">С</span><div><p class="review__name">Имя клиента</p><p class="review__date">Дата отзыва</p></div><svg class="review__g" role="img" aria-label="Отзыв из Google"><use href="#i-google"/></svg></div>
+        <li class="review review--demo" data-rv-slide>
+          <div class="review__head"><span class="review__avatar" aria-hidden="true">Л</span><div><p class="review__name">Лусия</p><p class="review__date">Пример отзыва</p></div></div>
           <span class="stars stars--sm" role="img" aria-label="Оценка 5 из 5"><svg aria-hidden="true"><use href="#i-star"/></svg><svg aria-hidden="true"><use href="#i-star"/></svg><svg aria-hidden="true"><use href="#i-star"/></svg><svg aria-hidden="true"><use href="#i-star"/></svg><svg aria-hidden="true"><use href="#i-star"/></svg></span>
           <p class="review__tag">Открытие багажника · Сантурци</p>
-          <p class="review__text">[Текст реального отзыва: открытие багажника или двери авто, ночное время, цена.]</p>
+          <p class="review__text">Поздно вечером перестал открываться багажник, а внутри были вещи для поездки. Мастер приехал в оговорённое время, открыл без повреждений и подсказал, где лучше отремонтировать замок.</p>
         </li>
       </ul>
       <button class="rv-slider__nav rv-slider__nav--next" type="button" aria-label="Следующий отзыв" data-rv-next><svg aria-hidden="true"><use href="#i-chev-right"/></svg></button>
@@ -1140,9 +1139,11 @@
         <h2 class="h2 h2--light" id="request-title">Вызвать мастера по аварийному открытию замков в&nbsp;Бильбао</h2>
         <p class="final__lead">Не можете открыть дверь, автомобиль или сейф? Оставьте заявку, и специалист свяжется с вами, уточнит проблему и условия выезда.</p>
 
-        <a class="final__phone" href="tel:+34944123456"><svg aria-hidden="true"><use href="#i-phone"/></svg>+34 944 123 456</a>
-        <p class="final__hours"><span class="pulse" aria-hidden="true"></span>Круглосуточно, без выходных и праздников</p>
-        <a class="btn btn--outline-light" href="https://wa.me/34944123456" target="_blank" rel="noopener"><svg aria-hidden="true"><use href="#i-wa"/></svg>Написать в WhatsApp</a>
+        <div class="final__contact">
+          <a class="final__phone" href="tel:+34944123456"><svg aria-hidden="true"><use href="#i-phone"/></svg>+34 944 123 456</a>
+          <p class="final__hours"><span class="pulse" aria-hidden="true"></span>Круглосуточно, без выходных и праздников</p>
+          <a class="btn btn--outline-light" href="https://wa.me/34944123456" target="_blank" rel="noopener"><svg aria-hidden="true"><use href="#i-wa"/></svg>Написать в WhatsApp</a>
+        </div>
 
         <ul class="final__guarantees" role="list">
           <li><svg aria-hidden="true"><use href="#i-check"/></svg>Цену согласовываем до начала работ</li>
@@ -1150,8 +1151,6 @@
           <li><svg aria-hidden="true"><use href="#i-check"/></svg>Гарантия на ремонт и установку</li>
         </ul>
       </div>
-
-      <img class="final__master" src="img/master-640.webp" alt="" aria-hidden="true" width="640" height="794" loading="lazy">
 
       <form class="form-card lead-form" action="#" method="post" novalidate data-lead-form>
         <p class="form-card__title">Заявка на выезд мастера</p>
