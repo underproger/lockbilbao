@@ -373,6 +373,11 @@ section[id], [id^="guide-"] { scroll-margin-top: calc(var(--header-h) + 16px); }
   mask-position: 0 100%, 74% 0;
   mask-repeat: no-repeat;
 }
+/* обычное фото (не вырезанное) — заполняет круг целиком */
+.stage__photo {
+  position: absolute; left: 0; top: calc(var(--D) * .08); width: var(--D); height: var(--D);
+  object-fit: cover; object-position: 92% 50%;
+}
 .stage__master {
   position: absolute; left: calc(var(--D) * .02); top: calc(var(--D) * .02);
   width: calc(var(--D) * .98); max-width: none;
@@ -658,7 +663,7 @@ section[id], [id^="guide-"] { scroll-margin-top: calc(var(--header-h) + 16px); }
   background: linear-gradient(160deg, #F3F6F1 0%, #DDE6DE 100%);
   box-shadow: 0 40px 70px -40px rgba(7, 21, 32, .5);
 }
-.pr__photo img { width: 100%; height: 100%; object-fit: cover; object-position: 40% 40%; transform: scale(1.12); }
+.pr__photo img { width: 100%; height: 100%; object-fit: cover; object-position: 58% 50%; }
 .pr__lock { position: absolute; width: 26%; left: 4%; top: -4%; filter: drop-shadow(0 12px 20px rgba(7, 21, 32, .14)); }
 .pr__hours {
   position: absolute; right: -2%; top: 66%;
@@ -1024,7 +1029,7 @@ ul.pr-notes {
   overflow: hidden;
 }
 .safety__orbit { position: absolute; width: 150%; max-width: none; left: -20%; top: -6%; opacity: .7; }
-.safety__photo { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; object-position: 72% 100%; }
+.safety__photo { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; object-position: 50% 50%; }
 .safety__badge {
   position: absolute; left: 20px; top: 20px; right: 20px; width: max-content; max-width: calc(100% - 40px);
   display: inline-flex; align-items: center; gap: 10px;
