@@ -377,6 +377,7 @@ section[id], [id^="guide-"] { scroll-margin-top: calc(var(--header-h) + 16px); }
 .stage__photo {
   position: absolute; left: 0; top: calc(var(--D) * .08); width: var(--D); height: var(--D);
   object-fit: cover; object-position: 92% 50%;
+  border-radius: 50%; /* без «окна» над кругом, которое маска оставляет для головы вырезанного мастера */
 }
 .stage__master {
   position: absolute; left: calc(var(--D) * .02); top: calc(var(--D) * .02);
