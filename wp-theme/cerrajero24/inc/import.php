@@ -58,7 +58,8 @@ class C24_Import {
 		$this->import_options();
 
 		update_option( 'permalink_structure', '/%postname%/' );
-		flush_rewrite_rules( false );
+		delete_option( 'rewrite_rules' ); // правила с языковыми префиксами пересоберутся при следующем запросе
+		PLL()->model->clean_languages_cache();
 		delete_transient( 'c24_strings_' . C24_VER );
 		$this->log[] = 'Готово.';
 		return true;
@@ -68,6 +69,10 @@ class C24_Import {
 
 	private function languages() {
 		$model = PLL()->model;
+		if ( ! method_exists( $model, 'add_language' ) && class_exists( 'PLL_Admin_Model' ) ) {
+			$pll_opt = get_option( 'polylang', [] );
+			$model   = new PLL_Admin_Model( $pll_opt );
+		}
 		foreach ( self::LANGS as $slug => $l ) {
 			if ( $model->get_language( $slug ) ) {
 				continue;
@@ -84,21 +89,29 @@ class C24_Import {
 		}
 		$model->clean_languages_cache();
 
+		if ( method_exists( $model, 'update_default_lang' ) ) {
+			$model->update_default_lang( 'es' );
+		}
 		$opt                  = get_option( 'polylang', [] );
 		$opt['default_lang']  = 'es';
 		$opt['force_lang']    = 1; // язык в каталоге: /eu/, /en/
 		$opt['hide_default']  = 1; // испанский без префикса
 		$opt['rewrite']       = 1;
-		$opt['redirect_lang'] = 0;
+		$opt['redirect_lang'] = 1; // главная на /eu/, /en/ — без названия страницы
 		$opt['browser']       = 0;
 		$opt['media_support'] = 1;
 		update_option( 'polylang', $opt );
-		if ( method_exists( $model, 'update_default_lang' ) ) {
-			$model->update_default_lang( 'es' );
-		}
 		$model->clean_languages_cache();
+		PLL()->model->clean_languages_cache();
 		if ( function_exists( 'PLL' ) && isset( PLL()->options ) && is_array( PLL()->options ) ) {
 			PLL()->options = array_merge( PLL()->options, $opt );
+		}
+		// Медиа становятся переводимыми сразу, в этом же запуске.
+		if ( isset( PLL()->model->options ) && is_array( PLL()->model->options ) ) {
+			PLL()->model->options['media_support'] = 1;
+		}
+		if ( isset( PLL()->model->cache ) && method_exists( PLL()->model->cache, 'clean' ) ) {
+			PLL()->model->cache->clean( 'post_types' );
 		}
 	}
 
@@ -177,15 +190,25 @@ class C24_Import {
 	}
 
 	private function find_media( $file, $lang ) {
-		$q = get_posts( [ 'post_type' => 'attachment', 'post_status' => 'inherit', 'meta_key' => '_c24_file', 'meta_value' => $file, 'lang' => $lang, 'fields' => 'ids', 'posts_per_page' => 1 ] );
-		return $q ? (int) $q[0] : 0;
+		$q = get_posts( [ 'post_type' => 'attachment', 'post_status' => 'inherit', 'meta_key' => '_c24_file', 'meta_value' => $file, 'lang' => '', 'fields' => 'ids', 'posts_per_page' => -1, 'suppress_filters' => true ] );
+		return $this->pick_lang( $q, $lang );
 	}
 
 	/* ---------------- Страницы ---------------- */
 
 	private function find_page( $key, $lang ) {
-		$q = get_posts( [ 'post_type' => 'page', 'post_status' => 'any', 'meta_key' => '_c24_key', 'meta_value' => $key, 'lang' => $lang, 'fields' => 'ids', 'posts_per_page' => 1 ] );
-		return $q ? (int) $q[0] : 0;
+		$q = get_posts( [ 'post_type' => 'page', 'post_status' => 'any', 'meta_key' => '_c24_key', 'meta_value' => $key, 'lang' => '', 'fields' => 'ids', 'posts_per_page' => -1, 'suppress_filters' => true ] );
+		return $this->pick_lang( $q, $lang );
+	}
+
+	/** Из списка ID — запись нужного языка (фильтр lang в get_posts при первом запуске ещё не работает). */
+	private function pick_lang( $ids, $lang ) {
+		foreach ( (array) $ids as $id ) {
+			if ( pll_get_post_language( (int) $id ) === $lang ) {
+				return (int) $id;
+			}
+		}
+		return 0;
 	}
 
 	private function import_pages() {
@@ -217,6 +240,8 @@ class C24_Import {
 				update_post_meta( $id, '_c24_key', $p['key'] );
 				update_post_meta( $id, '_wp_page_template', $p['template'] ?? 'default' );
 				pll_set_post_language( $id, $lang );
+				// Язык уже назначен — повторно сохраняем адрес и родителя (уникальность slug — в пределах языка).
+				wp_update_post( [ 'ID' => $id, 'post_name' => $d['slug'], 'post_parent' => $parent ] );
 				$ids[ $lang ] = $id;
 			}
 			if ( count( $ids ) > 1 ) {
@@ -227,6 +252,7 @@ class C24_Import {
 
 		update_option( 'show_on_front', 'page' );
 		update_option( 'page_on_front', $this->pages['home']['es'] );
+		PLL()->model->clean_languages_cache(); // у языков кэшируется ID главной
 		$this->log[] = 'Страниц: ' . count( $this->pages ) . ' × ' . count( $this->sources ) . ' языка';
 	}
 

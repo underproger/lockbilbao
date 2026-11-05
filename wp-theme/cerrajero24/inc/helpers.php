@@ -101,7 +101,9 @@ function c24_img( $id, $attrs = [] ) {
 	if ( ! array_key_exists( 'fetchpriority', $attrs ) ) {
 		$attrs['fetchpriority'] = false;
 	}
-	return wp_get_attachment_image( $id, 'full', false, $attrs );
+	$html = wp_get_attachment_image( $id, 'full', false, $attrs );
+	// Служебные классы WP вёрстке не нужны.
+	return str_replace( ' class="attachment-full size-full"', '', $html );
 }
 
 function c24_img_url( $id ) {
@@ -126,12 +128,12 @@ function c24_kses( $s ) {
 
 /** Строки textarea → массив непустых строк. */
 function c24_lines( $text ) {
-	return array_values( array_filter( array_map( 'trim', preg_split( '/\R/', (string) $text ) ), 'strlen' ) );
+	return array_values( array_filter( array_map( 'trim', preg_split( '/\R/u', (string) $text ) ), 'strlen' ) );
 }
 
 /** Многострочный текст: переносы строк → <br>. */
 function c24_br( $text ) {
-	return preg_replace( '/\R/', '<br>', c24_kses( trim( (string) $text ) ) );
+	return preg_replace( '/\R/u', '<br>', c24_kses( trim( (string) $text ) ) );
 }
 
 /** Номер 01, 02… из индекса цикла. */
@@ -147,11 +149,12 @@ function c24_price( $value, $prefix = true ) {
 	if ( '' === $value ) {
 		return null;
 	}
-	$from = $prefix ? esc_html( c24__( 'desde' ) ) . ' ' : '';
-	if ( '…' === $value || '...' === $value ) {
-		return $from . '<b class="is-tbd-price">…&nbsp;€</b>';
+	$b = ( '…' === $value || '...' === $value ) ? '<b class="is-tbd-price">…&nbsp;€</b>' : '<b>' . esc_html( $value ) . '&nbsp;€</b>';
+	if ( ! $prefix ) {
+		return $b;
 	}
-	return $from . '<b>' . esc_html( $value ) . '&nbsp;€</b>';
+	// «desde %s» → «от 45 €» / «from 45 €» / «45 €-tik aurrera»
+	return str_replace( '%s', $b, esc_html( c24__( 'desde %s' ) ) );
 }
 
 /* ---------------- Страницы ---------------- */
@@ -367,7 +370,7 @@ function c24_js_data() {
 		] : null,
 		'areas'     => $areas,
 		'zones'     => [
-			1 => [ 'title' => c24__( 'Damos servicio: centro de nuestra guardia' ), 'text' => c24__( 'El operador le indicará el precio del desplazamiento y el tiempo aproximado de llegada al llamar.' ) ],
+			1 => [ 'title' => c24__( 'Damos servicio — centro de nuestra guardia' ), 'text' => c24__( 'El operador le indicará el precio del desplazamiento y el tiempo aproximado de llegada al llamar.' ) ],
 			2 => [ 'title' => c24__( 'Damos servicio' ), 'text' => c24__( 'El operador le indicará el precio del desplazamiento y el tiempo de llegada al llamar.' ) ],
 			3 => [ 'title' => c24__( 'Damos servicio' ), 'text' => c24__( 'El precio del desplazamiento depende de la distancia: consúltelo, junto con el tiempo de llegada, al llamar.' ) ],
 		],

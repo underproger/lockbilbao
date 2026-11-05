@@ -50,7 +50,7 @@ get_header();
             <a class="route" href="<?=esc_url( $door_c['url'] );?>">
               <span class="route__ic" aria-hidden="true"><svg><use href="#i-door"/></svg></span>
               <span class="route__q"><?=c24_kses( $door_c['title'] );?></span>
-              <span class="route__a"><?=esc_html( c24__( 'desde' ) );?> <?=esc_html( $door_c['price'] );?>&nbsp;€, 24/7</span>
+              <span class="route__a"><?=str_replace( '%s', esc_html( $door_c['price'] ) . '&nbsp;€', esc_html( c24__( 'desde %s' ) ) );?>, 24/7</span>
               <span class="route__go" aria-hidden="true"><svg><use href="#i-arrow-right"/></svg></span>
             </a>
           </li>
