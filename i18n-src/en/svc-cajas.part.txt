@@ -1,0 +1,179 @@
+3	Mechanical, combination and electronic safe locks.
+4	Emergency safe opening <span class="accent">in&nbsp;Bilbao</span>
+5	Forgotten the code, lost the key or your electronic safe no longer responds to&nbsp;the buttons? We open mechanical, combination and&nbsp;electronic safes at home, in&nbsp;the office or in a shop. We try non-drilling methods first, so you can keep using the safe.
+9	Non-drilling methods first
+10	We save the safe whenever possible
+15	When do you need a safe opened?
+16	A safe protects your most valuable things, so opening it without the key or code isn’t easy. Contact us if you urgently need access to its contents.
+17	Forgotten the safe code
+18	The combination is lost and it wasn’t written down anywhere.
+19	Flat batteries
+20	The electronic safe doesn’t respond to the buttons, or beeps but won’t open.
+21	Lost the safe key
+22	The main key is lost and there’s no spare.
+23	Mechanism jammed
+24	The code is right or the key turns, but the door won’t open.
+25	Safe with no code
+26	The safe was inherited or came with the property, and the code and keys are unknown.
+27	The safe has locked out
+28	After several wrong attempts or an electronic fault, the safe won’t accept the code.
+29	Not sure what kind of safe you have? Call a locksmith.
+30	Describe the model or send a photo — we’ll tell you what can be done.
+33	How much does it cost to open a safe in&nbsp;<span class="accent">Bilbao</span>?
+34	The price depends on the type and grade of the safe, the type of lock and the opening method. We give an approximate price from a photo or description, and the final price before work begins.
+35	Safe opening prices in Bilbao
+38	Opening a mechanical safe with a key
+39	Opening a mechanical combination safe
+40	Opening an electronic safe
+41	Opening a safe with flat batteries
+42	Opening a furniture or built-in safe
+43	Replacing the safe lock after opening
+44	Urgent night-time safe opening
+52	Safe lock and repair
+53	If the safe has to be opened by damaging the lock, the new lock or repair is charged separately — and only with your consent.
+55	The locksmith gives it after inspecting the safe — before work begins.
+56	Ask for a safe opening price
+57	Send us a photo of the safe and we’ll give you an approximate price.
+59	What does the cost of opening a safe depend on?
+60	Four factors determine the price. Tell the dispatcher or send a photo of the safe and you’ll know the approximate cost before the locksmith sets off.
+61	Type and grade of safe
+62	Furniture, built-in, fire-resistant or burglar-resistant safe.
+63	Type of lock
+64	Key, mechanical combination, electronic or dual lock.
+65	Cause and method
+66	Forgotten code, lost key, electronic fault or broken mechanism.
+68	Day or night; flat, office or shop; Bilbao or the suburbs.
+71	If a new lock or a safe repair is needed after opening, we agree the cost separately — before starting.
+73	Need a safe opened urgently? Call a locksmith
+74	Leave your name and phone number — the dispatcher will call you back within&nbsp;minutes, ask about the type of safe and the situation and&nbsp;give you an approximate price. We work around the clock in&nbsp;Bilbao and&nbsp;Greater Bilbao.
+75	Safes and locks
+76	We open all types of safes
+77	The opening method depends on the design of the safe and lock. Before starting, the locksmith identifies the model and chooses the option that will save the safe, if possible.
+78	Key-lock safes
+79	Lever and cylinder locks, including twin-key locks.
+80	Mechanical combination safes
+81	Safes with a dial combination lock.
+82	Electronic safes
+83	Safes with a keypad and an electronic combination lock.
+84	Biometric safes
+85	Safes that open with a fingerprint.
+86	Furniture and hotel safes
+87	Small safes in wardrobes, hotel rooms and holiday flats.
+88	Fire-resistant and burglar-resistant safes
+89	Higher-grade safes — the work is more complex and takes longer.
+90	Non-drilling methods first
+92	Can a safe be opened without damage?
+93	Saving the safe means not having to buy a new one. That’s why the locksmith tries methods that let you keep using it first.
+94	When the safe stays intact
+95	<p>If the batteries are flat, electronic safes often have an emergency power connection or a back-up key. A mechanical combination lock can sometimes be opened without interfering with the structure.</p>
+96	Why everything depends on the safe’s grade
+97	<p>Burglar-resistant safes are designed to resist opening: reinforced walls, hardplates and relockers. The higher the grade, the more complex and longer the job.</p>
+98	When drilling can’t be avoided
+99	<p>If the lock is broken and other methods haven’t worked, the locksmith carefully drills to reach the mechanism. The lock is then replaced — and in most cases the safe can be used again.</p>
+100	Why we agree the method in advance
+101	<p>The locksmith doesn’t drill or replace the lock without your consent: first he explains why other methods won’t work and tells you the price.</p>
+102	What we do after opening
+103	<p>We check the lock and door and, if needed, replace the batteries, set a new code or fit a new lock so the safe protects its contents again.</p>
+105	How to call a locksmith to open a safe in&nbsp;Bilbao?
+107	Call us or send a request. Describe the safe and send a photo — so the locksmith brings the right tools.
+109	The dispatcher gives you an approximate price and arrival time and tells you which documents you’ll need.
+110	Safe opening
+111	The locksmith checks your right to the safe, chooses the opening method and agrees it with you.
+112	Checking and restoring
+113	We test the lock and change the code or batteries. If a new lock is needed, we offer it straight away.
+114	Need access to your safe right now?
+119	Why choose <span class="accent">Cerrajero24</span> for safe opening
+122	We work on site
+123	We come to your home, office or shop — no need to take the safe anywhere.
+124	Saving the safe comes first
+125	We only drill when other methods won’t work, and with your consent.
+127	We explain the price and any cost of a new lock in advance.
+128	All types of safes
+129	Mechanical, combination and electronic safes for homes and offices.
+130	Checking the right to the safe
+131	We only open the safe for its owner or their representative — this protects you too.
+133	Customer reviews of safe opening in&nbsp;Bilbao
+135	Customer reviews of safe opening
+136	Carlos
+137	Forgotten code · Deusto
+138	A home safe with documents inside, and the code written down “somewhere” that we just couldn’t find. The locksmith came, opened the safe without damage and helped me set a new code. He explained where best to keep the note so it doesn’t happen again.
+139	Marina
+140	Flat batteries · Indautxu
+141	The electronic safe in our flat stopped responding to the buttons. It turned out the batteries were flat, and the emergency key had been lost in the move. They opened the safe carefully and replaced the batteries — it all works.
+142	Eneko
+143	Office safe · Abando
+144	The office safe with the cash box and documents jammed: the code was correct but the handle wouldn’t turn. The locksmith quoted the price in advance, sorted out the mechanism and opened the safe. He immediately offered a repair so it wouldn’t happen again.
+145	Ludmila
+146	Safe in a newly bought flat · Getxo
+147	The flat we bought came with a built-in safe — no code and no keys. The locksmith checked the property documents, told us honestly that drilling couldn’t be avoided and quoted the price in advance. He did a neat job and fitted a new lock.
+148	Pablo
+149	Furniture safe · Basauri
+150	A small safe in the wardrobe locked out after several wrong code attempts. The locksmith came in the evening, opened it and showed me how to set a new code. The price matched what I was quoted on the phone.
+153	What documents are needed to open a safe?
+154	Before opening, the locksmith must make sure the safe belongs to you or that you have the right to its contents.
+161	Safe receipt or warranty
+162	Inheritance documents
+163	How to prove the safe is yours
+164	<p>Usually a photo ID — DNI, NIE or passport — and proof of your link to the property where the safe is are enough: an <span lang="es">escritura</span> (title deed), a rental contract or a utility bill. If you still have the receipt or warranty card for the safe, show them too.</p>
+165	If the safe is in an office or shop
+166	<p>You’ll need a document confirming your authority: that you own or manage the business, or a written authorisation from the company (<span lang="es">autorización</span>).</p>
+167	If the safe was inherited
+168	<p>Prepare documents confirming your right of inheritance — for example, a <span lang="es">declaración de herederos</span> (declaration of heirs) or a will (<span lang="es">testamento</span>). If there are several heirs, it’s best to open the safe in their presence or with their consent.</p>
+169	If the safe is in rented accommodation
+170	<p>A safe in a rented flat usually belongs to the owner. It can be opened with the owner’s consent — arrange this with them in advance.</p>
+172	<p>If your right to the safe cannot be confirmed with documents or in any other way, the locksmith may decline to open it. This protects owners: a stranger cannot call a locksmith to someone else’s safe.</p>
+174	Safe opening in every district of <span class="accent">Bilbao</span>
+175	We come out to flats, houses, offices and shops in Bilbao’s districts and nearby towns in Biscay.
+187	Safe opening in the Bilbao suburbs
+198	What to do if your safe won’t open?
+199	When a safe won’t open, the key thing is not to make matters worse: many safes lock out after several wrong attempts, and brute force can jam the mechanism for good. Here’s what to check yourself and when to call a locksmith.
+200	<h3>What to do if you’ve forgotten the safe code?</h3>
+201	<p>Don’t try combinations one after another: many electronic safes lock out for a while after several wrong attempts, and repeated errors extend the lockout. Look for the manual and your notes — many models have a master code or an emergency key.</p>
+202	<p>If you have neither the code nor the emergency key, call a locksmith and give the make and model of the safe — they’re usually shown on the door. The model makes it easier to tell whether the safe can be opened without damage.</p>
+203	<h3>Why won’t the electronic safe respond to the buttons?</h3>
+204	<p>Most often the batteries are flat. Many models have an external emergency power connector or a back-up mechanical key under a decorative cover. If emergency power can’t be connected, the locksmith will open the safe and replace the batteries.</p>
+205	<p>If the safe beeps but won’t open, the electronics may have failed or the bolt may have jammed. Don’t bang the door or yank the handle — it’s easy to damage the mechanism.</p>
+206	<h3>Can a safe be opened without drilling?</h3>
+207	<p>Yes, if its design allows it: with flat batteries, a back-up key or a working mechanical combination lock. High-grade burglar-resistant safes are designed to resist opening, and the lock can’t always be saved.</p>
+208	<p>If drilling can’t be avoided, the locksmith will explain why in advance and tell you the price of a new lock. Find out more in the <a href="#no-damage">opening without damage</a> section.</p>
+209	<h3>What to do after the safe has been opened?</h3>
+210	<p>Set a new code and check the lock works. If the lock had to be drilled, fit a new one — otherwise the safe will no longer protect its contents. Write the code down and keep the note away from the safe.</p>
+211	<p>If the safe keys were lost together with your house keys, also think about <a href="{url:svc-cambio}">replacing the front door cylinder</a>.</p>
+213	<p>The make and model of the safe, a photo of its door and lock, the address and a convenient time. Have a photo ID ready and proof of your right to the safe or the property. If the safe is built into a wall or wardrobe, let the dispatcher know. See which documents are accepted in the <a href="#documents">documents</a> section.</p>
+215	Frequently asked questions about safe opening
+218	How much does it cost to open a safe in Bilbao?
+219	<p>The price depends on the type and grade of the safe, the type of lock, the reason it won’t open and the opening method. See the <a href="#prices">price table</a> for guide prices. You can get an approximate price from a photo; the locksmith gives the final price after inspection and before starting.</p>
+220	Can a safe be opened without damage?
+221	<p>Often yes: with flat batteries, a back-up key or a working combination mechanism, the safe can be opened without drilling. With high-security safes this isn’t always possible — in that case the locksmith explains why in advance and agrees the method and price with you.</p>
+222	What should I do if I’ve forgotten my safe code?
+223	<p>Don’t try combinations — the electronic safe may lock out. Look for the manual, the emergency key or the master code. If you don’t have them, call a locksmith and give the safe’s make and model — he’ll tell you how to open it.</p>
+224	Do you open electronic safes with flat batteries?
+225	<p>Yes. If the safe has no emergency power connector or back-up key, the locksmith will open it and replace the batteries. After that, the safe works as before.</p>
+226	How long does it take to open a safe?
+227	<p>A home safe with flat batteries or a working mechanism opens faster than a high-grade burglar-resistant safe. The locksmith will be more precise after inspecting it. If the lock needs replacing, add the time to fit it.</p>
+228	Does the lock need replacing after a safe is opened?
+229	<p>If the safe was opened without damage, no — setting a new code is enough. If the lock had to be drilled, it must be replaced, otherwise the safe won’t lock securely. The locksmith tells you the price of a new lock before starting.</p>
+230	What documents are needed to open a safe?
+231	<p>A photo ID — DNI, NIE or passport — and proof of your right to the safe or property: an <span lang="es">escritura</span>, a rental contract, the safe’s documents or inheritance documents. Find out more in the <a href="#documents">documents</a> section.</p>
+232	Can you open an inherited safe?
+233	<p>Yes, with documents confirming the right of inheritance. If there are several heirs, it’s best to open the safe in their presence or with their written consent.</p>
+234	What should I do if a hotel or holiday flat safe won’t open?
+235	<p>Contact reception or the owner of the flat: the safe belongs to them, and they or a locksmith they call should open it.</p>
+241	Call a locksmith to open a safe in&nbsp;Bilbao
+242	Safe won’t open? Contact Cerrajero24 to check the price and book a locksmith.
+246	Non-drilling methods first
+248	Safe opening
+249	Ask for a safe opening price
+250	Leave your number and, if you can, attach a photo of the safe. The locksmith will call you back with an approximate price.
+251	Photo of the safe
+252	I’ve forgotten the code
+253	The batteries are flat
+254	I’ve lost the key
+255	The mechanism is jammed
+256	The safe has locked out
+258	Safe opening in Bilbao 24/7 — Cerrajero24
+259	Forgotten code, lost key or flat batteries? We open mechanical, combination and electronic safes in Bilbao — without drilling first. Price agreed before work begins.
+260	Forgotten the code or lost the safe key? We’ll open mechanical, combination or electronic safes in Bilbao, with the price agreed before we start.
+261	Safe opening in Bilbao
+262	Emergency safe opening
+263	Opening mechanical, combination and electronic safes when the code is forgotten, the key is lost, the batteries are flat or the mechanism has jammed. Bilbao and Greater Bilbao.

@@ -1,0 +1,179 @@
+3	Kutxa gotor mekaniko, kodedun eta elektronikoen sarrailak.
+4	Kutxa gotorren premiazko irekiera <span class="accent">Bilbon</span>
+5	Kodea ahaztu duzu, giltza galdu duzu edo kutxa gotor elektronikoak ez die&nbsp;botoiei erantzuten? Kutxa gotor mekanikoak, kodedunak eta&nbsp;elektronikoak irekitzen ditugu etxean, bulegoan edo dendan. Lehenik zulatu gabeko metodoak probatzen ditugu, kutxa gotorra erabiltzen jarraitu ahal izateko.
+9	Lehenik, zulatu gabe
+10	Kutxa gotorra gordetzen dugu ahal den guztietan
+15	Noiz ireki behar da kutxa gotor bat?
+16	Kutxa gotorrak baliotsuena babesten du; beraz, ez da erraza giltzarik edo koderik gabe irekitzea. Deitu edukia premiaz behar baduzu.
+17	Kutxa gotorraren kodea ahaztu duzu
+18	Konbinazioa galdu duzu eta ez zenuen idatzita.
+19	Pilak agortuta
+20	Kutxa gotor elektronikoak ez die botoiei erantzuten, edo txistu egiten du baina ez da irekitzen.
+21	Kutxa gotorraren giltza galdu duzu
+22	Giltza nagusia galdu duzu eta ez duzu ordezkorik.
+23	Mekanismoa trabatuta
+24	Kodea zuzena da edo giltzak biratzen du, baina atea ez da irekitzen.
+25	Koderik gabeko kutxa gotorra
+26	Kutxa gotorra herentzian jaso duzu edo etxebizitzarekin batera zetorren, eta ez dira ezagutzen ez kodea ez giltzak.
+27	Kutxa gotorra blokeatu da
+28	Huts egindako hainbat saiakeraren edo akats elektroniko baten ondoren, kutxa gotorrak ez du kodea onartzen.
+29	Ez dakizu zer kutxa gotor duzun? Deitu sarrailagileari.
+30	Deskribatu modeloa edo bidali argazki bat, eta zer egin daitekeen esango dizugu.
+33	Zenbat balio du Bilbon kutxa gotor bat irekitzeak?
+34	Prezioa kutxa gotorraren motaren eta segurtasun-mailaren, sarraila motaren eta irekitzeko metodoaren araberakoa da. Gutxi gorabeherako prezioa argazki edo deskribapen bidez ematen dugu, eta behin betikoa lana hasi aurretik.
+35	Kutxa gotorrak irekitzeko prezioak Bilbon
+38	Giltzadun kutxa gotor mekaniko bat irekitzea
+39	Kode mekanikodun kutxa gotor bat irekitzea
+40	Kutxa gotor elektroniko bat irekitzea
+41	Pila agortuak dituen kutxa gotor bat irekitzea
+42	Altzarietako edo hormako kutxa gotor bat irekitzea
+43	Kutxa gotorraren sarraila aldatzea irekiera ondoren
+44	Kutxa gotorraren premiazko irekiera gauez
+52	Kutxa gotorraren sarraila eta konponketa
+53	Kutxa gotorra sarraila kaltetuz ireki behar bada, sarraila berria edo konponketa bereiz ordaintzen dira, eta zure baimenarekin bakarrik.
+55	Sarrailagileak ematen du kutxa gotorra aztertu ondoren, lana hasi aurretik.
+56	Galdetu kutxa gotor bat irekitzearen prezioa
+57	Bidali kutxa gotorraren argazki bat eta gutxi gorabeherako prezio bat emango dizugu.
+59	Zeren araberakoa da kutxa gotor bat irekitzearen prezioa?
+60	Lau faktorek zehazten dute prezioa. Esan iezazkiozu operadoreari edo bidali kutxa gotorraren argazki bat, eta gutxi gorabeherako prezioa jakingo duzu sarrailagilea abiatu aurretik.
+61	Kutxa gotorraren mota eta maila
+62	Altzarietakoa, hormakoa, suaren aurkakoa edo segurtasun handikoa.
+63	Sarraila mota
+64	Giltzaduna, kode mekanikoduna, elektronikoa edo mistoa.
+65	Arrazoia eta metodoa
+66	Ahaztutako kodea, galdutako giltza, akats elektronikoa edo mekanismoaren matxura.
+68	Eguna edo gaua; etxebizitza, bulegoa edo denda; Bilbo edo inguruak.
+71	Irekiera ondoren sarraila berri bat edo kutxa gotorraren konponketa behar bada, haien prezioa bereiz adosten dugu, hasi aurretik.
+73	Kutxa gotor bat premiaz ireki behar duzu? Deitu sarrailagileari
+74	Utzi zure izena eta telefonoa: operadoreak minutu gutxiren&nbsp;buruan deituko dizu, kutxa gotor motari eta egoerari buruz galdetuko dizu eta&nbsp;gutxi gorabeherako prezioa emango dizu. Egunean 24 orduz lan egiten dugu Bilbon eta&nbsp;Bilbo Handian.
+75	Kutxa gotorrak eta sarrailak
+76	Mota guztietako kutxa gotorrak irekitzen ditugu
+77	Irekitzeko metodoa kutxa gotorraren eta sarrailaren egituraren araberakoa da. Hasi aurretik, sarrailagileak modeloa identifikatzen du eta, ahal bada, kutxa gotorra gordeko duen aukera hautatzen du.
+78	Giltza-sarrailadun kutxa gotorrak
+79	Gorja- eta bonbina-sarrailak, bi giltzakoak barne.
+80	Kode mekanikodun kutxa gotorrak
+81	Disko-kodedun sarraila duten kutxa gotorrak.
+82	Kutxa gotor elektronikoak
+83	Teklatua eta kode-sarraila elektronikoa duten kutxa gotorrak.
+84	Kutxa gotor biometrikoak
+85	Hatz-markarekin irekitzen diren kutxa gotorrak.
+86	Altzarietako eta hoteletako kutxa gotorrak
+87	Armairuetako, hotel-geletako eta apartamentuetako kutxa gotor txikiak.
+88	Suaren aurkako eta segurtasun handiko kutxa gotorrak
+89	Segurtasun-maila handiko kutxa gotorrak: lana konplexuagoa da eta denbora gehiago behar du.
+90	Lehenik, zulatu gabeko metodoak
+92	Ireki al daiteke kutxa gotor bat kalterik gabe?
+93	Kutxa gotorra gordetzeak esan nahi du ez duzula beste bat erosi beharko. Horregatik, sarrailagileak lehenik hura erabiltzen jarraitzeko aukera ematen duten metodoak probatzen ditu.
+94	Noiz geratzen da kutxa gotorra osorik
+95	<p>Pilak agortu badira, kutxa gotor elektronikoek larrialdiko elikadura edo erreserbako giltza izan ohi dute. Kode-sarraila mekaniko bat batzuetan egiturari eragin gabe ireki daiteke.</p>
+96	Zergatik den dena segurtasun-mailaren araberakoa
+97	<p>Segurtasun handiko kutxa gotorrak irekierari eusteko diseinatuta daude: horma indartuak, babes-plakak, blokeoak. Zenbat eta maila handiagoa, orduan eta konplexuagoa eta luzeagoa lana.</p>
+98	Noiz ez dagoen zulatzea beste aukerarik
+99	<p>Sarraila hautsita badago eta beste metodoek huts egin badute, sarrailagileak kontu handiz zulatzen du mekanismora iristeko. Gero sarraila aldatzen da eta, kasu gehienetan, kutxa gotorra berriz erabil daiteke.</p>
+100	Zergatik adosten dugun metodoa aldez aurretik
+101	<p>Sarrailagileak ez du zulatzen edo sarraila aldatzen zure baimenik gabe: lehenik azaltzen dizu zergatik ez diren beste metodoak baliagarriak eta prezioa esaten dizu.</p>
+102	Zer egiten dugun ireki ondoren
+103	<p>Sarraila eta atea egiaztatzen ditugu; behar izanez gero, pilak aldatu, kode berri bat ezarri edo sarraila berri bat jartzen dugu, kutxa gotorrak bere edukia berriz babes dezan.</p>
+105	Nola deitu sarrailagile bati Bilbon kutxa gotor bat irekitzeko?
+107	Deitu edo utzi eskaera bat. Deskribatu kutxa gotorra eta bidali argazki bat: horrela sarrailagileak tresna egokia eramango du.
+109	Operadoreak gutxi gorabeherako prezioa eta iristeko denbora ematen dizkizu, eta zer agiri beharko diren abisatzen dizu.
+110	Kutxa gotorraren irekiera
+111	Sarrailagileak kutxa gotorraren gaineko eskubidea egiaztatzen du, irekitzeko metodoa aukeratzen du eta zurekin adosten du.
+112	Egiaztapena eta konponketa
+113	Sarraila egiaztatzen dugu eta kodea edo pilak aldatzen ditugu. Sarraila berri bat behar bada, une berean proposatzen dizugu.
+114	Kutxa gotorrera sartu behar duzu orain bertan?
+119	Zergatik aukeratu <span class="accent">Cerrajero24</span> zure kutxa gotorra irekitzeko
+122	Tokian bertan lan egiten dugu
+123	Zure etxera, bulegora edo dendara joaten gara: ez da kutxa gotorra inora eraman behar.
+124	Lehenik, kutxa gotorra gorde
+125	Beste metodoek balio ez dutenean eta zure baimenarekin bakarrik zulatzen dugu.
+127	Prezioa eta sarraila berri baten balizko gastuak aldez aurretik azaltzen ditugu.
+128	Mota guztietako kutxa gotorrak
+129	Etxeko eta bulegoko kutxa gotor mekanikoak, kodedunak eta elektronikoak.
+130	Kutxa gotorraren gaineko eskubidearen egiaztapena
+131	Kutxa gotorra jabeari edo haren ordezkariari bakarrik irekitzen diogu: horrela zu ere babesten zaitugu.
+133	Bezeroen iritziak Bilbon kutxa gotorrak irekitzeari buruz
+135	Bezeroen iritziak kutxa gotorrak irekitzeari buruz
+136	Carlos
+137	Kodea ahaztuta · Deustu
+138	Etxeko kutxa gotorra agiriekin, eta kodea «nonbait» idatzita, baina ez genuen aurkitzerik izan. Sarrailagilea etorri zen, kutxa gotorra kalterik gabe ireki zuen eta kode berri bat ezartzen lagundu zidan. Oharra non gordetzea komeni den azaldu zidan, historia ez errepikatzeko.
+139	Marina
+140	Pilak agortuta · Indautxu
+141	Etxebizitzako kutxa gotor elektronikoak botoiei erantzuteari utzi zion. Pilak agortuta zeuden, eta larrialdiko giltza etxe-aldaketan galdu zen. Kontu handiz ireki zuten eta pilak aldatu zituzten: dena dabil.
+142	Eneko
+143	Bulegoko kutxa gotorra · Abando
+144	Bulegoan kutxa eta agiriak zituen kutxa gotorra trabatu zen: kodea zuzena zen, baina heldulekuak ez zuen biratzen. Sarrailagileak aldez aurretik eman zigun prezioa, mekanismoa aztertu zuen eta kutxa gotorra ireki zuen. Berehala konpontzea proposatu zigun, berriz gerta ez zedin.
+145	Ludmila
+146	Erositako etxebizitzako kutxa gotorra · Getxo
+147	Erosi genuen etxebizitzan hormako kutxa gotor bat zegoen, koderik eta giltzarik gabe. Sarrailagileak etxebizitzaren agiriak begiratu zituen, zintzo esan zigun zulatu beharko zela eta prezioa aldez aurretik eman zigun. Kontu handiz egin zuen eta sarraila berri bat jarri zuen.
+148	Pablo
+149	Altzarietako kutxa gotorra · Basauri
+150	Armairuko kutxa gotor txiki bat blokeatu zen kodea sartzeko hainbat saiakera oker egin ondoren. Sarrailagilea arratsaldean etorri zen, ireki zuen eta kode berri bat nola ezarri erakutsi zidan. Prezioa telefonoz esandakoa izan zen.
+153	Zer agiri behar dira kutxa gotor bat irekitzeko?
+154	Ireki aurretik, sarrailagileak ziurtatu behar du kutxa gotorra zurea dela edo haren edukia erabiltzeko eskubidea duzula.
+161	Kutxa gotorraren tiketa edo bermea
+162	Herentziaren agiriak
+163	Nola frogatu kutxa gotorra zurea dela
+164	<p>Normalean nahikoa da argazkidun agiri bat —NANa, AIZ edo pasaportea— eta kutxa gotorra dagoen higiezinarekin lotzen zaituen zerbait: eskritura (<span lang="es">escritura</span>), alokairu-kontratua edo hornidura-faktura bat. Kutxa gotorraren tiketa edo bermea gordeta badituzu, erakutsi.</p>
+165	Kutxa gotorra bulego edo denda batean badago
+166	<p>Zure ahalmenak egiaztatzen dituen agiri bat beharko da: negozioaren jabea edo administratzailea zarela, edo enpresaren idatzizko baimen bat (<span lang="es">autorización</span>).</p>
+167	Kutxa gotorra herentzian jaso baduzu
+168	<p>Prestatu herentziarako eskubidea egiaztatzen duten agiriak, adibidez oinordekoen adierazpena (<span lang="es">declaración de herederos</span>) edo testamentua (<span lang="es">testamento</span>). Oinordeko bat baino gehiago badaude, hobe da kutxa gotorra haien aurrean edo haien baimenarekin irekitzea.</p>
+169	Kutxa gotorra alokairuko etxebizitza batean badago
+170	<p>Alokatutako etxebizitza bateko kutxa gotorra jabearena izan ohi da. Haren baimenarekin ireki daiteke: adostu berarekin aldez aurretik.</p>
+172	<p>Kutxa gotorraren gaineko eskubidea ez agiriekin ez beste modu batean egiaztatu ezin bada, sarrailagileak ez irekitzea erabaki dezake. Horrela jabeak babesten dira: ezezagun batek ezin izango dio sarrailagile bati deitu beste norbaiten kutxa gotorra irekitzeko.</p>
+174	Kutxa gotorrak irekitzea <span class="accent">Bilboko</span> auzo guztietan
+175	Bilboko auzoetako eta Bizkaiko inguruko herrietako etxebizitzetara, etxeetara, bulegoetara eta dendetara joaten gara.
+187	Kutxa gotorrak irekitzea Bilbo inguruan
+198	Zer egin kutxa gotorra irekitzen ez bada?
+199	Kutxa gotorra irekitzen ez denean, garrantzitsuena ez okertzea da: kutxa gotor asko blokeatu egiten dira huts egindako hainbat saiakeraren ondoren, eta indar gordinak mekanismoa erabat trabatu dezake. Kontatzen dizugu zer egiaztatu zuk zeuk eta noiz deitu sarrailagileari.
+200	<h3>Zer egin kutxa gotorraren kodea ahaztu baduzu?</h3>
+201	<p>Ez probatu konbinazioak bata bestearen atzetik: kutxa gotor elektroniko asko denbora batez blokeatzen dira huts egindako hainbat saiakeraren ondoren, eta akats errepikatuek blokeoa luzatzen dute. Bilatu argibideak eta zure oharrak: modelo askok kode nagusi bat edo larrialdiko giltza bat dute.</p>
+202	<p>Ez kodea ez larrialdiko giltza ez baduzu, deitu sarrailagileari eta esan kutxa gotorraren marka eta modeloa: atean agertu ohi dira. Modeloarekin errazagoa da jakitea kalterik gabe ireki daitekeen.</p>
+203	<h3>Zergatik ez die kutxa gotor elektronikoak botoiei erantzuten?</h3>
+204	<p>Ohikoena pilak agortzea da. Modelo askok kanpoko konexio bat dute larrialdiko elikadurarako, edo erreserbako giltza mekaniko bat tapa apaingarri baten azpian. Elikadura konektatu ezin bada, sarrailagileak kutxa gotorra irekiko du eta pilak aldatuko ditu.</p>
+205	<p>Kutxa gotorrak txistu egiten badu baina ez bada irekitzen, baliteke elektronikak huts egin izana edo morroiloa trabatu izana. Ez jo atea eta ez tiratu heldulekutik indarrez: erraza da mekanismoa kaltetzea.</p>
+206	<h3>Ireki al daiteke kutxa gotor bat zulatu gabe?</h3>
+207	<p>Bai, egiturak uzten badu: pilak agortu direnean, erreserbako giltza dagoenean edo kode-sarraila mekanikoak funtzionatzen duenean. Segurtasun handiko kutxa gotorrak irekierari eusteko diseinatuta daude, eta ezin da beti sarraila gorde.</p>
+208	<p>Zulatzea beste aukerarik ez badago, sarrailagileak arrazoia aldez aurretik azalduko dizu eta sarraila berriaren prezioa esango dizu. Informazio gehiago <a href="#no-damage">kalterik gabeko irekierari</a> buruzko atalean.</p>
+209	<h3>Zer egin kutxa gotorra ireki ondoren?</h3>
+210	<p>Ezarri kode berri bat eta egiaztatu sarrailak funtzionatzen duela. Sarraila zulatu behar izan bada, jarri berri bat: bestela, kutxa gotorrak ez du bere edukia babestuko. Idatzi kodea eta gorde oharra kutxa gotorretik urrun.</p>
+211	<p>Kutxa gotorraren giltzak etxekoekin batera galdu badira, pentsatu <a href="{url:svc-cambio}">sarrera-atearen bonbina aldatzean</a> ere.</p>
+213	<p>Kutxa gotorraren marka eta modeloa, atearen eta sarrailaren argazki bat, helbidea eta ondo datorkizun ordua. Izan eskura argazkidun agiri bat eta kutxa gotorraren edo higiezinaren gaineko eskubidea egiaztatzen duen zerbait. Kutxa gotorra horman edo armairu batean sartuta badago, abisatu operadoreari. Zer paperek balio duten, <a href="#documents">agiriei</a> buruzko atalean.</p>
+215	Kutxa gotorrak irekitzeari buruzko ohiko galderak
+218	Zenbat balio du Bilbon kutxa gotor bat irekitzeak?
+219	<p>Prezioa kutxa gotorraren motaren eta segurtasun-mailaren, sarraila motaren, zergatik ez den irekitzen eta irekitzeko metodoaren araberakoa da. Erreferentziazko prezioak <a href="#prices">prezio-taulan</a> dituzu. Gutxi gorabeherako prezioa argazki bidez jakin dezakezu; behin betikoa sarrailagileak ematen du aztertu ondoren eta hasi aurretik.</p>
+220	Ireki al daiteke kutxa gotor bat kalterik gabe?
+221	<p>Askotan bai: pilak agortuta, erreserbako giltza bat edo ondo dabilen kode-mekanismo bat izanez gero, kutxa gotorra zulatu gabe irekitzen da. Segurtasun handiko kutxa gotorrekin ez da beti posible; kasu horretan, sarrailagileak arrazoia aldez aurretik azaltzen dizu eta metodoa eta prezioa zurekin adosten ditu.</p>
+222	Zer egin kutxa gotorraren kodea ahaztu badut?
+223	<p>Ez probatu konbinazioak: kutxa gotor elektronikoa blokea daiteke. Bilatu argibideak, larrialdiko giltza edo kode nagusia. Ez badituzu, deitu sarrailagileari eta esan kutxa gotorraren marka eta modeloa: nola ireki esango dizu.</p>
+224	Irekitzen al dituzue pila agortuak dituzten kutxa gotor elektronikoak?
+225	<p>Bai. Kutxa gotorrak larrialdiko elikadurarako konexiorik edo erreserbako giltzarik ez badu, sarrailagileak ireki eta pilak aldatuko ditu. Ondoren, kutxa gotorrak lehen bezala funtzionatzen du.</p>
+226	Zenbat denbora behar da kutxa gotor bat irekitzeko?
+227	<p>Pila agortuak edo mekanismo osasuntsua dituen etxeko kutxa gotor bat segurtasun handiko bat baino lehenago irekitzen da. Sarrailagileak zehatzago esango dizu aztertu ondoren. Sarraila aldatu behar bada, instalatzeko denbora gehitzen da.</p>
+228	Sarraila aldatu behar al da kutxa gotorra ireki ondoren?
+229	<p>Kutxa gotorra kalterik gabe ireki bada, ez: nahikoa da kode berri bat ezartzea. Sarraila zulatu behar izan bada, aldatu egin behar da; bestela, kutxa gotorra ez da modu seguruan itxiko. Sarrailagileak sarraila berriaren prezioa esaten dizu hasi aurretik.</p>
+230	Zer agiri behar dira kutxa gotor bat irekitzeko?
+231	<p>Argazkidun agiri bat —NANa, AIZ edo pasaportea— eta kutxa gotorraren edo higiezinaren gaineko eskubidea egiaztatzen duen zerbait: eskritura (<span lang="es">escritura</span>), alokairu-kontratua, kutxa gotorraren agiriak edo herentziarenak. Informazio gehiago <a href="#documents">agiriei</a> buruzko atalean.</p>
+232	Ireki al daiteke herentzian jasotako kutxa gotor bat?
+233	<p>Bai, herentziarako eskubidea egiaztatzen duten agiriekin. Oinordeko bat baino gehiago badaude, hobe da kutxa gotorra haien aurrean edo haien idatzizko baimenarekin irekitzea.</p>
+234	Zer egin hotel edo apartamentu bateko kutxa gotorra irekitzen ez bada?
+235	<p>Jo harrerara edo apartamentuaren jabearengana: kutxa gotorra haiena da, eta haiek edo haiek deitutako sarrailagile batek ireki behar du.</p>
+241	Deitu sarrailagile bati Bilbon kutxa gotor bat irekitzeko
+242	Kutxa gotorra ez da irekitzen? Jarri harremanetan Cerrajero24rekin prezioa jakiteko eta sarrailagile bat eskatzeko.
+246	Lehenik, zulatu gabeko metodoak
+248	Kutxa gotorra irekitzea
+249	Galdetu kutxa gotor bat irekitzearen prezioa
+250	Utzi zure zenbakia eta, ahal baduzu, erantsi kutxa gotorraren argazki bat. Sarrailagileak deituko dizu gutxi gorabeherako prezio bat emateko.
+251	Kutxa gotorraren argazkia
+252	Kodea ahaztu dut
+253	Pilak agortu dira
+254	Giltza galdu dut
+255	Mekanismoa trabatu da
+256	Kutxa gotorra blokeatu da
+258	Kutxa gotorren irekiera Bilbon 24/7 — Cerrajero24
+259	Kodea ahaztuta, giltza galduta edo pilak agortuta? Kutxa gotor mekanikoak, kodedunak eta elektronikoak irekitzen ditugu Bilbon, lehenik zulatu gabe. Prezioa hasi aurretik.
+260	Kutxa gotorraren kodea ahaztu edo giltza galdu duzu? Bilbon irekiko dugu, mekanikoa, kodeduna edo elektronikoa izan, prezioa hasi aurretik adostuta.
+261	Kutxa gotorren irekiera Bilbon
+262	Kutxa gotorren premiazko irekiera
+263	Kutxa gotor mekanikoak, kodedunak eta elektronikoak irekitzea kodea ahaztu denean, giltza galdu denean, pilak agortu direnean edo mekanismoa trabatu denean. Bilbo eta Bilbo Handia.

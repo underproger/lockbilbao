@@ -1,0 +1,263 @@
+1	Apertura de cajas fuertes
+2	Apertura de cajas fuertes
+3	Cerraduras de cajas fuertes mecánicas, de combinación y electrónicas.
+4	Apertura urgente de cajas fuertes <span class="accent">en&nbsp;Bilbao</span>
+5	¿Ha olvidado el código, ha perdido la llave o la caja fuerte electrónica ya no responde a&nbsp;los botones? Abrimos cajas fuertes mecánicas, de combinación y&nbsp;electrónicas en casa, en&nbsp;la oficina o en la tienda. Primero probamos métodos sin taladrar, para que pueda seguir usando la caja fuerte.
+6	Bilbao • Bizkaia
+7	Trabajamos 24/7
+8	De noche, en&nbsp;fin de semana y&nbsp;en festivos
+9	Primero, sin taladrar
+10	Conservamos la caja fuerte siempre que es posible
+11	Precio antes de&nbsp;empezar
+12	Se lo decimos antes, sin sorpresas
+13	Déjenos su número y le llamamos en un par de minutos
+14	Cuándo necesita ayuda
+15	¿Cuándo hay que abrir una caja fuerte?
+16	La caja fuerte protege lo más valioso, así que abrirla sin llave ni código no es sencillo. Llámenos si necesita acceder a su contenido con urgencia.
+17	Ha olvidado el código de la caja fuerte
+18	Ha perdido la combinación y no la tenía apuntada.
+19	Pilas agotadas
+20	La caja fuerte electrónica no responde a los botones o pita pero no se abre.
+21	Ha perdido la llave de la caja fuerte
+22	Ha perdido la llave principal y no tiene otra de repuesto.
+23	Mecanismo atascado
+24	El código es correcto o la llave gira, pero la puerta no se abre.
+25	Caja fuerte sin código
+26	Ha heredado la caja fuerte o venía con la vivienda, y no se conocen ni el código ni las llaves.
+27	La caja fuerte se ha bloqueado
+28	Tras varios intentos fallidos o un fallo electrónico, la caja fuerte no acepta el código.
+29	¿No sabe qué caja fuerte tiene? Llame al cerrajero.
+30	Descríbanos el modelo o envíenos una foto y le diremos qué se puede hacer.
+31	Llamar al cerrajero
+32	Precios
+33	¿Cuánto cuesta abrir una caja fuerte en&nbsp;<span class="accent">Bilbao</span>?
+34	El precio depende del tipo y del grado de seguridad de la caja fuerte, del tipo de cerradura y del método de apertura. Le damos un precio orientativo por foto o descripción y el definitivo, antes de empezar.
+35	Precios de apertura de cajas fuertes en Bilbao
+36	Servicio
+37	Precio
+38	Apertura de caja fuerte mecánica con llave
+39	Apertura de caja fuerte mecánica de combinación
+40	Apertura de caja fuerte electrónica
+41	Apertura de caja fuerte con las pilas agotadas
+42	Apertura de caja fuerte de mueble o empotrada
+43	Cambio de la cerradura de la caja fuerte tras la apertura
+44	Apertura urgente de caja fuerte de noche
+45	Desplazamiento del cerrajero en Bilbao
+46	Desplazamiento
+47	El operador le indica el precio del desplazamiento en Bilbao y el Gran Bilbao al llamar, antes de que salga el cerrajero.
+48	Tarifa nocturna y festiva
+49	Se aplica de noche, de 22:00 a 08:00, en fines de semana y festivos. Le decimos el recargo de antemano.
+50	IVA
+51	[Indicar si el IVA está incluido en los precios de la tabla.]
+52	Cerradura y reparación de la caja fuerte
+53	Si hay que abrir la caja fuerte dañando la cerradura, la cerradura nueva o la reparación se pagan aparte y solo con su consentimiento.
+54	Precio final
+55	Se lo da el cerrajero tras revisar la caja fuerte, antes de empezar.
+56	Consultar el precio de apertura de una caja fuerte
+57	Envíenos una foto de la caja fuerte y le daremos un precio orientativo.
+58	De qué depende el precio
+59	¿De qué depende el precio de abrir una caja fuerte?
+60	El precio depende de cuatro factores. Indíqueselos al operador o envíenos una foto de la caja fuerte y conocerá el precio orientativo antes de que salga el cerrajero.
+61	Tipo y grado de la caja fuerte
+62	Caja fuerte de mueble, empotrada, ignífuga o de alta seguridad.
+63	Tipo de cerradura
+64	De llave, de combinación mecánica, electrónica o mixta.
+65	Motivo y método
+66	Código olvidado, llave perdida, fallo electrónico o avería del mecanismo.
+67	Hora y dirección del aviso
+68	Día o noche; piso, oficina o tienda; Bilbao o alrededores.
+69	Precio final
+70	Se lo da el cerrajero tras revisar la cerradura y&nbsp;antes de empezar: sin su consentimiento no&nbsp;se empieza a trabajar.
+71	Si después de la apertura hace falta una cerradura nueva o reparar la caja fuerte, su precio se acuerda aparte, antes de empezar.
+72	Llamar al cerrajero
+73	¿Necesita abrir una caja fuerte urgentemente? Llame al cerrajero
+74	Déjenos su nombre y teléfono: el operador le llamará en&nbsp;pocos minutos, le preguntará por el tipo de caja fuerte y la situación y&nbsp;le dará un precio orientativo. Trabajamos las 24 horas en&nbsp;Bilbao y&nbsp;el Gran Bilbao.
+75	Cajas fuertes y cerraduras
+76	Abrimos todo tipo de cajas fuertes
+77	El método de apertura depende de cómo están construidas la caja fuerte y la cerradura. Antes de empezar, el cerrajero identifica el modelo y elige la opción que, si es posible, conserva la caja fuerte.
+78	Cajas fuertes con cerradura de llave
+79	Cerraduras de gorjas y de bombín, también con dos llaves.
+80	Cajas fuertes de combinación mecánica
+81	Cajas fuertes con cerradura de combinación de disco.
+82	Cajas fuertes electrónicas
+83	Cajas fuertes con teclado y cerradura electrónica de código.
+84	Cajas fuertes biométricas
+85	Cajas fuertes que se abren con la huella dactilar.
+86	Cajas fuertes de mueble y de hotel
+87	Cajas fuertes pequeñas en armarios, habitaciones de hotel y apartamentos.
+88	Cajas fuertes ignífugas y de alta seguridad
+89	Cajas fuertes de grado de seguridad elevado: el trabajo es más complejo y lleva más tiempo.
+90	Primero, los métodos sin taladrar
+91	Apertura cuidadosa
+92	¿Se puede abrir una caja fuerte sin daños?
+93	Conservar la caja fuerte significa no tener que comprar otra. Por eso el cerrajero prueba primero los métodos que le permiten seguir usándola.
+94	Cuándo la caja fuerte queda intacta
+95	<p>Si se han agotado las pilas, las cajas fuertes electrónicas suelen tener alimentación de emergencia o una llave de reserva. Una cerradura mecánica de combinación a veces se puede abrir sin tocar la estructura.</p>
+96	Por qué todo depende del grado de seguridad
+97	<p>Las cajas fuertes de alta seguridad están diseñadas para resistir la apertura: paredes reforzadas, placas de protección, bloqueos. Cuanto más alto es el grado, más complejo y largo es el trabajo.</p>
+98	Cuándo no queda más remedio que taladrar
+99	<p>Si la cerradura está rota y otros métodos no han funcionado, el cerrajero taladra con cuidado para acceder al mecanismo. Después se cambia la cerradura y, en la mayoría de los casos, la caja fuerte se puede volver a usar.</p>
+100	Por qué acordamos el método de antemano
+101	<p>El cerrajero no taladra ni cambia la cerradura sin su consentimiento: primero le explica por qué no sirven otros métodos y le dice el precio.</p>
+102	Qué hacemos después de abrir
+103	<p>Comprobamos la cerradura y la puerta; si hace falta, cambiamos las pilas, configuramos un código nuevo o instalamos una cerradura nueva para que la caja fuerte vuelva a proteger su contenido.</p>
+104	Proceso
+105	¿Cómo llamar a un cerrajero para abrir una caja fuerte en&nbsp;Bilbao?
+106	Aviso
+107	Llámenos o deje una solicitud. Descríbanos la caja fuerte y envíenos una foto: así el cerrajero llevará la herramienta adecuada.
+108	Asesoramiento y precio
+109	El operador le da un precio y un tiempo de llegada orientativos y le avisa de qué documentos hacen falta.
+110	Apertura de la caja fuerte
+111	El cerrajero comprueba su derecho sobre la caja fuerte, elige el método de apertura y lo acuerda con usted.
+112	Comprobación y puesta a punto
+113	Comprobamos la cerradura y cambiamos el código o las pilas. Si hace falta una cerradura nueva, se la proponemos en el momento.
+114	¿Necesita acceder a la caja fuerte ahora mismo?
+115	El cerrajero de guardia atiende las 24 horas, también de noche y en festivos.
+116	Llamar al cerrajero ahora
+117	Bilbao · Bizkaia
+118	Por qué Cerrajero24
+119	Por qué elegir <span class="accent">Cerrajero24</span> para abrir su caja fuerte
+120	Ayuda las 24 horas
+121	Atendemos avisos 24/7, incluidos fines de semana y festivos.
+122	Trabajamos en el lugar
+123	Vamos a su casa, oficina o tienda: no hay que llevar la caja fuerte a ninguna parte.
+124	Primero, conservar la caja fuerte
+125	Solo taladramos cuando otros métodos no sirven y con su consentimiento.
+126	Precio transparente
+127	Le explicamos de antemano el precio y los posibles gastos de una cerradura nueva.
+128	Todo tipo de cajas fuertes
+129	Cajas fuertes mecánicas, de combinación y electrónicas, domésticas y de oficina.
+130	Comprobación del derecho sobre la caja fuerte
+131	Solo abrimos la caja fuerte a su propietario o a su representante: así también le protegemos a usted.
+132	Opiniones
+133	Opiniones de clientes sobre la apertura de cajas fuertes en&nbsp;Bilbao
+134	Opiniones originales en Google
+135	Opiniones de clientes sobre la apertura de cajas fuertes
+136	Carlos
+137	Código olvidado · Deusto
+138	Caja fuerte de casa con documentos y el código apuntado «en algún sitio» que no hubo forma de encontrar. El cerrajero vino, abrió la caja fuerte sin daños y me ayudó a configurar un código nuevo. Me explicó dónde es mejor guardar la nota para no repetir la historia.
+139	Marina
+140	Pilas agotadas · Indautxu
+141	La caja fuerte electrónica del piso dejó de responder a los botones. Resultó que se habían agotado las pilas, y la llave de emergencia se perdió en la mudanza. La abrieron con cuidado, cambiaron las pilas y todo funciona.
+142	Eneko
+143	Caja fuerte de oficina · Abando
+144	En la oficina se atascó la caja fuerte con la caja y los documentos: el código era correcto, pero la manilla no giraba. El cerrajero nos dio el precio de antemano, revisó el mecanismo y abrió la caja fuerte. Enseguida nos propuso repararla para que no volviera a pasar.
+145	Ludmila
+146	Caja fuerte en un piso comprado · Getxo
+147	En el piso que compramos había una caja fuerte empotrada, sin código ni llaves. El cerrajero miró los documentos del piso, nos dijo con franqueza que habría que taladrar y nos dio el precio de antemano. Lo hizo con cuidado y puso una cerradura nueva.
+148	Pablo
+149	Caja fuerte de mueble · Basauri
+150	Una caja fuerte pequeña del armario se bloqueó tras varios intentos fallidos de introducir el código. El cerrajero vino por la tarde, la abrió y me enseñó a configurar un código nuevo. El precio coincidió con el que me dieron por teléfono.
+151	Ver todas las opiniones
+152	Legalidad y seguridad
+153	¿Qué documentos hacen falta para abrir una caja fuerte?
+154	Antes de abrir, el cerrajero debe asegurarse de que la caja fuerte es suya o de que tiene derecho a disponer de su contenido.
+155	Sirven:
+156	DNI
+157	NIE
+158	Pasaporte
+159	Escritura
+160	Contrato de alquiler
+161	Tique o garantía de la caja fuerte
+162	Documentos de la herencia
+163	Cómo demostrar que la caja fuerte es suya
+164	<p>Normalmente basta con un documento con foto (DNI, NIE o pasaporte) y algo que le vincule con el inmueble donde está la caja fuerte: la escritura, el contrato de alquiler o una factura de suministros. Si conserva el tique o la garantía de la caja fuerte, enséñelos.</p>
+165	Si la caja fuerte está en una oficina o tienda
+166	<p>Hará falta un documento que acredite sus facultades: que es el propietario o el administrador del negocio, o una autorización por escrito de la empresa.</p>
+167	Si ha heredado la caja fuerte
+168	<p>Prepare los documentos que acrediten su derecho a la herencia, por ejemplo, la declaración de herederos o el testamento. Si hay varios herederos, es mejor abrir la caja fuerte en su presencia o con su consentimiento.</p>
+169	Si la caja fuerte está en una vivienda de alquiler
+170	<p>La caja fuerte de un piso alquilado suele ser del propietario. Se puede abrir con su consentimiento: acuérdelo con él de antemano.</p>
+171	Por qué el cerrajero puede negarse a trabajar
+172	<p>Si no es posible acreditar el derecho sobre la caja fuerte ni con documentos ni de otra forma, el cerrajero puede no abrirla. Así se protege a los propietarios: un desconocido no podrá llamar a un cerrajero para abrir una caja fuerte ajena.</p>
+173	Zona de servicio
+174	Apertura de cajas fuertes en todos los barrios de <span class="accent">Bilbao</span>
+175	Acudimos a pisos, casas, oficinas y tiendas en los barrios de Bilbao y las localidades cercanas de Bizkaia.
+176	Distritos de Bilbao
+177	8 distritos
+178	Deusto
+179	Uribarri
+180	Otxarkoaga-Txurdinaga
+181	Begoña
+182	Ibaiondo
+183	Abando
+184	Errekalde
+185	Basurto-Zorroza
+186	Barrios más solicitados: Casco Viejo, Indautxu, San Ignacio, Santutxu, Miribilla y otros.
+187	Apertura de cajas fuertes en los alrededores de Bilbao
+188	Barakaldo
+189	Getxo
+190	Portugalete
+191	Santurtzi
+192	Leioa
+193	Sestao
+194	Basauri
+195	Erandio
+196	y otros municipios del Gran Bilbao.
+197	Conviene saber
+198	¿Qué hacer si la caja fuerte no se abre?
+199	Cuando la caja fuerte no se abre, lo importante es no empeorar las cosas: muchas cajas fuertes se bloquean tras varios intentos fallidos, y la fuerza bruta puede atascar el mecanismo del todo. Le contamos qué comprobar usted mismo y cuándo llamar al cerrajero.
+200	<h3>¿Qué hacer si ha olvidado el código de la caja fuerte?</h3>
+201	<p>No pruebe combinaciones una tras otra: muchas cajas fuertes electrónicas se bloquean durante un tiempo tras varios intentos fallidos, y los errores repetidos alargan el bloqueo. Busque las instrucciones y sus notas: muchos modelos tienen un código maestro o una llave de emergencia.</p>
+202	<p>Si no tiene ni el código ni la llave de emergencia, llame al cerrajero y dígale la marca y el modelo de la caja fuerte: suelen figurar en la puerta. Con el modelo es más fácil saber si se puede abrir sin daños.</p>
+203	<h3>¿Por qué la caja fuerte electrónica no responde a los botones?</h3>
+204	<p>Lo más habitual es que se hayan agotado las pilas. Muchos modelos tienen una conexión exterior para alimentación de emergencia o una llave mecánica de reserva bajo una tapa decorativa. Si no se puede conectar la alimentación, el cerrajero abrirá la caja fuerte y cambiará las pilas.</p>
+205	<p>Si la caja fuerte pita pero no se abre, puede que haya fallado la electrónica o se haya atascado el pestillo. No golpee la puerta ni tire de la manilla con fuerza: es fácil dañar el mecanismo.</p>
+206	<h3>¿Se puede abrir una caja fuerte sin taladrar?</h3>
+207	<p>Sí, si la construcción lo permite: cuando se han agotado las pilas, hay una llave de reserva o la cerradura mecánica de combinación funciona. Las cajas fuertes de alta seguridad están diseñadas para resistir la apertura, y no siempre se puede conservar la cerradura.</p>
+208	<p>Si no queda más remedio que taladrar, el cerrajero le explicará el motivo de antemano y le dirá el precio de la cerradura nueva. Más información en la sección de <a href="#no-damage">apertura sin daños</a>.</p>
+209	<h3>¿Qué hacer después de abrir la caja fuerte?</h3>
+210	<p>Configure un código nuevo y compruebe que la cerradura funciona. Si hubo que taladrar la cerradura, ponga una nueva: de lo contrario, la caja fuerte dejará de proteger su contenido. Apunte el código y guarde la nota lejos de la caja fuerte.</p>
+211	<p>Si las llaves de la caja fuerte se perdieron junto con las de casa, piense también en el <a href="{url:svc-cambio}">cambio del bombín de la puerta de entrada</a>.</p>
+212	<h3>¿Qué tener preparado antes de que llegue el cerrajero?</h3>
+213	<p>La marca y el modelo de la caja fuerte, una foto de la puerta y de la cerradura, la dirección y la hora que le venga bien. Tenga a mano un documento con foto y algo que acredite su derecho sobre la caja fuerte o el inmueble. Si la caja fuerte está empotrada en la pared o en un armario, avise al operador. Qué papeles sirven, en la sección de <a href="#documents">documentos</a>.</p>
+214	Preguntas
+215	Preguntas frecuentes sobre la apertura de cajas fuertes
+216	¿Tiene más preguntas?
+217	Contacte con el cerrajero: le responderemos y le diremos qué hacer ahora mismo.
+218	¿Cuánto cuesta abrir una caja fuerte en Bilbao?
+219	<p>El precio depende del tipo y del grado de seguridad de la caja fuerte, del tipo de cerradura, del motivo por el que no se abre y del método de apertura. Tiene precios de referencia en la <a href="#prices">tabla de precios</a>. Puede conocer un precio orientativo por foto; el definitivo se lo da el cerrajero tras revisarla y antes de empezar.</p>
+220	¿Se puede abrir una caja fuerte sin daños?
+221	<p>A menudo, sí: con las pilas agotadas, una llave de reserva o un mecanismo de combinación en buen estado, la caja fuerte se abre sin taladrar. Con las cajas fuertes de alta seguridad no siempre es posible; en ese caso, el cerrajero le explica el motivo de antemano y acuerda con usted el método y el precio.</p>
+222	¿Qué hacer si he olvidado el código de la caja fuerte?
+223	<p>No pruebe combinaciones: la caja fuerte electrónica podría bloquearse. Busque las instrucciones, la llave de emergencia o el código maestro. Si no los tiene, llame al cerrajero y dígale la marca y el modelo de la caja fuerte: le dirá cómo abrirla.</p>
+224	¿Abren cajas fuertes electrónicas con las pilas agotadas?
+225	<p>Sí. Si la caja fuerte no tiene conexión para alimentación de emergencia ni llave de reserva, el cerrajero la abrirá y cambiará las pilas. Después, la caja fuerte funciona como antes.</p>
+226	¿Cuánto se tarda en abrir una caja fuerte?
+227	<p>Una caja fuerte doméstica con las pilas agotadas o el mecanismo en buen estado se abre antes que una de alta seguridad. El cerrajero se lo dirá con más precisión tras revisarla. Si hay que cambiar la cerradura, se suma el tiempo de instalación.</p>
+228	¿Hay que cambiar la cerradura después de abrir la caja fuerte?
+229	<p>Si la caja fuerte se ha abierto sin daños, no: basta con configurar un código nuevo. Si hubo que taladrar la cerradura, hay que cambiarla; de lo contrario, la caja fuerte no cerrará de forma segura. El cerrajero le dice el precio de la cerradura nueva antes de empezar.</p>
+230	¿Qué documentos hacen falta para abrir una caja fuerte?
+231	<p>Un documento con foto (DNI, NIE o pasaporte) y algo que acredite su derecho sobre la caja fuerte o el inmueble: la escritura, el contrato de alquiler, los documentos de la caja fuerte o de la herencia. Más información en la sección de <a href="#documents">documentos</a>.</p>
+232	¿Se puede abrir una caja fuerte heredada?
+233	<p>Sí, con documentos que acrediten el derecho a la herencia. Si hay varios herederos, es mejor abrir la caja fuerte en su presencia o con su consentimiento por escrito.</p>
+234	¿Qué hacer si no se abre la caja fuerte de un hotel o apartamento?
+235	<p>Diríjase a la recepción o al propietario del apartamento: la caja fuerte es suya y deben abrirla ellos o un cerrajero llamado por ellos.</p>
+236	¿Van a los alrededores de Bilbao?
+237	<p>Sí. Además de todos los barrios de Bilbao, nos desplazamos a los municipios del Gran Bilbao: Barakaldo, Getxo, Portugalete, Santurtzi, Leioa, Sestao, Basauri, Erandio y otros. El precio y el tiempo de llegada fuera de la ciudad se los indicará el operador al llamar. Puede comprobar su zona en el <a href="#areas">mapa de la zona de servicio</a>.</p>
+238	Más servicios
+239	Otros servicios de Cerrajero24 en&nbsp;Bilbao
+240	Solicitud de servicio
+241	Llame a un cerrajero para abrir una caja fuerte en&nbsp;Bilbao
+242	¿No se abre la caja fuerte? Contacte con Cerrajero24 para conocer el precio y pedir que vaya un cerrajero.
+243	Trabajamos 24/7, sin descanso ni festivos
+244	Zona: Bilbao y Bizkaia
+245	Acordamos el precio antes de empezar
+246	Primero, los métodos sin taladrar
+247	Llamar al cerrajero
+248	Apertura de caja fuerte
+249	Consultar el precio de apertura de una caja fuerte
+250	Déjenos su número y, si puede, adjunte una foto de la caja fuerte. El cerrajero le llamará y le dará un precio orientativo.
+251	Foto de la caja fuerte
+252	He olvidado el código
+253	Se han agotado las pilas
+254	He perdido la llave
+255	El mecanismo se ha atascado
+256	La caja fuerte se ha bloqueado
+257	Otro
+258	Apertura de cajas fuertes en Bilbao 24 h — Cerrajero24
+259	¿Código olvidado, llave perdida o pilas agotadas? Abrimos cajas fuertes mecánicas, de combinación y electrónicas en Bilbao, primero sin taladrar. Precio antes de empezar.
+260	¿Ha olvidado el código o perdido la llave de la caja fuerte? La abrimos en Bilbao, sea mecánica, de combinación o electrónica, con el precio antes de empezar.
+261	Apertura de cajas fuertes en Bilbao
+262	Apertura urgente de cajas fuertes
+263	Apertura de cajas fuertes mecánicas, de combinación y electrónicas cuando se ha olvidado el código, perdido la llave, agotado las pilas o atascado el mecanismo. Bilbao y Gran Bilbao.
