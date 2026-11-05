@@ -1,0 +1,74 @@
+1	Contact
+2	Contact Cerrajero24 <span class="accent">in&nbsp;Bilbao</span>
+3	We take calls around the clock, including weekends and holidays. The fastest way is to call: the on-call dispatcher will tell you straight away what work is needed and give you an approximate price and the locksmith’s arrival time.
+4	Urgent call · 24/7
+5	The fastest way to get a locksmith — we answer at&nbsp;night and on&nbsp;holidays too.
+6	Tell us what happened and send a photo of the lock — we’ll tell you what work is needed.
+7	For non-urgent matters: partnerships, invoices and documents for completed work.
+8	Opening hours
+9	24 hours a day, 7&nbsp;days a&nbsp;week
+10	Service area
+11	Bilbao and&nbsp;Greater Bilbao
+12	Price
+13	Agreed before work&nbsp;begins
+15	Leave your number — the dispatcher will call you back to confirm the address and&nbsp;details.
+16	Before you call
+17	What to tell the dispatcher so the locksmith arrives sooner
+18	Five short answers let us give you a price straight away, bring the right tools and&nbsp;not&nbsp;waste time on&nbsp;site.
+19	If a child or someone who is unwell is behind the door, the hob is on or you can smell gas, call 112 first.
+20	Single emergency number in&nbsp;Spain and&nbsp;the EU
+21	Address
+22	<p>Street, building number, floor and flat letter (<span lang="es">piso, letra</span>), plus the entry code if there is one. Outside Bilbao, the municipality: Barakaldo, Getxo, Basauri or&nbsp;another.</p>
+23	What happened
+24	<p>The door slammed shut, the keys are lost, the key broke in&nbsp;the lock, the lock is jammed or won’t&nbsp;turn. If the key is still in&nbsp;the lock on the inside, tell us that too.</p>
+25	Type of door and lock
+26	<p>A standard, metal or armoured door, and what cylinder or lock it has. The easiest way is to take a photo of the lock and send it via&nbsp;<a href="https://wa.me/34944123456" rel="noopener" target="_blank">WhatsApp</a>.</p>
+27	Documents to hand
+28	<p>Whether you have your DNI, NIE or passport and a document linking you to the address. If your documents are inside, let us know — the locksmith will check them straight after opening. <a href="{url:svc-puertas}#documents">Which documents are accepted</a></p>
+29	Contact number
+30	<p>A number the locksmith can reach you on when he arrives. If you are calling from someone else’s phone, give us your own number or agree where to meet.</p>
+31	Service area
+32	Service area: Bilbao and&nbsp;<span class="accent">Greater Bilbao</span>
+33	Our locksmiths cover every district of Bilbao and the municipalities of Greater Bilbao. Choose your area and we’ll tell you how to check the arrival time.
+42	Errekalde
+44	Popular neighbourhoods: Casco Viejo, Indautxu, San Ignacio, Santutxu, Miribilla and others.
+45	Greater Bilbao municipalities
+54	and other municipalities of Greater Bilbao.
+56	Cerrajero24 company details
+57	Company details, our Google profile and the website’s legal documents — all in&nbsp;one place.
+58	Company details
+59	Name
+60	Cerrajero24
+61	Activity
+62	Emergency lock opening, repair, replacement and&nbsp;installation
+63	NIF / CIF
+64	Area of operation
+65	Bilbao and&nbsp;Greater Bilbao, Biscay, Spain
+66	Phone
+67	E-mail
+68	Cerrajero24 on&nbsp;Google Maps
+69	Our company profile has customer reviews and contact details. If our locksmith helped you, we would be grateful for a review: it helps others find a trusted locksmith faster.
+70	Open in Google Maps
+72	Legal information
+73	Privacy policy
+74	Cookie policy
+75	Terms of service
+76	Legal notice (<span lang="es">aviso legal</span>)
+78	Frequently asked questions about contacting&nbsp;Cerrajero24
+79	Need a locksmith right now?
+80	Call us — the on-call locksmith is available around the clock.
+81	What is the fastest way to call a locksmith?
+82	<p>Call <a href="tel:+34944123456">+34&nbsp;944&nbsp;123&nbsp;456</a>. Calling is the fastest option: the dispatcher will confirm the address and situation straight away, give you an approximate price and arrival time and pass the job to the on-call locksmith. We also handle requests from the website and WhatsApp messages, but if the problem is urgent, it is better to call.</p>
+83	Can I message on WhatsApp instead of calling?
+84	<p>Yes. Message us on WhatsApp with what happened and your address, and attach a photo of the lock — a photo makes it easier to identify the mechanism and give you an approximate price. A reply by message may take a little longer than a call, so if you can’t get into your home right now, it is better to call.</p>
+85	Do you take calls at night, at weekends and on holidays?
+86	<p>Yes, the line is open 24 hours a day, seven days a week, including public holidays. At night, from 22:00 to 08:00, and at weekends and on holidays there is a surcharge for urgent call-outs. The dispatcher tells you the amount when you call, before the locksmith sets off, so there are no surprises with the price.</p>
+87	Which areas do your locksmiths cover?
+88	<p>Every district of Bilbao — Abando, Deusto, Begoña, Uribarri, Errekalde and others — and the Greater Bilbao municipalities on both banks of the Nervión: Barakaldo, Getxo, Portugalete, Santurtzi, Sestao, Leioa, Basauri, Galdakao and others. You can check your area on the <a href="#areas">service area map</a> on this page.</p>
+89	Can I find out the price before the locksmith arrives?
+90	<p>An approximate one, yes. The dispatcher gives it to you over the phone if you describe the situation and the type of door and lock, and a photo of the lock makes the estimate more accurate. The locksmith gives the final price after an on-site inspection and before starting, and work only begins with your consent. You will find guide prices in the <a href="{url:services}#prices">price table</a>.</p>
+91	How can I leave a review or ask about completed work?
+92	<p>You can leave a review on our Google Maps profile — the link is in the <a href="#company">“Company details”</a> section. Questions about completed work, the guarantee or documents are best sent to <a href="mailto:info@cerrajero24.es">info@cerrajero24.es</a>: include the date of the call-out, the address and the phone number you called from, so we can find your job faster.</p>
+93	Contact Cerrajero24 — 24/7 locksmith in Bilbao
+94	Cerrajero24 phone, WhatsApp and e-mail. Emergency lock opening and lock replacement in Bilbao and Greater Bilbao around the clock. Call us or send a request and we’ll call you back.
+95	Phone, WhatsApp and e-mail. Emergency lock opening and lock replacement in Bilbao and Greater Bilbao around the clock.
