@@ -1,0 +1,127 @@
+1	Zerbitzuak
+2	Sarrailak irekitzeko, konpontzeko eta aldatzeko zerbitzuak <span class="accent">Bilbon</span>
+3	Etxebizitzak, autoak, kutxa gotorrak eta garajeak irekitzen ditugu; sarrailak konpondu, aldatu eta instalatzen ditugu. Egunean 24 orduz lan egiten dugu Bilbon eta&nbsp;Bilbo Handiko udalerrietan.
+4	24/7 lanean
+5	Prezioa lana hasi aurretik
+6	Bilbo eta Bilbo Handia
+7	Guardiako sarrailagilea prest
+8	Azaldu zer gertatzen den: operadoreak esango dizu zer zerbitzu behar duzun, eta gutxi gorabeherako prezioa eta iristeko denbora emango dizkizu.
+9	Premiazko irekiera
+10	Ateen, autoen eta&nbsp;kutxa gotorren premiazko irekiera
+11	Etxebizitzan, autoan edo garajean sartu ezin zarenean, edo kutxa gotorra ireki ezin duzunean joaten gara. Lehenik sarraila gordetzen duten metodoak probatzen ditugu.
+12	Konponketa eta aldaketa
+13	Sarrailak konpontzea, aldatzea eta instalatzea
+14	Sarraila trabatzen denean, giltza hautsi denean edo, etxez aldatu ondoren, bonbina aldatu behar denean. Zure atearentzako mekanismo egokia aukeratu eta bisita berean instalatzen dugu.
+15	Ez duzu behar duzun zerbitzua aurkitu?
+16	Kontatu zer gertatzen zaion sarrailari edo ateari: esango dizugu zer sarrailagile behar duzun eta zenbat balioko duen.
+17	Aukeratu egoeraren arabera
+18	Zerbitzua aukeratzea
+19	Ez dakizu zer zerbitzu behar duzun?
+20	Bilatu zure egoera eta esango dizugu zer zerbitzu komeni zaizun. Zerrendan ez badago, deitu: operadoreak telefonoz konponduko du.
+21	Deitu operadoreari
+22	Atea itxi da eta giltzak barruan daude
+23	Ateak eta etxebizitzak irekitzea
+24	Giltzak autoan edo maletategian geratu dira
+25	Autoak irekitzea
+26	Kodea ahaztu duzu edo kutxa gotorra ez da irekitzen
+27	Kutxa gotorrak irekitzea
+28	Garajeko atea edo pertsiana ez da irekitzen
+29	Garajeak eta ateak irekitzea
+30	Giltza sarrailaren barruan hautsi da
+31	Giltza hautsiak ateratzea
+32	Giltzak nekez biratzen du edo sarraila trabatzen da
+33	Ate-sarrailak konpontzea
+34	Giltzak galdu dituzu edo etxebizitza berri batera joan zara
+35	Sarrailak eta bonbinak aldatzea
+36	Sarrera-atea indartu nahi duzu
+37	Sarrailak instalatzea eta txertatzea
+38	Prezioak
+39	Sarrailen premiazko irekieraren prezioak <span class="accent">Bilbon</span>
+40	Prezioa sarraila motaren, haren egoeraren eta lanaren zailtasunaren araberakoa da. Xehetasunak argitu eta prezioa adosten dugu irekitzen hasi aurretik.
+41	Sarrailak irekitzeko, konpontzeko eta instalatzeko prezioak Bilbon
+42	Zerbitzua
+43	Prezioa
+44	Ate-sarrailen premiazko irekiera
+45	Autoak irekitzea
+46	Kutxa gotorrak irekitzea
+47	Sarrailak konpontzea eta aldatzea
+48	Sarrailak instalatzea eta txertatzea
+49	Sarrailagilearen joan-etorria Bilbon
+50	Alferreko deia
+51	Garajea
+52	irekitzea
+53	Bonbina
+54	aldatzea
+55	Giltza
+56	ateratzea
+57	Gaueko
+58	zerbitzua
+59	Bilbotik
+60	kanpo
+61	Joan-etorria prezioan sar daiteke edo bereiz kobra daiteke.
+62	Gainkostuak egon daitezke mekanismo konplexuengatik, gaueko orduengatik edo hiritik kanpo joateagatik.
+63	Materialak, behar badira, bereiz ordaintzen dira.
+64	Azken prezioa lana hasi aurretik adosten da.
+65	Galdetu sarraila irekitzearen prezioa
+66	Jarri harremanetan sarrailagilearekin eta jaso aurrekontu bat.
+67	Zergatik aukeratu Cerrajero24
+68	Zergatik aukeratzen gaituzte bezeroek <span class="accent">sarrailak irekitzeko?</span>
+69	Azkar, kontu handiz eta gardentasunez laguntzen dugu. Bilbon eta Bizkaian lan egiten dugu, prezioa aldez aurretik azaltzen dugu eta kasu bakoitzari egokitutako irtenbidea bilatzen dugu.
+70	Sarrailagilea azkar
+71	Bilboko edozein lekutara eta inguruetara berehala iristen gara.
+72	15&nbsp;urteko esperientzia duen sarrailagilea
+73	Bonbinak, ate blindatuak, autoak eta&nbsp;kutxa gotorrak: badakigu sarraila bat alferreko kalterik gabe irekitzen.
+74	24/7 zerbitzua
+75	Gauez, asteburuetan eta jaiegunetan ere laguntzen dugu.
+76	Irekiera arduratsua
+77	Lehenik sarraila eta atea kalterik gabe gordetzeko modua bilatzen dugu.
+78	Prezio gardenak
+79	Prezioa lana hasi aurretik adosten da, ezusteko desatseginik gabe.
+80	Esperientziadun profesionalak
+81	Mota guztietako sarrailekin eta ateekin esperientzia duten benetako sarrailagileak.
+82	Lanen bermea
+83	Sarrailen konponketak, aldaketak eta instalazioak bermatzen ditugu.
+84	Prozesua
+85	Nola irekitzen ditugun ateak eta&nbsp;sarrailak: lana 4&nbsp;urratsetan
+86	Deia eta aholkularitza
+87	Deitu edo utzi eskaera bat, kontatu zer gertatu den eta eman Bilboko helbidea edo Bilbo Handiko udalerria.
+88	Zailtasunaren eta prezioaren balorazioa
+89	Teknikariak ate mota, sarraila mota eta matxura zehazten ditu, eta joan-etorriaren baldintzak eta prezioa azaltzen dizkizu.
+90	Joan-etorria eta irekiera
+91	Sarrailagilea helbidera iristen da, sartzeko eskubidea duzula egiaztatzen du, lana zurekin adosten du eta irekitzen hasten da.
+92	Emaitzaren egiaztapena eta ordainketa
+93	Sarrailak ondo funtzionatzen duela egiaztatzen dugu. Behar izanez gero, konpontzea edo aldatzea proposatzen dizugu. Zuk ematen diozu oniritzia egindako lanari.
+94	Sarrailagilea behar duzu orain bertan? Deitu guardiako sarrailagileari.
+95	Prest gaude edozein egoeratan laguntzeko.
+96	Deitu sarrailagileari
+97	Galderak
+98	Cerrajero24ren zerbitzuei buruzko ohiko galderak
+99	Galdera gehiago dituzu?
+100	Jarri harremanetan sarrailagilearekin: erantzun egingo dizugu eta orain bertan zer egin esango dizugu.
+101	Zer zerbitzu eskaintzen ditu Cerrajero24k?
+102	<p>Etxebizitzen eta sarrera-ateen, autoen, kutxa gotorren, garajeen eta merkataritza-lokalen premiazko irekiera, baita sarrailen konponketa, aldaketa eta instalazioa eta giltza hautsiak ateratzea ere. Bilbon eta Bilbo Handiko udalerrietan lan egiten dugu. Zer zerbitzu behar duzun ziur ez badakizu, begiratu <a href="#choose">egoeraren araberako gida</a> edo azaldu arazoa telefonoz: operadoreak orientatuko zaitu.</p>
+103	Egunean 24 orduz lan egiten duzue?
+104	<p>Bai. Abisuak hartu eta joan egiten gara egunean 24 orduz, asteko zazpi egunetan, asteburuak eta jaiegunak barne. Gauez, 22:00etatik 08:00etara, eta asteburu eta jaiegunetan gainkostu bat aplikatzen da; operadoreak haren zenbatekoa esaten dizu deitzean, sarrailagilea abiatu aurretik.</p>
+105	Zenbat balio du sarrailagile bati deitzeak?
+106	<p>Prezioa zerbitzuaren, ate eta sarraila motaren, lanaren zailtasunaren eta orduaren araberakoa da. Erreferentzia bat duzu <a href="#prices">prezio-taulan</a>: ate-sarrailen premiazko irekiera 45 €-tik aurrera, autoena 45 €-tik aurrera eta kutxa gotorrena 60 €-tik aurrera. Joan-etorriaren prezioa operadoreak esaten dizu deitzean, eta azken prezioa sarrailagileak ematen du sarraila aztertu ondoren eta hasi aurretik.</p>
+107	Bisita berean ireki daiteke atea eta aldatu sarraila?
+108	<p>Bai. Sarrailagileak segurtasun-maila desberdineko bonbina eta sarraila ohikoenak eramaten ditu, beraz, normalean bisita berean egiten dugu aldaketa, ireki eta berehala. Zure ateak modelo berezi bat behar badu, ate blindatu baterako adibidez, bilatu eta bigarren bisita bat adosten dugu zurekin. Materialaren prezioa instalatu aurretik esaten dizugu.</p>
+109	Zenbat denbora beharko du sarrailagileak iristeko?
+110	<p>Eremuaren, orduaren eta guardiako sarrailagileen lan-kargaren araberakoa da. Operadoreak gutxi gorabeherako iristeko denbora esaten dizu deitu bezain laster, eta sarrailagileak atzerapena badu, aldez aurretik abisatzen dizu. Azkarren Bilboko erdiguneko auzoetara iristen gara; Bilbo Handiko udalerri urrunagoetara bidaia luzeagoa da.</p>
+111	Bilbotik kanpo ere joaten al dira sarrailagileak?
+112	<p>Bai, Bilbo Handiko 26 udalerrietan lan egiten dugu: Ezkerraldean (Barakaldo, Sestao, Portugalete, Santurtzi), Eskuinaldean (Getxo, Leioa, Erandio), Asua ibarrean, Basaurin, Galdakaon eta beste batzuetan. Bilbotik kanpoko joan-etorriaren prezioa distantziaren araberakoa da; operadoreak deitzean esango dizu. Zerbitzu-eremua <a href="{home}#areas">hasierako orriko mapan</a> ikus dezakezu.</p>
+113	Zer agiri behar dira irekierarako?
+114	<p>Etxebizitza edo etxe baterako, argazkidun agiri bat (NANa, AIZ edo pasaportea) eta helbidearekin lotzen zaituen zerbait: erroldatze-ziurtagiria (<span lang="es">empadronamiento</span>), alokairu-kontratua, eskritura (<span lang="es">escritura</span>) edo hornidura-faktura bat. Autoetarako, zirkulazio-baimena (<span lang="es">permiso de circulación</span>) edo ibilgailuaren beste agiri batzuk. Agiriak barruan badaude, ireki bezain laster egiaztatzen ditugu. Informazio gehiago <a href="{url:svc-puertas}#documents">agiriei buruzko atalean</a>.</p>
+115	Lanen bermea ematen duzue?
+116	<p>Bai, sarrailen konponketan, aldaketan eta instalazioan eta pieza berrietan. Bermearen epea eta baldintzak egindako lanaren agirian jasotzen dira; sarrailagileak lana amaitzean ematen du agiri hori. Premiazko irekiera baten ondoren, sarrailagileak beti egiaztatzen du sarrailak ondo funtzionatzen duela eta, behar izanez gero, konponketa proposatzen du.</p>
+117	Zerbitzu-eskaera
+118	Deitu Cerrajero24ko sarrailagile bati Bilbon
+119	Ezin duzu atea, autoa edo kutxa gotorra ireki? Utzi zure eskaera, eta teknikari batek deituko dizu arazoa ezagutu eta joan-etorria zehazteko.
+120	Egunean 24 orduz, asteburuetan eta jaiegunetan ere
+121	Prezioa hasi aurretik adosten dugu
+122	Kalterik gabe irekitzen saiatzen gara
+123	Konponketen eta instalazioen bermea
+124	Sarrailagile-eskaera
+125	Sarrailagilea Bilbon: sarrailak irekitzea, konpontzea eta aldatzea 24/7 — Cerrajero24
+126	Cerrajero24ren zerbitzu guztiak Bilbon eta Bilbo Handian: etxebizitzen, autoen, kutxa gotorren eta garajeen premiazko irekiera; sarrailen konponketa, aldaketa eta instalazioa. Egunean 24 orduz, prezioa hasi aurretik.
+127	Etxebizitzen, autoen, kutxa gotorren eta garajeen premiazko irekiera, eta sarrailen konponketa, aldaketa eta instalazioa Bilbon eta Bilbo Handian.
