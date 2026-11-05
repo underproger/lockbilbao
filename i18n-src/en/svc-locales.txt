@@ -1,0 +1,264 @@
+1	Business premises opening
+2	Office and premises opening
+3	Offices, shops, warehouses and other commercial premises.
+4	Office and business premises opening <span class="accent">in&nbsp;Bilbao</span>
+5	Office door won’t open before the working day, shop shutter lock jammed or lost the warehouse keys? We open commercial premises at&nbsp;any time and,&nbsp;if needed, replace the cylinders on the spot so your business doesn’t&nbsp;grind to a halt.
+6	Bilbao • Biscay
+7	Open 24/7
+8	At night, at&nbsp;weekends and&nbsp;on holidays
+9	Opening and replacement in one visit
+10	So old keys no longer work
+11	Price agreed before&nbsp;work begins
+12	Quoted in advance, no surprises
+13	Leave your number — we’ll call you back in a couple of minutes
+14	When you need help
+15	When do you need emergency premises opening?
+16	Every hour a shop or office stays shut means lost customers. Call us if you can’t get into your premises with your key.
+17	Office door won’t open
+18	The key won’t turn or the lock has jammed just before the working day starts.
+19	Metal shutter lock jammed
+20	The <span lang="es">cierre metálico</span> of a shop, bar or ground-floor unit won’t open.
+21	Lost the premises keys
+22	An employee has lost the keys and the spare set is far away.
+23	An employee left with the keys
+24	The cylinders need replacing so the old keys no longer work.
+25	Key broken in the lock
+26	A piece of key is stuck in the front door cylinder or the shutter lock.
+27	Lock damaged after a break-in attempt
+28	The premises need opening and securing again straight away.
+29	Need your premises opened urgently? Call a locksmith.
+30	Describe the door and lock — we’ll tell you what to do until we arrive.
+31	Call a locksmith
+32	Prices
+33	How much does it cost to open an office or shop in&nbsp;<span class="accent">Bilbao</span>?
+34	The price depends on the type of door and lock, the number of locks and the time of the call-out. We give an approximate price by phone and the final one before work begins.
+35	Office and commercial premises opening prices in Bilbao
+36	Service
+37	Price
+38	Office door opening
+39	Shop front door opening
+40	Metal shutter lock opening
+41	Warehouse or plant room opening
+42	Cylinder replacement after opening
+43	Replacing several cylinders on one key
+44	Urgent opening at night and at weekends
+45	Locksmith call-out within Bilbao
+46	Call-out
+47	The dispatcher tells you the call-out fee within Bilbao and Greater Bilbao when you call, before the locksmith sets off.
+48	Night and holiday rate
+49	Applies at night from 22:00 to 08:00, at weekends and on public holidays. We tell you the surcharge in advance.
+50	IVA (VAT)
+51	[State whether IVA is included in the prices in the table.]
+52	Invoice for businesses
+53	On request we issue an invoice (<span lang="es">factura</span>) to a company or self-employed person. Give the dispatcher your billing details.
+54	Cylinders and parts
+55	New cylinders, padlocks and other parts are charged separately — and only with your consent.
+56	Ask for a premises opening price
+57	Describe the door and locks and we’ll give you an approximate price.
+58	What the price depends on
+59	What does the cost of opening premises depend on?
+60	Four factors determine the price. Tell the dispatcher or send a photo of the lock and you’ll know the approximate cost before the locksmith sets off.
+61	Type of door
+62	Glass shop door, metal office door, warehouse gate or metal shutter.
+63	Type and number of locks
+64	Cylinder, multi-point and shutter locks, and padlocks.
+65	Type of fault
+66	Lost key, jammed mechanism, broken key or signs of a break-in.
+67	Time and address of the call-out
+68	Working hours, night or holiday; Bilbao or the suburbs.
+69	Final price
+70	The locksmith gives it after inspection and&nbsp;before starting — no work begins&nbsp;without your consent.
+71	If cylinders need replacing or a lock repairing after opening, we agree the cost separately — before starting.
+72	Call a locksmith
+73	Can’t open your office or shop? Call a locksmith
+74	Leave your name and phone number — the dispatcher will call you back within&nbsp;minutes, confirm the address and the type of door and locks and&nbsp;give you an approximate price. We work around the clock in&nbsp;Bilbao and&nbsp;Greater Bilbao.
+75	Premises
+76	We open all kinds of commercial premises
+77	We work with doors and locks of offices, shops and warehouses. The locksmith assesses the setup and chooses a method that gets the premises open as quickly as possible.
+78	Offices and private offices
+79	Office front doors, private offices and meeting rooms with cylinder and multi-point locks.
+80	Shops and shop windows
+81	Glass doors, shop window locks and metal shutters of retail premises.
+82	Bars, cafés and restaurants
+83	Front and service doors, shutter locks and storerooms.
+84	Warehouses and workshops
+85	Gates, service doors and padlocks of warehouses and industrial units.
+86	Studios, salons and clinics
+87	Medical and beauty clinics, hairdressers, studios.
+88	Ground-floor commercial units <span lang="es">lonjas</span>
+89	Commercial premises in Bilbao residential buildings.
+90	Opening and cylinder replacement in one visit
+91	Careful opening
+92	How to open premises without damage or downtime
+93	For a business, both protecting the door and speed matter: the locksmith chooses a method that lets you open to customers straight away.
+94	When the lock keeps working
+95	<p>If the key is lost but the cylinder is in good condition, the door can usually be opened without breaking anything. If the keys may have fallen into the wrong hands, the locksmith will replace the cylinder on the spot.</p>
+96	One key for several locks
+97	<p>When replacing them, you can choose cylinders that open with the same key — handy if the premises have several doors, or a door and a shutter.</p>
+98	Metal shutter locks
+99	<p>Shutter locks are outdoors and wear out faster from dirt and damp. The locksmith will open the lock and replace it if needed, without touching the shutter.</p>
+100	Why we agree any damage in advance
+101	<p>If the lock cannot be saved, the locksmith explains why and tells you the cost of a replacement. Work only begins with the consent of the person in charge.</p>
+102	What we check after opening
+103	<p>That all locks work, that the door and shutter close properly and that the set of keys is complete. If any lock is worn, we’ll offer to replace it straight away.</p>
+104	How it works
+105	How to call a locksmith to open an office or shop?
+106	Request
+107	Call us or send a request. Tell us the address, the type of premises and what’s wrong with the lock.
+108	Advice and price
+109	The dispatcher gives you an approximate price and arrival time and asks who will meet the locksmith.
+110	Opening the premises
+111	The locksmith checks authorisation, opens the door or shutter and replaces the cylinders if needed.
+112	Checking and keys
+113	We check all locks and hand the new keys over to the person in charge.
+114	Premises locked right now?
+115	The on-call locksmith is available around the clock — including at night and at weekends.
+116	Call a locksmith now
+117	Bilbao · Biscay
+118	Why Cerrajero24
+119	Why businesses choose <span class="accent">Cerrajero24</span>
+120	Help around the clock
+121	We take calls 24/7 — including before opening and after closing time.
+122	Call-outs across Bilbao and the suburbs
+123	Offices, shops, warehouses and ground-floor units — in the city and Greater Bilbao.
+124	Opening and replacement in one visit
+125	If needed, we replace the cylinders straight away so old keys won’t work.
+126	Transparent pricing
+127	We quote before starting; any extras only with your consent.
+128	Experience with commercial locks
+129	Multi-point locks, metal shutters, shop window locks and padlocks.
+130	Guaranteed work
+131	Guarantee on work and fitted parts. The terms are set out in the document we give you after the job.
+132	Reviews
+133	Customer reviews of office and&nbsp;shop opening
+134	Original reviews on Google
+135	Customer reviews of premises opening
+136	Aitor
+137	Shop · Casco Viejo
+138	One morning the metal shutter lock wouldn’t open, and the shop was due to open in an hour. The locksmith came, sorted out the lock and fitted a new one. We opened almost on time and customers didn’t notice a thing.
+139	Elena
+140	Office · Abando
+141	A colleague lost the office keys together with her access card. The locksmith opened the door and replaced the cylinder straight away, and new keys were handed out to everyone. The price was agreed in advance.
+142	Ricardo
+143	Café · Indautxu
+144	A key broke in the lock of the café’s service entrance. They got the broken piece out and checked the cylinder — it was fine, so there was no need to replace it. Quick and with no unnecessary costs.
+145	Svetlana
+146	Warehouse · Sestao
+147	The padlock on the warehouse gate wouldn’t open — it had rusted. The locksmith opened it without damaging the gate and fitted a new padlock that copes better with damp.
+148	Unai
+149	After a break-in attempt · Deusto
+150	Someone tried to force the salon door at night and the lock was damaged. Once the police had recorded everything, the locksmith opened the door, fitted an anti-burglary cylinder and suggested what else could be reinforced.
+151	See all reviews
+152	Legality and safety
+153	What documents are needed to open commercial premises?
+154	Before opening, the locksmith must make sure you own the business, rent the premises or are acting on their behalf.
+155	Accepted documents:
+156	DNI
+157	NIE
+158	Passport
+159	Company CIF / NIF
+160	Contrato de alquiler
+161	Escritura
+162	Written authorisation
+163	How to prove your right to the premises
+164	<p>A photo ID — DNI, NIE or passport — and a document linking you to the premises: a rental contract (<span lang="es">contrato de alquiler</span>), an <span lang="es">escritura</span> (title deed), company documents showing its address or a utility bill.</p>
+165	If you are an employee, not the owner
+166	<p>You’ll need authorisation from the owner or manager — in writing or confirmed to the locksmith by phone. Let the dispatcher know in advance.</p>
+167	If the documents are inside
+168	<p>The locksmith will open the door and check the documents straight after opening, before finishing the job. In doubtful situations, the check takes place in the presence of the Policía Municipal or the Ertzaintza.</p>
+169	If there has been a break-in attempt
+170	<p>Report it to the police on 112 first and don’t touch the lock until they arrive: the marks may be needed for the insurance claim. The locksmith will come once the damage has been recorded.</p>
+171	Why a locksmith may refuse the job
+172	<p>If your right of access cannot be confirmed with documents or by calling the owner, the locksmith may decline to open the premises. This protects your business from strangers.</p>
+173	Service area
+174	Office and shop opening in every district of <span class="accent">Bilbao</span>
+175	We come out to offices, shops, warehouses and ground-floor units in Bilbao’s districts and nearby towns in Biscay.
+176	Bilbao districts
+177	8 districts
+178	Deusto
+179	Uribarri
+180	Otxarkoaga-Txurdinaga
+181	Begoña
+182	Ibaiondo
+183	Abando
+184	Errekalde
+185	Basurto-Zorrotza
+186	Popular neighbourhoods: Casco Viejo, Indautxu, San Ignacio, Santutxu, Miribilla and others.
+187	Premises opening in the Bilbao suburbs
+188	Barakaldo
+189	Getxo
+190	Portugalete
+191	Santurtzi
+192	Leioa
+193	Sestao
+194	Basauri
+195	Erandio
+196	and other municipalities of Greater Bilbao.
+197	Good to know
+198	What to do if your office or shop won’t open?
+199	A locked shop or office means missed meetings and lost customers. Here’s how to quickly assess the situation, what to prepare for the locksmith and how to protect the premises after losing the keys.
+200	<h3>Office door won’t open: what to check first?</h3>
+201	<p>Try all the keys on the bunch and ask colleagues who has a spare set. Check whether the door is locked from inside with a second lock or bolt — this happens if the last person left through the service entrance.</p>
+202	<p>Don’t force the key: a key broken in the cylinder will make opening harder. Call a locksmith and describe what’s happening with the lock. See the <a href="#prices">price table</a> for guide prices.</p>
+203	<h3>Why does a metal shutter lock jam?</h3>
+204	<p>Metal shutter locks (<span lang="es">cierres metálicos</span>) are outdoors: dirt, water and sand get into them. The mechanism gradually wears out, and one day the key stops turning.</p>
+205	<p>To prevent this, clean the shutter lock from time to time and lubricate it with a dry lubricant. If it’s already sticking, a <a href="{url:svc-reparacion}">lock repair</a> will help — before it jams completely.</p>
+206	<h3>What to do if an employee loses the keys or leaves?</h3>
+207	<p>Replace the cylinders as soon as possible: it’s inexpensive and quick, and the old keys will no longer work. If the premises have several doors, you can fit cylinders keyed alike.</p>
+208	<p>Find out more about choosing cylinders on the <a href="{url:svc-cambio}">lock and cylinder replacement</a> page.</p>
+209	<h3>What to do after a break-in attempt?</h3>
+210	<p>Don’t touch the door or lock and call the police on 112 straight away. Photograph the damage: the photos and the police report (<span lang="es">denuncia</span>) will be needed for the insurance claim.</p>
+211	<p>Once the damage has been recorded, the locksmith will open the premises, replace the damaged lock and suggest how to improve security — for example, by <a href="{url:svc-instalacion}">fitting an extra lock</a>.</p>
+212	<h3>What to have ready before the locksmith arrives?</h3>
+213	<p>The exact address, the type of door and locks and the contact details of whoever will meet the locksmith. Have a photo ID ready and proof of your right to the premises. If you’re an employee, let the owner know — the locksmith may ask them to confirm the job. See which documents are accepted in the <a href="#documents">documents</a> section.</p>
+214	FAQ
+215	Frequently asked questions about premises opening
+216	Still have questions?
+217	Contact a locksmith — we’ll answer and tell you what to do right now.
+218	How much does it cost to open an office or shop in Bilbao?
+219	<p>The price depends on the type of door and locks, the nature of the fault, the time of the call-out and the address. See the <a href="#prices">price table</a> for guide prices. The dispatcher gives an approximate price by phone, and the locksmith gives the final one before starting.</p>
+220	Can the premises be opened before the working day starts?
+221	<p>Yes, we work around the clock. Call in advance — the dispatcher will give you an approximate arrival time so you can open on time. A surcharge applies at night, at weekends and on public holidays — we tell you the amount when you call.</p>
+222	Can the door be opened without damage?
+223	<p>Usually yes, if the cylinder is in good condition. If the keys may have fallen into the wrong hands, the locksmith will replace the cylinder straight away. If the lock is broken, the locksmith explains in advance what can be done and agrees the price with you.</p>
+224	Do you open shop metal shutters?
+225	<p>Yes, our locksmiths work with the metal shutter locks (<span lang="es">cierres metálicos</span>) of shops, bars, ground-floor units and warehouses. If the lock is worn, it can be replaced during the same visit.</p>
+226	Should cylinders be replaced when an employee leaves?
+227	<p>Yes, if they haven’t returned all the keys or could have made copies. Replacing cylinders is a quick and inexpensive way to protect the premises: the old keys will no longer work.</p>
+228	Can cylinders be keyed alike?
+229	<p>Yes, when replacing them you can choose cylinders that open with the same key. It’s convenient if the premises have several doors, or door and shutter locks. It depends on the model — the locksmith will advise you on site.</p>
+230	Do you issue invoices to companies?
+231	<p>Yes, on request we issue an invoice (<span lang="es">factura</span>) to a company or self-employed person. Give the dispatcher your billing details when booking.</p>
+232	What to do after a break-in attempt?
+233	<p>First call the police on 112 and don’t touch the lock until they arrive. Once the damage has been recorded, the locksmith will open the premises and replace the lock. Find out more in the <a href="#documents">documents</a> section.</p>
+234	What documents are needed to open premises?
+235	<p>A photo ID and proof of your right to the premises: a rental contract, an <span lang="es">escritura</span> or company documents. An employee will need authorisation from the owner or manager. Find out more in the <a href="#documents">documents</a> section.</p>
+236	Do you cover the Bilbao suburbs?
+237	<p>Yes. As well as every district of Bilbao, we cover the municipalities of Greater Bilbao: Barakaldo, Getxo, Portugalete, Santurtzi, Leioa, Sestao, Basauri, Erandio and others. The dispatcher will tell you the price and arrival time outside the city when you call. You can check your area on the <a href="#areas">service area map</a>.</p>
+238	More services
+239	Other Cerrajero24 services in&nbsp;Bilbao
+240	Request a locksmith
+241	Call a locksmith to open your premises in&nbsp;Bilbao
+242	Can’t get into your office, shop or warehouse? Contact Cerrajero24 to check the price and book a locksmith.
+243	Open 24/7 — including weekends and holidays
+244	Coverage: Bilbao and Biscay
+245	We agree the price before starting
+246	Opening and cylinder replacement in one visit
+247	Call a locksmith
+248	Premises opening
+249	Ask for a premises opening price
+250	Leave your number and, if you can, attach a photo of the door or lock. The locksmith will call you back with an approximate price.
+251	Photo of the door or lock
+252	The office door won’t open
+253	The shutter lock is jammed
+254	Lost keys
+255	Key broken in the lock
+256	Lock damaged after a break-in
+257	The cylinders need replacing
+258	Other
+259	Office and shop opening in Bilbao 24/7 — Cerrajero24
+260	Office, shop or warehouse won’t open? We open your premises in Bilbao 24/7 and replace the cylinders on the spot if needed. Price agreed before work begins.
+261	Office, shop or warehouse won’t open? We’ll open your premises in Bilbao around the clock, with the price agreed before we start.
+262	Office and commercial premises opening in Bilbao
+263	Emergency opening of offices, shops and warehouses
+264	Opening doors of offices, shops, warehouses, bars and ground-floor units, metal shutter locks, plus urgent cylinder replacement. Around the clock in Bilbao and Greater Bilbao.
