@@ -1,0 +1,170 @@
+1	Garage opening
+3	Garage locks, roller shutters and locking mechanisms.
+4	Garage and gate opening <span class="accent">in&nbsp;Bilbao</span>
+5	Garage door lock jammed, roller shutter won’t open or lost the keys to&nbsp;your storage room? We open sectional, up-and-over and&nbsp;swing doors, metal shutters, gates and&nbsp;padlocks. If the motor has failed, we’ll help you open the door manually.
+9	Doors, shutters, storage rooms
+10	Mechanical locks and padlocks
+15	When do you need a garage or gate opened?
+16	Contact us if you can’t get into your garage or storage room, or can’t open the door with your key or remote.
+17	Garage door lock jammed
+18	The key won’t turn or the door won’t unlock.
+19	Metal shutter won’t open
+20	The roller shutter lock (<span lang="es">cierre metálico</span>) has jammed or broken.
+21	Lost your garage keys
+22	There’s no spare set, and the car or your belongings are inside.
+23	Remote or motor not working
+24	The door doesn’t respond to the remote and needs opening manually.
+25	Padlock won’t open
+26	The padlock on a gate, storage room or garden gate won’t give with the key.
+27	Storage room locked
+28	No key for the storage room (<span lang="es">trastero</span>) in the building’s basement.
+29	Not sure what’s wrong with the door? Call a locksmith.
+30	Describe the door and lock — we’ll tell you what can be done until we arrive.
+33	How much does it cost to open a garage in&nbsp;<span class="accent">Bilbao</span>?
+34	The price depends on the type of door, lock and fault. We give an approximate price from a description or photo, and the final price before work begins.
+35	Garage and gate opening prices in Bilbao
+38	Opening a sectional or up-and-over door
+39	Opening swing gates and garden gates
+40	Opening a metal (roller) shutter
+41	Padlock opening
+42	Storage room opening
+43	Manual door opening when the motor has failed
+44	Urgent night-time garage opening
+52	Lock and parts
+53	If a new cylinder, padlock or other parts are needed, they are charged separately — and only with your consent.
+54	Door automation
+55	We open doors and repair locks. Repairing motors, remotes and electronics is a job for door automation specialists.
+56	Ask for a garage opening price
+57	Describe the door and lock and we’ll give you an approximate price.
+59	What makes up the cost of opening a garage?
+60	Four factors determine the price. Tell the dispatcher or send a photo and you’ll know the approximate cost before the locksmith sets off.
+61	Type of door
+62	Sectional, up-and-over, swing or sliding door, or metal shutter.
+63	Type of lock
+64	Cylinder lock, padlock, shutter lock or manual motor release.
+66	Lost key, jammed mechanism, broken cylinder or automation failure.
+68	Day or night; private garage or communal car park; Bilbao or the suburbs.
+71	If a new lock or mechanism repair is needed after opening, we agree the cost separately — before starting.
+73	Can’t open your garage? Call a locksmith
+74	Leave your name and phone number — the dispatcher will call you back within&nbsp;minutes, ask about the type of door and lock and&nbsp;give you an approximate price. We work around the clock in&nbsp;Bilbao and&nbsp;Greater Bilbao.
+75	Doors and locks
+76	We open garages, gates and storage rooms
+77	We work with all kinds of door designs and locking mechanisms. Before opening, the locksmith inspects the door and chooses a method that saves the mechanism.
+78	Sectional and up-and-over doors
+79	Private garage doors with manual or automatic opening.
+80	Metal shutters and roller doors <span lang="es">cierres metálicos</span>
+81	Roller doors for garages, ground-floor premises and storage units.
+82	Swing gates and garden gates
+83	Gates to courtyards, houses and car parks with mortice and rim locks.
+84	Sliding gates
+85	Gates with manual motor release and mechanical locks.
+86	Padlocks
+87	Padlocks on gates, shutters, storage rooms and outbuildings.
+88	Storage rooms <span lang="es">trasteros</span>
+89	Storage rooms in basements and lofts of residential buildings.
+90	Saving the lock and door comes first
+92	Garage opening without damaging the door
+93	A garage door is an expensive installation, so the locksmith first looks for a way to open it while keeping the door, tracks and motor intact.
+95	<p>If the key is lost but the cylinder is in good condition, the lock can often be opened without breaking it. After opening, only the cylinder needs replacing — the door and the lock itself stay.</p>
+96	If the automation has failed
+97	<p>Most motors can be released manually. The locksmith will help you open the door using the emergency release without damaging the mechanism. Repairing the motor is a job for automation specialists.</p>
+98	Why the type of door matters
+99	<p>Roller shutters, sectional doors and swing gates have different locks and tracks. The design determines how long the job takes and which tools are needed.</p>
+100	Why we agree any damage in advance
+101	<p>If the lock is broken and cannot be saved, the locksmith will first explain why and tell you the cost of replacing it. Work only begins once you agree.</p>
+103	<p>How the door opens and closes, whether the lock locks properly and whether anything blocks the door’s movement. If anything sticks, we’ll offer a repair straight away.</p>
+105	How to call a locksmith to open a garage in&nbsp;Bilbao?
+107	Call us or send a request. Tell us the address, the type of door and what happened.
+109	The dispatcher gives you an approximate price and arrival time. If the garage is in a communal car park, he asks how to get in.
+110	Door opening
+111	The locksmith checks your right of access and opens the door or lock using the agreed method.
+113	We check the door and lock work. If needed, we replace the cylinder or padlock.
+114	Garage won’t open right now?
+119	Why choose <span class="accent">Cerrajero24</span> for garage opening
+122	Call-outs across Bilbao and the suburbs
+123	Private garages, car parks, warehouses and storage rooms — in the city and Greater Bilbao.
+124	Careful work
+125	We try to save the lock, the door and its motor.
+128	All kinds of doors
+129	Roller shutters, sectional, swing and sliding doors, and padlocks.
+131	Guarantee on work and fitted parts. The terms are set out in the document we give you after the job.
+133	Customer reviews of garage opening in&nbsp;Bilbao
+135	Customer reviews of garage opening
+136	Íñigo
+137	Garage door · Basauri
+138	The key broke in the garage door lock with the car inside. The locksmith got the broken piece out, opened the door and fitted a new cylinder straight away. All done in one visit, with the price quoted in advance.
+139	Tatiana
+140	Storage room · Santutxu
+141	I lost the keys to our basement storage room. The locksmith carefully opened the padlock and fitted a new one. He asked to see the flat’s documents — which I actually found reassuring.
+142	Jorge
+143	Metal shutter · Casco Viejo
+144	One morning the metal shutter lock on the ground-floor unit where we keep our tools wouldn’t open. The locksmith sorted out the lock, cleaned and adjusted it — now the shutter goes up effortlessly.
+146	Remote not working · Leioa
+147	The garage door stopped responding to the remote, with the car locked in. The locksmith found the manual motor release and opened the door, and for the automation repair he honestly referred us to a specialist. Nothing unnecessary was pushed on us.
+148	David
+149	Padlock · Erandio
+150	The padlock on our plot gate had rusted and wouldn’t open. The locksmith opened it carefully without damaging the gate, and suggested a padlock that copes better with damp.
+153	What documents are needed to open a garage?
+154	Before opening, the locksmith must make sure you have the right to access the garage, storage room or premises.
+160	Parking space rental contract
+161	Recibo de la comunidad
+163	How to prove your right to the garage
+164	<p>A photo ID — DNI, NIE or passport — and a document linking you to the garage or storage room: an <span lang="es">escritura</span> (title deed), a parking space rental contract (<span lang="es">contrato de alquiler de plaza</span>) or a homeowners’ association receipt (<span lang="es">recibo de la comunidad</span>).</p>
+165	If the communal car park door won’t open
+166	<p>Communal doors belong to the homeowners’ association (<span lang="es">comunidad de propietarios</span>). If that’s the door that won’t open, contact the property manager (<span lang="es">administrador de fincas</span>) — they call the locksmith and agree the work.</p>
+167	If you rent the garage or storage room
+168	<p>A rental contract and a photo ID will do. If the lock of a rented garage needs replacing, it’s best to agree this with the owner and give them a spare key.</p>
+170	<p>If your right of access cannot be confirmed with documents or in any other way, the locksmith may decline to open the garage. This protects you too: a stranger cannot call a locksmith to your garage.</p>
+172	<p>If the lock cannot be opened without damage, the locksmith explains why and tells you the cost of a new cylinder or lock. Work only begins once you agree.</p>
+174	Garage opening in every district of <span class="accent">Bilbao</span>
+175	We come out to private garages, car parks, warehouses and storage rooms in Bilbao’s districts and nearby towns in Biscay.
+187	Garage opening in the Bilbao suburbs
+198	What to do if your garage won’t open?
+199	Garage doors usually fail at the worst moment — just when you need to drive off. Here’s what you can check yourself, what not to do and when it’s time to call a locksmith.
+200	<h3>Why won’t the key turn in the garage lock?</h3>
+201	<p>Garage and shutter locks are outdoors or in damp basements, so they suffer more from dirt, moisture and rust. The cylinder clogs up, and the bolt can seize to the strike plate.</p>
+202	<p>Don’t use force or try to turn the key with pliers: a broken key will make opening harder. If the lock is just sticking, a <a href="{url:svc-reparacion}">lock repair</a> will help; if the key has already broken, you need <a href="{url:svc-extraccion}">broken key extraction</a>.</p>
+203	<h3>What to do if the door doesn’t respond to the remote?</h3>
+204	<p>First check the remote’s battery and whether there’s power in the garage. If the motor isn’t working, most doors have a manual release — usually a cord or lever on the motor inside the garage, and on some models a lock outside.</p>
+205	<p>If you can’t reach the release, the locksmith will help you open the door manually. Repairing the motor and remotes is a job for door automation specialists.</p>
+206	<h3>Can a metal shutter be opened without damage?</h3>
+207	<p>Usually yes: if the problem is the lock, it is opened or replaced without touching the shutter. It’s harder if the shutter is twisted or has come off its tracks — then the locksmith will assess whether it can be fixed on the spot. Find out more in the <a href="#no-damage">opening without damage</a> section.</p>
+208	<h3>Should the garage lock be changed after losing the keys?</h3>
+209	<p>If the keys were lost together with documents or a key ring that could lead someone to your garage, it’s best to change the cylinder or padlock. It’s quick and inexpensive, and the old keys will no longer work. Find out more about <a href="{url:svc-cambio}">lock and cylinder replacement</a>.</p>
+211	<p>The address, the type of door and lock and, if possible, a photo. If the garage is in a communal car park or the storage room is in a basement, tell us how the locksmith can get in. Have a photo ID ready and proof of your right to the garage. See which documents are accepted in the <a href="#documents">documents</a> section.</p>
+213	Frequently asked questions about garage opening
+216	How much does it cost to open a garage in Bilbao?
+217	<p>The price depends on the type of door and lock, the nature of the fault, the time of the call-out and the address. See the <a href="#prices">price table</a> for guide prices. The dispatcher gives an approximate price by phone, and the locksmith gives the final one after inspection and before starting.</p>
+219	<p>Arrival time depends on the area, the time of day and how busy the on-call locksmiths are. The dispatcher gives you an approximate time as soon as you call and lets you know if the locksmith is delayed. We reach central Bilbao districts fastest; travel to Greater Bilbao municipalities usually takes longer.</p>
+220	Can a garage be opened without damaging the door?
+221	<p>Usually yes: if the problem is the lock, the locksmith opens or replaces it without touching the door itself. If the lock is broken, the locksmith explains in advance what can be done and agrees the price with you.</p>
+222	What to do if the door won’t open with the remote?
+223	<p>Check the remote’s battery and the power supply. If the motor isn’t working, the door can be opened manually using the emergency release. If you can’t reach it, the locksmith will help you open the door, and the motor will be repaired by automation specialists.</p>
+224	Do you open metal shutters and roller doors?
+225	<p>Yes, our locksmiths work with metal shutter locks (<span lang="es">cierres metálicos</span>) on garages, ground-floor premises and warehouses. After opening, they repair or replace the lock if needed.</p>
+226	Can a storage room be opened without a key?
+227	<p>Yes. The locksmith will open the storage room lock and fit a new one if needed. You’ll need proof that the storage room is yours: an <span lang="es">escritura</span>, a rental contract or a homeowners’ association receipt.</p>
+228	Who opens the communal car park door?
+229	<p>Communal doors belong to the homeowners’ association, so the property manager or the association’s president should call the locksmith and agree the work. We can carry out the work at their request.</p>
+230	Does the lock need changing after opening?
+231	<p>If the lock was opened without damage and works properly — no. If the keys are lost or the cylinder is damaged, it’s better to replace it so the old keys won’t work. The locksmith tells you the price of the new part before starting.</p>
+232	What documents are needed to open a garage?
+233	<p>A photo ID and proof of your right to the garage or storage room: an <span lang="es">escritura</span>, a parking space rental contract or a homeowners’ association receipt. Find out more in the <a href="#documents">documents</a> section.</p>
+239	Call a locksmith to open your garage in&nbsp;Bilbao
+240	Gate or garage won’t open? Contact Cerrajero24 to check the price and book a locksmith.
+244	We aim to save the lock and the door
+246	Garage opening
+247	Ask for a garage opening price
+248	Leave your number and, if you can, attach a photo of the door or lock. The locksmith will call you back with an approximate price.
+249	Photo of the door or lock
+250	The door lock is jammed
+251	The roller shutter won’t open
+253	The remote doesn’t work
+254	The padlock won’t open
+255	The storage room is locked
+257	Garage and gate opening in Bilbao 24/7 — Cerrajero24
+258	Garage, shutter or storage room lock jammed? We open garage doors, metal shutters and padlocks in Bilbao. Price agreed before work begins.
+259	Garage or shutter lock jammed? We’ll open your garage or gate in Bilbao, with the price agreed before we start.
+260	Garage and gate opening in Bilbao
+261	Emergency opening of garages, gates and roller shutters
+262	Opening garage doors, metal shutters (cierres metálicos), gates, storage rooms and padlocks when keys are lost or the mechanism has jammed. Bilbao and Greater Bilbao.
