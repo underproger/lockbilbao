@@ -1,0 +1,180 @@
+2	Emergency car opening
+3	Doors and boots of cars of all makes.
+4	Emergency car opening <span class="accent">in&nbsp;Bilbao</span>
+5	Keys left inside, boot slammed shut or car not responding to&nbsp;the remote? We come to wherever the car is: on&nbsp;the street, in&nbsp;a courtyard or in an underground car park. We open doors and&nbsp;boots without damaging windows, seals or&nbsp;paintwork.
+9	No marks on&nbsp;your car
+10	Windows and&nbsp;seals stay intact
+15	When do you need emergency car opening?
+16	Call us if you can’t get into your car with your key or remote — we’ll tell you what you can do until the locksmith arrives.
+17	Keys left inside the car
+18	The car locked itself or you shut the door with the keys inside.
+19	Boot slammed shut
+20	Your keys, bag or documents are in the locked boot.
+21	Remote not working
+22	The battery is flat and the car doesn’t respond to the buttons.
+23	Lost your car keys
+24	There’s no spare key or it’s far away, and you need to open the car now.
+25	Door lock jammed
+26	The key won’t go into the door cylinder or won’t turn.
+27	A child or animal inside
+28	If there is a health risk, call 112 immediately — the emergency services will get there faster.
+29	Not sure how to get into your car? Call a locksmith.
+30	Tell us the make, model and year — we’ll tell you what to do until we arrive.
+33	How much does it cost to open a car in&nbsp;<span class="accent">Bilbao</span>?
+34	The price depends on the car model, the locking system and the time of the call-out. We give an approximate price by phone and the final one before work begins.
+35	Emergency car opening prices in Bilbao
+38	Opening a passenger car door
+39	Opening an SUV or crossover
+40	Opening a van or minibus
+41	Boot opening
+42	Opening a car with keyless entry
+43	Opening a car with a jammed door lock
+44	Urgent night-time car opening
+52	Keys and electronics
+53	Cutting and programming keys is not included in the opening price. If you need a new key, tell the dispatcher and we’ll advise you.
+55	The locksmith gives it after inspecting the car — before work begins.
+56	Ask for a car opening price
+57	Tell us the make and model and we’ll give you a price guide.
+59	What does the cost of opening a car depend on?
+60	Four factors determine the price. Tell the dispatcher and you’ll know the approximate cost before the locksmith sets off.
+61	Make, model and year
+62	Door and lock designs vary considerably between models.
+63	Access system
+64	Standard key, flip key with remote or keyless entry.
+65	What needs opening
+66	A door, the boot or a jammed lock — not just a locked car.
+67	Time and place of the call-out
+68	Day or night; street, courtyard or underground car park; Bilbao or the suburbs.
+70	The locksmith gives it after inspecting the car and&nbsp;before starting — no work begins&nbsp;without your consent.
+71	If the door lock needs repairing or the cylinder replacing after opening, we agree the cost separately — before starting.
+73	Can’t get into&nbsp;your car? Call a locksmith
+74	Leave your name and phone number — the dispatcher will call you back within&nbsp;minutes, ask where the car is and its make and model, and&nbsp;give you an approximate price. We work around the clock in&nbsp;Bilbao and&nbsp;Greater Bilbao.
+75	Vehicles
+76	We open cars of all types and&nbsp;makes
+77	The locksmith chooses the opening method to suit each model’s design, so as not to damage the door, window or electronics.
+78	Passenger cars
+79	Saloons, hatchbacks and estates from European, Japanese and Korean makes.
+80	SUVs and crossovers
+81	Tall doors, reinforced seals and more complex locks.
+82	Vans and commercial vehicles
+83	Sliding side doors, rear barn doors and cargo areas.
+84	Boots and tailgates
+85	When keys or belongings are left in the locked boot.
+86	Cars with keyless entry
+87	Vehicles with a keyless system and a smart key that has stopped working.
+88	Older models with mechanical locks
+89	Cars without central locking — we take extra care with original parts.
+90	Windows and seals stay intact
+92	Car opening without damage
+93	Our aim is to get you back into your car without leaving scratches or marks on the windows and seals.
+94	How we open without leaving marks
+95	<p>The locksmith uses special automotive tools that don’t scratch the paint or bend the door. Breaking a window or drilling the cylinder is usually unnecessary.</p>
+96	Why the model matters
+97	<p>Every model has its own door design, linkages and electronics. Knowing the make and year, the locksmith brings the right tools and chooses a safe method.</p>
+98	Cars with electronics and keyless entry
+99	<p>The alarm may go off during opening — that’s normal: once you have your key, you can switch it off as usual. The locksmith takes keyless entry into account when choosing the method.</p>
+100	If a repair can’t be avoided
+101	<p>If the door lock is broken or jammed, the locksmith will first explain what’s wrong and tell you the cost of repairing it or replacing the cylinder. Work only begins once you agree.</p>
+103	<p>Whether all doors and the boot open, whether the central locking works with your key and whether anything stops them closing. If something isn’t right, we’ll tell you straight away.</p>
+105	How to call a locksmith to open a car in&nbsp;Bilbao?
+107	Call us or send a request. Tell us where the car is, its make and model and what happened.
+109	The dispatcher gives you an approximate price and arrival time and tells you what to do until the locksmith arrives.
+110	Car opening
+111	The locksmith arrives, checks your right to use the car and opens the door or boot using the agreed method.
+113	We check the doors, boot and central locking. If the cylinder needs repairing, we offer to do it straight away.
+114	Car locked right now?
+119	Why choose <span class="accent">Cerrajero24</span> for car opening
+121	We take calls 24/7, including weekends and public holidays.
+122	We come to your car
+123	Street, courtyard, shopping centre or underground car park — in Bilbao and the suburbs.
+124	No marks on your car
+125	Special automotive tools — no broken windows or scratches.
+127	We quote before starting; any extras only with your consent.
+128	All makes and models
+129	Passenger cars, SUVs and vans — from older models to keyless cars.
+130	Document check
+131	We only open the car for the owner or an authorised driver — this protects you too.
+133	Customer reviews of car opening in&nbsp;Bilbao
+135	Customer reviews of car opening
+137	Keys inside the car · Abando
+138	I left the keys on the seat and shut the door — the car locked straight away. The dispatcher asked for the make and year and gave me the price right away. The locksmith came to the station car park and opened the car without a single scratch, and checked the documents straight after opening.
+140	Boot slammed shut · Barakaldo
+141	We were loading our shopping at the shopping centre when the bag with the keys ended up in the boot and it slammed shut. The locksmith opened the car carefully — the seals and paintwork were left intact. The price matched what we were quoted on the phone.
+142	Miguel
+143	Remote not working · Getxo
+144	In the morning the car wouldn’t respond to the remote, and I needed to leave urgently. The locksmith opened the door and showed me where the mechanical key is hidden in the remote — it turned out the battery was simply flat. Now I know what to do if it happens again.
+145	Irina
+146	Van · Zorrotzaurre
+147	Our work van locked itself with the keys inside right on site. The locksmith came, opened the sliding door without damage and checked that the central locking worked. Calm and clear, no unnecessary chat.
+148	Álex
+149	Night call-out · Indautxu
+150	Late in the evening I realised my keys were locked in the car. They warned me about the night surcharge on the phone, and the locksmith came and opened the car carefully. The alarm went off, but I switched it off straight away with my key.
+153	What documents are needed to open a car?
+154	Before opening, the locksmith must make sure you have the right to use the vehicle.
+159	Permiso de circulación
+160	Ficha técnica
+161	Rental or leasing contract
+162	Insurance policy
+163	How to prove the car is yours
+164	<p>You need a photo ID — DNI, NIE or passport — and the vehicle registration certificate (<span lang="es">permiso de circulación</span>) or the technical inspection card (<span lang="es">ficha técnica</span>). The owner’s name or the registration number on the documents must match.</p>
+165	What to do if the documents are inside the car
+166	<p>This happens a lot: car documents are usually kept in the glovebox. Let the dispatcher know — the locksmith will open the car and check the documents straight after opening, before finishing the job.</p>
+167	If the car is rented or a company car
+168	<p>For a rental car, call the rental company first: many have their own assistance service. For a company car you will need confirmation from the company that you are its driver — for example, a written authorisation (<span lang="es">autorización</span>).</p>
+170	<p>If your right to use the car cannot be confirmed with documents or in any other way, the locksmith may decline to open it. This protects owners: a stranger cannot call a locksmith to someone else’s car.</p>
+171	When to call 112 instead of a locksmith
+172	<p>If a child, an elderly person or an animal is left in a locked car, especially in hot weather, call the emergency services on 112 immediately. Don’t wait for the locksmith if there is a health risk.</p>
+174	We open cars in every district of <span class="accent">Bilbao</span>
+175	We come to wherever the car is: on the street, in a courtyard, at a shopping centre or in an underground car park — in Bilbao and nearby towns in Biscay.
+187	Car opening in the Bilbao suburbs
+198	What to do if your keys are locked in the car?
+199	A locked car with the keys inside is a nuisance, but it’s usually sorted in a single locksmith visit. Here’s what to check yourself, what not to do and how to prepare for the specialist’s arrival.
+200	<h3>Keys left in the car: what to check first?</h3>
+201	<p>Walk around the car and try all the doors and the boot: sometimes one door stays unlocked. If you have a spare key — at home, with relatives or colleagues — it can be quicker to bring it than to wait for a locksmith.</p>
+202	<p>Don’t try to open the door with a wire, a ruler or a screwdriver: it’s easy to damage the seal, the lock linkages and the window motor wiring. Repairs after such an attempt cost more than the opening. See the <a href="#prices">price table</a> for guide prices.</p>
+203	<h3>Why won’t the car open with the remote?</h3>
+204	<p>Most often the remote’s battery is flat: the buttons stop working even though the key itself is fine. Many remotes hide a mechanical key — you can slide it out and open the driver’s door through the cylinder, if there is one.</p>
+205	<p>If neither the remote nor the cylinder responds, the cause may be a flat car battery or a faulty door lock. Call a locksmith: based on your description, he’ll tell you what to check.</p>
+206	<h3>Can a car be opened without damage?</h3>
+207	<p>In most cases, yes. Special automotive tools make it possible to open the door without breaking a window or drilling the cylinder. It’s important to give the make, model and year straight away: the method depends on them.</p>
+208	<p>If the door lock is broken or jammed, the locksmith will explain in advance what can be done and tell you the price. Find out more in the <a href="#no-damage">opening without damage</a> section.</p>
+209	<h3>What to do if a key breaks in a car door lock?</h3>
+210	<p>Don’t try to get the broken piece out with another key, a hairpin or glue: it’s easy to push it further in. The locksmith will extract it with a special tool and check the cylinder. Find out more about <a href="{url:svc-extraccion}">broken key extraction</a>.</p>
+211	<h3>What to have ready before the locksmith arrives?</h3>
+212	<p>The exact address or a landmark where the car is, its make, model, year and colour. If the car is in an underground car park, tell us how to get in. Have a photo ID ready — DNI, NIE or passport. If the car documents are inside, the locksmith will check them straight after opening. See which documents are accepted in the <a href="#documents">documents</a> section.</p>
+214	Frequently asked questions about car opening
+217	How much does it cost to open a car in Bilbao?
+218	<p>The price depends on the car’s make and model, the locking system and what needs opening — a door or the boot — as well as the time of the call-out and the address. See the <a href="#prices">price table</a> for guide prices. The dispatcher gives an approximate price by phone, and the locksmith gives the final one before starting.</p>
+220	<p>Arrival time depends on the area, the time of day and how busy the on-call locksmiths are. The dispatcher gives you an approximate time as soon as you call. If the car is in an underground car park or a closed area, tell us how to get there — so the locksmith doesn’t lose time.</p>
+221	Can a car be opened without damage?
+222	<p>Usually yes: the locksmith uses special automotive tools, with no broken windows or drilled cylinders. The method depends on the model and the locking system. If the door lock is faulty, the locksmith will explain in advance what can be done and agree the price with you.</p>
+223	Do you open cars with keyless entry?
+224	<p>Yes, our locksmiths work with cars with keyless systems and smart keys. Tell the dispatcher the make, model and year — he’ll say which method will work and how much it will cost.</p>
+225	What should I do if the remote doesn’t work?
+226	<p>First try opening the door with the mechanical key — many remotes have one hidden inside. If the remote’s battery is flat, it can be replaced. If the car responds to neither the remote nor the key, the car battery may be flat — call a locksmith and he’ll tell you what to do.</p>
+227	Can the boot be opened if the car is locked?
+228	<p>Yes. Depending on the model, the locksmith opens the boot directly or first opens a door and then the boot from inside. The dispatcher will tell you the method and price once you describe the situation.</p>
+229	What documents are needed to open a car?
+230	<p>A photo ID — DNI, NIE or passport — and the <span lang="es">permiso de circulación</span> or <span lang="es">ficha técnica</span>. If the car documents are inside, the locksmith will check them straight after opening. Find out more in the <a href="#documents">documents</a> section.</p>
+231	What if I’ve lost my car keys?
+232	<p>The locksmith will open the car so you can get your belongings and documents. To drive again you’ll need your spare key or a new one — ask the dispatcher about cutting and programming one when you call.</p>
+233	Do you open cars at night?
+234	<p>Yes, around the clock, including weekends and public holidays. At night from 22:00 to 08:00 and on public holidays a surcharge applies — the dispatcher tells you the amount when you call. If a child or animal is in the locked car, call 112 first.</p>
+236	<p>Yes. As well as every district of Bilbao, we cover the municipalities of Greater Bilbao: Barakaldo, Getxo, Portugalete, Santurtzi, Leioa, Sestao, Basauri, Erandio and others. The dispatcher will tell you the price and arrival time outside the city when you call. You can check your area on the <a href="#areas">service area map</a>.</p>
+240	Call a locksmith to open your car in&nbsp;Bilbao
+241	Can’t get into your car? Contact Cerrajero24 to check the price and book a locksmith.
+245	We aim to open without leaving marks on the car
+247	Car opening
+248	Ask for a car opening price
+249	Leave your number and, if you can, attach a photo of the car or the key. The locksmith will call you back with an approximate price.
+250	Photo of the car or key
+251	Keys left inside the car
+252	The boot slammed shut
+253	The remote doesn’t work
+255	The door lock is jammed
+257	Emergency car opening in Bilbao 24/7 — Cerrajero24
+258	Keys in the car, boot locked or flat remote battery? We open your car in Bilbao 24/7 without damaging windows or seals. Price agreed before work begins.
+259	Keys inside, boot locked or flat remote? We’ll open your car in Bilbao around the clock, with the price agreed before we start.
+260	Emergency car opening in Bilbao
+261	Emergency opening of car doors and boots
+262	Opening doors and boots of passenger cars, SUVs and vans when the keys are locked inside, lost or the remote isn’t working. Around the clock in Bilbao and Greater Bilbao.

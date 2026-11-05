@@ -1,0 +1,180 @@
+2	Apertura urgente de coches
+3	Puertas y maleteros de coches de todas las marcas.
+4	Apertura urgente de coches <span class="accent">en&nbsp;Bilbao</span>
+5	¿Las llaves se han quedado dentro, el maletero se ha cerrado o el coche no responde al&nbsp;mando? Vamos a donde esté el coche: en&nbsp;la calle, en&nbsp;un patio o en un aparcamiento subterráneo. Abrimos puertas y&nbsp;maleteros sin dañar cristales, gomas ni&nbsp;pintura.
+9	Sin marcas en&nbsp;el coche
+10	Cristales y&nbsp;gomas intactos
+15	¿Cuándo necesita una apertura urgente de su coche?
+16	Llámenos si no consigue entrar en el coche con su llave o su mando: le diremos qué puede hacer hasta que llegue el cerrajero.
+17	Llaves dentro del coche
+18	El coche se ha cerrado solo o ha cerrado la puerta con las llaves dentro.
+19	Maletero cerrado
+20	Las llaves, el bolso o los documentos se han quedado en el maletero cerrado.
+21	El mando no funciona
+22	Se ha agotado la pila y el coche no responde a los botones.
+23	Ha perdido las llaves del coche
+24	No tiene llave de repuesto o está lejos, y necesita abrir el coche ya.
+25	Cerradura de puerta atascada
+26	La llave no entra en el bombín de la puerta o no gira.
+27	Hay un niño o un animal dentro
+28	Si hay riesgo para la salud, llame enseguida al 112: los servicios de emergencia llegarán antes.
+29	¿No sabe cómo entrar en el coche? Llame al cerrajero.
+30	Díganos la marca, el modelo y el año: le diremos qué hacer hasta que lleguemos.
+33	¿Cuánto cuesta abrir un coche en&nbsp;<span class="accent">Bilbao</span>?
+34	El precio depende del modelo del coche, del sistema de cierre y de la hora del aviso. Le damos un precio orientativo por teléfono y el definitivo, antes de empezar.
+35	Precios de apertura urgente de coches en Bilbao
+38	Apertura de puerta de turismo
+39	Apertura de todoterreno o SUV
+40	Apertura de furgoneta o monovolumen
+41	Apertura de maletero
+42	Apertura de coche con acceso sin llave
+43	Apertura con la cerradura de la puerta atascada
+44	Apertura urgente de coche de noche
+52	Llaves y electrónica
+53	La fabricación y programación de llaves no está incluida en el precio de la apertura. Si necesita una llave nueva, díganoslo al llamar y le orientaremos.
+55	Se lo da el cerrajero tras revisar el coche, antes de empezar.
+56	Consultar el precio de apertura de un coche
+57	Díganos la marca y el modelo y le orientaremos sobre el precio.
+59	¿De qué depende el precio de abrir un coche?
+60	El precio depende de cuatro factores. Indíqueselos al operador y conocerá el precio orientativo antes de que salga el cerrajero.
+61	Marca, modelo y año
+62	Las puertas y cerraduras cambian bastante de un modelo a otro.
+63	Sistema de acceso
+64	Llave normal, llave plegable con mando o acceso sin llave.
+65	Qué hay que abrir
+66	Una puerta, el maletero o una cerradura atascada, no solo un coche cerrado.
+67	Hora y lugar del aviso
+68	Día o noche; calle, patio o aparcamiento subterráneo; Bilbao o alrededores.
+70	Se lo da el cerrajero tras revisar el coche y&nbsp;antes de empezar: sin su consentimiento no&nbsp;se empieza a trabajar.
+71	Si después de la apertura hay que reparar la cerradura de la puerta o cambiar el bombín, su precio se acuerda aparte, antes de empezar.
+73	¿No puede entrar en&nbsp;el coche? Llame al cerrajero
+74	Déjenos su nombre y teléfono: el operador le llamará en&nbsp;pocos minutos, le preguntará dónde está el coche, la marca y el modelo, y&nbsp;le dará un precio orientativo. Trabajamos las 24 horas en&nbsp;Bilbao y&nbsp;el Gran Bilbao.
+75	Vehículos
+76	Abrimos coches de todo tipo y&nbsp;marca
+77	El cerrajero elige el método de apertura según cómo está construido cada modelo, para no dañar la puerta, el cristal ni la electrónica.
+78	Turismos
+79	Berlinas, compactos y familiares de marcas europeas, japonesas y coreanas.
+80	Todoterrenos y SUV
+81	Puertas altas, gomas reforzadas y cerraduras más complejas.
+82	Furgonetas y vehículos comerciales
+83	Puertas laterales correderas y traseras batientes, zonas de carga.
+84	Maleteros y portones traseros
+85	Cuando las llaves o sus cosas se han quedado en el maletero cerrado.
+86	Coches con acceso sin llave
+87	Vehículos con sistema keyless y llave inteligente que ha dejado de funcionar.
+88	Modelos antiguos con cerraduras mecánicas
+89	Coches sin cierre centralizado: trabajamos con especial cuidado con las piezas originales.
+90	Cristales y gomas intactos
+92	Apertura de coches sin daños
+93	Nuestro objetivo es que recupere el acceso a su coche sin que queden arañazos ni marcas en el cristal ni en las gomas.
+94	Cómo abrimos sin dejar marcas
+95	<p>El cerrajero utiliza herramientas especiales para coches que no rayan la pintura ni deforman la puerta. Normalmente no hace falta romper el cristal ni taladrar el bombín para abrir.</p>
+96	Por qué es importante saber el modelo
+97	<p>Cada modelo tiene sus propias puertas, varillas y electrónica. Conociendo la marca y el año, el cerrajero lleva la herramienta adecuada y elige un método seguro.</p>
+98	Coches con electrónica y keyless
+99	<p>Al abrir puede saltar la alarma; es normal: cuando tenga la llave, la desactivará como siempre. El cerrajero tiene en cuenta el acceso sin llave al elegir el método.</p>
+100	Si no queda más remedio que reparar
+101	<p>Si la cerradura de la puerta está rota o atascada, el cerrajero le explicará primero qué le pasa y le dirá el precio de la reparación o del cambio de bombín. El trabajo solo empieza con su consentimiento.</p>
+103	<p>Si se abren todas las puertas y el maletero, si el cierre centralizado funciona con su llave y si nada impide el cierre. Si algo no va bien, se lo decimos enseguida.</p>
+105	¿Cómo llamar a un cerrajero para abrir un coche en&nbsp;Bilbao?
+107	Llámenos o deje una solicitud. Díganos dónde está el coche, la marca, el modelo y qué ha pasado.
+109	El operador le da un precio y un tiempo de llegada orientativos y le dice qué hacer hasta que llegue el cerrajero.
+110	Apertura del coche
+111	El cerrajero llega, comprueba su derecho a usar el coche y abre la puerta o el maletero con el método acordado.
+113	Comprobamos las puertas, el maletero y el cierre centralizado. Si hay que reparar el bombín, se lo proponemos en el momento.
+114	¿El coche está cerrado ahora mismo?
+119	Por qué elegir <span class="accent">Cerrajero24</span> para abrir su coche
+121	Atendemos avisos 24/7, incluidos fines de semana y festivos.
+122	Vamos hasta su coche
+123	Calle, patio, centro comercial o aparcamiento subterráneo, en Bilbao y alrededores.
+124	Sin marcas en el coche
+125	Herramientas especiales para coches: sin cristales rotos ni arañazos.
+127	Le damos el precio antes de empezar; cualquier extra, solo con su consentimiento.
+128	Todas las marcas y modelos
+129	Turismos, todoterrenos y furgonetas, desde modelos antiguos hasta coches keyless.
+130	Comprobación de documentos
+131	Solo abrimos el coche al propietario o a un conductor autorizado: así también le protegemos a usted.
+133	Opiniones de clientes sobre la apertura de coches en&nbsp;Bilbao
+135	Opiniones de clientes sobre la apertura de coches
+137	Llaves dentro del coche · Abando
+138	Dejé las llaves en el asiento y cerré la puerta, y el coche se bloqueó al momento. El operador me preguntó la marca y el año y me dio el precio enseguida. El cerrajero vino al aparcamiento de la estación y abrió el coche sin un solo arañazo; los documentos los comprobó nada más abrir.
+140	Maletero cerrado · Barakaldo
+141	Estábamos cargando la compra en el centro comercial, el bolso con las llaves se quedó en el maletero y se cerró. El cerrajero abrió el coche con cuidado: las gomas y la pintura, intactas. El precio coincidió con el que nos dieron por teléfono.
+142	Miguel
+143	El mando no funcionaba · Getxo
+144	Por la mañana el coche no respondía al mando y tenía que salir con prisa. El cerrajero abrió la puerta y me enseñó dónde está escondida la llave mecánica dentro del mando: simplemente se había agotado la pila. Ahora ya sé qué hacer si vuelve a pasar.
+145	Irina
+146	Furgoneta · Zorrotzaurre
+147	La furgoneta de trabajo se cerró con las llaves dentro en plena obra. El cerrajero vino, abrió la puerta corredera sin daños y comprobó que el cierre centralizado funcionaba. Todo tranquilo y claro, sin rodeos.
+148	Álex
+149	Aviso nocturno · Indautxu
+150	A última hora de la noche me di cuenta de que las llaves estaban dentro del coche. Del recargo nocturno me avisaron ya por teléfono; el cerrajero vino y abrió el coche con cuidado. Saltó la alarma, pero la apagué enseguida con mi llave.
+153	¿Qué documentos hacen falta para abrir un coche?
+154	Antes de abrir, el cerrajero debe asegurarse de que tiene derecho a usar el vehículo.
+159	Permiso de circulación
+160	Ficha técnica
+161	Contrato de alquiler o leasing
+162	Póliza del seguro
+163	Cómo demostrar que el coche es suyo
+164	<p>Necesita un documento con foto (DNI, NIE o pasaporte) y el permiso de circulación o la ficha técnica del vehículo. El nombre del titular o la matrícula de los documentos deben coincidir.</p>
+165	Qué hacer si los documentos se han quedado dentro
+166	<p>Es una situación habitual: la documentación del coche suele estar en la guantera. Avise al operador: el cerrajero abrirá el coche y comprobará los documentos nada más abrir, antes de terminar el trabajo.</p>
+167	Si el coche es de alquiler o de empresa
+168	<p>Si el coche es de alquiler, llame primero a la empresa de alquiler: muchas tienen su propio servicio de asistencia. Para un coche de empresa necesitará una confirmación de la empresa de que usted es el conductor, por ejemplo, una autorización por escrito.</p>
+170	<p>Si no es posible acreditar el derecho a usar el coche ni con documentos ni de otra forma, el cerrajero puede no abrirlo. Así se protege a los propietarios: un desconocido no podrá llamar a un cerrajero para abrir un coche ajeno.</p>
+171	Cuándo llamar al 112 y no al cerrajero
+172	<p>Si dentro del coche cerrado se ha quedado un niño, una persona mayor o un animal, sobre todo con calor, llame enseguida a los servicios de emergencia al 112. No espere al cerrajero si hay riesgo para la salud.</p>
+174	Abrimos coches en todos los barrios de <span class="accent">Bilbao</span>
+175	Vamos a donde esté el coche: en la calle, en un patio, en un centro comercial o en un aparcamiento subterráneo, en Bilbao y las localidades cercanas de Bizkaia.
+187	Apertura de coches en los alrededores de Bilbao
+198	¿Qué hacer si las llaves se han quedado dentro del coche?
+199	Un coche cerrado con las llaves dentro es un fastidio, pero normalmente se resuelve en una sola visita del cerrajero. Le contamos qué comprobar usted mismo, qué es mejor no hacer y cómo prepararse para la llegada del técnico.
+200	<h3>Llaves dentro del coche: ¿qué comprobar primero?</h3>
+201	<p>Dé la vuelta al coche y pruebe todas las puertas y el maletero: a veces alguna puerta se queda sin bloquear. Si tiene llave de repuesto —en casa, en la de un familiar o un compañero—, a veces es más rápido traerla que esperar al cerrajero.</p>
+202	<p>No intente abrir la puerta con un alambre, una regla o un destornillador: es fácil dañar la goma, las varillas de la cerradura y el cableado del elevalunas. La reparación después de un intento así sale más cara que la apertura. Tiene precios de referencia en la <a href="#prices">tabla de precios</a>.</p>
+203	<h3>¿Por qué el coche no se abre con el mando?</h3>
+204	<p>Lo más habitual es que se agote la pila del mando: los botones dejan de funcionar aunque la llave esté bien. Muchos mandos llevan escondida una llave mecánica: puede sacarla y abrir la puerta del conductor por el bombín, si lo tiene.</p>
+205	<p>Si no responde ni el mando ni el bombín, la causa puede ser la batería del coche descargada o una avería en la cerradura de la puerta. Llame al cerrajero: por lo que le cuente, le dirá qué comprobar.</p>
+206	<h3>¿Se puede abrir un coche sin daños?</h3>
+207	<p>En la mayoría de los casos, sí. Con las herramientas especiales para coches se puede abrir la puerta sin romper el cristal ni taladrar el bombín. Es importante indicar desde el principio la marca, el modelo y el año: de ello depende el método.</p>
+208	<p>Si la cerradura de la puerta está rota o atascada, el cerrajero le explicará de antemano qué se puede hacer y le dirá el precio. Más información en la sección de <a href="#no-damage">apertura sin daños</a>.</p>
+209	<h3>¿Qué hacer si la llave se ha roto en la cerradura de la puerta del coche?</h3>
+210	<p>No intente sacar el trozo con otra llave, una horquilla o pegamento: es fácil empujarlo más adentro. El cerrajero extraerá el trozo con una herramienta especial y revisará el bombín. Más información sobre la <a href="{url:svc-extraccion}">extracción de llaves rotas</a>.</p>
+211	<h3>¿Qué tener preparado antes de que llegue el cerrajero?</h3>
+212	<p>La dirección exacta o una referencia de dónde está el coche, la marca, el modelo, el año y el color. Si el coche está en un aparcamiento subterráneo, indíquenos cómo entrar. Tenga a mano un documento con foto: DNI, NIE o pasaporte. Si la documentación del coche se ha quedado dentro, el cerrajero la comprobará nada más abrir. Qué papeles sirven, en la sección de <a href="#documents">documentos</a>.</p>
+214	Preguntas frecuentes sobre la apertura de coches
+217	¿Cuánto cuesta abrir un coche en Bilbao?
+218	<p>El precio depende de la marca y el modelo del coche, del sistema de cierre y de lo que haya que abrir —una puerta o el maletero—, así como de la hora del aviso y de la dirección. Tiene precios de referencia en la <a href="#prices">tabla de precios</a>. El operador le da un precio orientativo por teléfono y el cerrajero, el definitivo, antes de empezar.</p>
+220	<p>El tiempo de llegada depende de la zona, de la hora y de la carga de trabajo de los cerrajeros de guardia. El operador le indica un tiempo aproximado en cuanto llama. Si el coche está en un aparcamiento subterráneo o en un recinto cerrado, díganos cómo llegar: así el cerrajero no perderá tiempo.</p>
+221	¿Se puede abrir un coche sin daños?
+222	<p>Normalmente, sí: el cerrajero trabaja con herramientas especiales para coches, sin romper cristales ni taladrar bombines. El método depende del modelo y del sistema de cierre. Si la cerradura de la puerta está averiada, el cerrajero le explicará de antemano qué se puede hacer y acordará el precio con usted.</p>
+223	¿Abren coches con acceso sin llave?
+224	<p>Sí, los cerrajeros trabajan con coches con sistema keyless y llaves inteligentes. Indique al operador la marca, el modelo y el año: le dirá qué método es el adecuado y cuánto costará.</p>
+225	¿Qué hacer si el mando no funciona?
+226	<p>Pruebe primero a abrir la puerta con la llave mecánica: muchos mandos la llevan escondida dentro. Si se ha agotado la pila del mando, se puede cambiar. Si el coche no responde ni al mando ni a la llave, puede que la batería esté descargada: llame al cerrajero y le dirá qué hacer.</p>
+227	¿Se puede abrir el maletero si el coche está cerrado?
+228	<p>Sí. Según el modelo, el cerrajero abre el maletero directamente o primero la puerta y después el maletero desde dentro. El operador le dirá el método y el precio cuando le describa la situación.</p>
+229	¿Qué documentos hacen falta para abrir un coche?
+230	<p>Un documento con foto (DNI, NIE o pasaporte) y el permiso de circulación o la ficha técnica. Si la documentación del coche está dentro, el cerrajero la comprobará nada más abrir. Más información en la sección de <a href="#documents">documentos</a>.</p>
+231	¿Qué hacer si ha perdido las llaves del coche?
+232	<p>El cerrajero abrirá el coche para que pueda sacar sus cosas y la documentación. Para volver a circular necesitará la llave de repuesto o una nueva: pregunte al operador al llamar por su fabricación y programación.</p>
+233	¿Abren coches de noche?
+234	<p>Sí, las 24 horas, incluidos fines de semana y festivos. De noche, de 22:00 a 08:00, y en festivos se aplica un recargo; el operador le indica su importe al llamar. Si dentro del coche cerrado hay un niño o un animal, llame primero al 112.</p>
+236	<p>Sí. Además de todos los barrios de Bilbao, nos desplazamos a los municipios del Gran Bilbao: Barakaldo, Getxo, Portugalete, Santurtzi, Leioa, Sestao, Basauri, Erandio y otros. El precio y el tiempo de llegada fuera de la ciudad se los indicará el operador al llamar. Puede comprobar su zona en el <a href="#areas">mapa de la zona de servicio</a>.</p>
+240	Llame a un cerrajero para abrir su coche en&nbsp;Bilbao
+241	¿No puede entrar en su coche? Contacte con Cerrajero24 para conocer el precio y pedir que vaya un cerrajero.
+245	Intentamos abrir sin dejar marcas en el coche
+247	Apertura de coche
+248	Consultar el precio de apertura de un coche
+249	Déjenos su número y, si puede, adjunte una foto del coche o de la llave. El cerrajero le llamará y le dará un precio orientativo.
+250	Foto del coche o de la llave
+251	Llaves dentro del coche
+252	El maletero se ha cerrado
+253	El mando no funciona
+255	La cerradura de la puerta se ha atascado
+257	Apertura urgente de coches en Bilbao 24 h — Cerrajero24
+258	¿Llaves dentro del coche, maletero cerrado o mando sin pila? Abrimos su coche en Bilbao 24/7 sin dañar cristales ni gomas. Precio antes de empezar.
+259	¿Llaves dentro, maletero cerrado o mando sin pila? Abrimos su coche en Bilbao las 24 horas, con el precio antes de empezar.
+260	Apertura urgente de coches en Bilbao
+261	Apertura urgente de puertas y maleteros de coches
+262	Apertura de puertas y maleteros de turismos, todoterrenos y furgonetas cuando las llaves se han quedado dentro, se han perdido o el mando no funciona. Las 24 horas en Bilbao y el Gran Bilbao.

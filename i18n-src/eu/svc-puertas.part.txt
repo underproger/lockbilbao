@@ -147,8 +147,8 @@
 162	NANa
 163	AIZ
 164	Pasaportea
-165	Erroldatzea
-166	Eskritura
+165	Empadronamiento
+166	Escritura
 167	Alokairu-kontratua
 168	Hornidura-faktura
 169	Nola egiaztatu bertan bizi zarela edo jabea zarela
