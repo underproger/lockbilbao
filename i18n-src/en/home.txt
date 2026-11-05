@@ -1,0 +1,246 @@
+1	Emergency lock opening
+2	Emergency locksmith <span class="accent">in&nbsp;Bilbao and&nbsp;Greater&nbsp;Bilbao.</span>
+3	Open 24/7
+4	Bilbao • Biscay
+5	Fast.
+6	Reliable.
+7	Professional.
+8	Services
+9	Emergency lock and&nbsp;door opening services <span class="accent">in&nbsp;Bilbao</span>
+10	We open locks on flats, houses, business premises, cars and safes. We also repair, replace and install locking mechanisms.
+11	Prices
+12	Emergency lock opening prices in&nbsp;<span class="accent">Bilbao</span>
+13	The price depends on the type of lock, its condition and how complex the job is. We confirm the details and agree the price before we start.
+14	Prices for lock opening, repair and installation in Bilbao
+15	Service
+16	Price
+17	Emergency door lock opening
+18	Car opening
+19	Safe opening
+20	Lock repair and replacement
+21	Lock installation and fitting
+22	Locksmith call-out within Bilbao
+23	Wasted call-out
+24	Garage
+25	opening
+26	Cylinder
+27	replacement
+28	Key
+29	extraction
+30	Night
+31	call-out
+32	Outside
+33	Bilbao
+34	The call-out may be included in the price or charged separately.
+35	Surcharges may apply for complex mechanisms, night work or travel outside the city.
+36	Parts and materials, if needed, are charged separately.
+37	The final price is agreed before any work begins.
+38	Ask for a lock opening price
+39	Contact a locksmith and get a preliminary estimate.
+40	Why choose Cerrajero24
+41	Why customers choose <span class="accent">our lock opening service</span>
+42	We help quickly, carefully and transparently. We work across Bilbao and Biscay, explain the price in advance and find the right solution for your situation.
+43	Fast call-out
+44	Quick response across Bilbao and nearby areas.
+45	A locksmith with&nbsp;15&nbsp;years’ experience
+46	Cylinders, armoured doors, cars and&nbsp;safes — we know how to open a lock without unnecessary damage.
+47	Available 24/7
+48	We help at night, at weekends and on public holidays.
+49	Careful opening
+50	First we look for a way to keep the lock and door intact.
+51	Transparent prices
+52	The price is agreed before work begins — no unpleasant surprises.
+53	Experienced specialists
+54	Real locksmiths with experience of all kinds of locks and doors.
+55	Guaranteed work
+56	We guarantee lock repairs, replacements and installations.
+57	How it works
+58	How we open doors and&nbsp;locks: 4&nbsp;steps
+59	Call and advice
+60	You call us or send a request, tell us what happened and give us your address in Bilbao or your Greater Bilbao municipality.
+61	Assessing complexity and cost
+62	The specialist checks the type of door, lock and fault, then explains the terms and the call-out fee.
+63	Call-out and opening
+64	The locksmith arrives, checks your right to access the property, agrees the work with you and starts opening.
+65	Checking the result and payment
+66	We test the lock. If needed, we suggest a repair or replacement. You approve the finished work.
+67	Need someone now? Call the on-call locksmith.
+68	We’re available and ready to help in any situation.
+69	Call a locksmith
+70	Doors and locks
+71	What types of doors and locks do our locksmiths open?
+72	Door types
+73	Lock types
+74	Metal
+75	Steel front doors of flats and houses.
+76	Armoured <span lang="es">puertas acorazadas</span>
+77	Reinforced leaf, multi-point locks and protective escutcheons.
+78	Wooden
+79	Solid wood and veneer, including old doors in Casco Viejo and Abando buildings.
+80	Building entrance doors <span lang="es">portales</span>
+81	Main entrance doors, gates and doors to communal areas of residential buildings.
+82	Interior
+83	Bathroom, bedroom and study doors with a latch or lock.
+84	Office
+85	Offices, studies, shops and other commercial premises.
+86	Storage rooms <span lang="es">trasteros</span>
+87	Storerooms, utility rooms, meter rooms and plant floors.
+88	Garage
+89	Sectional, up-and-over and swing doors, communal car park doors.
+90	Cylinder locks <span lang="es">bombín</span>
+91	The most common type in Spain, including anti-bump cylinders.
+92	Lever locks <span lang="es">de gorjas</span>
+93	Locks with a bit key, often found on old and armoured doors.
+94	Disc locks
+95	Locks with a disc mechanism and a half-round key.
+96	Surface-mounted bolts <span lang="es">cerrojos</span>
+97	Extra bolts that in Spain are often fitted in addition to the main lock.
+98	Combination locks
+99	Mechanical and electronic combination locks on doors and safes.
+100	Electronic locks
+101	Smart locks opened with a card, fingerprint or app.
+102	Padlocks <span lang="es">candados</span>
+103	Padlocks on gates, roller shutters, warehouses and storage rooms.
+104	Multi-point locks <span lang="es">multipunto</span>
+105	Locks with several bolts around the door frame.
+106	We work with locks by
+107	We check right of access on every call-out
+108	Safety
+109	Emergency lock opening without damage: how we keep you safe
+110	We aim to open the lock without damage. If that is not possible, we explain why beforehand and agree the next steps with you.
+111	When the lock can be saved
+112	Most doors that have slammed shut and most standard cylinders can be opened without breaking anything: the mechanism keeps working with your keys.
+113	When parts need replacing
+114	If the cylinder is broken, the key has snapped deep inside or the lock is worn, it is safer to replace the cylinder. We fit a new one on the spot.
+115	Why nobody can promise 100&nbsp;%
+116	High-security cylinders are designed to resist opening. It is more honest to say so beforehand than to promise the impossible.
+117	Destructive work only with your consent
+118	The locksmith only drills or replaces the lock once you have agreed the method and the price.
+119	Checking right of access
+120	We ask for your DNI, NIE or passport and a document linking you to the address: a rental contract, escritura (title deed) or a utility bill. For a car, the permiso de circulación (vehicle registration). In doubtful cases we work in the presence of the Policía Municipal or the Ertzaintza.
+121	Guarantee on completed work
+122	We guarantee repairs, installations and new parts. The guarantee period and terms are stated in the work completion document.
+123	Reviews
+124	Customer reviews of our lock opening service in&nbsp;Bilbao
+125	All reviews on Google Maps
+126	Leave a review
+127	Customer reviews
+128	María
+129	Night-time flat opening · Abando
+130	I shut the door around midnight with my keys and phone inside and called from my neighbour’s. The dispatcher gave me the price with the night surcharge straight away, no surprises. The locksmith arrived sooner than promised, calmly explained everything and opened the door in about ten minutes without a single scratch. The lock works as before and nothing had to be replaced.
+131	Javier
+132	Keys left in the car · Getxo
+133	I locked my keys in the car at the beach car park, with my wife’s documents and phone still inside. The locksmith came with the right tools and opened the door in a few minutes — no scratches on the bodywork and no damaged seals. The price matched what I was quoted on the phone, and he even told me how to avoid it happening again.
+134	Olga
+135	Cylinder replacement after moving · Deusto
+136	After moving in we decided to change the cylinder, as we had no idea who still had the old keys. The locksmith brought several cylinders with different security ratings, explained the difference without pushing the expensive option and fitted the new one in about twenty minutes. The final bill was exactly as agreed, with five new keys for the cylinder.
+137	Ana
+138	Door slammed shut · Barakaldo
+139	On a Sunday morning the door slammed shut with the dog and the washing machine running inside. I called with little hope, it being the weekend, but the locksmith arrived quite quickly, opened it carefully and also checked the lock was working. They really got me out of a fix — I’ve saved the number in my contacts.
+140	Igor
+141	Extra lock installation · Basauri
+142	We decided to fit a second lock on our front door after some burglaries in the area. The locksmith helped us choose the right model for our door, fitted it neatly, adjusted both locks and cleaned up the shavings. We were given a document with a guarantee for the work. I recommend them to friends.
+143	Lucía
+144	Car boot opening · Santurtzi
+145	Late one evening the boot stopped opening, with our things for an early trip inside. The locksmith arrived at the agreed time, opened it without damage and showed me that the lock rod had broken. He told me where to get it replaced cheaply and didn’t try to sell me anything I didn’t need.
+146	Call a locksmith with a proven reputation
+147	About us
+148	About Cerrajero24 and our locksmiths
+149	Cerrajero24 is an emergency lock opening and lock maintenance service in Bilbao and Greater Bilbao. We open doors of flats and houses, cars, safes and garages, and afterwards we repair, replace and install locks.
+150	A uniformed locksmith with ID and a full set of tools comes to every call-out. Before starting, he explains what he will do and tells you the price. Afterwards, he checks the lock with you and gives you a document with the guarantee.
+151	around the clock, including weekends and holidays
+152	Greater Bilbao municipalities in our service area
+153	€0
+154	advice by phone and estimates from a photo
+155	Bilbao • Biscay
+156	Service area
+157	Emergency lock opening in&nbsp;Bilbao and&nbsp;<span class="accent">Greater Bilbao</span>
+158	We come out to open doors and locks in every district of Bilbao and in the municipalities of the Greater Bilbao area.
+159	Bilbao districts
+160	8 districts
+161	Abando
+162	Deusto
+163	Uribarri
+164	Otxarkoaga-Txurdinaga
+165	Begoña
+166	Ibaiondo
+167	Errekalde
+168	Basurto-Zorrotza
+169	Lock opening in Greater Bilbao municipalities
+170	10 municipalities
+171	Barakaldo
+172	Getxo
+173	Portugalete
+174	Santurtzi
+175	Sestao
+176	Basauri
+177	Leioa
+178	Erandio
+179	Galdakao
+180	Etxebarri
+181	and other municipalities in the Greater Bilbao area.
+182	Good to know · Cerrajero24
+183	Emergency lock and door opening in&nbsp;<span class="accent">Bilbao</span>: what to know before calling a locksmith
+184	If your front door will not open, the first step is to work out what the problem is and avoid damaging the lock with improvised attempts. Below we explain how emergency door opening works, when a mechanism needs replacing and what to have ready before the locksmith arrives.
+185	<h3>Can a door be opened without damaging the lock?</h3>
+186	<p>In many cases the front door can be opened while keeping the lock and the door leaf intact. The result depends on how the door is built, the type of cylinder, the condition of the mechanism and the reason it is blocked. For example, a door that has slammed shut and a faulty multi-point lock need different approaches.</p>
+187	<p>The Cerrajero24 locksmith first inspects the door and assesses whether it can be opened without damage. If restoring access means damaging or replacing some parts, the specialist will explain the situation and agree the steps with you before starting. Find out more on the <a href="{url:svc-puertas}">emergency door opening</a> page.</p>
+188	<h3>What to do if your front door is jammed?</h3>
+189	<p>Do not force the key, hit the lock or try to prise the door open with whatever is at hand. This can make the fault worse, damage the cylinder and increase the cost of the repair. Check whether a sagging door leaf is stopping it from closing and whether the key shows any signs of damage.</p>
+190	<p>If the mechanism still does not work, contact a locksmith. Tell them whether the key turns, whether the handle opens the door and what kind of lock you have. With this information the specialist can assess the job in advance. If the cause is a worn mechanism, a <a href="{url:svc-reparacion}">door lock repair</a> will help.</p>
+191	<h3>When does a lock need replacing after opening?</h3>
+192	<p>You do not have to replace the lock after every emergency opening. If the mechanism is sound and the door was opened without damage, it is usually enough to check it works. Replacement may be needed if the cylinder is worn, a key has broken inside, the mechanism is damaged or it keeps sticking.</p>
+193	<p>Losing your keys or moving into a new flat is a different matter. Even if the door opens normally, a new cylinder ensures nobody can use old sets of keys. The locksmith will tell you whether replacing the cylinder is enough or the whole lock needs changing. Find out more about <a href="{url:svc-cambio}">lock and cylinder replacement</a>.</p>
+194	<h3>How to prepare for the locksmith’s visit?</h3>
+195	<p>When you call, give your address in Bilbao or Biscay and the type of property, and briefly describe the problem: the door slammed shut, the keys are lost, the lock is jammed or the key is damaged. If you can, send a photo of the door and the lock — it helps with a preliminary estimate.</p>
+196	<p>Have a document or other proof of your right to access the property ready. If your documents are inside, let the dispatcher know in advance. Before starting, the locksmith will check that you are authorised, inspect the lock and agree the price and any additional costs. You can send a request <a href="#request">using the form below</a> or by phone.</p>
+197	FAQ
+198	Frequently asked questions about emergency lock opening in&nbsp;Bilbao
+199	Still have questions?
+200	Contact a locksmith — we’ll answer and tell you what to do right now.
+201	How much does emergency lock opening cost in Bilbao?
+202	<p>Emergency door lock opening costs from €45, car opening from €45 and safe opening from €60. The final price depends on the type of door and lock, the time of day and the area; the dispatcher will tell you the call-out fee when you call. The locksmith gives the exact amount after inspecting the lock and before starting work — he will not begin without your consent.</p>
+203	How long does it take for the locksmith to arrive?
+204	<p>It depends on the area, the time of day and how busy the on-call locksmiths are. The dispatcher gives you an approximate arrival time as soon as you call and warns you in advance if the locksmith is delayed. We reach central Bilbao districts fastest. Travel to more distant Greater Bilbao municipalities, such as Muskiz or Larrabetzu, takes longer.</p>
+205	Can a front door be opened without damage?
+206	<p>In most cases, yes — especially if the door has slammed shut on the latch and the cylinder is in good condition. With armoured doors and high-security locks it is sometimes impossible to save the mechanism. We aim to open the lock without damage, and if that is not possible, we explain why beforehand and agree the next steps and the price with you.</p>
+207	Is the lock opening service available 24 hours a day?
+208	<p>Yes. We take requests and come out 24 hours a day, seven days a week, including weekends and public holidays. At night, from 22:00 to 08:00, and at weekends and on holidays a surcharge applies — the dispatcher tells you the amount when you call, before the locksmith sets off.</p>
+209	Can you open a flat if the keys are inside?
+210	<p>Yes, it’s one of the most common situations. If the door has slammed shut with the key left in the lock on the inside, the locksmith will choose the method that suits that particular case. After opening, we will ask you to show a document proving you live at the address: DNI, NIE, a rental contract or a utility bill.</p>
+211	What should I do if the key breaks in the lock?
+212	<p>Do not try to pull the broken piece out with a hairpin or glue: you could push it further in and damage the cylinder. If the door is open, do not close it. Call a locksmith: he will extract the piece with a special tool, check the mechanism and, if the cylinder is damaged, offer to replace it on the spot. Key extraction costs from €60.</p>
+213	What documents are needed to open a flat or a car?
+214	<p>For a flat or house, a photo ID (DNI, NIE or passport) and proof of your link to the address: a certificate of registration (empadronamiento), a rental contract, an escritura (title deed) or a utility bill. For a car, the permiso de circulación (vehicle registration) or other vehicle documents. If the documents are inside, we check them straight after opening. In doubtful situations we work in the presence of the police.</p>
+215	How much does it cost to open a lock at night?
+216	<p>From 22:00 to 08:00, and at weekends and on public holidays, a surcharge is added to the base price; the amount depends on the time and the complexity of the work. We tell you the full amount, surcharge included, when you call — before the locksmith sets off — so a night call-out doesn’t end in an unexpected bill.</p>
+217	Can the lock be replaced straight after opening?
+218	<p>Yes. The locksmith carries popular cylinders and locks with different security ratings, so we usually replace them during the same visit. If your door needs a special model, for example for an armoured door, we will source it and arrange a second visit. We tell you the price of the parts before fitting them.</p>
+219	Do you open armoured doors and electronic locks?
+220	<p>Yes, we work with armoured doors (puertas acorazadas), multi-point, combination and electronic locks. These are more complex jobs: prices start at €150 and depend on the model and security rating. For an electronic lock, tell us the model and what exactly is wrong — a flat battery, a malfunction or a mechanical fault.</p>
+221	Can I get a price in advance from a photo?
+222	<p>Yes. Send a photo of the lock from both sides of the door via the website form or WhatsApp and briefly describe the situation. The photos are easy to take on your phone: outside, a close-up of the cylinder; inside, the handle and the latch. The locksmith will identify the type of mechanism and give you an approximate price. The final price is confirmed on site after inspection — before work begins.</p>
+223	Do your locksmiths work outside Bilbao?
+224	<p>Yes, we work in all 26 municipalities of Greater Bilbao: on the Left Bank (Barakaldo, Sestao, Portugalete, Santurtzi), on the Right Bank (Getxo, Leioa, Erandio), in the Asua valley, in Basauri, Galdakao and others. The call-out fee outside Bilbao depends on the distance — the dispatcher will tell you when you call.</p>
+225	Request a locksmith
+226	Call an emergency locksmith in&nbsp;Bilbao
+227	Can’t open your door, car or safe? Send us a request and a specialist will contact you to discuss the problem and arrange the call-out.
+228	Around the clock, including weekends and holidays
+229	We agree the price before starting
+230	We aim to open without damage
+231	Guarantee on repairs and installations
+232	Request a locksmith
+233	Ask for a lock opening price
+234	Leave your number and, if you can, attach a photo of the lock. The locksmith will call you back with an approximate price.
+235	Photo of the lock
+236	The door slammed shut
+237	The door is locked and I have no key
+238	The key broke
+239	The lock is jammed
+240	Open a car
+241	Open a safe
+242	Replace or install a lock
+243	Other
+244	Emergency locksmith in Bilbao 24/7 — Cerrajero24
+245	24/7 emergency locksmith in Bilbao and Greater Bilbao. We open doors, cars, safes and garages, and replace and repair locks. Price agreed before work begins.
+246	We open doors, cars, safes and garages in Bilbao and Greater Bilbao. Around the clock, with the price agreed before we start.
