@@ -1,7 +1,7 @@
 /* Cerrajero24 — дополнения для WordPress: переключатель языков, админ-панель, обычные страницы */
 
 /* ---------- Переключатель языков (шапка) ---------- */
-.lang { position: relative; }
+.lang { position: relative; flex: none; }
 .lang__current {
   display: inline-flex; align-items: center; gap: 6px;
   height: 36px; padding: 0 10px 0 12px;
@@ -33,6 +33,15 @@
 .lang__list a:hover { background: var(--mist); }
 .lang__list a[aria-current] { background: var(--paper); }
 .lang__list a[aria-current] b { color: var(--green); }
+
+/* узкий десктоп: место под переключатель языков */
+@media (max-width: 1180px) {
+  .lang__current { height: 34px; padding: 0 8px 0 10px; }
+}
+@media (max-width: 1120px) {
+  .header__inner { gap: 24px; }
+  .header__actions .header__247 { display: none; }
+}
 
 /* ---------- Языки в мобильном меню ---------- */
 .mobile-menu__langs { display: flex; flex-wrap: wrap; gap: 8px; margin: 0 0 18px; padding: 0; list-style: none; }
