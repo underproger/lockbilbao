@@ -1,0 +1,55 @@
+1	Servicios
+2	Servicios de apertura, reparación y cambio de cerraduras <span class="accent">en&nbsp;Bilbao</span>
+3	Abrimos pisos, coches, cajas fuertes y garajes; reparamos, cambiamos e instalamos cerraduras. Trabajamos las 24 horas en&nbsp;Bilbao y&nbsp;los municipios del Gran Bilbao.
+5	Precio antes de empezar
+6	Bilbao y Gran Bilbao
+7	Cerrajero de guardia disponible
+8	Cuéntenos qué ocurre: el operador le dirá qué servicio necesita y le dará un precio y un tiempo de llegada orientativos.
+9	Apertura urgente
+10	Apertura urgente de puertas, coches y&nbsp;cajas fuertes
+11	Acudimos cuando no puede entrar en su piso, coche o garaje, o no consigue abrir la caja fuerte. Primero probamos los métodos que conservan la cerradura.
+12	Reparación y cambio
+13	Reparación, cambio e instalación de cerraduras
+14	Cuando la cerradura se atasca, la llave se ha roto o, tras una mudanza, hay que cambiar el bombín. Elegimos el mecanismo adecuado para su puerta y lo instalamos en la misma visita.
+15	¿No encuentra el servicio que busca?
+16	Cuéntenos qué le pasa a la cerradura o a la puerta: le diremos qué cerrajero necesita y cuánto le costará.
+17	Elegir según su situación
+18	Elegir servicio
+19	¿No sabe qué servicio necesita?
+20	Busque su situación y le diremos qué servicio le conviene. Si no aparece en la lista, llámenos: el operador lo resolverá por teléfono.
+21	Llamar al operador
+22	La puerta se ha cerrado y las llaves están dentro
+23	Apertura de puertas y pisos
+24	Las llaves se han quedado en el coche o en el maletero
+25	Apertura de coches
+26	Ha olvidado el código o la caja fuerte no se abre
+27	Apertura de cajas fuertes
+28	No se abre la puerta del garaje o la persiana
+29	Apertura de garajes y portones
+30	La llave se ha roto dentro de la cerradura
+31	Extracción de llaves rotas
+32	La llave gira con dificultad o la cerradura se atasca
+33	Reparación de cerraduras
+34	Ha perdido las llaves o se ha mudado a un piso nuevo
+35	Cambio de cerraduras y bombines
+36	Quiere reforzar la puerta de entrada
+37	Instalación y montaje de cerraduras
+98	Preguntas frecuentes sobre los servicios de Cerrajero24
+101	¿Qué servicios ofrece Cerrajero24?
+102	<p>Apertura urgente de pisos y puertas de entrada, coches, cajas fuertes, garajes y locales comerciales, además de la reparación, el cambio y la instalación de cerraduras y la extracción de llaves rotas. Trabajamos en Bilbao y en los municipios del Gran Bilbao. Si no está seguro de qué servicio necesita, consulte <a href="#choose">la guía por situaciones</a> o explíquenos el problema por teléfono: el operador le orientará.</p>
+103	¿Trabajan las 24 horas?
+105	¿Cuánto cuesta llamar a un cerrajero?
+106	<p>El precio depende del servicio, del tipo de puerta y de cerradura, de la complejidad del trabajo y de la hora. Tiene una referencia en la <a href="#prices">tabla de precios</a>: apertura urgente de cerraduras de puertas desde 45 €, de coches desde 45 € y de cajas fuertes desde 60 €. El precio del desplazamiento se lo indica el operador al llamar, y el precio final lo da el cerrajero tras revisar la cerradura y antes de empezar.</p>
+107	¿Se puede abrir la puerta y cambiar la cerradura en la misma visita?
+108	<p>Sí. El cerrajero lleva consigo los bombines y cerraduras más habituales de distintos niveles de seguridad, así que normalmente hacemos el cambio en la misma visita, justo después de abrir. Si su puerta necesita un modelo especial, por ejemplo para una puerta acorazada, lo buscamos y acordamos con usted una segunda visita. El precio del material se lo decimos antes de instalarlo.</p>
+109	¿Cuánto tarda en llegar el cerrajero?
+110	<p>El tiempo depende de la zona, de la hora y de la carga de trabajo de los cerrajeros de guardia. El operador le indica el tiempo aproximado de llegada en cuanto llama y, si el cerrajero se retrasa, le avisa con antelación. Donde antes llegamos es a los barrios céntricos de Bilbao; a los municipios más alejados del Gran Bilbao el trayecto es más largo.</p>
+112	<p>Sí, trabajamos en los 26 municipios del Gran Bilbao: en la Margen Izquierda (Barakaldo, Sestao, Portugalete, Santurtzi), en la Margen Derecha (Getxo, Leioa, Erandio), en el valle de Asua, en Basauri, Galdakao y otros. El precio del desplazamiento fuera de Bilbao depende de la distancia; el operador se lo indicará al llamar. Puede ver la zona de servicio en el <a href="{home}#areas">mapa de la página de inicio</a>.</p>
+113	¿Qué documentos hacen falta para la apertura?
+114	<p>Para un piso o una casa, un documento con foto (DNI, NIE o pasaporte) y algo que le vincule con la dirección: el certificado de empadronamiento, el contrato de alquiler, la escritura o una factura de suministros. Para un coche, el permiso de circulación u otra documentación del vehículo. Si los documentos están dentro, los comprobamos nada más abrir. Más información en la sección de <a href="{url:svc-puertas}#documents">documentos</a>.</p>
+115	¿Dan garantía en los trabajos?
+116	<p>Sí, en la reparación, el cambio y la instalación de cerraduras y en las piezas nuevas. El plazo y las condiciones de la garantía figuran en el documento del trabajo realizado, que el cerrajero entrega al terminar. Después de una apertura urgente, el cerrajero siempre comprueba que la cerradura funciona correctamente y, si hace falta, le propone una reparación.</p>
+118	Llame a un cerrajero de Cerrajero24 en&nbsp;Bilbao
+125	Cerrajero en Bilbao: apertura, reparación y cambio de cerraduras 24 h — Cerrajero24
+126	Todos los servicios de Cerrajero24 en Bilbao y el Gran Bilbao: apertura urgente de pisos, coches, cajas fuertes y garajes; reparación, cambio e instalación de cerraduras. Las 24 horas, precio antes de empezar.
+127	Apertura urgente de pisos, coches, cajas fuertes y garajes; reparación, cambio e instalación de cerraduras en Bilbao y el Gran Bilbao.

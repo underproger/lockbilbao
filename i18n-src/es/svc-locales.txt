@@ -1,0 +1,264 @@
+1	Apertura de locales
+2	Apertura de oficinas y locales
+3	Oficinas, tiendas, almacenes y otros locales comerciales.
+4	Apertura de oficinas y locales <span class="accent">en&nbsp;Bilbao</span>
+5	¿La puerta de la oficina no abre antes de empezar la jornada, se ha atascado la cerradura del cierre metálico de la tienda o se han perdido las llaves del almacén? Abrimos su local a&nbsp;cualquier hora y,&nbsp;si hace falta, cambiamos los bombines en el momento para que su negocio no&nbsp;se pare.
+6	Bilbao • Bizkaia
+7	Trabajamos 24/7
+8	De noche, en&nbsp;fin de semana y&nbsp;en festivos
+9	Apertura y cambio en una sola visita
+10	Para que las llaves antiguas dejen de servir
+11	Precio antes de&nbsp;empezar
+12	Se lo decimos antes, sin sorpresas
+13	Déjenos su número y le llamamos en un par de minutos
+14	Cuándo necesita ayuda
+15	¿Cuándo hace falta una apertura urgente de un local?
+16	Cada hora con la tienda o la oficina cerrada son clientes perdidos. Llámenos si no consigue entrar con su llave.
+17	No se abre la puerta de la oficina
+18	La llave no gira o la cerradura se ha atascado justo antes de empezar la jornada.
+19	Cerradura del cierre metálico atascada
+20	No se abre el cierre metálico de la tienda, el bar o la lonja.
+21	Ha perdido las llaves del local
+22	Un empleado ha perdido las llaves y el juego de repuesto está lejos.
+23	Un empleado se ha ido con las llaves
+24	Hay que cambiar los bombines para que las llaves antiguas dejen de servir.
+25	Se ha roto la llave en la cerradura
+26	Un trozo de llave se ha quedado en el bombín de la puerta o en la cerradura del cierre.
+27	Cerradura dañada tras un intento de robo
+28	Hay que abrir el local y restablecer la seguridad enseguida.
+29	¿Necesita abrir el local con urgencia? Llame al cerrajero.
+30	Descríbanos la puerta y la cerradura y le diremos qué hacer hasta que lleguemos.
+31	Llamar al cerrajero
+32	Precios
+33	¿Cuánto cuesta abrir una oficina o una tienda en&nbsp;<span class="accent">Bilbao</span>?
+34	El precio depende del tipo de puerta y de cerradura, del número de cerraduras y de la hora del aviso. Le damos un precio orientativo por teléfono y el definitivo, antes de empezar.
+35	Precios de apertura de oficinas y locales comerciales en Bilbao
+36	Servicio
+37	Precio
+38	Apertura de puerta de oficina
+39	Apertura de puerta de entrada de tienda
+40	Apertura de cerradura de cierre metálico
+41	Apertura de almacén o cuarto técnico
+42	Cambio de bombín tras la apertura
+43	Cambio de varios bombines con llave única
+44	Apertura urgente de noche y en fin de semana
+45	Desplazamiento del cerrajero en Bilbao
+46	Desplazamiento
+47	El operador le indica el precio del desplazamiento en Bilbao y el Gran Bilbao al llamar, antes de que salga el cerrajero.
+48	Tarifa nocturna y festiva
+49	Se aplica de noche, de 22:00 a 08:00, en fines de semana y festivos. Le decimos el recargo de antemano.
+50	IVA
+51	[Indicar si el IVA está incluido en los precios de la tabla.]
+52	Factura para empresas
+53	Si lo solicita, emitimos factura a nombre de la empresa o del autónomo. Indique los datos fiscales al operador.
+54	Bombines y materiales
+55	Los bombines nuevos, los candados y otras piezas se pagan aparte y solo con su consentimiento.
+56	Consultar el precio de apertura de un local
+57	Descríbanos la puerta y las cerraduras y le daremos un precio orientativo.
+58	De qué depende el precio
+59	¿De qué depende el precio de abrir un local?
+60	El precio depende de cuatro factores. Indíqueselos al operador o envíenos una foto de la cerradura y conocerá el precio orientativo antes de que salga el cerrajero.
+61	Tipo de puerta
+62	Puerta de cristal de tienda, puerta metálica de oficina, portón de almacén o cierre metálico.
+63	Tipo y número de cerraduras
+64	De bombín, multipunto, candados y cerraduras de cierres metálicos.
+65	Tipo de avería
+66	Llave perdida, mecanismo atascado, llave rota o señales de intento de robo.
+67	Hora y dirección del aviso
+68	Horario laboral, noche o festivo; Bilbao o alrededores.
+69	Precio final
+70	Se lo da el cerrajero tras revisar la cerradura y&nbsp;antes de empezar: sin su consentimiento no&nbsp;se empieza a trabajar.
+71	Si después de la apertura hay que cambiar bombines o reparar la cerradura, su precio se acuerda aparte, antes de empezar.
+72	Llamar al cerrajero
+73	¿No puede abrir la oficina o la tienda? Llame al cerrajero
+74	Déjenos su nombre y teléfono: el operador le llamará en&nbsp;pocos minutos, le preguntará la dirección y el tipo de puerta y de cerraduras y&nbsp;le dará un precio orientativo. Trabajamos las 24 horas en&nbsp;Bilbao y&nbsp;el Gran Bilbao.
+75	Locales
+76	Abrimos todo tipo de locales comerciales
+77	Trabajamos con puertas y cerraduras de oficinas, tiendas y almacenes. El cerrajero valora la instalación y elige el método que permite abrir el local lo antes posible.
+78	Oficinas y despachos
+79	Puertas de entrada de oficinas, despachos y salas de reuniones con cerraduras de bombín y multipunto.
+80	Tiendas y escaparates
+81	Puertas de cristal, cerraduras de escaparate y cierres metálicos de locales comerciales.
+82	Bares, cafeterías y restaurantes
+83	Puertas de entrada y de servicio, cerraduras de cierres y de almacenes.
+84	Almacenes y talleres
+85	Portones, puertas de servicio y candados de almacenes y naves.
+86	Estudios, centros y consultas
+87	Consultas médicas y de estética, peluquerías, estudios.
+88	Lonjas y bajos comerciales
+89	Locales comerciales en edificios de viviendas de Bilbao.
+90	Apertura y cambio de bombines en una sola visita
+91	Apertura cuidadosa
+92	Cómo abrir un local sin daños ni tiempo perdido
+93	Para un negocio importa tanto conservar la puerta como la rapidez: el cerrajero elige el método que permite abrir enseguida a los clientes.
+94	Cuándo la cerradura sigue funcionando
+95	<p>Si se ha perdido la llave pero el bombín está en buen estado, normalmente se puede abrir la puerta sin romper nada. Si las llaves pueden haber acabado en manos ajenas, el cerrajero cambia el bombín en el momento.</p>
+96	Una sola llave para varias cerraduras
+97	<p>Al cambiarlos, se pueden elegir bombines que se abren con una misma llave: práctico si el local tiene varias puertas o una puerta y un cierre metálico.</p>
+98	Cerraduras de cierres metálicos
+99	<p>Las cerraduras de los cierres metálicos están a la intemperie y se desgastan antes por la suciedad y la humedad. El cerrajero abrirá la cerradura y, si hace falta, la cambiará sin tocar la persiana.</p>
+100	Por qué acordamos de antemano los posibles daños
+101	<p>Si no es posible conservar la cerradura, el cerrajero explica el motivo y dice el precio del cambio. El trabajo solo empieza con el consentimiento de la persona responsable.</p>
+102	Qué comprobamos después de abrir
+103	<p>El funcionamiento de todas las cerraduras, el cierre de la puerta y de la persiana y el juego de llaves. Si alguna cerradura está desgastada, le proponemos cambiarla en el momento.</p>
+104	Proceso
+105	¿Cómo llamar a un cerrajero para abrir una oficina o una tienda?
+106	Aviso
+107	Llámenos o deje una solicitud. Indíquenos la dirección, el tipo de local y qué le pasa a la cerradura.
+108	Asesoramiento y precio
+109	El operador le da un precio y un tiempo de llegada orientativos y le pregunta quién recibirá al cerrajero.
+110	Apertura del local
+111	El cerrajero comprueba la autorización, abre la puerta o el cierre y, si hace falta, cambia los bombines.
+112	Comprobación y llaves
+113	Comprobamos todas las cerraduras y entregamos las llaves nuevas a la persona responsable.
+114	¿El local está cerrado ahora mismo?
+115	El cerrajero de guardia atiende las 24 horas, también de noche y en fin de semana.
+116	Llamar al cerrajero ahora
+117	Bilbao · Bizkaia
+118	Por qué Cerrajero24
+119	Por qué los negocios eligen <span class="accent">Cerrajero24</span>
+120	Ayuda las 24 horas
+121	Atendemos avisos 24/7, también antes de la apertura y después del cierre.
+122	Servicio en Bilbao y alrededores
+123	Oficinas, tiendas, almacenes y lonjas, en la ciudad y el Gran Bilbao.
+124	Apertura y cambio en una sola visita
+125	Si hace falta, cambiamos los bombines en el momento para que las llaves antiguas no sirvan.
+126	Precio transparente
+127	Le damos el precio antes de empezar; cualquier extra, solo con su consentimiento.
+128	Experiencia con cerraduras comerciales
+129	Cerraduras multipunto, cierres metálicos, cerraduras de escaparate y candados.
+130	Garantía en los trabajos
+131	Garantía en los trabajos y en las piezas instaladas. Las condiciones figuran en el documento que entregamos al terminar.
+132	Opiniones
+133	Opiniones de clientes sobre la apertura de oficinas y&nbsp;tiendas
+134	Opiniones originales en Google
+135	Opiniones de clientes sobre la apertura de locales
+136	Aitor
+137	Tienda · Casco Viejo
+138	Por la mañana no se abría la cerradura del cierre metálico y en una hora teníamos que abrir la tienda. El cerrajero vino, revisó la cerradura y puso una nueva. Abrimos casi a la hora y los clientes no notaron nada.
+139	Elena
+140	Oficina · Abando
+141	Una compañera perdió las llaves de la oficina junto con la tarjeta de acceso. El cerrajero abrió la puerta y cambió el bombín en el momento; repartimos las llaves nuevas a todos. El precio se acordó de antemano.
+142	Ricardo
+143	Cafetería · Indautxu
+144	Se rompió la llave en la cerradura de la entrada de servicio de la cafetería. Sacaron el trozo y revisaron el bombín: estaba bien y no hubo que cambiarlo. Rápido y sin gastos innecesarios.
+145	Svetlana
+146	Almacén · Sestao
+147	No se abría el candado del portón del almacén: estaba oxidado. El cerrajero lo abrió sin dañar el portón y puso un candado nuevo que aguanta mejor la humedad.
+148	Unai
+149	Tras un intento de robo · Deusto
+150	De noche intentaron forzar la puerta del salón y la cerradura quedó dañada. Cuando la policía lo dejó todo registrado, el cerrajero abrió la puerta, puso un bombín antirrobo y nos aconsejó qué más se podía reforzar.
+151	Ver todas las opiniones
+152	Legalidad y seguridad
+153	¿Qué documentos hacen falta para abrir un local comercial?
+154	Antes de abrir, el cerrajero debe asegurarse de que usted es el titular del negocio, el arrendatario del local o actúa por encargo de ellos.
+155	Sirven:
+156	DNI
+157	NIE
+158	Pasaporte
+159	CIF / NIF de la empresa
+160	Contrato de alquiler
+161	Escritura
+162	Autorización por escrito
+163	Cómo acreditar su derecho sobre el local
+164	<p>Un documento con foto (DNI, NIE o pasaporte) y un papel que le vincule con el local: el contrato de alquiler, la escritura, documentos de la empresa con su domicilio o una factura de suministros.</p>
+165	Si es empleado y no el titular
+166	<p>Necesitará la autorización del titular o del responsable, por escrito o confirmada al cerrajero por teléfono. Avise al operador de antemano.</p>
+167	Si los documentos se han quedado dentro
+168	<p>El cerrajero abrirá la puerta y comprobará los documentos nada más abrir, antes de terminar el trabajo. En situaciones dudosas, la comprobación se hace en presencia de la Policía Municipal o la Ertzaintza.</p>
+169	Si ha habido un intento de robo
+170	<p>Avise primero a la policía en el 112 y no toque la cerradura hasta que llegue: las huellas pueden ser necesarias para el seguro. El cerrajero acudirá una vez registrados los daños.</p>
+171	Por qué el cerrajero puede negarse a trabajar
+172	<p>Si no es posible acreditar el derecho de acceso ni con documentos ni con una llamada al titular, el cerrajero puede no abrir el local. Así se protege su negocio de desconocidos.</p>
+173	Zona de servicio
+174	Apertura de oficinas y tiendas en todos los barrios de <span class="accent">Bilbao</span>
+175	Acudimos a oficinas, tiendas, almacenes y lonjas en los barrios de Bilbao y las localidades cercanas de Bizkaia.
+176	Distritos de Bilbao
+177	8 distritos
+178	Deusto
+179	Uribarri
+180	Otxarkoaga-Txurdinaga
+181	Begoña
+182	Ibaiondo
+183	Abando
+184	Errekalde
+185	Basurto-Zorroza
+186	Barrios más solicitados: Casco Viejo, Indautxu, San Ignacio, Santutxu, Miribilla y otros.
+187	Apertura de locales en los alrededores de Bilbao
+188	Barakaldo
+189	Getxo
+190	Portugalete
+191	Santurtzi
+192	Leioa
+193	Sestao
+194	Basauri
+195	Erandio
+196	y otros municipios del Gran Bilbao.
+197	Conviene saber
+198	¿Qué hacer si no se abre la oficina o la tienda?
+199	Una tienda u oficina cerrada significa reuniones canceladas y clientes perdidos. Le contamos cómo valorar rápido la situación, qué preparar para la llegada del cerrajero y cómo proteger el local tras perder las llaves.
+200	<h3>No se abre la puerta de la oficina: ¿qué comprobar primero?</h3>
+201	<p>Pruebe todas las llaves del llavero y pregunte a sus compañeros quién tiene un juego de repuesto. Compruebe si la puerta está cerrada por dentro con una segunda cerradura o un cerrojo: pasa cuando el último en salir lo hace por la entrada de servicio.</p>
+202	<p>No fuerce la llave: una llave rota dentro del bombín complicará la apertura. Llame al cerrajero y descríbale qué le pasa a la cerradura. Tiene precios de referencia en la <a href="#prices">tabla de precios</a>.</p>
+203	<h3>¿Por qué se atasca la cerradura de un cierre metálico?</h3>
+204	<p>Las cerraduras de los cierres metálicos están en la calle: les entran suciedad, agua y arena. El mecanismo se va desgastando y un día la llave deja de girar.</p>
+205	<p>Para evitarlo, conviene limpiar la cerradura del cierre de vez en cuando y lubricarla con un lubricante seco. Si ya se atasca, la solución es la <a href="{url:svc-reparacion}">reparación de la cerradura</a>, antes de que se bloquee del todo.</p>
+206	<h3>¿Qué hacer si un empleado ha perdido las llaves o se ha ido de la empresa?</h3>
+207	<p>Cambie los bombines lo antes posible: es barato y rápido, y las llaves antiguas dejarán de servir. Si el local tiene varias puertas, se pueden poner bombines de llave única.</p>
+208	<p>Más información sobre cómo elegir bombines en la página de <a href="{url:svc-cambio}">cambio de cerraduras y bombines</a>.</p>
+209	<h3>¿Qué hacer después de un intento de robo?</h3>
+210	<p>No toque la puerta ni la cerradura y llame enseguida a la policía al 112. Haga fotos de los daños: las fotos y la denuncia le harán falta para el seguro.</p>
+211	<p>Una vez registrados los daños, el cerrajero abrirá el local, cambiará la cerradura dañada y le dirá cómo reforzar la seguridad, por ejemplo, <a href="{url:svc-instalacion}">instalando una cerradura adicional</a>.</p>
+212	<h3>¿Qué tener preparado antes de que llegue el cerrajero?</h3>
+213	<p>La dirección exacta, el tipo de puerta y de cerraduras, y el contacto de la persona que recibirá al cerrajero. Tenga a mano un documento con foto y algo que acredite su derecho sobre el local. Si es empleado, avise al titular: el cerrajero puede pedirle que confirme el encargo. Qué papeles sirven, en la sección de <a href="#documents">documentos</a>.</p>
+214	Preguntas
+215	Preguntas frecuentes sobre la apertura de locales
+216	¿Tiene más preguntas?
+217	Contacte con el cerrajero: le responderemos y le diremos qué hacer ahora mismo.
+218	¿Cuánto cuesta abrir una oficina o una tienda en Bilbao?
+219	<p>El precio depende del tipo de puerta y de cerraduras, del tipo de avería, de la hora del aviso y de la dirección. Tiene precios de referencia en la <a href="#prices">tabla de precios</a>. El operador le da un precio orientativo por teléfono y el cerrajero, el definitivo, antes de empezar.</p>
+220	¿Se puede abrir el local antes de empezar la jornada?
+221	<p>Sí, trabajamos las 24 horas. Llámenos con antelación: el operador le indicará el tiempo aproximado de llegada para que pueda abrir a tiempo. De noche, en fines de semana y festivos se aplica un recargo; le indicamos su importe al llamar.</p>
+222	¿Se puede abrir la puerta sin daños?
+223	<p>Normalmente, sí, si el bombín está en buen estado. Si las llaves pueden haber acabado en manos ajenas, el cerrajero cambia el bombín en el momento. Si la cerradura está rota, le explica de antemano qué se puede hacer y acuerda el precio con usted.</p>
+224	¿Abren cierres metálicos de tiendas?
+225	<p>Sí, los cerrajeros trabajan con cerraduras de cierres metálicos de tiendas, bares, lonjas y almacenes. Si la cerradura está desgastada, se puede cambiar en la misma visita.</p>
+226	¿Hay que cambiar los bombines si un empleado se ha ido?
+227	<p>Sí, si no ha devuelto todas las llaves o pudo hacer copias. Cambiar los bombines es una forma rápida y barata de proteger el local: las llaves antiguas dejarán de servir.</p>
+228	¿Se pueden poner bombines con una sola llave?
+229	<p>Sí, al cambiarlos se pueden elegir bombines que se abren con una misma llave. Es práctico si el local tiene varias puertas o las cerraduras de la puerta y del cierre. Depende del modelo: el cerrajero se lo dirá en el lugar.</p>
+230	¿Emiten factura a nombre de la empresa?
+231	<p>Sí, si lo solicita, emitimos factura a nombre de la empresa o del autónomo. Indique los datos fiscales al operador al hacer el encargo.</p>
+232	¿Qué hacer después de un intento de robo?
+233	<p>Llame primero a la policía al 112 y no toque la cerradura hasta que llegue. Una vez registrados los daños, el cerrajero abrirá el local y cambiará la cerradura. Más información en la sección de <a href="#documents">documentos</a>.</p>
+234	¿Qué documentos hacen falta para abrir un local?
+235	<p>Un documento con foto y algo que acredite su derecho sobre el local: el contrato de alquiler, la escritura o documentos de la empresa. Un empleado necesitará la autorización del titular o del responsable. Más información en la sección de <a href="#documents">documentos</a>.</p>
+236	¿Van a los alrededores de Bilbao?
+237	<p>Sí. Además de todos los barrios de Bilbao, nos desplazamos a los municipios del Gran Bilbao: Barakaldo, Getxo, Portugalete, Santurtzi, Leioa, Sestao, Basauri, Erandio y otros. El precio y el tiempo de llegada fuera de la ciudad se los indicará el operador al llamar. Puede comprobar su zona en el <a href="#areas">mapa de la zona de servicio</a>.</p>
+238	Más servicios
+239	Otros servicios de Cerrajero24 en&nbsp;Bilbao
+240	Solicitud de servicio
+241	Llame a un cerrajero para abrir su local en&nbsp;Bilbao
+242	¿No puede entrar en la oficina, la tienda o el almacén? Contacte con Cerrajero24 para conocer el precio y pedir que vaya un cerrajero.
+243	Trabajamos 24/7, sin descanso ni festivos
+244	Zona: Bilbao y Bizkaia
+245	Acordamos el precio antes de empezar
+246	Apertura y cambio de bombines en una sola visita
+247	Llamar al cerrajero
+248	Apertura de local
+249	Consultar el precio de apertura de un local
+250	Déjenos su número y, si puede, adjunte una foto de la puerta o de la cerradura. El cerrajero le llamará y le dará un precio orientativo.
+251	Foto de la puerta o de la cerradura
+252	No se abre la puerta de la oficina
+253	La cerradura del cierre se ha atascado
+254	Llaves perdidas
+255	Se ha roto la llave en la cerradura
+256	Cerradura dañada tras un intento de robo
+257	Hay que cambiar los bombines
+258	Otro
+259	Apertura de oficinas y tiendas en Bilbao 24 h — Cerrajero24
+260	¿No se abre la oficina, la tienda o el almacén? Abrimos su local en Bilbao 24/7 y, si hace falta, cambiamos los bombines en el momento. Precio antes de empezar.
+261	¿No se abre la oficina, la tienda o el almacén? Abrimos su local en Bilbao las 24 horas, con el precio antes de empezar.
+262	Apertura de oficinas y locales comerciales en Bilbao
+263	Apertura urgente de oficinas, tiendas y almacenes
+264	Apertura de puertas de oficinas, tiendas, almacenes, bares y lonjas, cerraduras de cierres metálicos y cambio urgente de bombines. Las 24 horas en Bilbao y el Gran Bilbao.

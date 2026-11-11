@@ -1,0 +1,73 @@
+/* Cerrajero24 — дополнения для WordPress: переключатель языков, админ-панель, обычные страницы */
+
+/* ---------- Переключатель языков (шапка) ---------- */
+.lang { position: relative; flex: none; }
+.lang__current {
+  display: inline-flex; align-items: center; gap: 6px;
+  height: 36px; padding: 0 10px 0 12px;
+  border: 1px solid var(--line-2); border-radius: 999px;
+  font: 700 13.5px/1 var(--ff-display); letter-spacing: .02em; color: var(--ink);
+  cursor: pointer; list-style: none; user-select: none;
+  transition: border-color .2s, background-color .2s;
+}
+.lang__current::-webkit-details-marker { display: none; }
+.lang__current::marker { content: ""; }
+.lang__current svg { width: 12px; height: 12px; transform: rotate(90deg); transition: transform .2s var(--ease); }
+.lang__current:hover { border-color: var(--ink); }
+.lang[open] .lang__current { background: var(--white); border-color: var(--ink); }
+.lang[open] .lang__current svg { transform: rotate(-90deg); }
+.lang__current:focus-visible { outline: 2px solid var(--green); outline-offset: 2px; }
+
+.lang__list {
+  position: absolute; top: calc(100% + 10px); right: 0; z-index: 70;
+  min-width: 190px; padding: 6px; margin: 0; list-style: none;
+  background: var(--white); border: 1px solid var(--line); border-radius: var(--r-md);
+  box-shadow: var(--shadow-soft);
+}
+.lang__list a {
+  display: flex; align-items: center; gap: 12px;
+  padding: 10px 12px; border-radius: var(--r-sm);
+  font-size: 14.5px; font-weight: 500; color: var(--ink);
+}
+.lang__list a b { min-width: 24px; font: 700 12.5px/1 var(--ff-display); letter-spacing: .04em; color: var(--muted); }
+.lang__list a:hover { background: var(--mist); }
+.lang__list a[aria-current] { background: var(--paper); }
+.lang__list a[aria-current] b { color: var(--green); }
+
+/* узкий десктоп: место под переключатель языков */
+@media (max-width: 1180px) {
+  .lang__current { height: 34px; padding: 0 8px 0 10px; }
+}
+@media (max-width: 1120px) {
+  .header__inner { gap: 24px; }
+  .header__actions .header__247 { display: none; }
+}
+
+/* ---------- Языки в мобильном меню ---------- */
+.mobile-menu__langs { display: flex; flex-wrap: wrap; gap: 8px; margin: 0 0 18px; padding: 0; list-style: none; }
+.mobile-menu__langs a {
+  display: inline-flex; align-items: center; height: 40px; padding: 0 16px;
+  border: 1px solid var(--line-2); border-radius: 999px;
+  font-size: 14.5px; font-weight: 600; color: var(--ink);
+}
+.mobile-menu__langs a[aria-current] { background: var(--forest); border-color: var(--forest); color: var(--lime); }
+
+/* ---------- Админ-панель WordPress (только для вошедших) ---------- */
+.admin-bar .header { top: 32px; }
+.admin-bar .mobile-menu { top: calc(var(--header-h) + 32px); }
+@media (max-width: 782px) {
+  .admin-bar .header { top: 46px; }
+  .admin-bar .mobile-menu { top: calc(var(--header-h) + 46px); }
+}
+@media (max-width: 600px) {
+  #wpadminbar { position: fixed; }
+}
+
+/* ---------- Обычная страница (правовые документы) ---------- */
+.sh--page { padding-bottom: clamp(32px, 4vw, 56px); }
+.page__title { margin-top: 22px; }
+.page-sec { padding-top: clamp(32px, 4vw, 56px); }
+.page__body { max-width: 80ch; }
+.page__body h2 { margin-top: 32px; font: 700 clamp(21px, 1rem + .6vw, 26px)/1.25 var(--ff-display); letter-spacing: -.015em; color: var(--ink); }
+.page__body ul, .page__body ol { padding-left: 1.3em; }
+.page__body li + li { margin-top: 6px; }

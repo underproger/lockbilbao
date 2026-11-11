@@ -1,0 +1,178 @@
+1	Sarrailak instalatzea
+3	Sarraila berriak eta osagarriak muntatzea.
+4	Sarrailak instalatzea <span class="accent">Bilbon</span>
+5	Sarraila osagarri bat, morroilo bat edo segurtasun-ezkutu bat jarri nahi duzu? Sarraila berriak instalatzen ditugu sarrera-ateetan, barruko&nbsp;ateetan eta bulegoetakoetan. Modeloa atearen eta&nbsp;behar duzun segurtasun-mailaren arabera aukeratzen dugu, kontuz txertatzen dugu eta&nbsp;doitu egiten dugu.
+7	Zure atearen neurrira
+8	Ate-orriaren materiala eta lodiera kontuan hartzen ditugu
+9	Muntaketa zaindua
+10	Behar ez diren zulorik eta ezpalik gabe
+15	Noiz behar da sarraila bat instalatzea?
+16	Sarraila berria ez da ate berrietarako bakarrik behar. Askotan etxebizitza edo bulego baten segurtasuna indartzeko jartzen da.
+17	Sarraila osagarri bat behar duzu
+18	Bigarren sarraila batek edo morroilo batek asko zailtzen dute atea indarrez irekitzea.
+19	Ate berria jarri duzu
+20	Sarrailarik gabeko atea, edo gustuko ez duzun sarraila duena.
+22	Segurtasun-ezkutua, puntu anitzeko sarraila edo segurtasun handiko bonbina.
+23	Barruko ate baterako sarraila
+24	Komunerako blokeagailudun krisketa edo bulego baterako sarraila.
+25	Trastelekurako edo garajerako sarraila
+26	Trastelekua, zerbitzu-gela, garajea edo lokal osagarria.
+27	Bulego edo dendetarako sarrailak
+28	Segurtasun handiagoa lokalarentzat edo bulego jakin batzuentzat.
+29	Ez dakizu zer sarraila komeni zaizun? Deitu sarrailagileari.
+30	Deskribatu atea, eta zer aukera dauden esango dizugu.
+33	Zenbat balio du sarraila bat instalatzeak <span class="accent">Bilbon</span>?
+34	Prezioa sarraila motaren, atearen eta txertatzearen zailtasunaren araberakoa da. Sarraila aparte ordaintzen da: sarrailagileak zure aurrekontura egokitzen den modeloa aukeratzen lagunduko dizu.
+35	Sarrailak instalatzearen prezioak Bilbon
+38	Gainjarritako sarraila edo morroiloa instalatzea
+39	Sarraila txertatzea egurrezko atean
+40	Sarraila txertatzea ate metalikoan
+41	Puntu anitzeko sarraila instalatzea
+42	Segurtasun-ezkutua instalatzea
+43	Barruko atean sarraila instalatzea
+44	Sarraila elektronikoa instalatzea
+48	Sarrailaren prezioa
+49	Sarraila, morroiloa edo ezkutu berria aparte ordaintzen dira. Sarrailagileak maila desberdinetako aukerak erakusten dizkizu lana hasi aurretik.
+52	Txertatze zaila
+53	Ateak lan gehigarria behar badu —ate-orria indartzea, kontraplaka berria edo zuloak lekuz aldatzea—, prezioa aldez aurretik esaten dizugu.
+55	Sarrailagileak atea aztertu eta sarraila aukeratu ondoren ematen du, lana hasi aurretik.
+56	Instalazioaren prezioa galdetu
+57	Bidali atearen argazki bat, eta aukerak eta prezioa emango dizkizugu.
+59	Zerk osatzen du sarraila bat instalatzearen prezioa?
+60	Lau faktorek zehazten dute prezioa. Bidali atearen argazkiak bi aldeetatik eta ertzetik: sarrailagileak lana baloratuko du abiatu aurretik.
+61	Atearen materiala eta lodiera
+62	Egurrezko, metalezko, blindatutako edo kristalezko atea.
+64	Gainjarritakoa, txertatua, morroiloa, puntu anitzekoa edo elektronikoa.
+65	Txertatzearen zailtasuna
+66	Zulo berria, lehendik dagoena egokitzea edo ate-orria indartzea.
+67	Segurtasun gehigarria
+68	Segurtasun-ezkutua, kontraplaka indartua, segurtasun handiko bonbina.
+70	Sarrailagileak atea aztertu eta&nbsp;sarraila aukeratu ondoren ematen du: zure baimenik gabe ez&nbsp;da lanik hasten.
+71	Instalaziorako atea edo markoa egokitu behar badira, sarrailagileak lehenik zer egin behar den azalduko dizu eta prezioa esango dizu, lana hasi aurretik.
+73	Sarraila berri bat instalatu nahi duzu? Deitu sarrailagileari
+74	Utzi zure izena eta telefono-zenbakia: operadoreak minutu&nbsp;gutxiren buruan deituko dizu, atea eta&nbsp;sarraila nolakoak diren galdetuko dizu eta&nbsp;bisitarako ordu egokia adostuko du zurekin. Bilbon eta&nbsp;Bilbo Handian egiten dugu lan.
+76	Zer sarraila instalatzen ditugun
+77	Sarrailak atearen eta behar duzun segurtasun-mailaren arabera aukeratzen ditugu. Instalatu aurretik, sarrailagileak atea aztertzen du eta zer aukera komeni zaizun esaten dizu.
+78	Sarraila txertatuak <span lang="es">de embutir</span>
+79	Sarraila ate-orriaren barruan dago: kanpotik ez da ikusten eta ez du dekorazioa oztopatzen.
+81	Atearen barruko aldean finkatzen dira: Espainian segurtasuna indartzeko ohiko modua.
+83	Hainbat itxiera-puntu inguru osoan: seguruagoak sarrera-aterako.
+84	Segurtasun-ezkutuak <span lang="es">escudos</span>
+85	Bonbina zulatzetik eta erauzketatik babesten dute.
+87	Krisketak, komunerako blokeagailudun sarrailak, bulegoetako sarrailak.
+88	Sarraila elektronikoak
+89	Txartelarekin, kodearekin, hatz-markarekin edo aplikazio baten bidez irekitzea.
+90	Aukeratu, txertatu eta doitu — bisita bakarrean
+91	Instalazioaren kalitatea
+92	Nola instalatzen dugun sarraila bat
+93	Sarraila baten segurtasuna ez dago modeloaren mende bakarrik, nola instalatzen den ere bai. Gaizki txertatutako sarraila trabatu egiten da eta lehenago higatzen da.
+94	Atearen azterketa
+95	<p>Ate-orriaren materiala eta lodiera eta markoaren eta gontzen egoera egiaztatzen ditugu. Atea okertuta badago, lehenik doitzen dugu; bestela, sarraila berria trabatu egingo da.</p>
+96	Sarraila aukeratzea
+97	<p>Atearen eta zure aurrekontuaren araberako aukerak proposatzen dizkizugu, eta segurtasun-mailaren aldea azaltzen dizugu.</p>
+98	Markatzea eta txertatzea
+99	<p>Instalazioaren lekua markatzen dugu, sarraila zuzen gera dadin eta kontraplakarekin bat etor dadin. Kontuz txertatzen dugu, behar ez diren zulorik eta ezpalik gabe.</p>
+100	Doikuntza
+101	<p>Kontraplaka doitzen dugu, morroiloen eta krisketaren ibilbidea egiaztatzen dugu eta heldulekua egokitzen dugu.</p>
+103	<p>Sarrailak bi aldeetatik nola irekitzen eta ixten duen egiaztatzen dugu, eta giltzak ematen dizkizugu. Bonbinak jabetza-txartela badu, hura ere ematen dizugu.</p>
+105	Nola eskatu sarraila baten instalazioa Bilbon?
+107	Deitu edo utzi eskaera bat. Bidali atearen argazki bat: horrela errazagoa da sarraila aukeratzea.
+109	Operadoreak lanaren eta sarrailaren gutxi gorabeherako prezioa ematen dizu eta bisitarako ordu egokia adosten du.
+110	Sarrailaren instalazioa
+111	Sarrailagileak atea aztertzen du, zuk sarraila aukeratzen duzu, eta bisita berean instalatzen du.
+113	Sarrailaren eta atearen funtzionamendua egiaztatzen dugu, eta giltzak ematen dizkizugu.
+114	Zure atearen segurtasuna indartu nahi duzu?
+115	Kontatu nolakoa den zure atea, eta zer sarraila jarri esango dizugu.
+119	Zergatik uzten duten sarrailen instalazioa <span class="accent">Cerrajero24</span>-ren esku
+120	Zure atearen neurrira
+121	Atea nolakoa den hartzen dugu kontuan; ez dizugu sarrailarik garestiena eskaintzen.
+122	Txertatze zaindua
+123	Behar ez diren zulorik, ezpalik eta markarik gabe ate-orrian.
+125	Lanaren eta sarrailaren prezioa lana hasi aurretik esaten dizugu.
+129	Sarraila txertatuak, gainjarritakoak, puntu anitzekoak, morroiloak eta segurtasun-ezkutuak.
+130	Instalazioaren bermea
+131	Lanaren eta instalatutako sarrailen bermea. Baldintzak idatziz jasotzen dira.
+133	Bezeroen iritziak sarrailen instalazioari buruz Bilbon
+135	Bezeroen iritziak sarrailen instalazioari buruz
+136	Rocío
+137	Morroilo osagarria · San Ignazio
+138	Ondoko atarian lapurretak izan ondoren, bigarren sarraila bat jartzea erabaki genuen. Sarrailagileak gainjarritako morroilo bat proposatu zigun, kontuz instalatu zuen, eta atea erraz ixten da. Orain lasaiago gaude.
+139	Andrei
+140	Segurtasun-ezkutua · Abando
+141	Sarrera-atean segurtasun-ezkutu bat jarri genuen bonbina babesteko. Sarrailagileak gure atearentzako eta bonbinarentzako modeloa aukeratu zuen eta guztiz zuzen instalatu zuen. Oso itxura ona du.
+142	Itziar
+143	Komuneko sarraila · Leioa
+144	Komuneko atean blokeagailudun krisketa bat jarri behar zen. Sarrailagileak dena azkar eta garbi egin zuen, behar ez zen zulorik gabe.
+145	Maxim
+146	Ate berria · Basauri
+147	Sarrera-ate berri bat jarri genuen, eta ez zitzaigun haren sarraila gustatzen. Sarrailagileak puntu anitzeko sarraila bat txertatu zuen eta atea doitu zuen: leun ixten da eta morroiloak esfortzurik gabe ateratzen dira.
+148	Beatriz
+149	Bulegoko gelak · Indautxu
+150	Bulegoko bi gelatan sarrailak jarri behar ziren. Sarrailagileak giltza bakarreko sarrailak aukeratu zituen arduradunarentzat, eta dena bisita bakarrean egin zuen, taldea molestatu gabe.
+153	Agiririk behar al da sarraila bat instalatzeko?
+154	Sarraila berri batek lokalerako edo etxebizitzarako sarbidea ematen du; beraz, sarrailagileak ziurtatzen du ate horretako sarrailak aldatzeko edo gehitzeko eskubidea duzula.
+162	Jabeen erkidegoaren erabakia
+164	<p>Nahikoa da argazkidun agiri bat —NANa, AIZ edo pasaportea— eta helbidearekin lotzen zaituen zerbait: eskritura (<span lang="es">escritura</span>), erroldatze-ziurtagiria (<span lang="es">empadronamiento</span>) edo hornidura-faktura bat.</p>
+166	<p>Komeni da sarraila osagarri baten instalazioa jabearekin adostea: txertatzeak atea aldatzen du, eta jabeak etxebizitzan sartzeko aukera izan behar du. Gainjarritako morroiloa errazago kentzen da joatean.</p>
+167	Sarraila atariko atean edo eremu komunetan
+168	<p>Atariko ateak, garaje komunitarioarenak eta beste eremu komun batzuenak jabeen erkidegoarenak dira. Haien sarrailaren instalazioa edo aldaketa finka-administratzailearekin (<span lang="es">administrador de fincas</span>) edo erkidegoaren erabakiz adosten da.</p>
+169	Instalazioa bulego edo denda batean
+170	<p>Lokalaren jabearen edo arduradunaren baimena beharko da. Enpresaren izenean faktura behar baduzu, eman datuak operadoreari.</p>
+171	Nola adosten diren lanak
+172	<p>Sarrailagileak lanaren eta sarrailaren prezioa atea aztertu ondoren esaten dizu. Lana zure baimenarekin bakarrik hasten da.</p>
+174	Sarrailak instalatzea <span class="accent">Bilboko</span> auzo guztietan
+175	Sarrailak instalatzen ditugu etxebizitza, etxe, bulego eta dendetan, Bilboko auzoetan eta Bizkaiko inguruko udalerrietan.
+187	Sarrailak instalatzea Bilbo inguruan
+198	Zer sarraila jarri sarrera-atean?
+199	Sarraila on bat mekanismo fidagarria da, ondo instalatua eta atearen puntu ahulak babesten dituena. Aukeratzean zeri erreparatu kontatzen dizugu.
+200	<h3>Sarraila txertatua ala gainjarritakoa: zein aukeratu?</h3>
+201	<p>Sarraila txertatua (<span lang="es">de embutir</span>) ate-orriaren barruan instalatzen da eta kanpotik ez da ikusten: sarrera-ate gehienen sarraila nagusia da. Gainjarritako sarraila edo morroiloa (<span lang="es">de sobreponer</span>, <span lang="es">cerrojo</span>) atearen barruko aldean finkatzen da.</p>
+202	<p>Espainian ohikoa da gainjarritako morroilo bat bigarren sarraila gisa jartzea: atea indarrez irekitzea zailtzen du eta ez du atean aldaketa handirik eskatzen. Sarrailagileak zure atearentzako aukera egokia esango dizu.</p>
+203	<h3>Bigarren sarraila bat behar da sarrera-atean?</h3>
+204	<p>Mota desberdineko bi sarrailek asko zailtzen dute atea indarrez irekitzea: bakoitzak bere metodoa eta denbora behar ditu. Sarraila nagusia bonbinaduna bada, bigarren gisa morroilo bat edo beste mekanismo mota bateko sarraila jarri ohi da.</p>
+205	<h3>Zertarako da segurtasun-ezkutua?</h3>
+206	<p>Bonbina da sarrailaren punturik ahulena: zulatzen, hausten edo ateratzen saiatzen dira. Segurtasun-ezkutuak (<span lang="es">escudo de seguridad</span>) altzairuzko plaka batekin estaltzen du bonbina, eta metodo horietatik babesten du.</p>
+207	<p>Ezkutuarekin batera, komeni da bumping-aren eta zulatzearen aurkako bonbina bat jartzea. Informazio gehiago <a href="{url:svc-cambio}">sarrailak eta bonbinak aldatzeari</a> buruz.</p>
+208	<h3>Edozein atetan instala daiteke sarraila bat?</h3>
+209	<p>Ia edozeinetan, baina ez edozein sarraila. Ate-orri mehe batek, kristalak edo ate hutsak aukera mugatzen dute: ez da beti posible sarraila handi bat txertatzea. Sarrailagileak atea aztertuko du eta ahultzen ez duten aukerak proposatuko dizkizu.</p>
+210	<p>Atea okertuta badago, lehenik doitzen da; bestela, sarraila berria trabatu egingo da. Informazio gehiago <a href="#how">sarrailak nola instalatzen ditugun azaltzen duen atalean</a>.</p>
+211	<h3>Zer prestatu sarrailagilearen bisitaren aurretik?</h3>
+212	<p>Atearen argazkiak bi aldeetatik eta orain sarraila dagoen ertzetik, eta gutxi gorabeherako aurrekontu bat. Modelo jakin bat nahi baduzu, esan zein den: sarrailagileak egiaztatuko du balio duen. Atea atarikoa edo eremu komun batekoa bada, lortu aurretik jabeen erkidegoaren onespena. Informazio gehiago <a href="#documents">agiriei buruzko atalean</a>.</p>
+214	Sarrailen instalazioari buruzko ohiko galderak
+217	Zenbat balio du sarraila bat instalatzeak Bilbon?
+218	<p>Prezioa sarraila motaren, atearen materialaren eta txertatzearen zailtasunaren araberakoa da. Sarraila aparte ordaintzen da. Gutxi gorabeherako prezioak <a href="#prices">prezio-taulan</a> dituzu; sarrailagileak behin betiko prezioa atea aztertu ondoren eta lana hasi aurretik ematen du.</p>
+219	Sarraila neuk eros dezaket?
+220	<p>Bai, sarrailagileak zuk erositako sarraila instalatzen du. Bidali modeloa edo argazki bat aldez aurretik: zure atearentzat balio duen egiaztatuko du. Kasu horretan, sarrailaren bermea saltzaileak ematen du, eta instalazioarena, guk.</p>
+221	Zer sarraila komeni da sarrera-atean jartzea?
+222	<p>Etxebizitza gehienetarako: bumping-aren aurkako bonbinadun sarraila nagusi txertatu bat, segurtasun-ezkutu bat eta, nahi izanez gero, morroilo osagarri bat. Sarrailagileak zure atearentzako eta aurrekontuarentzako konbinazioa aukeratuko du.</p>
+223	Zenbat denbora behar da sarraila bat instalatzeko?
+224	<p>Gainjarritako morroilo bat edo ezkutu bat azkarrago instalatzen dira sarraila txertatu edo puntu anitzeko bat baino. Sarrailagileak zehatzago esango dizu atea aztertu ondoren.</p>
+225	Ate metaliko batean txerta daiteke sarraila?
+226	<p>Bai, baina lana egurrezko atean baino zailagoa da eta beste tresna batzuk behar ditu. Sarrailagileak atea baloratuko du eta zer sarraila instala daitekeen esango dizu.</p>
+227	Barruko ate batean jar daiteke sarraila?
+228	<p>Bai: komunerako blokeagailudun krisketa bat, edo bulego edo haur-gela baterako sarraila. Sarrailagileak atearentzako modeloa aukeratuko du eta kontuz txertatuko du.</p>
+229	Baimenik behar da alokairuko etxebizitza batean sarraila jartzeko?
+230	<p>Hobe da jabearekin adostea, batez ere sarraila txertatua bada. Gainjarritako morroiloa errazago kentzen da joatean. Informazio gehiago <a href="#documents">agiriei buruzko atalean</a>.</p>
+231	Atariko atean sarraila berri bat jar daiteke?
+232	<p>Jabeen erkidegoaren erabakiz bakarrik: atariko ateak eta eremu komunak harenak dira. Jo finka-administratzailearengana: hark adostuko ditu lanak eta deituko dio sarrailagileari.</p>
+233	Bermerik ematen duzue instalazioan?
+234	<p>Bai, lanean eta instalatutako sarrailetan. Baldintzak eta epea lanaren ondoren ematen dizugun agirian jasotzen dira.</p>
+240	Eskatu sarraila baten instalazioa Bilbon
+241	Sarraila berri edo osagarri bat jarri nahi duzu? Jarri harremanetan Cerrajero24rekin sarraila aukeratzeko eta prezioa jakiteko.
+245	Instalazioaren bermea
+247	Sarrailaren instalazioa
+248	Instalazioaren prezioa galdetu
+249	Utzi zure zenbakia eta, ahal baduzu, erantsi atearen argazki bat. Sarrailagileak deituko dizu, aukerak proposatuko dizkizu eta prezioa emango dizu.
+250	Atearen argazkia
+251	Sarraila osagarria edo morroiloa
+252	Sarraila ate berri batean
+253	Segurtasun-ezkutua
+254	Puntu anitzeko sarraila
+255	Barruko atearen sarraila
+256	Bulego edo dendarako sarraila
+258	Sarrailak instalatzea Bilbon — Cerrajero24
+259	Sarraila osagarriak, morroiloak eta segurtasun-ezkutuak instalatzen ditugu, eta ate berrietan sarrailak txertatzen ditugu. Zure atearen neurrira aukeratuak eta kontuz muntatuak Bilbon.
+260	Sarrailak, morroiloak eta segurtasun-ezkutuak instalatzea Bilbon. Zure atearen neurrira, prezioa lana hasi aurretik.
+261	Sarrailak instalatzea Bilbon
+262	Ate-sarrailak instalatzea
+263	Sarraila txertatuak eta gainjarritakoak, morroilo osagarriak (cerrojos), puntu anitzeko sarrailak eta segurtasun-ezkutuak instalatzea sarrera-ate, barruko ate eta bulegoetako ateetan. Bilbo eta Bilbo Handia.

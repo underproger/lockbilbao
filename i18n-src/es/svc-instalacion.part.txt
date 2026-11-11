@@ -1,0 +1,178 @@
+1	Instalación de cerraduras
+3	Montaje de cerraduras nuevas y adicionales.
+4	Instalación de cerraduras <span class="accent">en&nbsp;Bilbao</span>
+5	¿Quiere poner una cerradura adicional, un cerrojo o un escudo de seguridad? Instalamos cerraduras nuevas en&nbsp;puertas de entrada, de interior o de oficina. Elegimos el modelo según la puerta y&nbsp;el nivel de seguridad que necesita, lo embutimos con cuidado y&nbsp;lo ajustamos.
+7	A medida de su puerta
+8	Tenemos en cuenta el material y el grosor de la hoja
+9	Montaje cuidadoso
+10	Sin agujeros de más ni desconchones
+15	¿Cuándo hay que instalar una cerradura?
+16	Una cerradura nueva no solo hace falta en una puerta nueva. Muchas veces se pone para reforzar la seguridad de un piso o una oficina.
+17	Necesita una cerradura adicional
+18	Una segunda cerradura o un cerrojo dificultan mucho forzar la puerta.
+19	Ha puesto una puerta nueva
+20	Una puerta sin cerradura o con una cerradura que no le convence.
+22	Escudo de seguridad, cerradura multipunto o bombín de alta seguridad.
+23	Cerradura para una puerta de interior
+24	Picaporte con condena para el baño o cerradura para un despacho.
+25	Cerradura para el trastero o el garaje
+26	Trastero, cuarto de servicio, garaje o local auxiliar.
+27	Cerraduras para oficinas o tiendas
+28	Más seguridad para el local o para despachos concretos.
+29	¿No sabe qué cerradura le conviene? Llame al cerrajero.
+30	Descríbanos la puerta y le diremos qué opciones hay.
+33	¿Cuánto cuesta instalar una cerradura en&nbsp;<span class="accent">Bilbao</span>?
+34	El precio depende del tipo de cerradura, de la puerta y de la dificultad del embutido. La cerradura se paga aparte: el cerrajero le ayudará a elegir un modelo que se ajuste a su presupuesto.
+35	Precios de instalación de cerraduras en Bilbao
+38	Instalación de cerradura de sobreponer o cerrojo
+39	Cerradura embutida en puerta de madera
+40	Cerradura embutida en puerta metálica
+41	Instalación de cerradura multipunto
+42	Instalación de escudo de seguridad
+43	Cerradura en puerta de interior
+44	Instalación de cerradura electrónica
+48	Precio de la cerradura
+49	La cerradura, el cerrojo o el escudo nuevos se pagan aparte. El cerrajero le enseña opciones de distintos niveles antes de empezar.
+52	Embutido complicado
+53	Si la puerta necesita trabajo extra —reforzar la hoja, un cerradero nuevo o mover agujeros—, le decimos el precio de antemano.
+55	El cerrajero se lo dice tras revisar la puerta y elegir la cerradura, antes de empezar.
+56	Consultar el precio de la instalación
+57	Envíenos una foto de la puerta y le diremos opciones y precio.
+59	¿De qué depende el precio de instalar una cerradura?
+60	El precio depende de cuatro factores. Envíe fotos de la puerta por ambos lados y del canto: el cerrajero valorará el trabajo antes de salir.
+61	Material y grosor de la puerta
+62	Puerta de madera, metálica, acorazada o de cristal.
+64	De sobreponer, embutida, cerrojo, multipunto o electrónica.
+65	Dificultad del embutido
+66	Hueco nuevo, adaptación del existente o refuerzo de la hoja.
+67	Seguridad adicional
+68	Escudo de seguridad, cerradero reforzado, bombín de alta seguridad.
+70	El cerrajero se lo dice tras revisar la puerta y&nbsp;elegir la cerradura: sin su consentimiento no&nbsp;se empieza ningún trabajo.
+71	Si para la instalación hay que adaptar la puerta o el marco, el cerrajero le explicará primero qué hay que hacer y le dirá el precio, antes de empezar.
+73	¿Quiere instalar una cerradura nueva? Llame al cerrajero
+74	Déjenos su nombre y teléfono: el operador le llamará en&nbsp;pocos minutos, le preguntará por la puerta y&nbsp;la cerradura y&nbsp;acordará con usted la hora de la visita. Trabajamos en&nbsp;Bilbao y&nbsp;el Gran Bilbao.
+76	Qué cerraduras instalamos
+77	Elegimos las cerraduras según la puerta y el nivel de seguridad que necesita. Antes de instalar, el cerrajero revisa la puerta y le dice qué opción le conviene más.
+78	Cerraduras embutidas
+79	La cerradura va dentro de la hoja: no se ve desde fuera y no estorba en la decoración.
+81	Se fijan en la cara interior de la puerta: una forma habitual de reforzar la seguridad en España.
+83	Varios puntos de cierre en el contorno: más seguras para la puerta de entrada.
+84	Escudos de seguridad
+85	Protegen el bombín contra el taladro y la extracción.
+87	Picaportes, cerraduras con condena para el baño, cerraduras de despacho.
+88	Cerraduras electrónicas
+89	Apertura con tarjeta, código, huella dactilar o desde una aplicación.
+90	Elección, embutido y ajuste en una sola visita
+91	Calidad de la instalación
+92	Cómo instalamos una cerradura
+93	La seguridad de una cerradura no depende solo del modelo, sino también de cómo se instala. Una cerradura mal embutida se atasca y se desgasta antes.
+94	Revisión de la puerta
+95	<p>Comprobamos el material y el grosor de la hoja y el estado del marco y las bisagras. Si la puerta está descolgada, primero la ajustamos: si no, la cerradura nueva se atascará.</p>
+96	Elección de la cerradura
+97	<p>Le proponemos opciones según la puerta y su presupuesto y le explicamos la diferencia de seguridad.</p>
+98	Marcado y embutido
+99	<p>Marcamos el sitio de la instalación para que la cerradura quede recta y coincida con el cerradero. Embutimos con cuidado, sin agujeros de más ni desconchones.</p>
+100	Ajuste
+101	<p>Ajustamos el cerradero, comprobamos el recorrido de los pestillos y del picaporte y ajustamos la manilla.</p>
+103	<p>Comprobamos cómo abre y cierra la cerradura por ambos lados y le entregamos las llaves. Si el bombín tiene tarjeta de propiedad, también se la damos.</p>
+105	¿Cómo pedir la instalación de una cerradura en&nbsp;Bilbao?
+107	Llame o deje una solicitud. Envíe una foto de la puerta: así es más fácil elegir la cerradura.
+109	El operador le da un precio orientativo del trabajo y de la cerradura y acuerda la hora de la visita.
+110	Instalación de la cerradura
+111	El cerrajero revisa la puerta, usted elige la cerradura y él la instala en la misma visita.
+113	Comprobamos el funcionamiento de la cerradura y de la puerta y le entregamos las llaves.
+114	¿Quiere reforzar la seguridad de su puerta?
+115	Háblenos de su puerta y le diremos qué cerradura poner.
+119	Por qué confían la instalación de cerraduras a <span class="accent">Cerrajero24</span>
+120	A medida de su puerta
+121	Tenemos en cuenta cómo es la puerta, no le ofrecemos la cerradura más cara.
+122	Embutido cuidadoso
+123	Sin agujeros de más, desconchones ni marcas en la hoja.
+125	Le decimos el precio del trabajo y de la cerradura antes de empezar.
+129	Cerraduras embutidas, de sobreponer, multipunto, cerrojos y escudos de seguridad.
+130	Garantía de la instalación
+131	Garantía del trabajo y de las cerraduras instaladas. Las condiciones constan por escrito.
+133	Opiniones de clientes sobre la instalación de cerraduras en&nbsp;Bilbao
+135	Opiniones de clientes sobre la instalación de cerraduras
+136	Rocío
+137	Cerrojo adicional · San Ignacio
+138	Después de unos robos en el portal de al lado decidimos poner una segunda cerradura. El cerrajero nos propuso un cerrojo de sobreponer, lo instaló con cuidado y la puerta cierra con facilidad. Ahora estamos más tranquilos.
+139	Andrei
+140	Escudo de seguridad · Abando
+141	Pusimos un escudo de seguridad en la puerta de entrada para proteger el bombín. El cerrajero eligió un modelo para nuestra puerta y nuestro bombín y lo instaló bien recto. Queda muy bien.
+142	Itziar
+143	Cerradura del baño · Leioa
+144	Había que poner un picaporte con condena en la puerta del baño. El cerrajero lo hizo todo rápido y limpio, sin agujeros de más.
+145	Maxim
+146	Puerta nueva · Basauri
+147	Pusimos una puerta de entrada nueva y no nos gustaba su cerradura. El cerrajero embutió una cerradura multipunto y ajustó la puerta: cierra suave y los pestillos salen sin esfuerzo.
+148	Beatriz
+149	Despachos de la oficina · Indautxu
+150	Había que poner cerraduras en dos despachos de la oficina. El cerrajero eligió cerraduras con llave maestra para el responsable y lo hizo todo en una visita, sin molestar al equipo.
+153	¿Hacen falta documentos para instalar una cerradura?
+154	Una cerradura nueva da acceso al local o la vivienda, así que el cerrajero se asegura de que usted tiene derecho a cambiar o añadir cerraduras en esa puerta.
+162	Acuerdo de la comunidad de propietarios
+164	<p>Basta con un documento con foto —DNI, NIE o pasaporte— y algo que le vincule con la dirección: escritura, empadronamiento o una factura de suministros.</p>
+166	<p>Conviene acordar con el propietario la instalación de una cerradura adicional: el embutido modifica la puerta y el propietario debe poder seguir accediendo al piso. Un cerrojo de sobreponer es más fácil de quitar al irse.</p>
+167	Cerradura en la puerta del portal o de zonas comunes
+168	<p>Las puertas del portal, del garaje comunitario y de otras zonas comunes pertenecen a la comunidad de propietarios. Su instalación o cambio de cerradura se acuerda con el administrador de fincas o por acuerdo de la comunidad.</p>
+169	Instalación en una oficina o tienda
+170	<p>Hará falta la autorización del propietario del local o del responsable. Si necesita factura a nombre de la empresa, facilite los datos al operador.</p>
+171	Cómo se acuerdan los trabajos
+172	<p>El cerrajero le dice el precio del trabajo y de la cerradura tras revisar la puerta. El trabajo solo empieza con su consentimiento.</p>
+174	Instalación de cerraduras en todos los barrios de <span class="accent">Bilbao</span>
+175	Instalamos cerraduras en pisos, casas, oficinas y tiendas de los barrios de Bilbao y de los municipios cercanos de Bizkaia.
+187	Instalación de cerraduras en los alrededores de Bilbao
+198	¿Qué cerradura poner en la puerta de entrada?
+199	Una buena cerradura es un mecanismo fiable, bien instalado y que protege los puntos débiles de la puerta. Le contamos en qué fijarse al elegir.
+200	<h3>¿Cerradura embutida o de sobreponer: cuál elegir?</h3>
+201	<p>La cerradura embutida va dentro de la hoja y no se ve desde fuera: es la cerradura principal de la mayoría de las puertas de entrada. La cerradura de sobreponer o el cerrojo se fijan en la cara interior de la puerta.</p>
+202	<p>En España es habitual poner un cerrojo de sobreponer como segunda cerradura: dificulta forzar la puerta y no exige grandes cambios en ella. El cerrajero le dirá qué opción le va a su puerta.</p>
+203	<h3>¿Hace falta una segunda cerradura en la puerta de entrada?</h3>
+204	<p>Dos cerraduras de distinto tipo dificultan mucho forzar la puerta: cada una requiere su propio método y su tiempo. Si la cerradura principal es de bombín, como segunda se suele poner un cerrojo o una cerradura con otro tipo de mecanismo.</p>
+205	<h3>¿Para qué sirve el escudo de seguridad?</h3>
+206	<p>El bombín es el punto más vulnerable de la cerradura: intentan taladrarlo, romperlo o arrancarlo. El escudo de seguridad cubre el bombín con una placa de acero y lo protege contra estos métodos.</p>
+207	<p>Junto con el escudo conviene poner un bombín antibumping y antitaladro. Más información sobre el <a href="{url:svc-cambio}">cambio de cerraduras y bombines</a>.</p>
+208	<h3>¿Se puede instalar una cerradura en cualquier puerta?</h3>
+209	<p>En casi cualquiera, pero no cualquier cerradura. Una hoja fina, de cristal o una puerta hueca limitan la elección: no siempre se puede embutir una cerradura grande. El cerrajero revisará la puerta y le propondrá opciones que no la debiliten.</p>
+210	<p>Si la puerta está descolgada, primero se ajusta: si no, la cerradura nueva se atascará. Más información en la sección <a href="#how">sobre cómo instalamos las cerraduras</a>.</p>
+211	<h3>¿Qué preparar antes de la visita del cerrajero?</h3>
+212	<p>Fotos de la puerta por ambos lados y del canto donde está ahora la cerradura, y un presupuesto aproximado. Si quiere un modelo concreto, díganos cuál: el cerrajero comprobará si sirve. Si la puerta es del portal o de una zona común, consiga antes el acuerdo de la comunidad de propietarios. Más información en la sección <a href="#documents">de documentos</a>.</p>
+214	Preguntas frecuentes sobre la instalación de cerraduras
+217	¿Cuánto cuesta instalar una cerradura en Bilbao?
+218	<p>El precio depende del tipo de cerradura, del material de la puerta y de la dificultad del embutido. La cerradura se paga aparte. Tiene precios orientativos en la <a href="#prices">tabla de precios</a>; el cerrajero le dice el precio definitivo tras revisar la puerta y antes de empezar.</p>
+219	¿Puedo comprar yo la cerradura?
+220	<p>Sí, el cerrajero instala la cerradura que usted haya comprado. Envíenos el modelo o una foto antes: comprobará si sirve para su puerta. En ese caso, la garantía de la cerradura la da el vendedor, y la de la instalación, nosotros.</p>
+221	¿Qué cerradura conviene poner en la puerta de entrada?
+222	<p>Para la mayoría de los pisos, una cerradura principal embutida con bombín antibumping, un escudo de seguridad y, si lo desea, un cerrojo adicional. El cerrajero elegirá la combinación para su puerta y su presupuesto.</p>
+223	¿Cuánto se tarda en instalar una cerradura?
+224	<p>Un cerrojo de sobreponer o un escudo se instalan más rápido que una cerradura embutida o multipunto. El cerrajero se lo dirá con más precisión tras revisar la puerta.</p>
+225	¿Se puede embutir una cerradura en una puerta metálica?
+226	<p>Sí, pero el trabajo es más complicado que en una puerta de madera y requiere otras herramientas. El cerrajero valorará la puerta y le dirá qué cerradura se puede instalar.</p>
+227	¿Se puede poner cerradura en una puerta de interior?
+228	<p>Sí: un picaporte con condena para el baño o una cerradura para un despacho o un dormitorio infantil. El cerrajero elegirá el modelo para la puerta y lo embutirá con cuidado.</p>
+229	¿Necesito permiso para poner una cerradura en un piso de alquiler?
+230	<p>Conviene acordarlo con el propietario, sobre todo si la cerradura es embutida. Un cerrojo de sobreponer es más fácil de quitar al irse. Más información en la sección <a href="#documents">de documentos</a>.</p>
+231	¿Se puede poner una cerradura nueva en la puerta del portal?
+232	<p>Solo por acuerdo de la comunidad de propietarios: las puertas del portal y de las zonas comunes son suyas. Diríjase al administrador de fincas: él acordará los trabajos y llamará al cerrajero.</p>
+233	¿Dan garantía de la instalación?
+234	<p>Sí, del trabajo y de las cerraduras instaladas. Las condiciones y el plazo constan en el documento que le entregamos tras el trabajo.</p>
+240	Pedir la instalación de una cerradura en&nbsp;Bilbao
+241	¿Quiere poner una cerradura nueva o adicional? Contacte con Cerrajero24 para elegir la cerradura y saber el precio.
+245	Garantía de la instalación
+247	Instalación de cerradura
+248	Consultar el precio de la instalación
+249	Déjenos su número y, si puede, adjunte una foto de la puerta. El cerrajero le llamará, le propondrá opciones y le dirá el precio.
+250	Foto de la puerta
+251	Cerradura adicional o cerrojo
+252	Cerradura en una puerta nueva
+253	Escudo de seguridad
+254	Cerradura multipunto
+255	Cerradura de puerta de interior
+256	Cerradura para oficina o tienda
+258	Instalación de cerraduras en Bilbao — Cerrajero24
+259	Instalamos cerraduras adicionales, cerrojos y escudos de seguridad, y embutimos cerraduras en puertas nuevas. Elección a medida de su puerta y montaje cuidadoso en Bilbao.
+260	Instalación de cerraduras, cerrojos y escudos de seguridad en Bilbao. A medida de su puerta, con precio antes de empezar.
+261	Instalación de cerraduras en Bilbao
+262	Instalación de cerraduras de puerta
+263	Instalación de cerraduras embutidas y de sobreponer, cerrojos adicionales, cerraduras multipunto y escudos de seguridad en puertas de entrada, de interior y de oficina. Bilbao y el Gran Bilbao.

@@ -1,0 +1,178 @@
+1	Lock installation
+3	Fitting new and additional locks.
+4	Lock installation and fitting <span class="accent">in&nbsp;Bilbao</span>
+5	Want an additional lock, a bolt or a security escutcheon? We fit new locks to&nbsp;front, interior and office doors. We’ll choose a model to suit the door design and&nbsp;the level of protection you need, fit it neatly and&nbsp;adjust it.
+7	Chosen for your door
+8	We take the door material and thickness into account
+9	Neat fitting
+10	No unnecessary holes or chips
+15	When do you need a lock installed?
+16	A new lock isn’t only for a new door. It’s often fitted to improve the security of a flat or office.
+17	You need an additional lock
+18	A second lock or bolt makes a door much harder to force.
+19	You’ve had a new door fitted
+20	A door with no lock, or with a lock you’re not happy with.
+22	Security escutcheon, multi-point lock or high-security cylinder.
+23	Lock for an interior door
+24	A privacy latch for the bathroom or a lock for a study.
+25	Lock for a storage room or garage
+26	Storage room, utility room, garage or outbuilding.
+27	Locks for an office or shop
+28	Extra protection for the premises or for individual offices.
+29	Not sure which lock is right? Call a locksmith.
+30	Describe your door and we’ll tell you what options there are.
+33	How much does lock installation cost in&nbsp;<span class="accent">Bilbao</span>?
+34	The price depends on the type of lock, the door design and how complex the fitting is. The lock itself is charged separately — the locksmith will help you choose a model to suit your budget.
+35	Lock installation prices in Bilbao
+38	Fitting a surface-mounted lock or bolt
+39	Fitting a mortice lock in a wooden door
+40	Fitting a mortice lock in a metal door
+41	Fitting a multi-point lock
+42	Fitting a security escutcheon
+43	Fitting a lock to an interior door
+44	Fitting an electronic lock
+48	Lock price
+49	The new lock, bolt or escutcheon is charged separately. The locksmith shows you options of different grades before work starts.
+52	Complex fitting
+53	If the door needs extra work — reinforcing the leaf, a new strike plate or moving holes — we tell you the price in advance.
+55	The locksmith tells you after inspecting the door and choosing the lock — before work starts.
+56	Check the price of a lock installation
+57	Send us a photo of the door — we’ll suggest options and give you a price.
+59	What makes up the price of a lock installation?
+60	Four things set the price. Send photos of the door from both sides and of the edge — the locksmith will assess the job before setting off.
+61	Door material and thickness
+62	Wooden, metal, armoured or glass door.
+64	Surface-mounted, mortice, bolt, multi-point or electronic lock.
+65	Fitting complexity
+66	A new cut-out, adapting an existing one or reinforcing the leaf.
+67	Extra protection
+68	Security escutcheon, reinforced strike plate, high-security cylinder.
+70	The locksmith tells you after inspecting the door and&nbsp;choosing the lock — nothing is done without&nbsp;your consent.
+71	If the door or frame needs adapting for the installation, the locksmith will first explain exactly what’s involved and give you the price — before work starts.
+73	Want a new lock fitted? Call a locksmith
+74	Leave your name and phone number — the dispatcher will call you back within&nbsp;a few minutes, check the type of door and&nbsp;lock and&nbsp;arrange a convenient time. We work in&nbsp;Bilbao and&nbsp;Greater Bilbao.
+76	The locks we install
+77	We choose locks to suit the door design and the level of protection you need. Before fitting, the locksmith checks the door and advises which option will work best.
+78	Mortice locks <span lang="es">de embutir</span>
+79	The lock sits inside the door leaf — invisible from outside and unobtrusive.
+81	Fixed to the inside of the door — a common way to improve security in Spain.
+83	Several locking points around the frame — more secure for a front door.
+84	Security escutcheons <span lang="es">escudos</span>
+85	Protect the cylinder from drilling and extraction.
+87	Latches, bathroom privacy locks, office locks.
+88	Electronic locks
+89	Opened with a card, code, fingerprint or an app.
+90	Choice, fitting and adjustment — in one visit
+91	Installation quality
+92	How we install a lock
+93	How secure a lock is depends not only on the model but also on how it’s fitted. A badly fitted lock sticks and wears out faster.
+94	Door inspection
+95	<p>We check the material and thickness of the leaf and the condition of the frame and hinges. If the door is misaligned, we adjust it first — otherwise the new lock will stick.</p>
+96	Choosing the lock
+97	<p>We suggest options to suit the door design and your budget and explain the difference in security.</p>
+98	Marking and fitting
+99	<p>We mark out the position so the lock sits straight and lines up with the strike plate. We cut in neatly — no unnecessary holes or chips.</p>
+100	Adjustment
+101	<p>We fit the strike plate, check how the bolts and latch move and set up the handle.</p>
+103	<p>We check the lock opens and closes from both sides and hand you the keys. If the cylinder comes with an owner’s card, we give you that too.</p>
+105	How do I book a lock installation in&nbsp;Bilbao?
+107	Call or send a request. Send a photo of the door — it makes it easier to choose a lock.
+109	The dispatcher gives you an estimate for the labour and the lock and arranges a convenient time.
+110	Lock installation
+111	The locksmith inspects the door, you choose the lock, and it’s fitted in the same visit.
+113	We check the lock and door work properly and hand you the keys.
+114	Want to make your door more secure?
+115	Tell us about your door — we’ll suggest which lock to fit.
+119	Why people trust <span class="accent">Cerrajero24</span> with lock installation
+120	Chosen for your door
+121	We take the door design into account rather than offering the most expensive lock.
+122	Neat fitting
+123	No unnecessary holes, chips or marks on the door.
+125	We tell you the price of the labour and the lock before work starts.
+129	Mortice, surface-mounted and multi-point locks, bolts and security escutcheons.
+130	Installation guarantee
+131	A guarantee on the work and the locks fitted. The terms are set out in writing.
+133	Customer reviews of lock installation in&nbsp;Bilbao
+135	Customer reviews of lock installation
+136	Rocío
+137	Additional bolt · San Ignacio
+138	After burglaries in the building next door, we decided to fit a second lock. The locksmith suggested a surface-mounted bolt and fitted it neatly; the door closes easily. We feel safer now.
+139	Andrei
+140	Security escutcheon · Abando
+141	We had a security escutcheon fitted to our front door to protect the cylinder. The locksmith chose a model to suit our door and cylinder and fitted it perfectly straight. It looks good.
+142	Itziar
+143	Bathroom lock · Leioa
+144	We needed a privacy latch fitted to the bathroom door. The locksmith did it quickly and cleanly, with no unnecessary holes.
+145	Maxim
+146	New door · Basauri
+147	We had a new front door fitted but didn’t like its lock. The locksmith fitted a multi-point lock and adjusted the door — it closes smoothly and the bolts slide out effortlessly.
+148	Beatriz
+149	Office rooms · Indautxu
+150	We needed locks on two rooms in our office. The locksmith chose keyed-alike locks so the manager has one key, and did everything in one visit without disturbing the team.
+153	Do I need documents for a lock installation?
+154	A new lock gives access to a property, so the locksmith makes sure you have the right to change or add locks on that door.
+162	Owners’ association approval
+164	<p>A photo ID — DNI, NIE or passport — plus proof of your link to the address is enough: an <span lang="es">escritura</span>, an <span lang="es">empadronamiento</span> certificate or a utility bill.</p>
+166	<p>It’s best to agree an additional lock with the landlord: fitting a mortice lock alters the door, and the landlord must still be able to access the flat. A surface-mounted bolt is easier to remove when you move out.</p>
+167	Locks on building entrances or shared areas
+168	<p>Building entrance doors, shared car parks and other common areas belong to the owners’ association. Fitting or replacing a lock on them is agreed with the property manager (<span lang="es">administrador de fincas</span>) or by a decision of the association.</p>
+169	Installation in an office or shop
+170	<p>You’ll need permission from the owner of the premises or the manager. If you need an invoice in the company’s name, give the details to the dispatcher.</p>
+171	How work is agreed
+172	<p>The locksmith tells you the price of the labour and the lock after inspecting the door. Work only starts once you agree.</p>
+174	Lock installation in every district of <span class="accent">Bilbao</span>
+175	We install locks in flats, houses, offices and shops across Bilbao’s districts and nearby towns in Bizkaia.
+187	Lock installation in the Bilbao area
+198	Which lock should I fit to my front door?
+199	A good lock means a reliable mechanism, correct fitting and protection for the door’s weak points. Here’s what to look for when choosing.
+200	<h3>Mortice or surface-mounted lock: which should I choose?</h3>
+201	<p>A mortice lock (<span lang="es">de embutir</span>) is fitted inside the door leaf and can’t be seen from outside — it’s the main lock on most front doors. A surface-mounted lock or bolt (<span lang="es">de sobreponer</span>, <span lang="es">cerrojo</span>) is fixed to the inside of the door.</p>
+202	<p>In Spain, a surface-mounted bolt is often fitted as a second lock: it makes the door harder to force and doesn’t require major changes to the door. The locksmith will advise which option suits your door.</p>
+203	<h3>Do I need a second lock on my front door?</h3>
+204	<p>Two locks of different designs make a door much harder to force: each needs its own method and time. If the main lock is a cylinder lock, the second is often a bolt or a lock with a different type of mechanism.</p>
+205	<h3>What is a security escutcheon for?</h3>
+206	<p>The cylinder is the most vulnerable part of a lock: burglars try to drill it, snap it or pull it out. A security escutcheon (<span lang="es">escudo de seguridad</span>) covers the cylinder with a steel plate and protects it against these methods.</p>
+207	<p>Together with an escutcheon, it’s worth fitting an anti-bump, anti-drill cylinder. Find out more about <a href="{url:svc-cambio}">lock and cylinder replacement</a>.</p>
+208	<h3>Can a lock be fitted to any door?</h3>
+209	<p>Almost any door, but not any lock. A thin leaf, glass or a hollow-core door limits the choice: a large lock can’t always be morticed into them. The locksmith will inspect the door and suggest options that won’t weaken it.</p>
+210	<p>If the door is misaligned, it’s adjusted first — otherwise the new lock will stick. Find out more in the section <a href="#how">on how we install locks</a>.</p>
+211	<h3>What should I prepare before the locksmith’s visit?</h3>
+212	<p>Photos of the door from both sides and of the edge where the current lock is, and a rough budget. If you want a particular model, tell us which — the locksmith will check whether it’s suitable. If the door is a building entrance or in a shared area, get the owners’ association’s approval beforehand. Find out more in the section <a href="#documents">on documents</a>.</p>
+214	Frequently asked questions about lock installation
+217	How much does lock installation cost in Bilbao?
+218	<p>The price depends on the type of lock, the door material and how complex the fitting is. The lock itself is charged separately. See the <a href="#prices">price table</a> for guide prices; the locksmith gives you the final price after inspecting the door and before work starts.</p>
+219	Can I buy the lock myself?
+220	<p>Yes, the locksmith will fit a lock you’ve bought. Send us the model or a photo in advance — they’ll check whether it suits your door. In that case the seller guarantees the lock itself, and we guarantee the installation.</p>
+221	Which lock is best for a front door?
+222	<p>For most flats: a main mortice lock with an anti-bump cylinder, a security escutcheon and, if you like, an additional bolt. The locksmith will choose a combination to suit your door and budget.</p>
+223	How long does a lock installation take?
+224	<p>A surface-mounted bolt or escutcheon is quicker to fit than a mortice or multi-point lock. The locksmith can give you a more accurate time after inspecting the door.</p>
+225	Can a lock be fitted to a metal door?
+226	<p>Yes, but the work is more complex than with a wooden door and needs different tools. The locksmith will assess the door and tell you which lock can be fitted.</p>
+227	Can you fit a lock to an interior door?
+228	<p>Yes: a privacy latch for the bathroom, or a lock for a study or child’s room. The locksmith will choose a model to suit the door and fit it neatly.</p>
+229	Do I need permission to fit a lock in a rented flat?
+230	<p>It’s best to agree it with the landlord, especially for a mortice lock. A surface-mounted bolt is easier to remove when you move out. Find out more in the section <a href="#documents">on documents</a>.</p>
+231	Can a new lock be fitted to the building entrance door?
+232	<p>Only by decision of the owners’ association — building entrance doors and common areas belong to it. Contact the property manager: they’ll approve the work and call a locksmith.</p>
+233	Do you guarantee the installation?
+234	<p>Yes, on the work and the locks fitted. The terms and period are stated in the document you receive after the job.</p>
+240	Book a lock installation in&nbsp;Bilbao
+241	Want a new or additional lock fitted? Contact Cerrajero24 to choose a lock and find out the price.
+245	Installation guarantee
+247	Lock installation
+248	Check the price of a lock installation
+249	Leave your number and, if you can, attach a photo of the door. The locksmith will call you back, suggest options and give you a price.
+250	Photo of the door
+251	Additional lock or bolt
+252	Lock for a new door
+253	Security escutcheon
+254	Multi-point lock
+255	Interior door lock
+256	Lock for an office or shop
+258	Lock installation in Bilbao — Cerrajero24
+259	We fit additional locks, bolts and security escutcheons, and fit locks to new doors. Chosen to suit your door and neatly fitted in Bilbao.
+260	Installation of locks, bolts and security escutcheons in Bilbao. Chosen to suit your door, price agreed before work.
+261	Lock installation in Bilbao
+262	Door lock installation
+263	Installation of mortice and surface-mounted locks, additional bolts (cerrojos), multi-point locks and security escutcheons on front, interior and office doors. Bilbao and Greater Bilbao.

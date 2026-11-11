@@ -1,0 +1,264 @@
+1	Lokalak irekitzea
+2	Bulegoak eta lokalak irekitzea
+3	Bulegoak, dendak, biltegiak eta beste merkataritza-lokal batzuk.
+4	Bulegoak eta lokalak irekitzea <span class="accent">Bilbon</span>
+5	Bulegoko atea ez da irekitzen lanaldia hasi aurretik, dendako metalezko itxieraren sarraila trabatu da edo biltegiko giltzak galdu dira? Zure lokala edozein&nbsp;ordutan irekitzen dugu eta,&nbsp;behar izanez gero, bonbinak une berean aldatzen ditugu, zure negozioa ez&nbsp;gelditzeko.
+6	Bilbo • Bizkaia
+7	24/7 lanean
+8	Gauez, asteburuetan eta&nbsp;jaiegunetan
+9	Irekiera eta aldaketa bisita bakar batean
+10	Giltza zaharrek balio ez dezaten
+11	Prezioa lana hasi&nbsp;aurretik
+12	Aldez aurretik esaten dugu, ezustekorik gabe
+13	Utzi zure zenbakia eta bi minututan deituko dizugu
+14	Noiz behar duzu laguntza
+15	Noiz behar da lokal baten premiazko irekiera?
+16	Denda edo bulegoa itxita dagoen ordu bakoitza bezero galduak dira. Deitu zure giltzarekin sartu ezin bazara.
+17	Bulegoko atea ez da irekitzen
+18	Giltzak ez du biratzen edo sarraila trabatu da lanaldia hasi baino lehentxeago.
+19	Metalezko itxieraren sarraila trabatuta
+20	Dendako, tabernako edo lokaleko <span lang="es">cierre metálico</span> ez da irekitzen.
+21	Lokaleko giltzak galdu dituzu
+22	Langile batek giltzak galdu ditu eta ordezko sorta urrun dago.
+23	Langile bat giltzekin joan da
+24	Bonbinak aldatu behar dira giltza zaharrek balio ez dezaten.
+25	Giltza sarrailan hautsi da
+26	Giltza-zati bat sarrera-atearen bonbinan edo itxieraren sarrailan geratu da.
+27	Sarraila kaltetuta lapurreta-saiakera baten ondoren
+28	Lokala ireki eta segurtasuna berehala berreskuratu behar da.
+29	Lokala premiaz ireki behar duzu? Deitu sarrailagileari.
+30	Deskribatu atea eta sarraila, eta iritsi arte zer egin esango dizugu.
+31	Deitu sarrailagileari
+32	Prezioak
+33	Zenbat balio du Bilbon bulego edo denda bat irekitzeak?
+34	Prezioa ate eta sarraila motaren, sarraila kopuruaren eta abisuaren orduaren araberakoa da. Gutxi gorabeherako prezioa telefonoz ematen dugu, eta behin betikoa lana hasi aurretik.
+35	Bulegoak eta merkataritza-lokalak irekitzeko prezioak Bilbon
+36	Zerbitzua
+37	Prezioa
+38	Bulego baten atea irekitzea
+39	Denda baten sarrera-atea irekitzea
+40	Metalezko itxieraren sarraila irekitzea
+41	Biltegi edo gela tekniko bat irekitzea
+42	Bonbina aldatzea irekiera ondoren
+43	Hainbat bonbina aldatzea giltza bakarrarekin
+44	Premiazko irekiera gauez eta asteburuetan
+45	Sarrailagilearen joan-etorria Bilbon
+46	Joan-etorria
+47	Bilbon eta Bilbo Handian joan-etorriaren prezioa operadoreak esaten dizu deitzean, sarrailagilea abiatu aurretik.
+48	Gaueko eta jaieguneko tarifa
+49	Gauez aplikatzen da, 22:00etatik 08:00etara, eta asteburu eta jaiegunetan. Gainkostua aldez aurretik esaten dizugu.
+50	BEZ (IVA)
+51	[Adierazi BEZa taulako prezioetan sartuta dagoen.]
+52	Faktura enpresentzat
+53	Eskatuz gero, faktura (<span lang="es">factura</span>) egiten dugu enpresaren edo autonomoaren izenean. Eman datu fiskalak operadoreari.
+54	Bonbinak eta materialak
+55	Bonbina berriak, giltzarrapoak eta beste pieza batzuk bereiz ordaintzen dira, eta zure baimenarekin bakarrik.
+56	Galdetu lokal bat irekitzearen prezioa
+57	Deskribatu atea eta sarrailak, eta gutxi gorabeherako prezio bat emango dizugu.
+58	Zeren araberakoa den prezioa
+59	Zeren araberakoa da lokal bat irekitzearen prezioa?
+60	Lau faktorek zehazten dute prezioa. Esan iezazkiozu operadoreari edo bidali sarrailaren argazki bat, eta gutxi gorabeherako prezioa jakingo duzu sarrailagilea abiatu aurretik.
+61	Ate mota
+62	Dendako beirazko atea, bulegoko metalezko atea, biltegiko atea edo metalezko itxiera.
+63	Sarrailen mota eta kopurua
+64	Bonbina-sarrailak, puntu anitzekoak, giltzarrapoak eta metalezko itxieretako sarrailak.
+65	Matxura mota
+66	Galdutako giltza, trabatutako mekanismoa, hautsitako giltza edo lapurreta-saiakeraren arrastoak.
+67	Abisuaren ordua eta helbidea
+68	Lanordua, gaua edo jaieguna; Bilbo edo inguruak.
+69	Azken prezioa
+70	Sarrailagileak ematen du sarraila aztertu ondoren eta&nbsp;hasi aurretik: zure baimenik gabe ez da&nbsp;lanean hasten.
+71	Irekiera ondoren bonbinak aldatu edo sarraila konpondu behar bada, haien prezioa bereiz adosten dugu, hasi aurretik.
+72	Deitu sarrailagileari
+73	Ezin duzu bulegoa edo denda ireki? Deitu sarrailagileari
+74	Utzi zure izena eta telefonoa: operadoreak minutu gutxiren&nbsp;buruan deituko dizu, helbidea eta ate eta sarraila mota galdetuko dizkizu eta&nbsp;gutxi gorabeherako prezioa emango dizu. Egunean 24 orduz lan egiten dugu Bilbon eta&nbsp;Bilbo Handian.
+75	Lokalak
+76	Mota guztietako merkataritza-lokalak irekitzen ditugu
+77	Bulegoetako, dendetako eta biltegietako ate eta sarrailekin lan egiten dugu. Sarrailagileak instalazioa baloratzen du eta lokala ahalik eta lasterren irekitzeko metodoa aukeratzen du.
+78	Bulegoak eta lan-gelak
+79	Bulegoetako, lan-geletako eta bilera-geletako sarrera-ateak, bonbina- eta puntu anitzeko sarrailekin.
+80	Dendak eta erakusleihoak
+81	Beirazko ateak, erakusleihoetako sarrailak eta merkataritza-lokaletako metalezko itxierak.
+82	Tabernak, kafetegiak eta jatetxeak
+83	Sarrera- eta zerbitzu-ateak, itxieretako eta biltegietako sarrailak.
+84	Biltegiak eta tailerrak
+85	Biltegietako eta pabilioietako ateak, zerbitzu-ateak eta giltzarrapoak.
+86	Estudioak, zentroak eta kontsultak
+87	Mediku- eta estetika-kontsultak, ile-apaindegiak, estudioak.
+88	Behe-solairuko lokalak <span lang="es">lonjas</span>
+89	Bilboko etxebizitza-eraikinetako merkataritza-lokalak.
+90	Irekiera eta bonbina-aldaketa bisita bakar batean
+91	Irekiera arduratsua
+92	Nola ireki lokal bat kalterik gabe eta denborarik galdu gabe
+93	Negozio batentzat garrantzitsua da bai atea gordetzea bai azkartasuna: sarrailagileak bezeroentzat berehala irekitzeko aukera ematen duen metodoa aukeratzen du.
+94	Noiz jarraitzen du sarrailak funtzionatzen
+95	<p>Giltza galdu bada baina bonbina ondo badago, normalean atea ezer hautsi gabe ireki daiteke. Giltzak arrotzen eskuetara iritsi badaitezke, sarrailagileak bonbina une berean aldatzen du.</p>
+96	Giltza bakarra hainbat sarrailatarako
+97	<p>Aldatzean, giltza berarekin irekitzen diren bonbinak aukera daitezke: erosoa da lokalak hainbat ate baditu edo ate bat eta metalezko itxiera bat.</p>
+98	Metalezko itxieretako sarrailak
+99	<p>Metalezko itxieretako sarrailak kanpoan daude eta lehenago higatzen dira zikinkeriagatik eta hezetasunagatik. Sarrailagileak sarraila irekiko du eta, behar izanez gero, aldatu egingo du pertsiana ukitu gabe.</p>
+100	Zergatik adosten ditugun aldez aurretik balizko kalteak
+101	<p>Sarraila ezin bada gorde, sarrailagileak arrazoia azaltzen du eta aldaketaren prezioa esaten du. Lana arduradunaren baimenarekin bakarrik hasten da.</p>
+102	Zer egiaztatzen dugun ireki ondoren
+103	<p>Sarraila guztien funtzionamendua, atearen eta pertsianaren itxiera eta giltza-sorta. Sarrailaren bat higatuta badago, une berean aldatzea proposatzen dizugu.</p>
+104	Prozesua
+105	Nola deitu sarrailagile bati bulego edo denda bat irekitzeko?
+106	Abisua
+107	Deitu edo utzi eskaera bat. Esan helbidea, lokal mota eta zer gertatzen zaion sarrailari.
+108	Aholkularitza eta prezioa
+109	Operadoreak gutxi gorabeherako prezioa eta iristeko denbora ematen dizkizu, eta nork hartuko duen sarrailagilea galdetzen dizu.
+110	Lokalaren irekiera
+111	Sarrailagileak baimena egiaztatzen du, atea edo itxiera irekitzen du eta, behar izanez gero, bonbinak aldatzen ditu.
+112	Egiaztapena eta giltzak
+113	Sarraila guztiak egiaztatzen ditugu eta giltza berriak arduradunari ematen dizkiogu.
+114	Lokala itxita dago orain bertan?
+115	Guardiako sarrailagilea egunean 24 orduz dago prest, gauez eta asteburuetan ere bai.
+116	Deitu sarrailagileari orain
+117	Bilbo · Bizkaia
+118	Zergatik Cerrajero24
+119	Zergatik aukeratzen duten negozioek <span class="accent">Cerrajero24</span>
+120	Laguntza egunean 24 orduz
+121	24/7 hartzen ditugu abisuak, irekitzeko ordua baino lehen eta itxi ondoren ere bai.
+122	Zerbitzua Bilbon eta inguruetan
+123	Bulegoak, dendak, biltegiak eta lokalak, hirian eta Bilbo Handian.
+124	Irekiera eta aldaketa bisita bakar batean
+125	Behar izanez gero, bonbinak une berean aldatzen ditugu giltza zaharrek balio ez dezaten.
+126	Prezio gardena
+127	Prezioa hasi aurretik esaten dizugu; edozein gehigarri, zure baimenarekin bakarrik.
+128	Merkataritza-sarrailekin esperientzia
+129	Puntu anitzeko sarrailak, metalezko itxierak, erakusleihoetako sarrailak eta giltzarrapoak.
+130	Lanen bermea
+131	Lanen eta instalatutako piezen bermea. Baldintzak lana amaitzean ematen dugun agirian jasotzen dira.
+132	Iritziak
+133	Bezeroen iritziak bulegoak eta&nbsp;dendak irekitzeari buruz
+134	Jatorrizko iritziak Googlen
+135	Bezeroen iritziak lokalak irekitzeari buruz
+136	Aitor
+137	Denda · Alde Zaharra
+138	Goizean metalezko itxieraren sarraila ez zen irekitzen, eta ordubete barru denda ireki behar genuen. Sarrailagilea etorri zen, sarraila aztertu eta berri bat jarri zuen. Ia orduan ireki genuen, eta bezeroek ez zuten ezer nabaritu.
+139	Elena
+140	Bulegoa · Abando
+141	Lankide batek bulegoko giltzak galdu zituen sarbide-txartelarekin batera. Sarrailagileak atea ireki eta bonbina une berean aldatu zuen; giltza berriak denei banatu genizkien. Prezioa aldez aurretik adostu zen.
+142	Ricardo
+143	Kafetegia · Indautxu
+144	Kafetegiko zerbitzu-sarrerako sarrailan giltza hautsi zen. Zatia atera eta bonbina aztertu zuten: ondo zegoen, eta ez zen aldatu behar izan. Azkar eta alferreko gasturik gabe.
+145	Svetlana
+146	Biltegia · Sestao
+147	Biltegiko ateko giltzarrapoa ez zen irekitzen: herdoilduta zegoen. Sarrailagileak ireki zuen atea kaltetu gabe, eta hezetasuna hobeto jasaten duen giltzarrapo berri bat jarri zuen.
+148	Unai
+149	Lapurreta-saiakera baten ondoren · Deustu
+150	Gauez apaindegiko atea behartzen saiatu ziren eta sarraila kaltetuta geratu zen. Poliziak dena erregistratu ondoren, sarrailagileak atea ireki zuen, lapurreta aurkako bonbina bat jarri zuen eta beste zer indar zitekeen aholkatu zigun.
+151	Ikusi iritzi guztiak
+152	Legezkotasuna eta segurtasuna
+153	Zer agiri behar dira merkataritza-lokal bat irekitzeko?
+154	Ireki aurretik, sarrailagileak ziurtatu behar du negozioaren titularra, lokalaren maizterra edo haien enkarguz ari zarela.
+155	Balio dute:
+156	NANa
+157	AIZ
+158	Pasaportea
+159	Enpresaren IFZ / CIF
+160	Contrato de alquiler
+161	Escritura
+162	Idatzizko baimena
+163	Nola egiaztatu lokalaren gaineko eskubidea
+164	<p>Argazkidun agiri bat —NANa, AIZ edo pasaportea— eta lokalarekin lotzen zaituen paper bat: alokairu-kontratua (<span lang="es">contrato de alquiler</span>), eskritura (<span lang="es">escritura</span>), enpresaren helbidea duten agiriak edo hornidura-faktura bat.</p>
+165	Langilea bazara, eta ez titularra
+166	<p>Titularraren edo arduradunaren baimena beharko duzu, idatziz edo sarrailagileari telefonoz baieztatuta. Abisatu operadoreari aldez aurretik.</p>
+167	Agiriak barruan geratu badira
+168	<p>Sarrailagileak atea irekiko du eta agiriak ireki bezain laster egiaztatuko ditu, lana amaitu aurretik. Zalantzazko egoeretan, egiaztapena Udaltzaingoaren edo Ertzaintzaren aurrean egiten da.</p>
+169	Lapurreta-saiakeraren bat izan bada
+170	<p>Abisatu lehenik poliziari 112an eta ez ukitu sarraila iritsi arte: arrastoak beharrezkoak izan daitezke aseguruarentzat. Sarrailagilea kalteak erregistratu ondoren joango da.</p>
+171	Zergatik uko egin diezaiokeen sarrailagileak lanari
+172	<p>Sartzeko eskubidea ez agiriekin ez titularrari deituta egiaztatu ezin bada, sarrailagileak lokala ez irekitzea erabaki dezake. Horrela zure negozioa ezezagunengandik babesten da.</p>
+173	Zerbitzu-eremua
+174	Bulegoak eta dendak irekitzea <span class="accent">Bilboko</span> auzo guztietan
+175	Bilboko auzoetako eta Bizkaiko inguruko herrietako bulegoetara, dendetara, biltegietara eta lokaletara joaten gara.
+176	Bilboko barrutiak
+177	8 barruti
+178	Deustu
+179	Uribarri
+180	Otxarkoaga-Txurdinaga
+181	Begoña
+182	Ibaiondo
+183	Abando
+184	Errekalde
+185	Basurto-Zorrotza
+186	Auzo eskatuenak: Alde Zaharra, Indautxu, San Ignazio, Santutxu, Miribilla eta beste batzuk.
+187	Lokalak irekitzea Bilbo inguruan
+188	Barakaldo
+189	Getxo
+190	Portugalete
+191	Santurtzi
+192	Leioa
+193	Sestao
+194	Basauri
+195	Erandio
+196	eta Bilbo Handiko beste udalerri batzuk.
+197	Jakin beharrekoak
+198	Zer egin bulegoa edo denda irekitzen ez bada?
+199	Denda edo bulego itxi batek bertan behera utzitako bilerak eta bezero galduak esan nahi ditu. Kontatzen dizugu nola baloratu egoera azkar, zer prestatu sarrailagilea iritsi aurretik eta nola babestu lokala giltzak galdu ondoren.
+200	<h3>Bulegoko atea ez da irekitzen: zer egiaztatu lehenik?</h3>
+201	<p>Probatu giltza-sortako giltza guztiak eta galdetu lankideei nork duen ordezko sorta. Egiaztatu atea barrutik bigarren sarraila batekin edo morroilo batekin itxita dagoen: gertatu ohi da azken langilea zerbitzu-sarreratik irteten denean.</p>
+202	<p>Ez behartu giltza: bonbinaren barruan hautsitako giltza batek irekiera zailduko du. Deitu sarrailagileari eta azaldu zer gertatzen zaion sarrailari. Erreferentziazko prezioak <a href="#prices">prezio-taulan</a> dituzu.</p>
+203	<h3>Zergatik trabatzen da metalezko itxiera baten sarraila?</h3>
+204	<p>Metalezko itxieretako sarrailak (<span lang="es">cierres metálicos</span>) kalean daude: zikinkeria, ura eta harea sartzen zaizkie. Mekanismoa pixkanaka higatzen da, eta egun batean giltzak biratzeari uzten dio.</p>
+205	<p>Hori saihesteko, komeni da itxieraren sarraila noizean behin garbitzea eta lubrifikatzaile lehor batekin koipeztatzea. Dagoeneko trabatzen bada, <a href="{url:svc-reparacion}">sarrailaren konponketa</a> da irtenbidea, erabat blokeatu aurretik.</p>
+206	<h3>Zer egin langile batek giltzak galdu baditu edo enpresatik joan bada?</h3>
+207	<p>Aldatu bonbinak lehenbailehen: merkea eta azkarra da, eta giltza zaharrek ez dute balioko. Lokalak hainbat ate baditu, giltza bakarreko bonbinak jar daitezke.</p>
+208	<p>Bonbinak aukeratzeari buruzko informazio gehiago <a href="{url:svc-cambio}">sarrailak eta bonbinak aldatzeari</a> buruzko orrian.</p>
+209	<h3>Zer egin lapurreta-saiakera baten ondoren?</h3>
+210	<p>Ez ukitu atea edo sarraila eta deitu berehala poliziari 112ra. Atera kalteei argazkiak: argazkiak eta salaketa (<span lang="es">denuncia</span>) beharko dituzu aseguruarentzat.</p>
+211	<p>Kalteak erregistratu ondoren, sarrailagileak lokala irekiko du, kaltetutako sarraila aldatuko du eta segurtasuna nola indartu esango dizu, adibidez <a href="{url:svc-instalacion}">sarraila gehigarri bat instalatuz</a>.</p>
+212	<h3>Zer prestatu sarrailagilea iritsi aurretik?</h3>
+213	<p>Helbide zehatza, ate eta sarraila mota, eta sarrailagilea hartuko duen pertsonaren kontaktua. Izan eskura argazkidun agiri bat eta lokalaren gaineko eskubidea egiaztatzen duen zerbait. Langilea bazara, abisatu titularrari: sarrailagileak enkargua baieztatzeko eska diezaioke. Zer paperek balio duten, <a href="#documents">agiriei</a> buruzko atalean.</p>
+214	Galderak
+215	Lokalak irekitzeari buruzko ohiko galderak
+216	Galdera gehiago dituzu?
+217	Jarri harremanetan sarrailagilearekin: erantzun egingo dizugu eta orain bertan zer egin esango dizugu.
+218	Zenbat balio du Bilbon bulego edo denda bat irekitzeak?
+219	<p>Prezioa ate eta sarraila motaren, matxura motaren, abisuaren orduaren eta helbidearen araberakoa da. Erreferentziazko prezioak <a href="#prices">prezio-taulan</a> dituzu. Operadoreak gutxi gorabeherako prezioa ematen dizu telefonoz, eta sarrailagileak behin betikoa, hasi aurretik.</p>
+220	Ireki al daiteke lokala lanaldia hasi aurretik?
+221	<p>Bai, egunean 24 orduz lan egiten dugu. Deitu aldez aurretik: operadoreak gutxi gorabeherako iristeko denbora esango dizu, garaiz ireki ahal izateko. Gauez, asteburuetan eta jaiegunetan gainkostu bat aplikatzen da; haren zenbatekoa deitzean esaten dizugu.</p>
+222	Ireki al daiteke atea kalterik gabe?
+223	<p>Normalean bai, bonbina ondo badago. Giltzak arrotzen eskuetara iritsi badaitezke, sarrailagileak bonbina une berean aldatzen du. Sarraila hautsita badago, aldez aurretik azaltzen dizu zer egin daitekeen eta prezioa zurekin adosten du.</p>
+224	Irekitzen al dituzue denden metalezko itxierak?
+225	<p>Bai, sarrailagileek denden, tabernen, lokalen eta biltegien metalezko itxieretako (<span lang="es">cierres metálicos</span>) sarrailekin lan egiten dute. Sarraila higatuta badago, bisita berean alda daiteke.</p>
+226	Bonbinak aldatu behar al dira langile bat joan bada?
+227	<p>Bai, giltza guztiak itzuli ez baditu edo kopiak egin ahal izan baditu. Bonbinak aldatzea lokala babesteko modu azkarra eta merkea da: giltza zaharrek ez dute balioko.</p>
+228	Jar al daitezke giltza bakarreko bonbinak?
+229	<p>Bai, aldatzean giltza berarekin irekitzen diren bonbinak aukera daitezke. Erosoa da lokalak hainbat ate baditu edo atearen eta itxieraren sarrailak. Modeloaren araberakoa da: sarrailagileak tokian bertan esango dizu.</p>
+230	Fakturarik egiten duzue enpresaren izenean?
+231	<p>Bai, eskatuz gero, faktura (<span lang="es">factura</span>) egiten dugu enpresaren edo autonomoaren izenean. Eman datu fiskalak operadoreari enkargua egitean.</p>
+232	Zer egin lapurreta-saiakera baten ondoren?
+233	<p>Deitu lehenik poliziari 112ra eta ez ukitu sarraila iritsi arte. Kalteak erregistratu ondoren, sarrailagileak lokala irekiko du eta sarraila aldatuko du. Informazio gehiago <a href="#documents">agiriei</a> buruzko atalean.</p>
+234	Zer agiri behar dira lokal bat irekitzeko?
+235	<p>Argazkidun agiri bat eta lokalaren gaineko eskubidea egiaztatzen duen zerbait: alokairu-kontratua, eskritura (<span lang="es">escritura</span>) edo enpresaren agiriak. Langile batek titularraren edo arduradunaren baimena beharko du. Informazio gehiago <a href="#documents">agiriei</a> buruzko atalean.</p>
+236	Bilbo ingurura ere joaten zarete?
+237	<p>Bai. Bilboko auzo guztiez gain, Bilbo Handiko udalerrietara ere joaten gara: Barakaldo, Getxo, Portugalete, Santurtzi, Leioa, Sestao, Basauri, Erandio eta beste batzuk. Hiritik kanpoko prezioa eta iristeko denbora operadoreak esango dizkizu deitzean. Zure eremua <a href="#areas">zerbitzu-eremuaren mapan</a> egiazta dezakezu.</p>
+238	Zerbitzu gehiago
+239	Cerrajero24ren beste zerbitzu batzuk Bilbon
+240	Zerbitzu-eskaera
+241	Deitu sarrailagile bati zure lokala Bilbon irekitzeko
+242	Ezin zara bulegoan, dendan edo biltegian sartu? Jarri harremanetan Cerrajero24rekin prezioa jakiteko eta sarrailagile bat eskatzeko.
+243	24/7 lanean, asteburuetan eta jaiegunetan ere
+244	Eremua: Bilbo eta Bizkaia
+245	Prezioa hasi aurretik adosten dugu
+246	Irekiera eta bonbina-aldaketa bisita bakar batean
+247	Deitu sarrailagileari
+248	Lokala irekitzea
+249	Galdetu lokal bat irekitzearen prezioa
+250	Utzi zure zenbakia eta, ahal baduzu, erantsi atearen edo sarrailaren argazki bat. Sarrailagileak deituko dizu gutxi gorabeherako prezio bat emateko.
+251	Atearen edo sarrailaren argazkia
+252	Bulegoko atea ez da irekitzen
+253	Itxieraren sarraila trabatu da
+254	Giltzak galduta
+255	Giltza sarrailan hautsi da
+256	Sarraila kaltetuta lapurreta-saiakera baten ondoren
+257	Bonbinak aldatu behar dira
+258	Beste bat
+259	Bulegoak eta dendak irekitzea Bilbon 24/7 — Cerrajero24
+260	Bulegoa, denda edo biltegia ez da irekitzen? Zure lokala Bilbon irekitzen dugu 24/7 eta, behar izanez gero, bonbinak une berean aldatzen ditugu. Prezioa hasi aurretik.
+261	Bulegoa, denda edo biltegia ez da irekitzen? Zure lokala Bilbon irekiko dugu egunean 24 orduz, prezioa hasi aurretik adostuta.
+262	Bulegoak eta merkataritza-lokalak irekitzea Bilbon
+263	Bulegoen, denden eta biltegien premiazko irekiera
+264	Bulegoetako, dendetako, biltegietako, tabernetako eta lokaletako ateak eta metalezko itxieretako sarrailak irekitzea, eta bonbinen premiazko aldaketa. Egunean 24 orduz Bilbon eta Bilbo Handian.

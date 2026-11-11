@@ -1,0 +1,262 @@
+1	Autoak irekitzea
+2	Autoen premiazko irekiera
+3	Marka guztietako autoen ateak eta maletategiak.
+4	Autoen premiazko irekiera <span class="accent">Bilbon</span>
+5	Giltzak barruan geratu dira, maletategia itxi da edo autoak ez dio&nbsp;urruneko aginteari erantzuten? Autoa dagoen lekura joaten gara: kalera, patiora edo&nbsp;lurpeko aparkaleku batera. Ateak eta&nbsp;maletategiak irekitzen ditugu kristalak, juntak eta&nbsp;pintura kaltetu gabe.
+6	Bilbo • Bizkaia
+7	24/7 lanean
+8	Gauez, asteburuetan eta&nbsp;jaiegunetan
+9	Autoan markarik gabe
+10	Kristalak eta&nbsp;juntak osorik
+11	Prezioa lana hasi&nbsp;aurretik
+12	Aldez aurretik esaten dugu, ezustekorik gabe
+13	Utzi zure zenbakia eta bi minututan deituko dizugu
+14	Noiz behar duzu laguntza
+15	Noiz behar duzu zure autoaren premiazko irekiera?
+16	Deitu zure giltzarekin edo urruneko aginteaz autoan sartu ezin bazara: esango dizugu zer egin dezakezun sarrailagilea iritsi arte.
+17	Giltzak autoaren barruan
+18	Autoa bere kabuz itxi da edo atea giltzak barruan zeudela itxi duzu.
+19	Maletategia itxi da
+20	Giltzak, poltsa edo agiriak itxitako maletategian geratu dira.
+21	Urruneko agintea ez dabil
+22	Pila agortu da eta autoak ez die botoiei erantzuten.
+23	Autoaren giltzak galdu dituzu
+24	Ez duzu ordezko giltzarik edo urrun dago, eta autoa orain ireki behar duzu.
+25	Atearen sarraila trabatu da
+26	Giltza ez da atearen bonbinan sartzen edo ez du biratzen.
+27	Haur bat edo animalia bat barruan
+28	Osasunerako arriskua badago, deitu berehala 112ra: larrialdi-zerbitzuak lehenago iritsiko dira.
+29	Ez dakizu nola sartu autoan? Deitu sarrailagileari.
+30	Esan marka, modeloa eta urtea: iritsi arte zer egin esango dizugu.
+31	Deitu sarrailagileari
+32	Prezioak
+33	Zenbat balio du Bilbon auto bat irekitzeak?
+34	Prezioa autoaren modeloaren, itxiera-sistemaren eta abisuaren orduaren araberakoa da. Gutxi gorabeherako prezioa telefonoz ematen dugu, eta behin betikoa lana hasi aurretik.
+35	Autoen premiazko irekieraren prezioak Bilbon
+36	Zerbitzua
+37	Prezioa
+38	Turismo baten atea irekitzea
+39	Lur orotako ibilgailu edo SUV bat irekitzea
+40	Furgoneta edo monobolumen bat irekitzea
+41	Maletategia irekitzea
+42	Giltzarik gabeko sarbidea duen autoa irekitzea
+43	Atearen sarraila trabatuta dagoenean irekitzea
+44	Autoaren premiazko irekiera gauez
+45	Sarrailagilearen joan-etorria Bilbon
+46	Joan-etorria
+47	Bilbon eta Bilbo Handian joan-etorriaren prezioa operadoreak esaten dizu deitzean, sarrailagilea abiatu aurretik.
+48	Gaueko eta jaieguneko tarifa
+49	Gauez aplikatzen da, 22:00etatik 08:00etara, eta asteburu eta jaiegunetan. Gainkostua aldez aurretik esaten dizugu.
+50	BEZ (IVA)
+51	[Adierazi BEZa taulako prezioetan sartuta dagoen.]
+52	Giltzak eta elektronika
+53	Giltzak egitea eta programatzea ez dago irekieraren prezioan sartuta. Giltza berri bat behar baduzu, esan deitzean eta orientatuko zaitugu.
+54	Azken prezioa
+55	Sarrailagileak ematen du autoa aztertu ondoren, lana hasi aurretik.
+56	Galdetu auto bat irekitzearen prezioa
+57	Esan marka eta modeloa eta prezioari buruz orientatuko zaitugu.
+58	Zeren araberakoa den prezioa
+59	Zeren araberakoa da auto bat irekitzearen prezioa?
+60	Lau faktorek zehazten dute prezioa. Esan iezazkiozu operadoreari, eta gutxi gorabeherako prezioa jakingo duzu sarrailagilea abiatu aurretik.
+61	Marka, modeloa eta urtea
+62	Ateak eta sarrailak nabarmen aldatzen dira modelo batetik bestera.
+63	Sarbide-sistema
+64	Giltza arrunta, urruneko aginteduna duen giltza tolesgarria edo giltzarik gabeko sarbidea.
+65	Zer ireki behar den
+66	Ate bat, maletategia edo trabatutako sarraila bat, ez auto itxi bat bakarrik.
+67	Abisuaren ordua eta lekua
+68	Eguna edo gaua; kalea, patioa edo lurpeko aparkalekua; Bilbo edo inguruak.
+69	Azken prezioa
+70	Sarrailagileak ematen du autoa aztertu ondoren eta&nbsp;hasi aurretik: zure baimenik gabe ez da&nbsp;lanean hasten.
+71	Irekiera ondoren atearen sarraila konpondu edo bonbina aldatu behar bada, haien prezioa bereiz adosten dugu, hasi aurretik.
+72	Deitu sarrailagileari
+73	Ezin zara autoan&nbsp;sartu? Deitu sarrailagileari
+74	Utzi zure izena eta telefonoa: operadoreak minutu gutxiren&nbsp;buruan deituko dizu, autoa non dagoen, marka eta modeloa galdetuko dizkizu eta&nbsp;gutxi gorabeherako prezioa emango dizu. Egunean 24 orduz lan egiten dugu Bilbon eta&nbsp;Bilbo Handian.
+75	Ibilgailuak
+76	Mota eta marka guztietako autoak irekitzen&nbsp;ditugu
+77	Sarrailagileak modelo bakoitzaren egiturara egokitutako irekiera-metodoa aukeratzen du, atea, kristala eta elektronika ez kaltetzeko.
+78	Turismoak
+79	Europako, Japoniako eta Koreako marken berlinak, trinkoak eta familiarrak.
+80	Lur orotako ibilgailuak eta SUVak
+81	Ate altuak, junta indartuak eta sarraila konplexuagoak.
+82	Furgonetak eta merkataritza-ibilgailuak
+83	Alboko ate irristakorrak, atzeko ate biragarriak eta zama-eremuak.
+84	Maletategiak eta atzeko ateak
+85	Giltzak edo zure gauzak itxitako maletategian geratu direnean.
+86	Giltzarik gabeko sarbidea duten autoak
+87	Keyless sistema eta funtzionatzeari utzi dion giltza adimenduna duten ibilgailuak.
+88	Sarraila mekanikoak dituzten modelo zaharrak
+89	Itxiera zentralizaturik gabeko autoak: kontu berezia dugu jatorrizko piezekin.
+90	Kristalak eta&nbsp;juntak osorik
+91	Irekiera arduratsua
+92	Autoak kalterik gabe irekitzea
+93	Gure helburua da zure autoan sartzeko aukera berreskuratzea, kristaletan eta juntetan urradurarik edo markarik utzi gabe.
+94	Nola irekitzen dugun markarik utzi gabe
+95	<p>Sarrailagileak autoetarako tresna bereziak erabiltzen ditu, pintura urratzen ez dutenak eta atea deformatzen ez dutenak. Normalean ez da beharrezkoa kristala haustea edo bonbina zulatzea irekitzeko.</p>
+96	Zergatik den garrantzitsua modeloa jakitea
+97	<p>Modelo bakoitzak bere ateak, hagaxkak eta elektronika ditu. Marka eta urtea jakinda, sarrailagileak tresna egokia eramaten du eta metodo seguru bat aukeratzen du.</p>
+98	Elektronika eta keyless sistema duten autoak
+99	<p>Irekitzean alarmak jo dezake; normala da: giltza eskuan duzunean, ohi bezala desaktibatuko duzu. Sarrailagileak giltzarik gabeko sarbidea kontuan hartzen du metodoa aukeratzean.</p>
+100	Konpontzea saihestu ezin bada
+101	<p>Atearen sarraila hautsita edo trabatuta badago, sarrailagileak lehenik azalduko dizu zer duen eta konponketaren edo bonbina-aldaketaren prezioa esango dizu. Lana zure baimenarekin bakarrik hasten da.</p>
+102	Zer egiaztatzen dugun ireki ondoren
+103	<p>Ate guztiak eta maletategia irekitzen diren, itxiera zentralizatuak zure giltzarekin funtzionatzen duen eta ezerk ixtea eragozten ez duen. Zerbait ondo ez badago, berehala esaten dizugu.</p>
+104	Prozesua
+105	Nola deitu sarrailagile bati Bilbon auto bat irekitzeko?
+106	Abisua
+107	Deitu edo utzi eskaera bat. Esan non dagoen autoa, marka, modeloa eta zer gertatu den.
+108	Aholkularitza eta prezioa
+109	Operadoreak gutxi gorabeherako prezioa eta iristeko denbora ematen dizkizu, eta sarrailagilea iritsi arte zer egin esaten dizu.
+110	Autoaren irekiera
+111	Sarrailagilea iristen da, autoa erabiltzeko eskubidea duzula egiaztatzen du eta atea edo maletategia adostutako metodoarekin irekitzen du.
+112	Emaitzaren egiaztapena
+113	Ateak, maletategia eta itxiera zentralizatua egiaztatzen ditugu. Bonbina konpondu behar bada, une berean proposatzen dizugu.
+114	Autoa itxita dago orain bertan?
+115	Guardiako sarrailagilea egunean 24 orduz dago prest, gauez eta jaiegunetan ere bai.
+116	Deitu sarrailagileari orain
+117	Bilbo · Bizkaia
+118	Zergatik Cerrajero24
+119	Zergatik aukeratu <span class="accent">Cerrajero24</span> zure autoa irekitzeko
+120	Laguntza egunean 24 orduz
+121	24/7 hartzen ditugu abisuak, asteburuak eta jaiegunak barne.
+122	Zure autoraino joaten gara
+123	Kalea, patioa, merkataritza-gunea edo lurpeko aparkalekua, Bilbon eta inguruetan.
+124	Autoan markarik gabe
+125	Autoetarako tresna bereziak: kristal hautsirik eta urradurarik gabe.
+126	Prezio gardena
+127	Prezioa hasi aurretik esaten dizugu; edozein gehigarri, zure baimenarekin bakarrik.
+128	Marka eta modelo guztiak
+129	Turismoak, lur orotako ibilgailuak eta furgonetak, modelo zaharretatik keyless autoetaraino.
+130	Agirien egiaztapena
+131	Autoa jabeari edo baimendutako gidari bati bakarrik irekitzen diogu: horrela zu ere babesten zaitugu.
+132	Iritziak
+133	Bezeroen iritziak Bilbon autoak irekitzeari buruz
+134	Jatorrizko iritziak Googlen
+135	Bezeroen iritziak autoak irekitzeari buruz
+136	Javier
+137	Giltzak autoaren barruan · Abando
+138	Giltzak eserlekuan utzi eta atea itxi nuen, eta autoa berehala blokeatu zen. Operadoreak marka eta urtea galdetu zizkidan eta berehala eman zidan prezioa. Sarrailagilea geltokiko aparkalekura etorri zen eta autoa urradura bakar bat ere gabe ireki zuen; agiriak ireki bezain laster egiaztatu zituen.
+139	Olga
+140	Maletategia itxi zen · Barakaldo
+141	Merkataritza-gunean erosketak kargatzen ari ginen, giltzak zituen poltsa maletategian geratu zen eta itxi egin zen. Sarrailagileak kontu handiz ireki zuen autoa: juntak eta pintura osorik. Prezioa telefonoz esandakoa izan zen.
+142	Miguel
+143	Urruneko agintea ez zebilen · Getxo
+144	Goizean autoak ez zion urruneko aginteari erantzuten, eta presaka irten behar nuen. Sarrailagileak atea ireki zuen eta urruneko agintearen barruan ezkutatuta dagoen giltza mekanikoa non dagoen erakutsi zidan: pila agortuta zegoen, besterik ez. Orain badakit zer egin berriz gertatzen bada.
+145	Irina
+146	Furgoneta · Zorrotzaurre
+147	Laneko furgoneta giltzak barruan zituela itxi zen obran bertan. Sarrailagilea etorri zen, ate irristakorra kalterik gabe ireki zuen eta itxiera zentralizatuak funtzionatzen zuela egiaztatu zuen. Dena lasai eta argi, hitz alferrik gabe.
+148	Álex
+149	Gaueko abisua · Indautxu
+150	Gaueko azken orduan konturatu nintzen giltzak autoan zeudela. Gaueko gainkostuaz telefonoz abisatu zidaten jada; sarrailagilea etorri zen eta autoa kontu handiz ireki zuen. Alarmak jo zuen, baina berehala itzali nuen nire giltzarekin.
+151	Ikusi iritzi guztiak
+152	Legezkotasuna eta segurtasuna
+153	Zer agiri behar dira auto bat irekitzeko?
+154	Ireki aurretik, sarrailagileak ziurtatu behar du ibilgailua erabiltzeko eskubidea duzula.
+155	Balio dute:
+156	NANa
+157	AIZ
+158	Pasaportea
+159	Permiso de circulación
+160	Ficha técnica
+161	Alokairu- edo leasing-kontratua
+162	Aseguru-poliza
+163	Nola frogatu autoa zurea dela
+164	<p>Argazkidun agiri bat behar duzu —NANa, AIZ edo pasaportea— eta ibilgailuaren zirkulazio-baimena (<span lang="es">permiso de circulación</span>) edo fitxa teknikoa (<span lang="es">ficha técnica</span>). Agirietako titularraren izenak edo matrikulak bat etorri behar dute.</p>
+165	Zer egin agiriak autoaren barruan geratu badira
+166	<p>Egoera ohikoa da: autoaren agiriak eskularru-kutxan egon ohi dira. Abisatu operadoreari: sarrailagileak autoa irekiko du eta agiriak ireki bezain laster egiaztatuko ditu, lana amaitu aurretik.</p>
+167	Autoa alokatua edo enpresakoa bada
+168	<p>Auto alokatu baten kasuan, deitu lehenik alokairu-enpresari: askok beren laguntza-zerbitzua dute. Enpresako auto baterako, enpresaren berrespena beharko duzu gidaria zarela adierazteko, adibidez idatzizko baimen bat (<span lang="es">autorización</span>).</p>
+169	Zergatik uko egin diezaiokeen sarrailagileak lanari
+170	<p>Autoa erabiltzeko eskubidea ez agiriekin ez beste modu batean egiaztatu ezin bada, sarrailagileak autoa ez irekitzea erabaki dezake. Horrela jabeak babesten dira: ezezagun batek ezin izango dio sarrailagile bati deitu beste norbaiten autoa irekitzeko.</p>
+171	Noiz deitu 112ra eta ez sarrailagileari
+172	<p>Itxitako auto batean haur bat, adineko pertsona bat edo animalia bat geratu bada, batez ere beroarekin, deitu berehala larrialdi-zerbitzuei 112 zenbakira. Ez itxaron sarrailagileari osasunerako arriskua badago.</p>
+173	Zerbitzu-eremua
+174	Autoak irekitzen ditugu <span class="accent">Bilboko</span> auzo guztietan
+175	Autoa dagoen lekura joaten gara: kalera, patiora, merkataritza-gune batera edo lurpeko aparkaleku batera, Bilbon eta Bizkaiko inguruko herrietan.
+176	Bilboko barrutiak
+177	8 barruti
+178	Deustu
+179	Uribarri
+180	Otxarkoaga-Txurdinaga
+181	Begoña
+182	Ibaiondo
+183	Abando
+184	Errekalde
+185	Basurto-Zorrotza
+186	Auzo eskatuenak: Alde Zaharra, Indautxu, San Ignazio, Santutxu, Miribilla eta beste batzuk.
+187	Autoak irekitzea Bilbo inguruan
+188	Barakaldo
+189	Getxo
+190	Portugalete
+191	Santurtzi
+192	Leioa
+193	Sestao
+194	Basauri
+195	Erandio
+196	eta Bilbo Handiko beste udalerri batzuk.
+197	Jakin beharrekoak
+198	Zer egin giltzak autoaren barruan geratu badira?
+199	Giltzak barruan dituen auto itxi bat gogaikarria da, baina normalean sarrailagilearen bisita bakar batean konpontzen da. Kontatzen dizugu zer egiaztatu zuk zeuk, zer ez egitea komeni den eta nola prestatu teknikaria iritsi aurretik.
+200	<h3>Giltzak autoaren barruan: zer egiaztatu lehenik?</h3>
+201	<p>Eman autoari bira eta probatu ate guztiak eta maletategia: batzuetan ateren bat blokeatu gabe geratzen da. Ordezko giltza baduzu —etxean, senide edo lankide baten etxean—, batzuetan azkarragoa da hura ekartzea sarrailagileari itxarotea baino.</p>
+202	<p>Ez saiatu atea alanbre, erregela edo bihurkin batekin irekitzen: erraza da junta, sarrailaren hagaxkak eta leiho-jasogailuaren kableak kaltetzea. Saiakera horren ondorengo konponketa irekiera baino garestiagoa da. Erreferentziazko prezioak <a href="#prices">prezio-taulan</a> dituzu.</p>
+203	<h3>Zergatik ez da autoa urruneko aginteaz irekitzen?</h3>
+204	<p>Ohikoena urruneko agintearen pila agortzea da: botoiek funtzionatzeari uzten diote, nahiz eta giltza ondo egon. Urruneko agintaritza askok giltza mekaniko bat dute ezkutatuta: atera dezakezu eta gidariaren atea bonbinaren bidez ireki, baldin badu.</p>
+205	<p>Ez urruneko agintea ez bonbina erantzuten ez badute, arrazoia autoaren bateria deskargatuta egotea edo atearen sarrailaren matxura bat izan daiteke. Deitu sarrailagileari: kontatzen diozunaren arabera, zer egiaztatu esango dizu.</p>
+206	<h3>Ireki al daiteke auto bat kalterik gabe?</h3>
+207	<p>Kasu gehienetan bai. Autoetarako tresna bereziekin atea ireki daiteke kristala hautsi gabe eta bonbina zulatu gabe. Garrantzitsua da hasieratik marka, modeloa eta urtea esatea: horien araberakoa da metodoa.</p>
+208	<p>Atearen sarraila hautsita edo trabatuta badago, sarrailagileak aldez aurretik azalduko dizu zer egin daitekeen eta prezioa esango dizu. Informazio gehiago <a href="#no-damage">kalterik gabeko irekierari</a> buruzko atalean.</p>
+209	<h3>Zer egin giltza autoaren atearen sarrailan hautsi bada?</h3>
+210	<p>Ez saiatu zatia beste giltza batekin, ile-orratz batekin edo kolarekin ateratzen: erraza da barrurago sartzea. Sarrailagileak zatia tresna berezi batekin aterako du eta bonbina aztertuko du. Informazio gehiago <a href="{url:svc-extraccion}">giltza hautsiak ateratzeari</a> buruz.</p>
+211	<h3>Zer prestatu sarrailagilea iritsi aurretik?</h3>
+212	<p>Helbide zehatza edo autoa non dagoen jakiteko erreferentzia bat, marka, modeloa, urtea eta kolorea. Autoa lurpeko aparkaleku batean badago, esan nola sartu. Izan eskura argazkidun agiri bat: NANa, AIZ edo pasaportea. Autoaren agiriak barruan geratu badira, sarrailagileak ireki bezain laster egiaztatuko ditu. Zer paperek balio duten, <a href="#documents">agiriei</a> buruzko atalean.</p>
+213	Galderak
+214	Autoak irekitzeari buruzko ohiko galderak
+215	Galdera gehiago dituzu?
+216	Jarri harremanetan sarrailagilearekin: erantzun egingo dizugu eta orain bertan zer egin esango dizugu.
+217	Zenbat balio du Bilbon auto bat irekitzeak?
+218	<p>Prezioa autoaren markaren eta modeloaren, itxiera-sistemaren eta zer ireki behar den —ate bat edo maletategia— araberakoa da, baita abisuaren orduaren eta helbidearen araberakoa ere. Erreferentziazko prezioak <a href="#prices">prezio-taulan</a> dituzu. Operadoreak gutxi gorabeherako prezioa ematen dizu telefonoz, eta sarrailagileak behin betikoa, hasi aurretik.</p>
+219	Zenbat denbora beharko du sarrailagileak iristeko?
+220	<p>Iristeko denbora eremuaren, orduaren eta guardiako sarrailagileen lan-kargaren araberakoa da. Operadoreak gutxi gorabeherako denbora esaten dizu deitu bezain laster. Autoa lurpeko aparkaleku batean edo itxitako eremu batean badago, esan nola iritsi: horrela sarrailagileak ez du denborarik galduko.</p>
+221	Ireki al daiteke auto bat kalterik gabe?
+222	<p>Normalean bai: sarrailagileak autoetarako tresna bereziekin lan egiten du, kristalik hautsi gabe eta bonbinarik zulatu gabe. Metodoa modeloaren eta itxiera-sistemaren araberakoa da. Atearen sarraila matxuratuta badago, sarrailagileak aldez aurretik azalduko dizu zer egin daitekeen eta prezioa zurekin adostuko du.</p>
+223	Irekitzen al dituzue giltzarik gabeko sarbidea duten autoak?
+224	<p>Bai, sarrailagileek keyless sistema eta giltza adimendunak dituzten autoekin lan egiten dute. Esan operadoreari marka, modeloa eta urtea: zer metodo den egokia eta zenbat balioko duen esango dizu.</p>
+225	Zer egin urruneko agintea ez badabil?
+226	<p>Probatu lehenik atea giltza mekanikoarekin irekitzen: urruneko agintaritza askok barruan ezkutatuta daramate. Urruneko agintearen pila agortu bada, alda daiteke. Autoak ez urruneko aginteari ez giltzari erantzuten ez badie, baliteke bateria deskargatuta egotea: deitu sarrailagileari eta zer egin esango dizu.</p>
+227	Ireki al daiteke maletategia autoa itxita badago?
+228	<p>Bai. Modeloaren arabera, sarrailagileak maletategia zuzenean irekitzen du, edo lehenik atea eta gero maletategia barrutik. Operadoreak metodoa eta prezioa esango dizkizu egoera azaltzen diozunean.</p>
+229	Zer agiri behar dira auto bat irekitzeko?
+230	<p>Argazkidun agiri bat —NANa, AIZ edo pasaportea— eta <span lang="es">permiso de circulación</span> edo <span lang="es">ficha técnica</span>. Autoaren agiriak barruan badaude, sarrailagileak ireki bezain laster egiaztatuko ditu. Informazio gehiago <a href="#documents">agiriei</a> buruzko atalean.</p>
+231	Zer egin autoaren giltzak galdu badituzu?
+232	<p>Sarrailagileak autoa irekiko du zure gauzak eta agiriak atera ditzazun. Berriz gidatzeko ordezko giltza edo berri bat beharko duzu: deitzean galdetu operadoreari hura egiteari eta programatzeari buruz.</p>
+233	Gauez ere irekitzen dituzue autoak?
+234	<p>Bai, egunean 24 orduz, asteburuak eta jaiegunak barne. Gauez, 22:00etatik 08:00etara, eta jaiegunetan gainkostu bat aplikatzen da; operadoreak haren zenbatekoa esaten dizu deitzean. Itxitako autoan haur bat edo animalia bat badago, deitu lehenik 112ra.</p>
+235	Bilbo ingurura ere joaten zarete?
+236	<p>Bai. Bilboko auzo guztiez gain, Bilbo Handiko udalerrietara ere joaten gara: Barakaldo, Getxo, Portugalete, Santurtzi, Leioa, Sestao, Basauri, Erandio eta beste batzuk. Hiritik kanpoko prezioa eta iristeko denbora operadoreak esango dizkizu deitzean. Zure eremua <a href="#areas">zerbitzu-eremuaren mapan</a> egiazta dezakezu.</p>
+237	Zerbitzu gehiago
+238	Cerrajero24ren beste zerbitzu batzuk Bilbon
+239	Zerbitzu-eskaera
+240	Deitu sarrailagile bati zure autoa Bilbon irekitzeko
+241	Ezin zara autoan sartu? Jarri harremanetan Cerrajero24rekin prezioa jakiteko eta sarrailagile bat eskatzeko.
+242	24/7 lanean, asteburuetan eta jaiegunetan ere
+243	Eremua: Bilbo eta Bizkaia
+244	Prezioa hasi aurretik adosten dugu
+245	Autoan markarik utzi gabe irekitzen saiatzen gara
+246	Deitu sarrailagileari
+247	Autoa irekitzea
+248	Galdetu auto bat irekitzearen prezioa
+249	Utzi zure zenbakia eta, ahal baduzu, erantsi autoaren edo giltzaren argazki bat. Sarrailagileak deituko dizu gutxi gorabeherako prezio bat emateko.
+250	Autoaren edo giltzaren argazkia
+251	Giltzak autoaren barruan
+252	Maletategia itxi da
+253	Urruneko agintea ez dabil
+254	Giltzak galduta
+255	Atearen sarraila trabatu da
+256	Beste bat
+257	Autoen premiazko irekiera Bilbon 24/7 — Cerrajero24
+258	Giltzak autoan, maletategia itxita edo urruneko agintea pilarik gabe? Zure autoa Bilbon irekitzen dugu 24/7, kristalak eta juntak kaltetu gabe. Prezioa hasi aurretik.
+259	Giltzak barruan, maletategia itxita edo urruneko agintea pilarik gabe? Zure autoa Bilbon irekiko dugu egunean 24 orduz, prezioa hasi aurretik adostuta.
+260	Autoen premiazko irekiera Bilbon
+261	Autoen ateen eta maletategien premiazko irekiera
+262	Turismoen, lur orotako ibilgailuen eta furgoneten ateak eta maletategiak irekitzea giltzak barruan geratu direnean, galdu direnean edo urruneko agintea ez dabilenean. Egunean 24 orduz Bilbon eta Bilbo Handian.

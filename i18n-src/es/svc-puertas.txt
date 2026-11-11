@@ -1,0 +1,274 @@
+1	Apertura de pisos
+2	Apertura de puertas y pisos
+3	Puertas de entrada, metálicas, acorazadas y de interior.
+4	Servicio más solicitado
+5	La puerta se ha cerrado de golpe
+6	Llaves perdidas
+7	Llave dentro
+8	La cerradura se ha atascado
+9	Puertas de entrada, metálicas, acorazadas y de interior. Abrimos cuando la puerta se ha cerrado de golpe, ha perdido las llaves o la cerradura se ha atascado.
+10	Apertura urgente de pisos <span class="accent">en&nbsp;Bilbao</span>
+11	¿Se le ha cerrado la puerta, ha perdido las llaves o se ha atascado la cerradura? Le ayudamos a entrar en&nbsp;su casa. Trabajamos las 24 horas en&nbsp;Bilbao y&nbsp;alrededores. Siempre que es posible, abrimos sin dañar la cerradura ni&nbsp;la puerta.
+12	Bilbao • Bizkaia
+13	Trabajamos 24/7
+14	De noche, en&nbsp;fin de semana y&nbsp;en festivos
+15	Apertura cuidadosa
+16	Primero intentamos conservar la cerradura
+17	Precio antes de&nbsp;empezar
+18	Se lo decimos antes, sin sorpresas
+19	Déjenos su número y le llamamos en un par de minutos
+20	Cuándo necesita ayuda
+21	¿Cuándo hace falta una apertura urgente de la puerta de un piso?
+22	Nuestros cerrajeros le ayudan cuando no puede abrir la puerta de entrada por sí mismo o no puede usar la llave.
+23	La puerta se ha cerrado de golpe
+24	La puerta se ha cerrado y las llaves se han quedado dentro del piso.
+25	Ha perdido las llaves del piso
+26	No puede entrar en casa y no tiene un juego de repuesto.
+27	La cerradura se ha atascado
+28	La llave no gira o el mecanismo de la cerradura ha dejado de funcionar.
+29	Se ha roto la llave en la cerradura
+30	Un trozo de la llave se ha quedado dentro del bombín e impide abrir la puerta.
+31	La llave está puesta por dentro
+32	Tiene llave de repuesto, pero no consigue abrir la puerta desde fuera.
+33	No se abre la puerta acorazada
+34	Avería del mecanismo de cierre o del sistema de seguridad.
+35	¿No sabe qué le pasa a la cerradura? Llame al cerrajero.
+36	Cuéntenos qué ocurre con la puerta y le diremos qué hacer hasta que lleguemos.
+37	Llamar al cerrajero
+38	Precios
+39	¿Cuánto cuesta abrir la puerta de un piso en&nbsp;<span class="accent">Bilbao</span>?
+40	El precio depende del tipo de puerta y de cerradura, de la complejidad de la avería y de la hora del aviso. Le confirmamos un precio orientativo antes de empezar.
+41	Precios de apertura urgente de pisos en Bilbao
+42	Servicio
+43	Precio
+44	Apertura de puerta cerrada de golpe
+45	Apertura de piso por pérdida de llaves
+46	Apertura de puerta con la llave dentro
+47	Apertura de cerradura atascada
+48	Apertura de puerta acorazada
+49	Extracción de llaves rotas
+50	Apertura urgente de piso de noche
+51	Desplazamiento del cerrajero en Bilbao
+52	Desplazamiento
+53	El operador le indica el precio del desplazamiento en Bilbao y el Gran Bilbao al llamar, antes de que salga el cerrajero.
+54	Tarifa nocturna y festiva
+55	Se aplica de noche, de 22:00 a 08:00, en fines de semana y festivos. Le decimos el recargo de antemano.
+56	IVA
+57	[Indicar si el IVA está incluido en los precios de la tabla.]
+58	Bombín y materiales
+59	Si hace falta un bombín nuevo u otras piezas, se pagan aparte y solo con su consentimiento.
+60	Precio final
+61	Se lo da el cerrajero tras revisar la puerta y la cerradura, antes de empezar.
+62	Consultar el precio de apertura de un piso
+63	Cuéntenos la situación y le daremos un precio orientativo.
+64	De qué depende el precio
+65	¿Cómo se calcula el precio de apertura de una cerradura?
+66	El precio depende de cuatro factores. Indíqueselos al operador o envíenos una foto de la cerradura y conocerá el precio orientativo antes de que salga el cerrajero.
+67	Tipo de puerta de entrada
+68	Puerta de madera, metálica, acorazada o reforzada.
+69	Tipo y estado de la cerradura
+70	Mecanismo de bombín, de gorjas, multipunto o electrónico.
+71	Tipo de avería
+72	Puerta cerrada de golpe, llave perdida, cerradura atascada o rota.
+73	Hora y dirección del aviso
+74	Servicio diurno o nocturno, barrio de Bilbao o municipio de los alrededores.
+75	Precio final
+76	Se lo da el cerrajero tras revisar la cerradura y&nbsp;antes de empezar: sin su consentimiento no&nbsp;se empieza a trabajar.
+77	Si después de la apertura hacen falta trabajos o materiales adicionales, como un bombín nuevo, su precio se acuerda aparte, antes de empezar.
+78	Llamar al cerrajero
+79	¿No puede entrar en&nbsp;su piso? Llame al cerrajero
+80	Déjenos su nombre y teléfono: el operador le llamará en&nbsp;pocos minutos, confirmará la dirección y la situación y&nbsp;le dará un precio orientativo. Trabajamos las 24 horas en&nbsp;Bilbao y&nbsp;el Gran Bilbao.
+81	Puertas y cerraduras
+82	Apertura de puertas de pisos de todos los tipos habituales
+83	Trabajamos con todo tipo de puertas de entrada y cerraduras. Antes de abrir, el técnico revisa el mecanismo y elige el método adecuado.
+84	Apertura de puertas metálicas
+85	Puertas de entrada metálicas con cerraduras de bombín y multipunto.
+86	Apertura de puertas acorazadas
+87	Puertas reforzadas con protección adicional y mecanismos de cierre complejos.
+88	Apertura de puertas de madera
+89	Puertas de entrada de pisos antiguos y edificios de viviendas, también en el Casco Viejo y Abando.
+90	Apertura de puertas con cerradura de bombín
+91	Bombines estándar y de seguridad.
+92	Apertura de puertas con cerradura de gorjas
+93	Sistemas de cierre de distintos fabricantes y niveles de seguridad.
+94	Apertura de cerraduras electrónicas
+95	Puertas con sistemas de acceso electrónicos e inteligentes.
+96	Primero, los métodos que conservan la cerradura
+97	Apertura cuidadosa
+98	Apertura urgente de pisos sin dañar la puerta ni la cerradura
+99	Nuestro objetivo es que recupere el acceso a su piso y, siempre que sea posible, conservar la puerta y la cerradura.
+100	Cuándo la cerradura sigue funcionando
+101	<p>Si la puerta se ha cerrado de resbalón y el bombín está en buen estado, casi siempre se puede abrir sin romper nada. Después de la apertura, la cerradura sigue funcionando con sus llaves.</p>
+102	Por qué todo depende de cómo es la puerta
+103	<p>Las hojas acorazadas, los mecanismos multipunto y los bombines de alta seguridad están diseñados para resistir la apertura. Cuanto más compleja es la puerta, más tiempo y herramientas especiales necesita el cerrajero.</p>
+104	Cuándo puede hacer falta cambiar el bombín o la cerradura
+105	<p>Si el bombín está roto, la llave se ha partido muy dentro, el mecanismo está desgastado o la puerta está cerrada con una llave que se ha quedado al otro lado, a veces es más rápido y seguro cambiar el bombín. El cerrajero coloca el nuevo en la misma visita.</p>
+106	Por qué acordamos de antemano los posibles daños
+107	<p>El cerrajero no taladra ni cambia nada sin su consentimiento: primero le explica por qué no se puede conservar el mecanismo, qué método va a usar y cuánto costará.</p>
+108	Qué comprobamos después de abrir
+109	<p>Cómo abre y cierra la puerta, si la llave gira por ambos lados y si funcionan el resbalón y los pestillos. Si algo se atasca, le proponemos repararlo en el momento, mientras el cerrajero está allí.</p>
+110	Proceso
+111	¿Cómo llamar a un cerrajero para abrir un piso en&nbsp;Bilbao?
+112	Aviso
+113	Llámenos o deje una solicitud. Indíquenos la dirección y por qué no se abre la puerta.
+114	Asesoramiento y precio
+115	El técnico concreta el tipo de cerradura, calcula un precio orientativo y acuerda con usted el desplazamiento.
+116	Apertura de la puerta
+117	El cerrajero llega, comprueba su derecho a acceder al piso y realiza el trabajo acordado.
+118	Comprobación
+119	Comprobamos que la puerta abre y cierra y que el mecanismo funciona. Si hace falta, le proponemos reparar o cambiar la cerradura.
+120	¿La puerta no se abre ahora mismo?
+121	El cerrajero de guardia atiende las 24 horas, también de noche y en festivos.
+122	Llamar al cerrajero ahora
+123	Bilbao · Bizkaia
+124	Por qué Cerrajero24
+125	Ventajas de nuestro servicio de apertura de pisos en&nbsp;<span class="accent">Bilbao</span>
+126	Ayuda las 24 horas
+127	Atendemos avisos 24/7, incluidos fines de semana y festivos.
+128	Desplazamiento rápido por Bilbao
+129	Trabajamos en todos los barrios de la ciudad. El tiempo de llegada concreto lo acordamos con usted al llamar.
+130	Trato cuidadoso de la puerta
+131	Siempre que es posible, usamos métodos que conservan la puerta y la cerradura.
+132	Precio transparente
+133	Le explicamos de antemano el precio del servicio y los posibles gastos adicionales.
+134	Cerrajeros profesionales
+135	Experiencia con todo tipo de mecanismos y puertas.
+136	Garantía en los trabajos
+137	Garantía en reparaciones, instalaciones y piezas. Las condiciones figuran en el documento que entregamos al terminar.
+138	Opiniones
+139	Opiniones de clientes sobre la apertura urgente de pisos en&nbsp;Bilbao
+140	Opiniones originales en Google
+141	Opiniones de clientes sobre la apertura de pisos
+142	Svetlana
+143	Puerta cerrada de golpe · Deusto
+144	Salí un momento a casa de la vecina y se me cerró la puerta, con las llaves y el móvil dentro. El operador me dio el precio enseguida, el cerrajero llegó rápido, comprobó mis documentos y abrió la puerta sin dañar la cerradura. Todo fue tranquilo y sin agobios.
+145	Andrés
+146	Llave puesta por dentro · Abando
+147	De noche no podíamos entrar en casa: la llave estaba puesta por dentro y no había nadie. El cerrajero vino, nos explicó cómo iba a abrir y lo hizo todo con cuidado: la puerta y el bombín, intactos. El precio con el recargo nocturno fue el mismo que nos dieron por teléfono.
+148	Natalia
+149	Cerradura atascada · Indautxu
+150	La llave dejó de girar y la puerta estaba cerrada con dos vueltas. El cerrajero abrió la puerta, desmontó el mecanismo, lo limpió y lo ajustó: la cerradura vuelve a ir suave y no hubo que cambiar nada. Pagamos menos de lo que esperábamos.
+151	Dmitri
+152	Llave rota · Santutxu
+153	La llave se rompió dentro del bombín y la mitad se quedó dentro. Sacaron el trozo en pocos minutos y después pusieron allí mismo un bombín nuevo, con un juego de llaves nuevo. El cerrajero me explicó cómo evitar que se repita.
+154	Elena
+155	Puerta acorazada · Getxo
+156	No se abría la puerta acorazada: se había atascado la cerradura multipunto. El cerrajero me explicó de antemano cómo iba a abrir y cuánto costaba, y lo hizo con cuidado, sin dejar marcas en la hoja. Después ajustó los pestillos y ahora la puerta cierra mejor que antes.
+157	Ver todas las opiniones
+158	Legalidad y seguridad
+159	¿Qué documentos hacen falta para la apertura urgente de un piso?
+160	Antes de trabajar, el cerrajero debe asegurarse de que el cliente tiene derecho a acceder al inmueble.
+161	Sirven:
+162	DNI
+163	NIE
+164	Pasaporte
+165	Empadronamiento
+166	Escritura
+167	Contrato de alquiler
+168	Factura de suministros
+169	Cómo acreditar que vive en la vivienda o que es el propietario
+170	<p>Necesita un documento con foto (DNI, NIE o pasaporte) y un papel que le vincule con la dirección: el certificado de empadronamiento, la escritura, el contrato de alquiler o una factura de suministros a su nombre.</p>
+171	Qué hacer si los documentos se han quedado dentro
+172	<p>Avise al operador de antemano. El cerrajero abrirá la puerta y comprobará los documentos nada más abrir, antes de terminar el trabajo. En situaciones dudosas, la comprobación se hace en presencia de la Policía Municipal o la Ertzaintza.</p>
+173	¿Puede un inquilino pedir la apertura de la puerta?
+174	<p>Sí. Al inquilino le basta con un documento con foto y el contrato de alquiler u otro papel con su nombre y la dirección. Si hay que cambiar la cerradura de un piso alquilado, es mejor acordarlo con el propietario.</p>
+175	Por qué el cerrajero puede negarse a trabajar
+176	<p>Si no es posible acreditar el derecho de acceso ni con documentos ni de otra forma, el cerrajero puede no abrir la puerta. Así también le protege a usted: un desconocido no podrá llamar a un cerrajero para abrir su piso.</p>
+177	Cómo se acuerdan los trabajos que pueden causar daños
+178	<p>Si no es posible abrir la puerta sin daños, el cerrajero le explica el motivo y le dice el precio del cambio de bombín o de cerradura. El trabajo solo empieza con su consentimiento.</p>
+179	Zona de servicio
+180	Apertura urgente de pisos en todos los barrios de <span class="accent">Bilbao</span>
+181	Acudimos a abrir puertas de pisos en los barrios de Bilbao y en las localidades cercanas de Bizkaia.
+182	Distritos de Bilbao
+183	8 distritos
+184	Deusto
+185	Uribarri
+186	Otxarkoaga-Txurdinaga
+187	Begoña
+188	Ibaiondo
+189	Abando
+190	Errekalde
+191	Basurto-Zorroza
+192	Barrios más solicitados: Casco Viejo, Indautxu, San Ignacio, Santutxu, Miribilla y otros.
+193	Apertura de pisos en los alrededores de Bilbao
+194	Barakaldo
+195	Getxo
+196	Portugalete
+197	Santurtzi
+198	Leioa
+199	Sestao
+200	Basauri
+201	Erandio
+202	y otros municipios del Gran Bilbao.
+203	Conviene saber
+204	¿Qué hacer si no consigue abrir la puerta de su piso?
+205	Cuando la puerta no se abre, lo más importante es no dañar ni la cerradura ni la hoja. Le explicamos cómo valorar la situación antes de que llegue el cerrajero, cuándo se puede conservar la cerradura y qué tener preparado.
+206	<h3>¿Qué hacer si la puerta se ha cerrado y las llaves se han quedado dentro?</h3>
+207	<p>Compruebe primero si hay otra forma de entrar: un juego de repuesto en casa de familiares, vecinos o del administrador de la finca. No intente forzar la puerta con un cuchillo, una tarjeta de plástico o un destornillador: es fácil dañar la hoja, la goma y el resbalón, y el servicio le saldrá más caro.</p>
+208	<p>Llame al cerrajero y dígale si la puerta está cerrada solo de resbalón o con llave: de eso depende el método de apertura. Tiene precios de referencia en la <a href="#prices">tabla de precios</a>.</p>
+209	<h3>¿Por qué no gira la llave en la cerradura?</h3>
+210	<p>Lo más habitual es que el bombín esté desgastado, haya suciedad en el mecanismo, la llave esté deformada o la puerta descolgada, de modo que el pestillo choca con el cerradero. A veces la cerradura se atasca tras intentar abrirla con una llave que no es la suya.</p>
+211	<p>No haga fuerza: una llave rota dentro del bombín complicará la apertura. El cerrajero averiguará la causa exacta en el diagnóstico. Si el problema es el desgaste, la solución es la <a href="{url:svc-reparacion}">reparación de la cerradura</a>.</p>
+212	<h3>¿Se puede abrir un piso sin cambiar la cerradura?</h3>
+213	<p>Sí, si el mecanismo está en buen estado y la puerta se ha cerrado de resbalón o con un bombín estándar. Hay que cambiarla cuando el bombín está roto o desgastado, hay un trozo de llave dentro o la cerradura no se puede abrir de otra manera.</p>
+214	<p>En ese caso, el cerrajero le explica de antemano por qué no se puede conservar el mecanismo y le dice el precio del bombín nuevo. Más información en la sección de <a href="#no-damage">apertura sin daños</a>.</p>
+215	<h3>¿Hay que cambiar la cerradura después de perder las llaves?</h3>
+216	<p>Recuperar el acceso al piso y protegerlo son dos cosas distintas. Si las llaves se han perdido junto con documentos o un llavero con la dirección, alguien podría usarlas.</p>
+217	<p>En ese caso es mejor cambiar el bombín cuanto antes: es más rápido y barato que cambiar toda la cerradura, y las llaves antiguas dejarán de servir. Más información sobre el <a href="{url:svc-cambio}">cambio de bombín</a>.</p>
+218	<h3>¿Qué conviene preparar antes de que llegue el cerrajero?</h3>
+219	<p>La dirección exacta con el piso y el código del portal, una breve descripción del problema y, si puede, una foto de la cerradura por fuera: así es más fácil calcular el precio de antemano. Tenga preparado un documento que acredite su derecho de acceso: DNI, NIE o pasaporte y un papel con la dirección. Si los documentos se han quedado dentro, avise al operador: el cerrajero los comprobará nada más abrir. Qué papeles sirven, en la sección de <a href="#documents">documentos</a>.</p>
+220	Preguntas
+221	Preguntas frecuentes sobre la apertura urgente de pisos
+222	¿Tiene más preguntas?
+223	Contacte con el cerrajero: le responderemos y le diremos qué hacer ahora mismo.
+224	¿Cuánto cuesta la apertura urgente de un piso en Bilbao?
+225	<p>El precio depende del tipo de puerta y de cerradura, del motivo por el que no se abre, de la hora del aviso y de la dirección. Tiene precios de referencia para los casos más habituales en la <a href="#prices">tabla de precios</a>. El operador le da un precio orientativo por teléfono y el cerrajero, el definitivo, tras revisar la cerradura y antes de empezar. Sin su consentimiento no se empieza a trabajar.</p>
+226	¿Cuánto tarda en llegar el cerrajero para abrir la puerta?
+227	<p>El tiempo de llegada depende de la zona, de la hora y de la carga de trabajo de los cerrajeros de guardia. El operador le indica un tiempo aproximado en cuanto llama y le avisa si el cerrajero se retrasa. Donde antes llegamos es a los barrios céntricos de Bilbao —Abando, Indautxu, Casco Viejo—; a los municipios del Gran Bilbao el trayecto suele ser más largo.</p>
+228	¿Se puede abrir la puerta de entrada sin dañar la cerradura?
+229	<p>Casi siempre, sí, sobre todo si la puerta se ha cerrado de resbalón y el bombín está en buen estado. Con las puertas acorazadas y los bombines de alta seguridad a veces no es posible conservar el mecanismo. Intentamos abrir sin daños y, si no es posible, le explicamos el motivo de antemano y acordamos el cambio. Más información en la sección de <a href="#no-damage">apertura sin daños</a>.</p>
+230	¿Qué hacer si las llaves se han quedado dentro del piso?
+231	<p>No intente forzar la puerta ni la cerradura: podría dañar la hoja y complicar la apertura. Llame al cerrajero y dígale si la puerta está cerrada con llave o solo de golpe, y si la llave se ha quedado puesta por dentro. Tenga preparado un documento que acredite la dirección; si está dentro, el cerrajero lo comprobará nada más abrir.</p>
+232	¿Abren pisos de noche?
+233	<p>Sí, el servicio funciona las 24 horas, incluidos fines de semana y festivos. De noche, de 22:00 a 08:00, y en festivos se aplica un recargo; el operador le indica su importe al llamar, antes de que salga el cerrajero. De noche es más rápido llamar que dejar una solicitud en la web. Si dentro del piso hay una persona en peligro o riesgo de incendio, llame primero a los servicios de emergencia al 112.</p>
+234	¿Cuánto se tarda en abrir una puerta de entrada?
+235	<p>Lo más rápido es abrir una puerta que simplemente se ha cerrado de resbalón y tiene un bombín estándar en buen estado. Una puerta acorazada, una cerradura multipunto o un trozo de llave dentro del bombín llevan más tiempo. El cerrajero se lo dirá con más precisión tras revisarla. Si hay que cambiar el bombín, se suma el tiempo de instalar el nuevo, normalmente en la misma visita.</p>
+236	¿Se puede abrir una puerta acorazada?
+237	<p>Sí, los cerrajeros trabajan con puertas acorazadas y cerraduras multipunto. Estas puertas están diseñadas para resistir la apertura, así que el trabajo es más complejo y no siempre se puede conservar el mecanismo. Antes de empezar, el cerrajero examina la puerta y acuerda con usted el método de apertura y el precio. Más información sobre los tipos de puertas en la sección de <a href="#types">puertas y cerraduras</a>.</p>
+238	¿Qué hacer si la llave se ha roto dentro de la cerradura?
+239	<p>No intente sacar el trozo con una horquilla, pegamento u otra llave: es fácil empujarlo más adentro y dañar el bombín. Si la puerta está abierta, no la cierre. El cerrajero extraerá el trozo con una herramienta especial, comprobará el mecanismo y, si el bombín ha sufrido daños, lo cambiará en el momento. Más información: <a href="{url:svc-extraccion}">extracción de llaves rotas</a>.</p>
+240	¿Hay que cambiar la cerradura después de una apertura urgente?
+241	<p>No necesariamente. Si la puerta se ha abierto sin daños y el mecanismo está en buen estado, basta con comprobar que funciona. Hay que cambiarla si el bombín está dañado o desgastado, y también si ha perdido las llaves, para que nadie pueda usar el juego antiguo. El cerrajero le dirá si basta con <a href="{url:svc-cambio}">cambiar el bombín</a> o hace falta una cerradura nueva.</p>
+242	¿Qué documentos hacen falta para abrir un piso?
+243	<p>Un documento con foto (DNI, NIE o pasaporte) y algo que le vincule con la dirección: el empadronamiento, la escritura, el contrato de alquiler o una factura de suministros. Al inquilino le basta con el contrato de alquiler y un documento con foto. Si los documentos se han quedado dentro, el cerrajero los comprobará nada más abrir. Más información en la sección de <a href="#documents">documentos</a>.</p>
+244	¿Puedo saber el precio de antemano con una foto?
+245	<p>Sí. Envíe una foto de la puerta y de la cerradura por <a href="https://wa.me/34944123456" rel="noopener" target="_blank">WhatsApp</a> y describa brevemente el problema. El cerrajero identificará el tipo de mecanismo y le dará un precio orientativo. Lo mejor es hacer dos fotos: el bombín en primer plano y la puerta entera. El precio final se confirma en el lugar tras revisarla, antes de empezar.</p>
+246	¿Van a los alrededores de Bilbao?
+247	<p>Sí. Además de todos los barrios de Bilbao, nos desplazamos a los municipios del Gran Bilbao: Barakaldo, Getxo, Portugalete, Santurtzi, Leioa, Sestao, Basauri, Erandio y otros. El precio y el tiempo de llegada fuera de la ciudad dependen de la distancia; el operador se los indicará al llamar. Puede comprobar su zona en el <a href="#areas">mapa de la zona de servicio</a>.</p>
+248	Más servicios
+249	Otros servicios de Cerrajero24 en&nbsp;Bilbao
+250	Solicitud de servicio
+251	Llame a un cerrajero para abrir su piso en&nbsp;Bilbao
+252	¿No puede entrar en su piso? Contacte con Cerrajero24 para conocer el precio y pedir que vaya un cerrajero.
+253	Trabajamos 24/7, sin descanso ni festivos
+254	Zona: Bilbao y Bizkaia
+255	Acordamos el precio antes de empezar
+256	Intentamos abrir sin daños
+257	Llamar al cerrajero
+258	Apertura de piso
+259	Consultar el precio de apertura de un piso
+260	Déjenos su número y, si puede, adjunte una foto de la cerradura. El cerrajero le llamará y le dará un precio orientativo.
+261	Foto de la cerradura
+262	La puerta se ha cerrado de golpe
+263	He perdido las llaves
+264	La llave está dentro
+265	La cerradura se ha atascado
+266	Se ha roto la llave
+267	No se abre la puerta acorazada
+268	Otro
+269	Apertura urgente de pisos en Bilbao 24 h — Cerrajero24
+270	¿Se le ha cerrado la puerta, ha perdido las llaves o se ha atascado la cerradura? Apertura urgente de pisos en Bilbao las 24 horas. Con cuidado y con el precio acordado antes de empezar.
+271	¿Se le ha cerrado la puerta, ha perdido las llaves o se ha atascado la cerradura? Abrimos su piso en Bilbao las 24 horas, con el precio antes de empezar.
+272	Apertura urgente de pisos en Bilbao
+273	Apertura urgente de puertas de pisos
+274	Apertura de puertas de pisos cuando la puerta se ha cerrado, se han perdido las llaves, la cerradura se ha atascado o se ha roto la llave. Las 24 horas en Bilbao y el Gran Bilbao.

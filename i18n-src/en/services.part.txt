@@ -1,0 +1,55 @@
+1	Services
+2	Lock opening, repair and replacement services <span class="accent">in&nbsp;Bilbao</span>
+3	We open flats, cars, safes and garages, and repair, replace and install locks. We work around the clock in&nbsp;Bilbao and&nbsp;the municipalities of Greater Bilbao.
+5	Price agreed before work begins
+6	Bilbao and Greater Bilbao
+7	On-call locksmith available
+8	Describe the situation — the dispatcher will tell you which service you need and give you an approximate price and arrival time.
+9	Emergency opening
+10	Emergency opening of doors, cars and&nbsp;safes
+11	We come out when you can’t get into your flat, car or garage, or can’t open your safe. First we try methods that keep the lock intact.
+12	Repair and replacement
+13	Lock repair, replacement and installation
+14	When the lock sticks, the key has broken or you need to change the cylinder after moving. We choose the right mechanism for your door and fit it during the same visit.
+15	Can’t find the service you need?
+16	Tell us what’s wrong with the lock or door — we’ll tell you which locksmith you need and how much it will cost.
+17	Choose by situation
+18	Find the right service
+19	Not sure which service you need?
+20	Find your situation and we’ll tell you which service to choose. If it isn’t on the list, call us — the dispatcher will sort it out by phone.
+21	Call the dispatcher
+22	The door slammed shut with the keys inside
+23	Door and flat opening
+24	The keys are locked in the car or the boot
+25	Car opening
+26	You forgot the code or the safe won’t open
+27	Safe opening
+28	The garage door or roller shutter won’t open
+29	Garage and gate opening
+30	The key broke in the lock
+31	Broken key extraction
+32	The key is hard to turn or the lock sticks
+33	Door lock repair
+34	You lost your keys or moved into a new flat
+35	Lock and cylinder replacement
+36	You want to make your front door more secure
+37	Lock installation and fitting
+98	Frequently asked questions about Cerrajero24 services
+101	What services does Cerrajero24 offer?
+102	<p>Emergency opening of flats and front doors, cars, safes, garages and commercial premises, as well as lock repair, replacement and installation and broken key extraction. We work in Bilbao and the municipalities of Greater Bilbao. If you are not sure which service you need, see <a href="#choose">choose by situation</a> or describe the problem by phone — the dispatcher will advise you.</p>
+103	Do you work around the clock?
+105	How much does a locksmith call-out cost?
+106	<p>The price depends on the service, the type of door and lock, the complexity of the work and the time of the call. You will find guide prices in the <a href="#prices">price table</a>: emergency door lock opening from €45, cars from €45 and safes from €60. The dispatcher tells you the call-out fee when you call, and the locksmith gives the final price after inspecting the lock and before starting work.</p>
+107	Can the door be opened and the lock replaced in one visit?
+108	<p>Yes. The locksmith carries popular cylinders and locks with different security ratings, so we usually replace them during the same visit, right after opening. If your door needs a special model, for example for an armoured door, we will source it and arrange a second visit. We tell you the price of the parts before fitting them.</p>
+109	How quickly will the locksmith arrive?
+110	<p>It depends on the area, the time of day and how busy the on-call locksmiths are. The dispatcher gives you an approximate arrival time as soon as you call and warns you in advance if the locksmith is delayed. We reach central Bilbao districts fastest; travel to more distant Greater Bilbao municipalities takes longer.</p>
+112	<p>Yes, we work in all 26 municipalities of Greater Bilbao: on the Left Bank (Barakaldo, Sestao, Portugalete, Santurtzi), on the Right Bank (Getxo, Leioa, Erandio), in the Asua valley, in Basauri, Galdakao and others. The call-out fee outside Bilbao depends on the distance — the dispatcher will tell you when you call. See the service area on the <a href="{home}#areas">map on the home page</a>.</p>
+113	What documents are needed for an opening?
+114	<p>For a flat or house, a photo ID (DNI, NIE or passport) and proof of your link to the address: a certificate of registration (<span lang="es">empadronamiento</span>), a rental contract, an <span lang="es">escritura</span> (title deed) or a utility bill. For a car, the <span lang="es">permiso de circulación</span> (vehicle registration) or other vehicle documents. If the documents are inside, we check them straight after opening. Find out more in the <a href="{url:svc-puertas}#documents">documents</a> section.</p>
+115	Do you guarantee your work?
+116	<p>Yes — lock repairs, replacements and installations, as well as new parts. The guarantee period and terms are stated in the work completion document that the locksmith gives you after the job. After an emergency opening, the locksmith always checks that the lock works properly and suggests a repair if needed.</p>
+118	Call a Cerrajero24 locksmith in&nbsp;Bilbao
+125	Locksmith in Bilbao: lock opening, repair and replacement 24/7 — Cerrajero24
+126	All Cerrajero24 services in Bilbao and Greater Bilbao: emergency opening of flats, cars, safes and garages, and lock repair, replacement and installation. Around the clock, price agreed before work begins.
+127	Emergency opening of flats, cars, safes and garages, plus lock repair, replacement and installation in Bilbao and Greater Bilbao.

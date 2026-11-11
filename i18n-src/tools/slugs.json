@@ -1,0 +1,18 @@
+{
+ "home": {"es": "inicio", "eu": "hasiera", "en": "home", "title": {"es": "Inicio", "eu": "Hasiera", "en": "Home", "ru": "Главная"}},
+ "services": {"es": "servicios", "eu": "zerbitzuak", "en": "services", "title": {"es": "Servicios", "eu": "Zerbitzuak", "en": "Services", "ru": "Услуги"}},
+ "svc-puertas": {"es": "apertura-de-puertas", "eu": "ateak-irekitzea", "en": "door-opening"},
+ "svc-coches": {"es": "apertura-de-coches", "eu": "autoak-irekitzea", "en": "car-opening"},
+ "svc-cajas": {"es": "apertura-de-cajas-fuertes", "eu": "kutxa-gotorrak-irekitzea", "en": "safe-opening"},
+ "svc-garajes": {"es": "apertura-de-garajes", "eu": "garajeak-irekitzea", "en": "garage-opening"},
+ "svc-locales": {"es": "apertura-de-locales", "eu": "lokalak-irekitzea", "en": "business-premises-opening"},
+ "svc-reparacion": {"es": "reparacion-de-cerraduras", "eu": "sarrailak-konpontzea", "en": "lock-repair"},
+ "svc-cambio": {"es": "cambio-de-cerraduras-y-bombines", "eu": "sarrailak-eta-bonbinak-aldatzea", "en": "lock-and-cylinder-replacement"},
+ "svc-instalacion": {"es": "instalacion-de-cerraduras", "eu": "sarrailak-instalatzea", "en": "lock-installation"},
+ "svc-extraccion": {"es": "extraccion-de-llaves-rotas", "eu": "giltza-hautsiak-ateratzea", "en": "broken-key-extraction"},
+ "contacts": {"es": "contacto", "eu": "kontaktua", "en": "contact", "title": {"es": "Contacto", "eu": "Kontaktua", "en": "Contact", "ru": "Контакты"}},
+ "privacy": {"es": "politica-de-privacidad", "eu": "pribatutasun-politika", "en": "privacy-policy", "title": {"es": "Política de privacidad", "eu": "Pribatutasun-politika", "en": "Privacy policy", "ru": "Политика конфиденциальности"}},
+ "cookies": {"es": "politica-de-cookies", "eu": "cookie-politika", "en": "cookie-policy", "title": {"es": "Política de cookies", "eu": "Cookie-politika", "en": "Cookie policy", "ru": "Политика cookies"}},
+ "terms": {"es": "condiciones-del-servicio", "eu": "zerbitzu-baldintzak", "en": "terms-of-service", "title": {"es": "Condiciones del servicio", "eu": "Zerbitzu-baldintzak", "en": "Terms of service", "ru": "Условия оказания услуг"}},
+ "legal": {"es": "aviso-legal", "eu": "lege-oharra", "en": "legal-notice", "title": {"es": "Aviso legal", "eu": "Lege-oharra", "en": "Legal notice", "ru": "Юридическая информация"}}
+}

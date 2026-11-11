@@ -1,0 +1,170 @@
+1	Apertura de garajes
+3	Cerraduras de garaje, persianas y mecanismos de cierre.
+4	Apertura de garajes y portones <span class="accent">en&nbsp;Bilbao</span>
+5	¿Se ha atascado la cerradura del portón del garaje, no se abre la persiana o ha perdido las llaves del&nbsp;trastero? Abrimos puertas seccionales, basculantes y&nbsp;batientes, cierres metálicos, cancelas y&nbsp;candados. Si falla el motor, le ayudamos a abrir la puerta manualmente.
+9	Portones, persianas, trasteros
+10	Cerraduras mecánicas y candados
+15	¿Cuándo hay que abrir un garaje o un portón?
+16	Llámenos si no puede entrar en el garaje o el trastero, o no consigue abrir el portón con su llave o su mando.
+17	Cerradura del portón atascada
+18	La llave no gira o el portón no se desbloquea.
+19	No se abre el cierre metálico
+20	La cerradura del cierre metálico se ha atascado o se ha roto.
+21	Ha perdido las llaves del garaje
+22	No tiene juego de repuesto y el coche o sus cosas están dentro.
+23	El mando o el motor no funcionan
+24	La puerta no responde al mando y hay que abrirla manualmente.
+25	No se abre el candado
+26	El candado del portón, del trastero o de la cancela no cede con la llave.
+27	Trastero cerrado
+28	No tiene la llave del trastero del sótano del edificio.
+29	¿No sabe qué le pasa al portón? Llame al cerrajero.
+30	Descríbanos la puerta y la cerradura y le diremos qué se puede hacer hasta que lleguemos.
+33	¿Cuánto cuesta abrir un garaje en&nbsp;<span class="accent">Bilbao</span>?
+34	El precio depende del tipo de puerta, de la cerradura y de la avería. Le damos un precio orientativo por descripción o foto y el definitivo, antes de empezar.
+35	Precios de apertura de garajes y portones en Bilbao
+38	Apertura de puerta seccional o basculante
+39	Apertura de puertas batientes y cancelas
+40	Apertura de cierre metálico (persiana)
+41	Apertura de candado
+42	Apertura de trastero
+43	Apertura manual de la puerta con el motor averiado
+44	Apertura urgente de garaje de noche
+52	Cerradura y piezas
+53	Si hace falta un bombín nuevo, un candado u otras piezas, se pagan aparte y solo con su consentimiento.
+54	Automatismo de la puerta
+55	Abrimos puertas y reparamos cerraduras. La reparación del motor, los mandos y la electrónica es trabajo de especialistas en automatismos.
+56	Consultar el precio de apertura de un garaje
+57	Descríbanos la puerta y la cerradura y le daremos un precio orientativo.
+59	¿De qué depende el precio de abrir un garaje?
+60	El precio depende de cuatro factores. Indíqueselos al operador o envíenos una foto y conocerá el precio orientativo antes de que salga el cerrajero.
+61	Tipo de puerta
+62	Puerta seccional, basculante, batiente, corredera o cierre metálico.
+63	Tipo de cerradura
+64	De bombín, candado, cerradura de persiana o desbloqueo manual del motor.
+66	Llave perdida, mecanismo atascado, bombín roto o fallo del automatismo.
+68	Día o noche; garaje particular o comunitario; Bilbao o alrededores.
+71	Si después de la apertura hace falta una cerradura nueva o reparar el mecanismo, su precio se acuerda aparte, antes de empezar.
+73	¿No puede abrir el garaje? Llame al cerrajero
+74	Déjenos su nombre y teléfono: el operador le llamará en&nbsp;pocos minutos, le preguntará por el tipo de puerta y de cerradura y&nbsp;le dará un precio orientativo. Trabajamos las 24 horas en&nbsp;Bilbao y&nbsp;el Gran Bilbao.
+75	Puertas y cerraduras
+76	Abrimos garajes, portones y trasteros
+77	Trabajamos con todo tipo de puertas y mecanismos de cierre. Antes de abrir, el cerrajero revisa la puerta y elige el método que conserva el mecanismo.
+78	Puertas seccionales y basculantes
+79	Puertas de garajes particulares con apertura manual o automática.
+80	Cierres metálicos y persianas
+81	Persianas enrollables de garajes, lonjas y almacenes.
+82	Puertas batientes y cancelas
+83	Portones de patios, casas y aparcamientos con cerraduras embutidas y de sobreponer.
+84	Puertas correderas
+85	Puertas con desbloqueo manual del motor y cerraduras mecánicas.
+86	Candados
+87	Candados en portones, persianas, trasteros y cuartos de servicio.
+88	Trasteros
+89	Trasteros en sótanos y desvanes de edificios de viviendas.
+90	Primero, conservar la cerradura y la puerta
+92	Apertura de garajes sin dañar la puerta
+93	Un portón es una instalación cara, así que el cerrajero busca primero la forma de abrirlo conservando la hoja, las guías y el motor.
+95	<p>Si se ha perdido la llave pero el bombín está en buen estado, a menudo se puede abrir la cerradura sin romperla. Después basta con cambiar el bombín: la puerta y la cerradura se conservan.</p>
+96	Si falla el automatismo
+97	<p>La mayoría de los motores se pueden desbloquear manualmente. El cerrajero le ayudará a abrir la puerta con el desbloqueo de emergencia sin dañar el mecanismo. La reparación del motor corresponde a los especialistas en automatismos.</p>
+98	Por qué importa el tipo de puerta
+99	<p>Las persianas y las puertas seccionales y batientes tienen cerraduras y guías distintas. De su construcción depende cuánto se tarda y qué herramienta hace falta.</p>
+100	Por qué acordamos de antemano los posibles daños
+101	<p>Si la cerradura está rota y no se puede conservar, el cerrajero le explicará primero el motivo y le dirá el precio del cambio. El trabajo solo empieza con su consentimiento.</p>
+103	<p>Cómo abre y cierra la puerta, si la cerradura bloquea bien y si nada impide el movimiento de la hoja. Si algo se atasca, le proponemos repararlo en el momento.</p>
+105	¿Cómo llamar a un cerrajero para abrir un garaje en&nbsp;Bilbao?
+107	Llámenos o deje una solicitud. Díganos la dirección, el tipo de puerta y qué ha pasado.
+109	El operador le da un precio y un tiempo de llegada orientativos. Si el garaje está en un aparcamiento comunitario, le pregunta cómo entrar.
+110	Apertura de la puerta
+111	El cerrajero comprueba su derecho de acceso y abre la puerta o la cerradura con el método acordado.
+113	Comprobamos el funcionamiento de la puerta y de la cerradura. Si hace falta, cambiamos el bombín o el candado.
+114	¿El garaje no se abre ahora mismo?
+119	Por qué elegir <span class="accent">Cerrajero24</span> para abrir su garaje
+122	Servicio en Bilbao y alrededores
+123	Garajes particulares, aparcamientos, almacenes y trasteros, en la ciudad y el Gran Bilbao.
+124	Trabajo cuidadoso
+125	Intentamos conservar la cerradura, la hoja y el motor de la puerta.
+128	Todo tipo de puertas
+129	Persianas, puertas seccionales, batientes y correderas, candados.
+131	Garantía en los trabajos y en las piezas instaladas. Las condiciones figuran en el documento que entregamos al terminar.
+133	Opiniones de clientes sobre la apertura de garajes en&nbsp;Bilbao
+135	Opiniones de clientes sobre la apertura de garajes
+136	Íñigo
+137	Puerta del garaje · Basauri
+138	Se rompió la llave en la cerradura del portón del garaje, con el coche dentro. El cerrajero sacó el trozo, abrió la puerta y colocó enseguida un bombín nuevo. Lo hizo todo en una sola visita y nos dieron el precio de antemano.
+139	Tatiana
+140	Trastero · Santutxu
+141	Perdí las llaves del trastero del sótano. El cerrajero abrió el candado con cuidado y puso uno nuevo. Me pidió los documentos del piso, y eso hasta me tranquilizó.
+142	Jorge
+143	Cierre metálico · Casco Viejo
+144	Por la mañana no se abría la cerradura del cierre metálico de la lonja donde guardamos las herramientas. El cerrajero revisó la cerradura, la limpió y la ajustó: ahora la persiana sube sin esfuerzo.
+146	El mando no funcionaba · Leioa
+147	La puerta del garaje dejó de responder al mando, con el coche encerrado. El cerrajero encontró el desbloqueo manual del motor y abrió la puerta, y para reparar el automatismo nos remitió con honestidad a un especialista. No intentaron vendernos nada innecesario.
+148	David
+149	Candado · Erandio
+150	El candado del portón de la parcela se había oxidado y no se abría. El cerrajero lo abrió con cuidado, sin dañar el portón, y nos propuso un candado que aguanta mejor la humedad.
+153	¿Qué documentos hacen falta para abrir un garaje?
+154	Antes de abrir, el cerrajero debe asegurarse de que tiene derecho a acceder al garaje, al trastero o al recinto.
+160	Contrato de alquiler de la plaza
+161	Recibo de la comunidad
+163	Cómo acreditar su derecho sobre el garaje
+164	<p>Un documento con foto (DNI, NIE o pasaporte) y un papel que le vincule con el garaje o el trastero: la escritura, el contrato de alquiler de la plaza o el recibo de la comunidad de propietarios.</p>
+165	Si no se abre la puerta comunitaria del aparcamiento
+166	<p>La puerta comunitaria pertenece a la comunidad de propietarios. Si es esa la que no se abre, avise al administrador de fincas: es quien llama al cerrajero y acuerda el trabajo.</p>
+167	Si alquila el garaje o el trastero
+168	<p>Sirven el contrato de alquiler y un documento con foto. Si hay que cambiar la cerradura de un garaje alquilado, es mejor acordarlo con el propietario y darle una llave de repuesto.</p>
+170	<p>Si no es posible acreditar el derecho de acceso ni con documentos ni de otra forma, el cerrajero puede no abrir el garaje. Así también le protege a usted: un desconocido no podrá llamar a un cerrajero para abrir su garaje.</p>
+172	<p>Si no es posible abrir la cerradura sin daños, el cerrajero le explica el motivo y le dice el precio del bombín o de la cerradura nueva. El trabajo solo empieza con su consentimiento.</p>
+174	Apertura de garajes en todos los barrios de <span class="accent">Bilbao</span>
+175	Acudimos a garajes particulares, aparcamientos, almacenes y trasteros en los barrios de Bilbao y las localidades cercanas de Bizkaia.
+187	Apertura de garajes en los alrededores de Bilbao
+198	¿Qué hacer si el garaje no se abre?
+199	La puerta del garaje suele fallar en el peor momento: cuando hay que salir con el coche. Le contamos qué puede comprobar usted mismo, qué es mejor no hacer y cuándo llamar al cerrajero.
+200	<h3>¿Por qué no gira la llave en la cerradura del garaje?</h3>
+201	<p>Las cerraduras de garajes y persianas están a la intemperie o en sótanos húmedos, así que sufren más por la suciedad, la humedad y el óxido. El bombín se ensucia y el pestillo puede quedarse pegado al cerradero.</p>
+202	<p>No haga fuerza ni intente girar la llave con unos alicates: una llave rota complicará la apertura. Si la cerradura simplemente se atasca, la solución es la <a href="{url:svc-reparacion}">reparación de la cerradura</a>; si la llave ya se ha roto, la <a href="{url:svc-extraccion}">extracción del trozo</a>.</p>
+203	<h3>¿Qué hacer si la puerta no responde al mando?</h3>
+204	<p>Compruebe primero la pila del mando y si hay electricidad en el garaje. Si el motor no funciona, la mayoría de las puertas tienen un desbloqueo manual: normalmente un cordón o una palanca en el motor, dentro del garaje, y en algunos modelos una cerradura por fuera.</p>
+205	<p>Si no puede llegar al desbloqueo, el cerrajero le ayudará a abrir la puerta manualmente. La reparación del motor y de los mandos es trabajo de especialistas en automatismos.</p>
+206	<h3>¿Se puede abrir un cierre metálico sin daños?</h3>
+207	<p>Casi siempre, sí: si el problema está en la cerradura, se abre o se cambia sin tocar la persiana. Es más complicado si la persiana está torcida o se ha salido de las guías; en ese caso, el cerrajero valorará si se puede arreglar en el momento. Más información en la sección de <a href="#no-damage">apertura sin daños</a>.</p>
+208	<h3>¿Hay que cambiar la cerradura del garaje después de perder las llaves?</h3>
+209	<p>Si las llaves se han perdido junto con documentos o un llavero que permitan encontrar su garaje, es mejor cambiar el bombín o el candado. Es rápido y barato, y las llaves antiguas dejarán de servir. Más información sobre el <a href="{url:svc-cambio}">cambio de cerraduras y bombines</a>.</p>
+211	<p>La dirección, el tipo de puerta y de cerradura y, si puede, una foto. Si el garaje está en un aparcamiento comunitario o el trastero en el sótano, díganos cómo puede entrar el cerrajero. Tenga a mano un documento con foto y algo que acredite su derecho sobre el garaje. Qué papeles sirven, en la sección de <a href="#documents">documentos</a>.</p>
+213	Preguntas frecuentes sobre la apertura de garajes
+216	¿Cuánto cuesta abrir un garaje en Bilbao?
+217	<p>El precio depende del tipo de puerta y de cerradura, del tipo de avería, de la hora del aviso y de la dirección. Tiene precios de referencia en la <a href="#prices">tabla de precios</a>. El operador le da un precio orientativo por teléfono y el cerrajero, el definitivo, tras revisarlo y antes de empezar.</p>
+219	<p>El tiempo de llegada depende de la zona, de la hora y de la carga de trabajo de los cerrajeros de guardia. El operador le indica un tiempo aproximado en cuanto llama y le avisa si el cerrajero se retrasa. Donde antes llegamos es a los barrios céntricos de Bilbao; a los municipios del Gran Bilbao el trayecto suele ser más largo.</p>
+220	¿Se puede abrir un garaje sin dañar la puerta?
+221	<p>Normalmente, sí: si el problema está en la cerradura, el cerrajero la abre o la cambia sin tocar la hoja de la puerta. Si la cerradura está rota, le explica de antemano qué se puede hacer y acuerda el precio con usted.</p>
+222	¿Qué hacer si la puerta no se abre con el mando?
+223	<p>Compruebe la pila del mando y la electricidad. Si el motor no funciona, la puerta se puede abrir manualmente con el desbloqueo de emergencia. Si no puede llegar a él, el cerrajero le ayudará a abrir la puerta, y la reparación del motor la harán especialistas en automatismos.</p>
+224	¿Abren cierres metálicos y persianas?
+225	<p>Sí, los cerrajeros trabajan con cerraduras de cierres metálicos de garajes, lonjas y almacenes. Después de abrir, si hace falta, reparan o cambian la cerradura.</p>
+226	¿Se puede abrir un trastero sin llave?
+227	<p>Sí. El cerrajero abrirá la cerradura del trastero y, si hace falta, pondrá una nueva. Necesitará acreditar que el trastero es suyo: la escritura, el contrato de alquiler o el recibo de la comunidad.</p>
+228	¿Quién abre la puerta comunitaria del aparcamiento?
+229	<p>La puerta comunitaria pertenece a la comunidad de propietarios, así que quien debe llamar al cerrajero y acordar el trabajo es el administrador de fincas o el presidente de la comunidad. Podemos hacer el trabajo a petición suya.</p>
+230	¿Hay que cambiar la cerradura después de abrirla?
+231	<p>Si la cerradura se ha abierto sin daños y funciona bien, no. Si ha perdido las llaves o el bombín ha sufrido daños, es mejor cambiarlo para que las llaves antiguas no sirvan. El cerrajero le dice el precio de la pieza nueva antes de empezar.</p>
+232	¿Qué documentos hacen falta para abrir un garaje?
+233	<p>Un documento con foto y algo que acredite su derecho sobre el garaje o el trastero: la escritura, el contrato de alquiler de la plaza o el recibo de la comunidad. Más información en la sección de <a href="#documents">documentos</a>.</p>
+239	Llame a un cerrajero para abrir su garaje en&nbsp;Bilbao
+240	¿No se abre el portón o el garaje? Contacte con Cerrajero24 para conocer el precio y pedir que vaya un cerrajero.
+244	Intentamos conservar la cerradura y la puerta
+246	Apertura de garaje
+247	Consultar el precio de apertura de un garaje
+248	Déjenos su número y, si puede, adjunte una foto de la puerta o de la cerradura. El cerrajero le llamará y le dará un precio orientativo.
+249	Foto de la puerta o de la cerradura
+250	La cerradura del portón se ha atascado
+251	No se abre la persiana
+253	El mando no funciona
+254	No se abre el candado
+255	El trastero está cerrado
+257	Apertura de garajes y portones en Bilbao 24 h — Cerrajero24
+258	¿Se ha atascado la cerradura del garaje, de la persiana o del trastero? Abrimos portones, cierres metálicos y candados en Bilbao. Precio antes de empezar.
+259	¿Se ha atascado la cerradura del garaje o de la persiana? Abrimos garajes y portones en Bilbao, con el precio antes de empezar.
+260	Apertura de garajes y portones en Bilbao
+261	Apertura urgente de garajes, portones y persianas
+262	Apertura de puertas de garaje, cierres metálicos, cancelas, trasteros y candados cuando se han perdido las llaves o se ha atascado el mecanismo. Bilbao y Gran Bilbao.

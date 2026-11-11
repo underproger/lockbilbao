@@ -1,0 +1,167 @@
+3	Diagnóstico y puesta a punto de la cerradura.
+4	Extracción de llaves rotas <span class="accent">en&nbsp;Bilbao</span>
+5	¿Se ha roto la llave en&nbsp;la cerradura y&nbsp;la mitad se ha quedado dentro? Sacamos con cuidado el trozo del&nbsp;bombín de la puerta de entrada, del buzón, del garaje o del coche. Si el mecanismo no&nbsp;ha sufrido, la cerradura seguirá funcionando: no&nbsp;habrá que cambiar nada.
+9	Sin cambiar el bombín
+10	Si el mecanismo no ha sufrido
+15	¿Cuándo hay que extraer una llave rota?
+16	La llave se rompe de repente, casi siempre por desgaste o al girarla a la fuerza. No intente sacar el trozo usted mismo: es fácil empujarlo más adentro.
+17	La llave se ha roto en la puerta
+18	El trozo se ha quedado en el bombín de la puerta del piso.
+19	Puerta cerrada y el trozo dentro
+20	La llave se rompió al salir o al volver a casa.
+21	Se ha roto la llave del buzón
+22	El trozo se ha quedado atascado en la cerradura del buzón del portal.
+23	La llave se ha atascado y no sale
+24	La llave está entera, pero no sale de la cerradura ni gira.
+25	Un trozo en la cerradura del coche
+26	La llave se rompió en el bombín de la puerta o del maletero.
+27	La llave se ha roto en un candado
+28	Un trozo en la cerradura del portón, la persiana o el trastero.
+29	¿Tiene un trozo atascado ahora mismo? Llame al cerrajero.
+30	Cuéntenos dónde se rompió la llave y le diremos qué hacer hasta que llegue.
+33	¿Cuánto cuesta extraer una llave rota en&nbsp;<span class="accent">Bilbao</span>?
+34	El precio depende de dónde se rompió la llave, de lo adentro que esté el trozo y de si el bombín ha sufrido. Le damos un precio orientativo por la descripción y el definitivo antes de empezar.
+35	Precios de extracción de llaves rotas en Bilbao
+38	Extracción del trozo de la cerradura de la puerta de entrada
+39	Extracción del trozo y apertura de la puerta cerrada
+40	Extracción de la llave del buzón
+41	Extracción de la llave de la cerradura del coche
+42	Extracción de candado o cerradura de garaje
+43	Cambio de bombín tras la extracción
+52	Bombín nuevo
+53	Si el bombín está dañado y hay que cambiarlo, el bombín nuevo se paga aparte y solo con su consentimiento.
+55	El cerrajero se lo dice tras revisar la cerradura, antes de empezar.
+56	Consultar el precio de la extracción
+57	Cuéntenos dónde se rompió la llave y le daremos un precio orientativo.
+59	¿De qué depende el precio de la extracción de una llave?
+60	El precio depende de cuatro factores. Cuénteselos al operador: sabrá el precio orientativo antes de que salga el cerrajero.
+61	Dónde se rompió la llave
+62	Puerta de entrada, buzón, coche, garaje o candado.
+63	Cómo está el trozo
+64	Se ve desde fuera o ha quedado muy dentro del bombín.
+65	Estado del bombín
+66	El mecanismo está bien o dañado y hay que cambiarlo.
+68	Día o noche, barrio de Bilbao o municipio cercano.
+71	Si el bombín está dañado y hay que cambiarlo, el precio del bombín nuevo se acuerda aparte, antes de empezar.
+73	¿Se ha roto la llave en la cerradura? Llame al cerrajero
+74	Déjenos su nombre y teléfono: el operador le llamará en&nbsp;pocos minutos, le preguntará dónde se rompió la llave y si la puerta está cerrada, y&nbsp;le dará un precio orientativo. Trabajamos las 24 horas en&nbsp;Bilbao y&nbsp;el Gran Bilbao.
+75	Dónde extraemos
+76	Extraemos llaves de todo tipo de cerraduras
+77	Un trozo de llave puede quedarse atascado en cualquier cerradura. El cerrajero elige la herramienta según el mecanismo para no dañar el bombín.
+78	Bombines de puertas de entrada
+79	El caso más habitual: la llave se ha roto en el bombín de un piso o una oficina.
+81	Trozos de llaves de paletón en puertas antiguas y acorazadas.
+82	Buzones
+83	Cerraduras pequeñas en las que las llaves se rompen con especial frecuencia.
+84	Cerraduras de coches
+85	Bombines de puertas y maletero.
+87	Cerraduras de trasteros, portones, persianas y cuartos auxiliares.
+88	Cerraduras de garajes y cierres metálicos
+89	Cerraduras de portones, persianas y cierres metálicos.
+90	Primero, salvar el bombín
+92	Extracción de la llave sin cambiar el bombín
+93	Si el mecanismo no ha sufrido, tras sacar el trozo la cerradura sigue funcionando con la llave de repuesto: no hay que cambiar nada.
+94	Cómo sacamos el trozo
+95	<p>El cerrajero utiliza una herramienta especial para extraer llaves: agarra el trozo sin dañar los pernos del bombín.</p>
+96	Cuándo el bombín sigue sirviendo
+97	<p>Si la llave se rompió por desgaste y el trozo no se empujó hacia dentro, el mecanismo suele estar bien. Tras la extracción, la cerradura funciona con la llave de repuesto.</p>
+98	Cuándo hay que cambiar el bombín
+99	<p>Si se intentó sacar el trozo con pegamento o se empujó muy adentro, los pernos pueden estar dañados. Entonces es más seguro cambiar el bombín: el cerrajero lo hace en la misma visita.</p>
+100	Por qué el cambio se acuerda antes
+101	<p>Si no es posible salvar el bombín, el cerrajero le explica el motivo y le dice el precio del bombín nuevo. El trabajo solo empieza con su consentimiento.</p>
+102	Qué comprobamos tras la extracción
+103	<p>Que la llave de repuesto entre y gire bien y que funcionen el picaporte y los pestillos. Si la llave está gastada, le aconsejaremos hacer una nueva.</p>
+105	¿Cómo llamar al cerrajero si se ha roto la llave?
+107	Llame o deje una solicitud. Díganos dónde se rompió la llave y si la puerta está cerrada.
+110	Extracción del trozo
+111	El cerrajero saca el trozo y, si hace falta, abre la puerta.
+112	Revisión de la cerradura
+113	Comprobamos la cerradura con la llave de repuesto. Si el bombín está dañado, le proponemos cambiarlo.
+114	¿Se le acaba de romper la llave?
+119	Por qué eligen <span class="accent">Cerrajero24</span> para extraer llaves
+122	Herramienta especial
+123	Sacamos el trozo sin dañar el bombín.
+124	Sin cambios innecesarios
+125	Solo cambiamos el bombín si de verdad está dañado.
+127	Pisos, oficinas, garajes y coches, en la ciudad y en el Gran Bilbao.
+128	Cambio en la misma visita
+129	Si no se puede salvar el bombín, ponemos uno nuevo en el momento.
+133	Opiniones de clientes sobre la extracción de llaves rotas
+135	Opiniones de clientes sobre la extracción de llaves
+136	Lorena
+137	Llave en la puerta · Ibaiondo
+138	La llave se rompió en la cerradura justo cuando salía a trabajar. El cerrajero sacó el trozo y revisó la cerradura: el bombín estaba bien y la llave de repuesto funciona. Me aconsejó hacer una llave nueva en lugar de la vieja, que estaba gastada.
+139	Artiom
+140	Buzón · Deusto
+141	Se me rompió la llave en el buzón del portal. El cerrajero sacó el trozo en un par de minutos y la cerradura quedó bien. Barato y sin complicaciones.
+142	Imanol
+143	Puerta cerrada · Rekalde
+144	La llave se rompió al cerrar la puerta desde fuera y no podía entrar. El cerrajero sacó el trozo, abrió la puerta y revisó el mecanismo. Se pudo salvar el bombín.
+145	Yulia
+146	Intentamos sacarla nosotros · Portugalete
+147	Primero intentamos sacar el trozo con unas pinzas y lo empujamos más adentro. El cerrajero nos dijo con honestidad que el bombín estaba dañado, nos dio el precio de uno nuevo y lo puso en el momento. Lección aprendida.
+148	Sergio
+149	Cerradura del garaje · Etxebarri
+150	La llave se rompió en la cerradura del portón del garaje. El cerrajero sacó el trozo y limpió la cerradura: ahora funciona incluso mejor que antes.
+153	¿Hacen falta documentos para extraer una llave?
+154	Si la puerta está abierta y usted está en casa, basta con un documento con foto. Si la puerta está cerrada, el cerrajero comprueba el derecho de acceso igual que en una apertura urgente.
+163	Si la puerta está abierta
+164	<p>Si la llave se ha roto y usted está en casa o la puerta se ha quedado abierta, basta con un documento con foto: DNI, NIE o pasaporte.</p>
+165	Si la puerta está cerrada
+166	<p>Necesitará acreditar su vínculo con la dirección: empadronamiento, escritura, contrato de alquiler o una factura de suministros. Si los documentos están dentro, el cerrajero los comprueba nada más abrir.</p>
+167	Si la llave se ha roto en el coche
+168	<p>Hace falta un documento con foto y el permiso de circulación o la ficha técnica. Más información sobre la <a href="{url:svc-coches}">apertura urgente de coches</a>.</p>
+169	Buzón del portal
+170	<p>El buzón corresponde a una vivienda, así que basta con un documento con foto y algo que acredite la dirección.</p>
+172	<p>Si no es posible acreditar el derecho de acceso ni con documentos ni de otra forma, el cerrajero puede negarse a abrir la puerta. Esto también le protege a usted.</p>
+174	Extraemos llaves rotas en todos los barrios de <span class="accent">Bilbao</span>
+175	Vamos a pisos, oficinas, garajes y coches en los barrios de Bilbao y en los municipios cercanos de Bizkaia.
+187	Extracción de llaves en los alrededores de Bilbao
+199	Una llave rota es una avería frecuente, y casi siempre la empeoran los intentos de sacar el trozo por cuenta propia. Le contamos qué hacer enseguida y qué es mejor evitar.
+200	<h3>¿Por qué se rompen las llaves en la cerradura?</h3>
+201	<p>Casi siempre por desgaste: con el tiempo la llave se adelgaza y se agrieta junto a la cabeza. Otra causa es intentar girar la llave a la fuerza cuando la cerradura se atasca. Las llaves finas de buzones y candados se rompen con especial frecuencia.</p>
+202	<p>Si la llave empieza a girar con dificultad, no espere a que se rompa: limpie y lubrique la cerradura o pida una <a href="{url:svc-reparacion}">reparación de la cerradura</a>.</p>
+203	<h3>¿Qué no hay que hacer si se ha roto la llave?</h3>
+204	<p>No meta la llave de repuesto en la cerradura: empujará el trozo más adentro. No intente sacar el trozo con pegamento: se endurecerá dentro del mecanismo y habrá que cambiar el bombín. Las horquillas, agujas y pinzas suelen dañar los pernos más que ayudar.</p>
+205	<p>Si la puerta está abierta, no la cierre hasta que se haya extraído el trozo.</p>
+206	<h3>¿Se puede salvar el bombín tras extraer la llave?</h3>
+207	<p>Sí, si el mecanismo no ha sufrido. Un trozo que se ha roto por desgaste y no se ha empujado hacia dentro suele salir sin daños. Si el bombín está dañado, el cerrajero le propondrá cambiarlo en la misma visita. Más información en la sección <a href="#no-damage">sobre la extracción sin cambiar el bombín</a>.</p>
+208	<h3>¿Se puede hacer una llave nueva a partir de los trozos?</h3>
+209	<p>Con las llaves estándar, a menudo sí: en una tienda de duplicado de llaves pueden hacer una copia a partir de las dos partes. Las llaves de alta seguridad solo se copian presentando la tarjeta de propiedad. Si no le quedan llaves, es más seguro <a href="{url:svc-cambio}">cambiar el bombín</a>.</p>
+211	<p>Diga al operador dónde se rompió la llave —en la puerta, el buzón, el coche o el garaje— y si la puerta está cerrada. Guarde la otra mitad de la llave y tenga a mano la de repuesto, si la tiene. Si la puerta está cerrada, necesitará un documento con foto y algo que acredite la dirección. Más información en la sección <a href="#documents">de documentos</a>.</p>
+213	Preguntas frecuentes sobre la extracción de llaves
+216	¿Cuánto cuesta extraer una llave rota en Bilbao?
+217	<p>El precio depende de dónde se rompió la llave, de lo adentro que esté el trozo y de si hay que cambiar el bombín. Tiene precios orientativos en la <a href="#prices">tabla de precios</a>. El cerrajero le dice el precio definitivo tras revisar la cerradura y antes de empezar.</p>
+218	¿Puedo sacar yo mismo el trozo de llave?
+219	<p>A veces, si el trozo sobresale y se puede enganchar con cuidado. Pero casi siempre los intentos de empujarlo o de sacarlo con pegamento dañan el bombín. Si el trozo está dentro, es mejor llamar al cerrajero.</p>
+220	¿Hay que cambiar el bombín tras extraer la llave?
+221	<p>No necesariamente. Si el mecanismo no ha sufrido, la cerradura seguirá funcionando con la llave de repuesto. Hay que cambiarlo si el bombín está dañado o no tiene llave de repuesto.</p>
+222	¿Qué hago si se ha roto la llave y la puerta está cerrada?
+223	<p>Llame al cerrajero: sacará el trozo y abrirá la puerta. Tenga preparado un documento con foto y algo que acredite la dirección; si los documentos están dentro, el cerrajero los comprobará tras abrir.</p>
+224	¿Extraen llaves de buzones?
+225	<p>Sí, es un aviso frecuente. Las cerraduras de los buzones son pequeñas y el trozo suele salir rápido. Si la cerradura está dañada, se puede cambiar.</p>
+226	¿Qué hago si la llave se ha atascado y no sale?
+227	<p>No tire de la llave ni la gire a la fuerza: podría romperse. Llame al cerrajero: sacará la llave con cuidado y revisará el mecanismo.</p>
+228	¿Se puede hacer una llave nueva a partir de los trozos?
+229	<p>Con las llaves estándar, a menudo sí: en una tienda de duplicado de llaves hacen la copia a partir de las dos partes. Para las llaves de alta seguridad hace falta la tarjeta de propiedad.</p>
+230	¿Trabajan de noche?
+231	<p>Sí, las 24 horas, también fines de semana y festivos. De noche y en festivos se aplica un recargo: el operador le dirá su importe al llamar.</p>
+232	¿Cuánto se tarda en extraer una llave?
+233	<p>Normalmente poco, si el trozo no se ha empujado muy adentro. Si hay que cambiar el bombín o abrir la puerta, hay que sumar el tiempo de esos trabajos.</p>
+239	Llamar al cerrajero para extraer una llave en&nbsp;Bilbao
+240	¿Se ha roto la llave en la cerradura? Contacte con Cerrajero24 para consultar el precio y pedir que vaya un especialista.
+244	Intentamos salvar el bombín
+246	Extracción de llave
+247	Consultar el precio de la extracción
+250	La llave se ha roto en la puerta
+251	Puerta cerrada y el trozo dentro
+252	Buzón
+253	Cerradura del coche
+254	Garaje o candado
+255	La llave se ha atascado
+257	Extracción de llaves rotas en Bilbao 24/7 — Cerrajero24
+258	¿Se ha roto la llave en la cerradura de la puerta, del buzón o del coche? Sacamos el trozo en Bilbao 24/7, siempre que se pueda sin cambiar el bombín.
+259	¿Se ha roto la llave en la cerradura? Sacamos el trozo en Bilbao las 24 horas, siempre que se pueda sin cambiar el bombín.
+260	Extracción de llaves rotas en Bilbao
+261	Extracción de llaves rotas de cerraduras
+262	Extracción de trozos de llave de bombines de puertas de entrada, buzones, coches, candados y cerraduras de garaje, con revisión del mecanismo. Las 24 horas en Bilbao y el Gran Bilbao.

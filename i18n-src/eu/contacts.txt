@@ -1,0 +1,95 @@
+1	Kontaktua
+2	Cerrajero24ren kontaktua <span class="accent">Bilbon</span>
+3	Egunean 24 orduz hartzen ditugu abisuak, asteburuetan eta jaiegunetan ere. Azkarrena deitzea da: guardiako operadoreak berehala esango dizu zer lan behar duzun, eta gutxi gorabeherako prezioa eta sarrailagilearen iristeko denbora emango dizkizu.
+4	Premiazko deia · 24/7
+5	Sarrailagile bati deitzeko modurik azkarrena: gauez eta&nbsp;jaiegunetan ere erantzuten dugu.
+6	Kontatu zer gertatu den eta bidali sarrailaren argazki bat: esango dizugu zer lan behar duzun.
+7	Premiazkoak ez diren gaietarako: lankidetzak, fakturak eta egindako lanen agiriak.
+8	Ordutegia
+9	Egunean 24 orduz, asteko 7&nbsp;egunetan
+10	Zerbitzu-eremua
+11	Bilbo eta&nbsp;Bilbo Handia
+12	Prezioa
+13	Lana hasi aurretik&nbsp;adosten dugu
+14	Sarrailagile-eskaera
+15	Utzi zure zenbakia: operadoreak deituko dizu helbidea eta&nbsp;xehetasunak zehazteko.
+16	Deitu aurretik
+17	Zer esan operadoreari sarrailagilea lehenago irits dadin
+18	Bost erantzun laburri esker prezioa berehala eman, tresna egokia eraman eta&nbsp;tokian bertan denbora ez galtzen dugu.
+19	Atearen beste aldean haur bat edo gaizki dagoen pertsona bat badago, sukaldea piztuta badago edo gas-usaina badago, deitu lehenik 112ra.
+20	Larrialdietarako zenbaki bakarra Espainian eta&nbsp;EBn
+21	Helbidea
+22	<p>Kalea, zenbakia, solairua eta letra (<span lang="es">piso, letra</span>), eta atariko kodea, baldin badago. Bilbotik kanpo, udalerria: Barakaldo, Getxo, Basauri edo&nbsp;beste bat.</p>
+23	Zer gertatu den
+24	<p>Atea danba itxi da, giltzak galdu dituzu, giltza sarrailan hautsi da, sarraila trabatu da edo ez du&nbsp;biratzen. Giltza barrutik sarrailan geratu bada, esan hori ere.</p>
+25	Ate eta sarraila mota
+26	<p>Ate arrunta, metalezkoa edo blindatua, eta zer bonbina edo sarraila duen. Errazena sarrailari argazki bat atera eta&nbsp;<a href="https://wa.me/34944123456" rel="noopener" target="_blank">WhatsAppez</a> bidaltzea da.</p>
+27	Agiriak eskura
+28	<p>NANa, AIZ edo pasaportea eta helbidearekin lotzen zaituen agiri bat dituzun. Agiriak barruan geratu badira, abisatu: sarrailagileak ireki bezain laster egiaztatuko ditu. <a href="{url:svc-puertas}#documents">Zer agiri balio dute</a></p>
+29	Harremanetarako telefonoa
+30	<p>Sarrailagilea iristean zurekin harremanetan jartzeko zenbaki bat. Beste norbaiten telefonotik deitzen baduzu, eman zure zenbakia edo adostu non elkartu.</p>
+31	Zerbitzu-eremua
+32	Zerbitzu-eremua: Bilbo eta&nbsp;<span class="accent">Bilbo Handia</span>
+33	Sarrailagileak Bilboko auzo guztietara eta Bilbo Handiko udalerrietara joaten dira. Aukeratu zure eremua eta esango dizugu nola galdetu iristeko denbora.
+34	Bilboko barrutiak
+35	8 barruti
+36	Deustu
+37	Uribarri
+38	Otxarkoaga-Txurdinaga
+39	Begoña
+40	Ibaiondo
+41	Abando
+42	Errekalde
+43	Basurto-Zorrotza
+44	Auzo eskatuenak: Alde Zaharra, Indautxu, San Ignazio, Santutxu, Miribilla eta beste batzuk.
+45	Bilbo Handiko udalerriak
+46	Barakaldo
+47	Getxo
+48	Portugalete
+49	Santurtzi
+50	Leioa
+51	Sestao
+52	Basauri
+53	Erandio
+54	eta Bilbo Handiko beste udalerri batzuk.
+55	Guri buruz
+56	Cerrajero24 enpresaren datuak
+57	Datu fiskalak, Googleko profila eta webgunearen lege-agiriak, dena leku&nbsp;berean.
+58	Enpresaren datuak
+59	Izena
+60	Cerrajero24
+61	Jarduera
+62	Sarrailen premiazko irekiera, konponketa, aldaketa eta&nbsp;instalazioa
+63	IFZ / CIF
+64	Jarduera-eremua
+65	Bilbo eta&nbsp;Bilbo Handia, Bizkaia, Espainia
+66	Telefonoa
+67	Helbide elektronikoa
+68	Cerrajero24 Google&nbsp;Mapsen
+69	Enpresaren profilean bezeroen iritziak eta harremanetarako datuak aurkituko dituzu. Sarrailagileak lagundu badizu, eskertuko dizugu iritzi bat uztea: beste pertsonei sarrailagile fidagarri bat lehenago aurkitzen laguntzen die.
+70	Ireki Google Mapsen
+71	Utzi iritzi bat
+72	Lege-informazioa
+73	Pribatutasun-politika
+74	Cookie-politika
+75	Zerbitzu-baldintzak
+76	Lege-oharra (<span lang="es">aviso legal</span>)
+77	Galderak
+78	Cerrajero24rekin harremanetan jartzeari buruzko ohiko galderak
+79	Sarrailagilea behar duzu orain bertan?
+80	Deitu: guardiako sarrailagilea egunean 24 orduz dago prest.
+81	Zein da sarrailagile bati deitzeko modurik azkarrena?
+82	<p>Deitu <a href="tel:+34944123456">+34&nbsp;944&nbsp;123&nbsp;456</a> zenbakira. Deitzea da azkarrena: operadoreak berehala zehaztuko ditu helbidea eta egoera, gutxi gorabeherako prezioa eta iristeko denbora emango dizkizu eta abisua guardiako sarrailagileari pasatuko dio. Webguneko eskaerak eta WhatsAppeko mezuak ere kudeatzen ditugu, baina arazoa premiazkoa bada, hobe da deitzea.</p>
+83	WhatsAppez idatz dezaket deitu beharrean?
+84	<p>Bai. Idatzi WhatsAppez zer gertatu den, eman helbidea eta erantsi sarrailaren argazki bat: argazkiarekin errazagoa da mekanismo mota jakitea eta gutxi gorabeherako prezioa ematea. Mezu bidezko erantzunak dei batek baino zertxobait gehiago iraun dezake; beraz, orain bertan etxera sartu ezin bazara, hobe da deitzea.</p>
+85	Gauez, asteburuetan eta jaiegunetan abisuak hartzen dituzue?
+86	<p>Bai, linea egunean 24 orduz dago martxan, asteko zazpi egunetan, jaiegunak barne. Gauez, 22:00etatik 08:00etara, eta asteburu eta jaiegunetan premiazko zerbitzuaren gainkostua aplikatzen da. Operadoreak haren zenbatekoa esaten dizu deitzean, sarrailagilea abiatu aurretik, prezioarekin ezustekorik izan ez dezazun.</p>
+87	Zer eremutan lan egiten dute sarrailagileek?
+88	<p>Bilboko auzo guztietan —Abando, Deustu, Begoña, Uribarri, Errekalde eta beste batzuk— eta Nerbioiaren bi ertzetako Bilbo Handiko udalerrietan: Barakaldo, Getxo, Portugalete, Santurtzi, Sestao, Leioa, Basauri, Galdakao eta beste batzuk. Zure eremua orri honetako <a href="#areas">zerbitzu-eremuaren mapan</a> egiazta dezakezu.</p>
+89	Jakin dezaket prezioa sarrailagilea iritsi aurretik?
+90	<p>Gutxi gorabeherakoa, bai. Operadoreak telefonoz esaten dizu, egoera eta ate eta sarraila mota azaltzen badizkiozu, eta sarrailaren argazki batekin balorazioa zehatzagoa da. Azken prezioa sarrailagileak ematen du tokian bertan sarraila aztertu ondoren eta hasi aurretik, eta lana zure baimenarekin bakarrik hasten da. Erreferentziazko prezioak <a href="{url:services}#prices">prezio-taulan</a> dituzu.</p>
+91	Nola utz dezaket iritzi bat edo galdetu egindako lan bati buruz?
+92	<p>Iritzia gure Google Mapseko profilean utz dezakezu: esteka <a href="#company">«Enpresaren datuak»</a> blokean dago. Egindako lan bati, bermeari edo agiriei buruzko galderak hobe da <a href="mailto:info@cerrajero24.es">info@cerrajero24.es</a> helbidera bidaltzea: adierazi zerbitzuaren data, helbidea eta zein telefonotik deitu zenuen, horrela lehenago aurkituko dugu zure abisua.</p>
+93	Cerrajero24ren kontaktua — sarrailagilea Bilbon 24/7
+94	Cerrajero24ren telefonoa, WhatsAppa eta helbide elektronikoa. Sarrailen premiazko irekiera eta aldaketa Bilbon eta Bilbo Handian egunean 24 orduz. Deitu edo utzi eskaera bat eta deituko dizugu.
+95	Telefonoa, WhatsAppa eta helbide elektronikoa. Sarrailen premiazko irekiera eta aldaketa Bilbon eta Bilbo Handian egunean 24 orduz.

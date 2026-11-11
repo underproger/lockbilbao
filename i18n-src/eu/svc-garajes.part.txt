@@ -1,0 +1,170 @@
+1	Garajeak irekitzea
+3	Garaje-sarrailak, pertsianak eta itxiera-mekanismoak.
+4	Garajeak eta ateak irekitzea <span class="accent">Bilbon</span>
+5	Garajeko atearen sarraila trabatu da, pertsiana ez da irekitzen edo trastelekuko giltzak galdu&nbsp;dituzu? Ate sekzionalak, baskulanteak eta&nbsp;biragarriak, metalezko itxierak, langak eta&nbsp;giltzarrapoak irekitzen ditugu. Motorrak huts egiten badu, atea eskuz irekitzen lagunduko dizugu.
+9	Ateak, pertsianak, trastelekuak
+10	Sarraila mekanikoak eta giltzarrapoak
+15	Noiz ireki behar da garaje bat edo ate bat?
+16	Deitu garajera edo trastelekura sartu ezin bazara, edo atea zure giltzarekin edo urruneko aginteaz ireki ezin baduzu.
+17	Garajeko atearen sarraila trabatuta
+18	Giltzak ez du biratzen edo atea ez da desblokeatzen.
+19	Metalezko itxiera ez da irekitzen
+20	Pertsianaren sarraila (<span lang="es">cierre metálico</span>) trabatu edo hautsi da.
+21	Garajeko giltzak galdu dituzu
+22	Ez duzu ordezko sortarik, eta autoa edo zure gauzak barruan daude.
+23	Urruneko agintea edo motorra ez dabil
+24	Ateak ez dio urruneko aginteari erantzuten eta eskuz ireki behar da.
+25	Giltzarrapoa ez da irekitzen
+26	Atearen, trastelekuaren edo langaren giltzarrapoak ez dio giltzari amore ematen.
+27	Trastelekua itxita
+28	Ez duzu eraikineko sotoko trastelekuaren (<span lang="es">trastero</span>) giltzarik.
+29	Ez dakizu zer gertatzen zaion ateari? Deitu sarrailagileari.
+30	Deskribatu atea eta sarraila, eta iritsi arte zer egin daitekeen esango dizugu.
+33	Zenbat balio du Bilbon garaje bat irekitzeak?
+34	Prezioa ate motaren, sarrailaren eta matxuraren araberakoa da. Gutxi gorabeherako prezioa deskribapen edo argazki bidez ematen dugu, eta behin betikoa lana hasi aurretik.
+35	Garajeak eta ateak irekitzeko prezioak Bilbon
+38	Ate sekzional edo baskulante bat irekitzea
+39	Ate biragarriak eta langak irekitzea
+40	Metalezko itxiera (pertsiana) irekitzea
+41	Giltzarrapoa irekitzea
+42	Trastelekua irekitzea
+43	Atea eskuz irekitzea motorra matxuratuta dagoenean
+44	Garajearen premiazko irekiera gauez
+52	Sarraila eta piezak
+53	Bonbina berri bat, giltzarrapo bat edo beste pieza batzuk behar badira, bereiz ordaintzen dira, eta zure baimenarekin bakarrik.
+54	Atearen automatismoa
+55	Ateak irekitzen eta sarrailak konpontzen ditugu. Motorraren, urruneko aginteen eta elektronikaren konponketa automatismo-espezialisten lana da.
+56	Galdetu garaje bat irekitzearen prezioa
+57	Deskribatu atea eta sarraila, eta gutxi gorabeherako prezio bat emango dizugu.
+59	Zeren araberakoa da garaje bat irekitzearen prezioa?
+60	Lau faktorek zehazten dute prezioa. Esan iezazkiozu operadoreari edo bidali argazki bat, eta gutxi gorabeherako prezioa jakingo duzu sarrailagilea abiatu aurretik.
+61	Ate mota
+62	Ate sekzionala, baskulantea, biragarria, irristakorra edo metalezko itxiera.
+63	Sarraila mota
+64	Bonbinaduna, giltzarrapoa, pertsianaren sarraila edo motorraren eskuzko desblokeoa.
+66	Galdutako giltza, trabatutako mekanismoa, hautsitako bonbina edo automatismoaren hutsegitea.
+68	Eguna edo gaua; garaje partikularra edo komunitarioa; Bilbo edo inguruak.
+71	Irekiera ondoren sarraila berri bat edo mekanismoaren konponketa behar bada, haien prezioa bereiz adosten dugu, hasi aurretik.
+73	Ezin duzu garajea ireki? Deitu sarrailagileari
+74	Utzi zure izena eta telefonoa: operadoreak minutu gutxiren&nbsp;buruan deituko dizu, ate eta sarraila motari buruz galdetuko dizu eta&nbsp;gutxi gorabeherako prezioa emango dizu. Egunean 24 orduz lan egiten dugu Bilbon eta&nbsp;Bilbo Handian.
+75	Ateak eta sarrailak
+76	Garajeak, ateak eta trastelekuak irekitzen ditugu
+77	Mota guztietako ate eta itxiera-mekanismoekin lan egiten dugu. Ireki aurretik, sarrailagileak atea aztertzen du eta mekanismoa gordetzen duen metodoa aukeratzen du.
+78	Ate sekzionalak eta baskulanteak
+79	Garaje partikularretako ateak, eskuzko edo irekiera automatikoarekin.
+80	Metalezko itxierak eta pertsianak <span lang="es">cierres metálicos</span>
+81	Garajeetako, lokaletako eta biltegietako pertsiana biribilkariak.
+82	Ate biragarriak eta langak
+83	Patioetako, etxeetako eta aparkalekuetako ateak, sarraila txertatu eta gainjarriekin.
+84	Ate irristakorrak
+85	Motorraren eskuzko desblokeoa eta sarraila mekanikoak dituzten ateak.
+86	Giltzarrapoak
+87	Ateetako, pertsianetako, trastelekuetako eta zerbitzu-geletako giltzarrapoak.
+88	Trastelekuak <span lang="es">trasteros</span>
+89	Etxebizitza-eraikinetako sotoetako eta ganbaretako trastelekuak.
+90	Lehenik, sarraila eta atea gorde
+92	Garajeak irekitzea atea kaltetu gabe
+93	Garaje-ate bat instalazio garestia da; horregatik, sarrailagileak lehenik orria, gidak eta motorra gordeta irekitzeko modua bilatzen du.
+95	<p>Giltza galdu bada baina bonbina ondo badago, askotan sarraila hautsi gabe ireki daiteke. Ondoren, bonbina aldatzea nahikoa da: atea eta sarraila bera gordetzen dira.</p>
+96	Automatismoak huts egiten badu
+97	<p>Motor gehienak eskuz desblokea daitezke. Sarrailagileak atea larrialdiko desblokeoarekin irekitzen lagunduko dizu, mekanismoa kaltetu gabe. Motorraren konponketa automatismo-espezialistei dagokie.</p>
+98	Zergatik den garrantzitsua ate mota
+99	<p>Pertsianek, ate sekzionalek eta biragarriek sarraila eta gida desberdinak dituzte. Egituraren araberakoa da lanak zenbat iraungo duen eta zer tresna beharko den.</p>
+100	Zergatik adosten ditugun aldez aurretik balizko kalteak
+101	<p>Sarraila hautsita badago eta ezin bada gorde, sarrailagileak lehenik arrazoia azalduko dizu eta aldaketaren prezioa esango dizu. Lana zure baimenarekin bakarrik hasten da.</p>
+103	<p>Nola irekitzen eta ixten den atea, sarrailak ondo blokeatzen duen eta ezerk orriaren mugimendua eragozten ez duen. Zerbait trabatzen bada, une berean konpontzea proposatzen dizugu.</p>
+105	Nola deitu sarrailagile bati Bilbon garaje bat irekitzeko?
+107	Deitu edo utzi eskaera bat. Esan helbidea, ate mota eta zer gertatu den.
+109	Operadoreak gutxi gorabeherako prezioa eta iristeko denbora ematen dizkizu. Garajea aparkaleku komunitario batean badago, nola sartu galdetzen dizu.
+110	Atearen irekiera
+111	Sarrailagileak sartzeko eskubidea egiaztatzen du eta atea edo sarraila adostutako metodoarekin irekitzen du.
+113	Atearen eta sarrailaren funtzionamendua egiaztatzen dugu. Behar izanez gero, bonbina edo giltzarrapoa aldatzen dugu.
+114	Garajea ez da irekitzen orain bertan?
+119	Zergatik aukeratu <span class="accent">Cerrajero24</span> zure garajea irekitzeko
+122	Zerbitzua Bilbon eta inguruetan
+123	Garaje partikularrak, aparkalekuak, biltegiak eta trastelekuak, hirian eta Bilbo Handian.
+124	Lan arduratsua
+125	Atearen sarraila, orria eta motorra gordetzen saiatzen gara.
+128	Mota guztietako ateak
+129	Pertsianak, ate sekzionalak, biragarriak eta irristakorrak, giltzarrapoak.
+131	Lanen eta instalatutako piezen bermea. Baldintzak lana amaitzean ematen dugun agirian jasotzen dira.
+133	Bezeroen iritziak Bilbon garajeak irekitzeari buruz
+135	Bezeroen iritziak garajeak irekitzeari buruz
+136	Iñigo
+137	Garajeko atea · Basauri
+138	Giltza garajeko atearen sarrailan hautsi zen, autoa barruan zegoela. Sarrailagileak zatia atera, atea ireki eta berehala bonbina berri bat jarri zuen. Dena bisita bakar batean egin zuen, eta prezioa aldez aurretik eman ziguten.
+139	Tatiana
+140	Trastelekua · Santutxu
+141	Sotoko trastelekuaren giltzak galdu nituen. Sarrailagileak kontu handiz ireki zuen giltzarrapoa eta berri bat jarri zuen. Etxebizitzaren agiriak eskatu zizkidan, eta horrek lasaitu ere egin ninduen.
+142	Jorge
+143	Metalezko itxiera · Alde Zaharra
+144	Goizean ez zen irekitzen tresnak gordetzen ditugun lokaleko metalezko itxieraren sarraila. Sarrailagileak sarraila aztertu, garbitu eta doitu zuen: orain pertsiana ahaleginik gabe igotzen da.
+146	Urruneko agintea ez zebilen · Leioa
+147	Garajeko ateak urruneko aginteari erantzuteari utzi zion, autoa barruan zegoela. Sarrailagileak motorraren eskuzko desblokeoa aurkitu eta atea ireki zuen, eta automatismoa konpontzeko espezialista batengana bidali gintuen zintzotasunez. Ez ziguten ezer alferrik saldu nahi izan.
+148	David
+149	Giltzarrapoa · Erandio
+150	Lursailaren ateko giltzarrapoa herdoilduta zegoen eta ez zen irekitzen. Sarrailagileak kontu handiz ireki zuen, atea kaltetu gabe, eta hezetasuna hobeto jasaten duen giltzarrapo bat proposatu zigun.
+153	Zer agiri behar dira garaje bat irekitzeko?
+154	Ireki aurretik, sarrailagileak ziurtatu behar du garajera, trastelekura edo esparrura sartzeko eskubidea duzula.
+160	Plazaren alokairu-kontratua
+161	Recibo de la comunidad
+163	Nola egiaztatu garajearen gaineko eskubidea
+164	<p>Argazkidun agiri bat —NANa, AIZ edo pasaportea— eta garajearekin edo trastelekuarekin lotzen zaituen paper bat: eskritura (<span lang="es">escritura</span>), plazaren alokairu-kontratua (<span lang="es">contrato de alquiler de plaza</span>) edo jabeen erkidegoaren ordainagiria (<span lang="es">recibo de la comunidad</span>).</p>
+165	Aparkalekuko ate komunitarioa irekitzen ez bada
+166	<p>Ate komunitarioa jabeen erkidegoarena da (<span lang="es">comunidad de propietarios</span>). Hori bada irekitzen ez dena, jo eraikineko administratzailearengana (<span lang="es">administrador de fincas</span>): hark deitzen dio sarrailagileari eta adosten du lana.</p>
+167	Garajea edo trastelekua alokatzen baduzu
+168	<p>Alokairu-kontratua eta argazkidun agiri bat nahikoak dira. Alokatutako garaje bateko sarraila aldatu behar bada, hobe da jabearekin adostea eta ordezko giltza bat ematea.</p>
+170	<p>Sartzeko eskubidea ez agiriekin ez beste modu batean egiaztatu ezin bada, sarrailagileak garajea ez irekitzea erabaki dezake. Horrek zu ere babesten zaitu: ezezagun batek ezin izango dio sarrailagile bati deitu zure garajea irekitzeko.</p>
+172	<p>Sarraila kalterik gabe ireki ezin bada, sarrailagileak arrazoia azaltzen dizu eta bonbina edo sarraila berriaren prezioa esaten dizu. Lana zure baimenarekin bakarrik hasten da.</p>
+174	Garajeak irekitzea <span class="accent">Bilboko</span> auzo guztietan
+175	Bilboko auzoetako eta Bizkaiko inguruko herrietako garaje partikularretara, aparkalekuetara, biltegietara eta trastelekuetara joaten gara.
+187	Garajeak irekitzea Bilbo inguruan
+198	Zer egin garajea irekitzen ez bada?
+199	Garajeko ateak momenturik txarrenean huts egin ohi du: autoarekin irten behar duzunean. Kontatzen dizugu zer egiazta dezakezun zuk zeuk, zer ez egitea komeni den eta noiz deitu sarrailagileari.
+200	<h3>Zergatik ez du giltzak biratzen garajeko sarrailan?</h3>
+201	<p>Garajeetako eta pertsianetako sarrailak kanpoan edo soto hezeetan daude; beraz, zikinkeriak, hezetasunak eta herdoilak gehiago eragiten diete. Bonbina zikindu egiten da eta morroiloa kontraplakari itsatsita gera daiteke.</p>
+202	<p>Ez egin indarrik eta ez saiatu giltza alikateekin biratzen: hautsitako giltza batek irekiera zailduko du. Sarraila trabatu besterik ez bada, <a href="{url:svc-reparacion}">sarrailaren konponketa</a> da irtenbidea; giltza hautsi bada, <a href="{url:svc-extraccion}">zatia ateratzea</a>.</p>
+203	<h3>Zer egin ateak urruneko aginteari erantzuten ez badio?</h3>
+204	<p>Egiaztatu lehenik urruneko agintearen pila eta garajean argindarrik dagoen. Motorrak ez badu funtzionatzen, ate gehienek eskuzko desblokeoa dute: normalean soka bat edo palanka bat motorrean, garaje barruan, eta modelo batzuetan sarraila bat kanpoan.</p>
+205	<p>Desblokeora iritsi ezin bazara, sarrailagileak atea eskuz irekitzen lagunduko dizu. Motorraren eta urruneko aginteen konponketa ate-automatismoetako espezialisten lana da.</p>
+206	<h3>Ireki al daiteke metalezko itxiera bat kalterik gabe?</h3>
+207	<p>Gehienetan bai: arazoa sarrailan badago, ireki edo aldatu egiten da pertsiana ukitu gabe. Zailagoa da pertsiana okertuta badago edo gidetatik atera bada; kasu horretan, sarrailagileak baloratuko du tokian bertan konpon daitekeen. Informazio gehiago <a href="#no-damage">kalterik gabeko irekierari</a> buruzko atalean.</p>
+208	<h3>Garajeko sarraila aldatu behar al da giltzak galdu ondoren?</h3>
+209	<p>Giltzak zure garajea aurkitzeko aukera ematen duten agiri edo giltzatako batekin batera galdu badira, hobe da bonbina edo giltzarrapoa aldatzea. Azkarra eta merkea da, eta giltza zaharrek ez dute balioko. Informazio gehiago <a href="{url:svc-cambio}">sarrailak eta bonbinak aldatzeari</a> buruz.</p>
+211	<p>Helbidea, ate eta sarraila mota eta, ahal baduzu, argazki bat. Garajea aparkaleku komunitario batean badago edo trastelekua sotoan, esan nola sar daitekeen sarrailagilea. Izan eskura argazkidun agiri bat eta garajearen gaineko eskubidea egiaztatzen duen zerbait. Zer paperek balio duten, <a href="#documents">agiriei</a> buruzko atalean.</p>
+213	Garajeak irekitzeari buruzko ohiko galderak
+216	Zenbat balio du Bilbon garaje bat irekitzeak?
+217	<p>Prezioa ate eta sarraila motaren, matxura motaren, abisuaren orduaren eta helbidearen araberakoa da. Erreferentziazko prezioak <a href="#prices">prezio-taulan</a> dituzu. Operadoreak gutxi gorabeherako prezioa ematen dizu telefonoz, eta sarrailagileak behin betikoa, aztertu ondoren eta hasi aurretik.</p>
+219	<p>Iristeko denbora eremuaren, orduaren eta guardiako sarrailagileen lan-kargaren araberakoa da. Operadoreak gutxi gorabeherako denbora esaten dizu deitu bezain laster, eta sarrailagileak atzerapena badu abisatzen dizu. Azkarren Bilboko erdiguneko auzoetara iristen gara; Bilbo Handiko udalerrietara bidaia luzeagoa izan ohi da.</p>
+220	Ireki al daiteke garaje bat atea kaltetu gabe?
+221	<p>Normalean bai: arazoa sarrailan badago, sarrailagileak ireki edo aldatu egiten du atearen orria ukitu gabe. Sarraila hautsita badago, aldez aurretik azaltzen dizu zer egin daitekeen eta prezioa zurekin adosten du.</p>
+222	Zer egin atea urruneko aginteaz irekitzen ez bada?
+223	<p>Egiaztatu urruneko agintearen pila eta argindarra. Motorrak ez badu funtzionatzen, atea eskuz ireki daiteke larrialdiko desblokeoarekin. Hara iritsi ezin bazara, sarrailagileak atea irekitzen lagunduko dizu, eta motorraren konponketa automatismo-espezialistek egingo dute.</p>
+224	Irekitzen al dituzue metalezko itxierak eta pertsianak?
+225	<p>Bai, sarrailagileek garajeetako, lokaletako eta biltegietako metalezko itxieren (<span lang="es">cierres metálicos</span>) sarrailekin lan egiten dute. Ireki ondoren, behar izanez gero, sarraila konpondu edo aldatzen dute.</p>
+226	Ireki al daiteke trasteleku bat giltzarik gabe?
+227	<p>Bai. Sarrailagileak trastelekuaren sarraila irekiko du eta, behar izanez gero, berri bat jarriko du. Trastelekua zurea dela egiaztatu beharko duzu: eskritura (<span lang="es">escritura</span>), alokairu-kontratua edo erkidegoaren ordainagiria.</p>
+228	Nork irekitzen du aparkalekuko ate komunitarioa?
+229	<p>Ate komunitarioa jabeen erkidegoarena da; beraz, sarrailagileari deitu eta lana adostu behar duena eraikineko administratzailea edo erkidegoko presidentea da. Lana haien eskariz egin dezakegu.</p>
+230	Sarraila aldatu behar al da ireki ondoren?
+231	<p>Sarraila kalterik gabe ireki bada eta ondo badabil, ez. Giltzak galdu badituzu edo bonbinak kalteren bat badu, hobe da aldatzea, giltza zaharrek balio ez dezaten. Sarrailagileak pieza berriaren prezioa esaten dizu hasi aurretik.</p>
+232	Zer agiri behar dira garaje bat irekitzeko?
+233	<p>Argazkidun agiri bat eta garajearen edo trastelekuaren gaineko eskubidea egiaztatzen duen zerbait: eskritura (<span lang="es">escritura</span>), plazaren alokairu-kontratua edo erkidegoaren ordainagiria. Informazio gehiago <a href="#documents">agiriei</a> buruzko atalean.</p>
+239	Deitu sarrailagile bati zure garajea Bilbon irekitzeko
+240	Atea edo garajea ez da irekitzen? Jarri harremanetan Cerrajero24rekin prezioa jakiteko eta sarrailagile bat eskatzeko.
+244	Sarraila eta atea gordetzen saiatzen gara
+246	Garajea irekitzea
+247	Galdetu garaje bat irekitzearen prezioa
+248	Utzi zure zenbakia eta, ahal baduzu, erantsi atearen edo sarrailaren argazki bat. Sarrailagileak deituko dizu gutxi gorabeherako prezio bat emateko.
+249	Atearen edo sarrailaren argazkia
+250	Atearen sarraila trabatu da
+251	Pertsiana ez da irekitzen
+253	Urruneko agintea ez dabil
+254	Giltzarrapoa ez da irekitzen
+255	Trastelekua itxita dago
+257	Garajeak eta ateak irekitzea Bilbon 24/7 — Cerrajero24
+258	Garajearen, pertsianaren edo trastelekuaren sarraila trabatu da? Garaje-ateak, metalezko itxierak eta giltzarrapoak irekitzen ditugu Bilbon. Prezioa hasi aurretik.
+259	Garajearen edo pertsianaren sarraila trabatu da? Garajeak eta ateak Bilbon irekitzen ditugu, prezioa hasi aurretik adostuta.
+260	Garajeak eta ateak irekitzea Bilbon
+261	Garajeen, ateen eta pertsianen premiazko irekiera
+262	Garaje-ateak, metalezko itxierak (cierres metálicos), langak, trastelekuak eta giltzarrapoak irekitzea giltzak galdu direnean edo mekanismoa trabatu denean. Bilbo eta Bilbo Handia.

@@ -1,0 +1,178 @@
+3	Bonbina, mekanismoa edo atearen burdineria aldatzea.
+4	Sarrailak eta bonbinak aldatzea <span class="accent">Bilbon</span>
+5	Giltzak galdu dituzu, etxebizitza&nbsp;berri batera aldatu zara edo atea hobeto babestu nahi duzu? Bonbina edo sarraila osoa aldatzen dugu bisita&nbsp;bakarrean. Zure atearen eta&nbsp;aurrekontuaren araberako bonbina aukeratzen dugu: arruntetik&nbsp;segurtasun handikora.
+7	Aldaketa bisita bakarrean
+8	Bonbina bertan neurtzen dugu
+9	Lapurreten aurkako babesa
+10	Bumping-aren aurkako bonbinak
+15	Noiz aldatu behar da sarraila edo bonbina?
+16	Bonbina aldatzea komeni da sarraila hausten denean ez ezik, giltzak nork izan ditzakeen ziur ez zaudenean ere.
+18	Batez ere giltzekin batera zure helbidea duten agiriak galdu badira.
+19	Etxebizitza berri batera aldatu zara
+20	Ez dakizu aurreko bizilagunek giltzen zenbat kopia gorde dituzten.
+21	Lehengo bizilagunek giltzak dituzte
+22	Maizterra joan da edo langile batek enpresa utzi du, eta ez dituzte giltzak itzuli.
+23	Bonbina higatuta edo hautsita dago
+24	Giltzak nekez biratzen du, hutsean biratzen du edo trabatu egiten da.
+25	Segurtasun handiagoa nahi duzu
+26	Bonbina arrunta ahula da bumping-aren eta zulagailuaren aurrean.
+27	Lapurreta-saiakera baten ondoren
+28	Sarraila kaltetuta dago edo indarkeria-markak ditu.
+29	Ez dakizu zer bonbina aukeratu? Deitu sarrailagileari.
+30	Kontatu nolakoa den zure atea eta sarraila, eta aukera egokia gomendatuko dizugu.
+33	Zenbat balio du sarraila bat aldatzeak <span class="accent">Bilbon</span>?
+34	Prezioak sarrailagilearen lana eta bonbina edo sarraila berriarena hartzen ditu barne. Bonbinek segurtasun-maila desberdinak dituzte; horregatik, sarrailagileak hainbat aukera eskaintzen dizkizu.
+35	Sarrailak eta bonbinak aldatzearen prezioak Bilbon
+38	Bonbina arrunta aldatzea
+39	Bumping-aren aurkako bonbina jartzea
+40	Segurtasun handiko bonbina jartzea
+41	Gorja-sarraila aldatzea
+42	Puntu anitzeko sarraila aldatzea
+44	Gaueko premiazko aldaketa
+48	Bonbinaren prezioa
+49	Bonbina edo sarraila berriaren prezioa modeloaren eta segurtasun-mailaren araberakoa da, eta aparte ordaintzen da. Sarrailagileak aukerak erakusten dizkizu lana hasi aurretik.
+55	Sarrailagileak bonbina edo sarraila aukeratu ondoren ematen du, lana hasi aurretik.
+56	Sarraila aldatzearen prezioa galdetu
+57	Bidali sarrailaren argazki bat, eta aukerak eta prezioa emango dizkizugu.
+59	Zerk osatzen du sarraila aldatzearen prezioa?
+60	Lau faktorek zehazten dute prezioa. Bidali sarrailaren argazki bat kanpotik eta atearen ertzetik: sarrailagileak jakingo du zer sarraila den eta aukerak proposatuko dizkizu abiatu aurretik.
+62	Bonbinadun, gorja-sarraila edo puntu anitzeko mekanismoa.
+63	Bonbinaren neurria
+64	Bonbinaren luzera atearen eta ezkutuen lodieraren araberakoa da.
+65	Segurtasun-maila
+66	Bonbina arrunta, bumping-aren aurkakoa edo segurtasun handikoa.
+67	Sarraila kopurua
+68	Bonbina bat edo batzuk, giltza bakarrekoak ere bai.
+70	Sarrailagileak bonbina edo sarraila aukeratu ondoren eta&nbsp;lana hasi aurretik ematen du: zure baimenik gabe ez&nbsp;da lanik hasten.
+71	Bonbinarekin batera segurtasun-ezkutua, heldulekua edo kontraplaka ere aldatu behar badira, haien prezioa aparte adosten da, lana hasi aurretik.
+73	Sarraila aldatu behar duzu? Deitu sarrailagileari
+74	Utzi zure izena eta telefono-zenbakia: operadoreak minutu&nbsp;gutxiren buruan deituko dizu, zer sarraila duzun galdetuko dizu eta&nbsp;bisitarako ordu egokia adostuko du zurekin. Giltzak galdu ondorengo premiazko aldaketak egunean 24 orduz egiten ditugu Bilbon eta&nbsp;Bilbo Handian.
+75	Bonbinak eta sarrailak
+76	Zer aldatzen dugun
+77	Bonbinak eta sarrailak atearen eta behar duzun segurtasun-mailaren arabera aukeratzen ditugu. Aldatu aurretik, sarrailagileak bonbina neurtzen du eta aukerak erakusten dizkizu.
+78	Bonbina arruntak <span lang="es">bombín</span>
+79	Oinarrizko aldaketa, higaduragatik edo giltzak galtzeagatik.
+80	Bumping-aren aurkako bonbinak <span lang="es">antibumping</span>
+81	Bumping-giltzarekin irekitzearen aurkako babesa; etxebizitzetako lapurretetan gehien erabiltzen den metodoetako bat da.
+82	Segurtasun handiko bonbinak
+83	Zulatzearen, haustearen eta ganbiaren aurkakoak, jabetza-txartela duten giltzekin.
+85	Mekanismoa aldatzea ate zaharretan eta blindatuetan.
+87	Mekanismoa aldatzea ate metaliko eta blindatuetan.
+88	Pertsiana, garaje eta postontzien sarrailak
+89	Metalezko itxieren, garaje-ateen eta postontzien (<span lang="es">buzones</span>) bonbinak.
+90	Bonbina bertan neurtzen dugu
+91	Bonbina aukeratzea
+92	Nola aukeratu zure atearentzako bonbina berria
+93	Bonbina on batek neurri egokia izan behar du eta irekitzeko metodo ohikoenetatik babestu behar du. Sarrailagileak zure atearentzat eta aurrekontuarentzat egokiena aukeratzen lagunduko dizu.
+94	Neurria, bertan
+95	<p>Bonbina erdiko finkatze-torlojutik mutur bakoitzeraino neurtzen da: adibidez, 30×30 edo 30×40 mm. Luzeegia den bonbina atetik ateratzen da, eta errazago hausten da.</p>
+96	Bumping-aren eta zulatzearen aurkako babesa
+97	<p>Bonbina arruntak ahulak dira bumping-giltzen eta zulagailuaren aurrean. Segurtasun-bonbinak (<span lang="es">antibumping</span>, <span lang="es">antitaladro</span>) metodo horien aurka indartuta daude.</p>
+98	Haustearen eta erauzketaren aurkako babesa
+99	<p>Haustearen aurkako bonbina batek (<span lang="es">antirrotura</span>) eta segurtasun-ezkutu batek (<span lang="es">escudo</span>) eragozten dute bonbina hautsi eta atetik ateratzea.</p>
+100	Jabetza-txarteldun giltzak
+101	<p>Segurtasun handiko bonbina baten giltzaren kopia jabetza-txartela (<span lang="es">tarjeta de propiedad</span>) erakutsita bakarrik egiten da. Horrela, inork ezin du kopiarik egin zuk jakin gabe.</p>
+102	Giltza bakarra hainbat aterentzat
+103	<p>Hainbat sarraila aldatzen badituzu —sarrera-atea, trastelekua, garajea—, giltza bakarreko bonbinak aukera daitezke.</p>
+105	Nola eskatu sarraila baten aldaketa Bilbon?
+107	Deitu edo utzi eskaera bat. Bidali sarrailaren argazki bat: horrela errazagoa da aukerak proposatzea.
+108	Aukerak eta prezioa
+109	Operadoreak lanaren eta maila desberdinetako bonbinen gutxi gorabeherako prezioa ematen dizu eta bisitaren ordua adosten du.
+110	Bonbina edo sarraila aldatzea
+111	Sarrailagileak bonbina neurtzen du, zuk modeloa aukeratzen duzu, eta bisita berean jartzen du.
+113	Sarrailak bi aldeetatik funtzionatzen duela egiaztatzen dugu eta giltza-sorta berria ematen dizugu.
+114	Giltzak oraintxe galdu dituzu?
+115	Bonbinak premiaz aldatzen ditugu egunean 24 orduz, gauez eta jaiegunetan ere bai.
+119	Zergatik uzten duten sarrailen aldaketa <span class="accent">Cerrajero24</span>-ren esku
+120	Aldaketa bisita bakarrean
+121	Sarrailagileak neurri ohikoenetako bonbinak eramaten ditu, une berean aldatzeko.
+122	Segurtasun-mailaren arabera aukeratzeko
+123	Hainbat aukera erakusten dizkizugu, arruntetik segurtasun handikora.
+125	Lanaren eta bonbinaren prezioa lana hasi aurretik esaten dizugu.
+126	Premiazko aldaketa 24/7
+127	Giltzak galdu ondoren edo lapurreta-saiakera baten ondoren, egunez zein gauez.
+129	Bonbinadun, gorja-sarrailak eta puntu anitzekoak, etxebizitza eta bulegoetako ateetan.
+130	Bermea
+131	Lanaren eta jarritako bonbinen bermea. Baldintzak idatziz jasotzen dira.
+133	Bezeroen iritziak sarrailen aldaketari buruz Bilbon
+135	Bezeroen iritziak sarrailen aldaketari buruz
+136	Joseba
+137	Etxez aldatu ondoren · Deustu
+138	Etxebizitza bat erosi genuen eta berehala bonbina aldatzea erabaki genuen: ez genekien nork zituen giltzak. Sarrailagileak hiru bonbina erakutsi zizkigun eta aldea azaldu zigun. Bumping-aren aurkakoa aukeratu genuen, eta ordu erdian jarri zuen.
+139	Verónica
+140	Giltzak galdu nituen · Abando
+141	Giltzak eta agiriak zeramatzan poltsa galdu nuen. Arratsaldean deitu nuen, sarrailagilea etorri zen, atea ireki zuen eta bonbina berri bat jarri zuen une berean. Lasai lo egin nuen.
+142	Luis
+143	Giltza bakarreko bonbinak · Getxo
+144	Sarrera-atearen, trastelekuaren eta garajearen sarrailak aldatu genituen. Sarrailagileak giltza bakarreko bonbinak jarri zizkigun: orain, giltza-sorta baten ordez, giltza bakarra. Oso erosoa.
+145	Ksenia
+146	Alokairuko etxebizitza · Santutxu
+147	Jabeak bonbina aldatzen utzi zidan sartzean. Sarrailagileak bonbina berria jarri zuen eta zaharra gordetzeko gomendatu zidan, joatean berriro jartzeko. Dena argi, eta prezioa aldez aurretik.
+148	Gaspar
+149	Lapurreta-saiakera baten ondoren · Barakaldo
+150	Atea indarrez irekitzen saiatu ziren, eta bonbina kaltetuta geratu zen. Sarrailagileak jabetza-txarteldun segurtasun handiko bonbina eta segurtasun-ezkutu bat jarri zituen, eta nola funtzionatzen duen zehatz azaldu zigun.
+153	Zer agiri behar dira sarraila aldatzeko?
+154	Sarraila aldatzeak etxebizitzarako sarbidea ematen du; beraz, sarrailagileak ziurtatu behar du ate horretako sarraila aldatzeko eskubidea duzula.
+162	Jabearen baimena
+163	Jabea bazara
+164	<p>Nahikoa da argazkidun agiri bat —NANa, AIZ edo pasaportea— eta helbidearekin lotzen zaituen zerbait: eskritura (<span lang="es">escritura</span>), erroldatze-ziurtagiria (<span lang="es">empadronamiento</span>) edo zure izenean dagoen hornidura-faktura bat.</p>
+165	Alokairuan bizi bazara
+166	<p>Maizterrak bonbina alda dezake, baina hobe da jabeari aldez aurretik abisatzea. Gorde bonbina zaharra: joatean berriro jar dezakezu edo berriaren giltzak jabeari eman.</p>
+167	Sarraila bulego batean aldatzen bada
+168	<p>Jabearen edo arduradunaren baimena beharko da. Enpresaren izenean faktura behar baduzu, eman datuak operadoreari.</p>
+169	Atea itxita badago eta giltzarik ez baduzu
+170	<p>Sarrailagileak lehenik atea irekitzen du, gero agiriak egiaztatzen ditu eta bonbina aldatzen du. Informazio gehiago <a href="{url:svc-puertas}">etxebizitzen premiazko irekierari</a> buruz.</p>
+172	<p>Etxebizitzaren gaineko eskubidea ez agiriekin ez beste modu batean egiaztatu ezin bada, sarrailagileak sarraila ez aldatzea erabaki dezake. Horrek zu ere babesten zaitu: ezezagun batek ezin izango du zure atearen sarraila aldatu.</p>
+174	Sarrailak aldatzea <span class="accent">Bilboko</span> auzo guztietan
+175	Sarrailak eta bonbinak aldatzen ditugu etxebizitza, etxe, bulego eta dendetan, Bilboko auzoetan eta Bizkaiko inguruko udalerrietan.
+187	Sarrailak aldatzea Bilbo inguruan
+198	Nola jakin sarraila edo bonbina aldatzeko garaia iritsi den?
+199	Bonbina da atearen atalik ahulena: hortik saiatzen dira gehienetan sarraila indarrez irekitzen, eta hori da lehenik higatzen dena. Noiz komeni den aldatzea eta berria nola aukeratu kontatzen dizugu.
+200	<h3>Zer desberdintasun dago bonbina aldatzearen eta sarraila aldatzearen artean?</h3>
+201	<p>Bonbina edo zilindroa (<span lang="es">bombín</span>) sarrailaren atal desmuntagarria da, giltza sartzen den lekua. Sarraila osoa kendu gabe aldatzen da: azkarragoa eta merkeagoa da. Sarraila osoa aldatzen da kaxa edo morroiloak hautsi badira, edo beste sistema batera pasatu nahi baduzu, adibidez, puntu anitzeko batera.</p>
+202	<h3>Noiz da ezinbestekoa bonbina aldatzea?</h3>
+203	<p>Giltzak galdu ondoren, haiekin batera zure helbidea galdu bada; erosi edo alokatutako etxebizitza batera aldatzean; lehengo bizilagunek, langileek edo maizterrek giltzak dituztenean; lapurreta-saiakera baten ondoren. Kasu horietan guztietan, bonbina berriak giltza zaharrak alferrikako bihurtzen ditu.</p>
+204	<p>Giltzak galdu badituzu eta atea itxita badago, sarrailagileak lehenik irekitzen du eta gero bonbina berria jartzen du une berean. Informazio gehiago <a href="{url:svc-puertas}">etxebizitzen premiazko irekierari</a> buruz.</p>
+205	<h3>Zer da bumping-a eta nola babestu?</h3>
+206	<p>Bumping-a bonbina arruntak berariaz prestatutako giltza batekin irekitzeko metodoa da. Ia ez du markarik uzten, eta horregatik da arriskutsua. Bumping-aren aurkako bonbinak (<span lang="es">antibumping</span>) metodo horrek haietan funtziona ez dezan diseinatuta daude.</p>
+207	<p>Aukeratzean, begiratu zulatzearen (<span lang="es">antitaladro</span>), erauzketaren (<span lang="es">antiextracción</span>) eta haustearen (<span lang="es">antirrotura</span>) aurkako babesari ere. Informazio gehiago <a href="#choose">bonbina aukeratzeari buruzko atalean</a>.</p>
+208	<h3>Nola neurtzen da bonbina aldatzeko?</h3>
+209	<p>Bonbina atearen ertzeko erdiko finkatze-torlojutik mutur bakoitzeraino neurtzen da. Neurri ohikoenak 30×30, 30×35 eta 30×40 mm dira. Sarrailagileak bertan neurtzen du eta egokiena aukeratzen du: bonbinak ez du atetik edo ezkututik nabarmen atera behar.</p>
+210	<h3>Alokairuko etxebizitza batean sarraila alda daiteke?</h3>
+211	<p>Bai, baina hobe da jabeari abisatzea. Gomendagarria da bonbina zaharra gordetzea eta, joatean, berriro jartzea edo berriaren giltzak jabeari ematea. Sarraila higaduragatik hausten bada, konponketa jabearekin adosten da normalean. Informazio gehiago <a href="#documents">agiriei buruzko atalean</a>.</p>
+213	Sarrailen aldaketari buruzko ohiko galderak
+216	Zenbat balio du bonbina aldatzeak Bilbon?
+217	<p>Prezioak sarrailagilearen lana eta bonbina berria hartzen ditu barne; azken horren prezioa segurtasun-mailaren araberakoa da. Gutxi gorabeherako prezioak <a href="#prices">prezio-taulan</a> dituzu. Sarrailagileak aukerak erakusten dizkizu eta azken prezioa ematen dizu lana hasi aurretik.</p>
+218	Zenbat denbora behar da bonbina aldatzeko?
+219	<p>Normalean gutxi: bonbina aldatzea sarrailagilearen lanik azkarrenetako bat da. Denbora gehiago behar da sarraila osoa, ezkutua edo hainbat bonbina aldatu behar badira.</p>
+220	Zer bonbina jartzea komeni da?
+221	<p>Etxebizitza baterako, gutxienez bumping-aren aurkako bonbina gomendatzen dugu. Atea kalera ematen badu edo eraikinean lapurretak izan badira, zulatzearen eta haustearen aurkako segurtasun handiko bonbina, jabetza-txartelarekin. Sarrailagileak aukerak bertan erakutsiko dizkizu.</p>
+222	Giltzak galdu ondoren sarraila aldatu behar da?
+223	<p>Bai, giltzekin batera zure helbidea galdu bada: agiriak, gutunak, etxebizitzaren zenbakia duen giltzatako bat. Bonbina aldatzea azkarra eta merkea da, eta giltza zaharrek ez dute gehiago balioko.</p>
+224	Giltza bakarra izan daiteke hainbat sarrailatarako?
+225	<p>Bai, giltza berarekin irekitzen diren bonbinak aukera daitezke: adibidez, sarrera-aterako, trastelekurako eta garajerako. Modeloaren araberakoa da; sarrailagileak orientatuko zaitu.</p>
+226	Zer da jabetza-txartela?
+227	<p>Segurtasun handiko bonbinekin batera datorren txartela da (<span lang="es">tarjeta de propiedad</span>). Hura gabe ezin da giltzaren kopiarik egin; beraz, inork ezin du kopiarik egin zuk jakin gabe.</p>
+228	Alokairuko etxebizitza batean sarraila alda daiteke?
+229	<p>Bai, baina hobe da jabeari abisatzea eta bonbina zaharra gordetzea. Informazio gehiago <a href="#documents">agiriei buruzko atalean</a>.</p>
+230	Gauez aldatzen dituzue sarrailak?
+231	<p>Bai, giltzak galdu ondorengo edo lapurreta-saiakera ondorengo premiazko aldaketak egunean 24 orduz egiten ditugu. Gauez eta jaiegunetan gainkostu bat aplikatzen da: operadoreak zenbatekoa esango dizu deitzean.</p>
+232	Bermerik ematen duzue sarraila berrian?
+233	<p>Bai, lanean eta jarritako bonbina eta sarrailetan. Baldintzak eta epea lanaren ondoren ematen dizugun agirian jasotzen dira.</p>
+239	Eskatu sarraila baten aldaketa Bilbon
+240	Bonbina edo sarraila aldatu behar duzu? Jarri harremanetan Cerrajero24rekin bonbina aukeratzeko eta prezioa jakiteko.
+244	Aldaketa bisita bakarrean
+246	Sarrailaren aldaketa
+247	Sarraila aldatzearen prezioa galdetu
+248	Utzi zure zenbakia eta, ahal baduzu, erantsi sarrailaren argazki bat kanpotik eta atearen ertzetik. Sarrailagileak deituko dizu, aukerak proposatuko dizkizu eta prezioa emango dizu.
+251	Etxebizitza berri batera aldatu naiz
+252	Bonbina higatuta edo hautsita dago
+253	Segurtasun handiagoa nahi dut
+254	Lapurreta-saiakera baten ondoren
+255	Hainbat sarraila aldatzea
+257	Sarrailak eta bonbinak aldatzea Bilbon — Cerrajero24
+258	Giltzak galdu dituzu edo etxez aldatu zara? Zure atearen bonbina edo sarraila aldatzen dugu Bilbon bisita bakarrean, baita bumping-aren aurkako bonbinak ere. Prezioa lana hasi aurretik.
+259	Zure atearen bonbina edo sarraila aldatzen dugu Bilbon bisita bakarrean. Bumping-aren aurkako bonbinak, prezioa lana hasi aurretik.
+260	Sarrailak eta bonbinak aldatzea Bilbon
+261	Ate-sarrailak eta bonbinak aldatzea
+262	Sarrera-ate, barruko ate eta bulegoetako bonbinak (bombines) eta sarrailak aldatzea: giltzak galtzeagatik, etxez aldatzeagatik, mekanismoaren higaduragatik edo segurtasuna hobetzeko. Bilbo eta Bilbo Handia.

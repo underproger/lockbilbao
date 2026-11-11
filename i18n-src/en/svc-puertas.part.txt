@@ -1,0 +1,225 @@
+1	Flat opening
+3	Front, metal, armoured and interior doors.
+4	Most popular service
+6	Lost keys
+7	Key inside
+9	Front, metal, armoured and interior doors. We open them when the door has slammed shut, the keys are lost or the lock is jammed.
+10	Emergency flat opening <span class="accent">in&nbsp;Bilbao</span>
+11	Door slammed shut, keys lost or lock jammed? We’ll help you get back into&nbsp;your flat. We work around the clock in&nbsp;Bilbao and&nbsp;nearby areas. Whenever possible, we open doors without damaging the lock or&nbsp;the door leaf.
+14	At night, at&nbsp;weekends and&nbsp;on holidays
+15	Careful door opening
+16	We try to save the lock first
+17	Price agreed before&nbsp;work begins
+18	Quoted in advance, no surprises
+19	Leave your number — we’ll call you back in a couple of minutes
+20	When you need help
+21	When do you need emergency flat door opening?
+22	Our locksmiths help when you can’t open your front door yourself or can’t use your key.
+23	Front door slammed shut
+24	The door closed and the keys are still inside the flat.
+25	Lost your flat keys
+26	You can’t get home and there’s no spare set.
+27	Door lock jammed
+28	The key won’t turn or the locking mechanism has stopped working.
+29	Key broken in the lock
+30	Part of the key is stuck in the cylinder and stops the door from opening.
+31	Key left on the inside
+32	You have a spare key but can’t open the door from outside.
+33	Armoured door won’t open
+34	A fault in the locking mechanism or security system.
+35	Not sure what’s wrong? Call a locksmith.
+36	Describe what’s happening with the door — we’ll tell you what to do until we arrive.
+39	How much does it cost to open a flat door in&nbsp;<span class="accent">Bilbao</span>?
+40	The price depends on the type of door and lock, how complex the fault is and when you call. We confirm an approximate price before work begins.
+41	Emergency flat opening prices in Bilbao
+44	Opening a door that has slammed shut
+45	Flat opening after losing keys
+46	Opening a door with the key inside
+47	Opening a jammed lock
+48	Armoured door opening
+50	Urgent night-time flat opening
+52	Call-out
+53	The dispatcher tells you the call-out fee within Bilbao and Greater Bilbao when you call, before the locksmith sets off.
+54	Night and holiday rate
+55	Applies at night from 22:00 to 08:00, at weekends and on public holidays. We tell you the surcharge in advance.
+56	IVA (VAT)
+57	[State whether IVA is included in the prices in the table.]
+58	Cylinder and parts
+59	If a new cylinder or other parts are needed, they are charged separately — and only with your consent.
+60	Final price
+61	The locksmith gives it after inspecting the door and lock — before work begins.
+62	Ask for a flat opening price
+63	Describe the situation and we’ll give you an approximate price.
+64	What the price depends on
+65	How is the price of opening a door lock calculated?
+66	Four factors determine the price. Tell the dispatcher or send a photo of the lock and you’ll know the approximate cost before the locksmith sets off.
+67	Type of front door
+68	Wooden, metal, armoured or reinforced door.
+69	Type and condition of the lock
+70	Cylinder, lever, multi-point or electronic mechanism.
+71	Type of fault
+72	Door slammed shut, lost key, jammed or broken lock.
+73	Time and address of the call-out
+74	Day or night call-out, Bilbao district or surrounding municipality.
+75	Final price
+76	The locksmith gives it after inspection and&nbsp;before starting — no work begins&nbsp;without your consent.
+77	If extra work or parts are needed after opening, such as a new cylinder, we agree their cost separately — before starting.
+78	Call a locksmith
+79	Can’t get into&nbsp;your flat? Call a locksmith
+80	Leave your name and phone number — the dispatcher will call you back within&nbsp;minutes, confirm the address and situation and&nbsp;give you an approximate price. We work around the clock in&nbsp;Bilbao and&nbsp;Greater Bilbao.
+82	Opening all common types of flat front doors
+83	We work with all kinds of front doors and locks. Before opening, the specialist assesses the mechanism and chooses the right method.
+84	Metal door opening
+85	Metal front doors with cylinder and multi-point locks.
+86	Armoured door opening <span lang="es">puertas acorazadas</span>
+87	Reinforced doors with extra protection and complex locking mechanisms.
+88	Wooden door opening
+89	Front doors of older flats and residential buildings, including in Casco Viejo and Abando.
+90	Opening doors with cylinder locks <span lang="es">bombín</span>
+91	Standard and high-security cylinder mechanisms.
+92	Opening doors with lever locks <span lang="es">de gorjas</span>
+93	Locking systems from various manufacturers and security ratings.
+94	Electronic lock opening
+95	Doors with electronic and smart access systems.
+96	First, methods that keep the lock intact
+98	Emergency flat opening without damaging the door or lock
+99	Our aim is to get you back into your flat and, wherever possible, keep the front door and lock intact.
+100	When the lock keeps working
+101	<p>If the door has slammed shut on the latch and the cylinder is in good condition, it can almost always be opened without breaking anything. After opening, the lock keeps working with your keys.</p>
+102	Why everything depends on the door design
+103	<p>Armoured leaves, multi-point mechanisms and high-security cylinders are designed to resist opening. The more complex the design, the more time and specialist tools the locksmith needs.</p>
+104	When the cylinder or lock may need replacing
+105	<p>If the cylinder is broken, the key has snapped deep inside, the mechanism is worn or the door is locked with a key left on the other side, it is sometimes quicker and more reliable to replace the cylinder. The locksmith fits a new one during the same visit.</p>
+106	Why we agree any possible damage in advance
+107	<p>The locksmith does not drill or replace anything without your consent: first he explains why the mechanism cannot be saved, which method he will use and how much it will cost.</p>
+108	What we check after opening
+109	<p>How the door opens and closes, whether the key turns from both sides and whether the latch and bolts work. If anything sticks, we offer to repair it straight away while the locksmith is there.</p>
+111	How to call a locksmith to open a flat in&nbsp;Bilbao?
+112	Request
+113	Call us or send a request. Tell us the address and why the door won’t open.
+114	Advice and price
+115	The specialist checks the type of lock, works out an approximate price and agrees the call-out with you.
+116	Door opening
+117	The locksmith arrives, checks your right to access the flat and carries out the agreed work.
+118	Checking the result
+119	We check that the door opens and closes and that the mechanism works. If needed, we suggest repairing or replacing the lock.
+120	Door won’t open right now?
+121	The on-call locksmith is available around the clock — including at night and on holidays.
+122	Call a locksmith now
+123	Bilbao · Biscay
+124	Why Cerrajero24
+125	The advantages of our flat opening service in&nbsp;<span class="accent">Bilbao</span>
+126	Help around the clock
+127	We take calls 24/7, including weekends and public holidays.
+128	Fast call-out across Bilbao
+129	We cover every district of the city. We agree the exact arrival time with you when you call.
+130	Careful handling of your door
+131	Whenever possible, we use methods that keep the door leaf and lock intact.
+132	Transparent pricing
+133	We explain the cost of the service and any possible extra costs in advance.
+134	Professional locksmiths
+135	Experience with all kinds of door mechanisms and designs.
+136	Guarantee on completed work
+137	Guarantee on repairs, installations and parts. The terms are set out in the document we give you after the job.
+139	Customer reviews of emergency flat opening in&nbsp;Bilbao
+140	Original reviews on Google
+141	Customer reviews of flat opening
+142	Svetlana
+143	Door slammed shut · Deusto
+144	I popped over to my neighbour’s for a minute and the door slammed shut, with my keys and phone inside. The dispatcher gave me the price straight away, the locksmith arrived quickly, checked my documents and opened the door without damaging the lock. Everything went calmly, with no fuss.
+145	Andrés
+146	Key left inside · Abando
+147	We couldn’t get home at night: the key was in the lock on the inside and nobody was home. The locksmith came, explained how he would open the door and did everything carefully — the door and cylinder were left intact. The price with the night surcharge matched what we were quoted on the phone.
+148	Natalia
+149	Jammed lock · Indautxu
+150	The key stopped turning in the lock, and the door was double-locked. The locksmith opened the door, dismantled the mechanism, cleaned and adjusted it — the lock works smoothly again and nothing had to be replaced. We paid less than we expected.
+151	Dmitri
+152	Broken key · Santutxu
+153	The key broke inside the cylinder, with half of it stuck. They got the broken piece out in a few minutes and then fitted a new cylinder on the spot, with a new set of keys. The locksmith told me how to avoid it happening again.
+154	Elena
+155	Armoured door · Getxo
+156	Our armoured door wouldn’t open — the multi-point lock had jammed. The locksmith explained in advance how he would open it and how much it would cost, and did everything carefully, without leaving marks on the door. Then he adjusted the bolts, and the door now closes more easily than before.
+157	See all reviews
+158	Legality and safety
+159	What documents are needed for emergency flat opening?
+160	Before starting work, the locksmith must make sure the customer has the right to access the property.
+161	Accepted documents:
+162	DNI
+163	NIE
+164	Passport
+165	Empadronamiento
+166	Escritura
+167	Rental contract
+168	Utility bill
+169	How to prove you live in or own the property
+170	<p>You need a photo ID — DNI, NIE or passport — and a document linking you to the address: a certificate of registration (<span lang="es">certificado de empadronamiento</span>), an <span lang="es">escritura</span> (title deed), a rental contract or a utility bill in your name.</p>
+171	What to do if your documents are inside the flat
+172	<p>Let the dispatcher know in advance. The locksmith will open the door and check your documents straight after opening, before finishing the job. In doubtful situations, the check takes place in the presence of the Policía Municipal or the Ertzaintza.</p>
+173	Can a tenant request a door opening?
+174	<p>Yes. A tenant just needs a photo ID and the rental contract (<span lang="es">contrato de alquiler</span>) or another document with their name and address. If the lock of a rented flat needs replacing, it is best to agree this with the owner.</p>
+175	Why a locksmith may refuse the job
+176	<p>If your right of access cannot be confirmed with documents or in any other way, the locksmith may decline to open the door. This protects you too: a stranger cannot call a locksmith to your flat.</p>
+177	How work that may cause damage is agreed
+178	<p>If the door cannot be opened without damage, the locksmith explains why and tells you the cost of replacing the cylinder or lock. Work only begins once you agree.</p>
+180	Emergency flat opening in every district of <span class="accent">Bilbao</span>
+181	We come out to open flat front doors in Bilbao’s districts and nearby towns in Biscay.
+193	Flat opening in the Bilbao suburbs
+203	Good to know
+204	What to do if you can’t open your flat’s front door?
+205	When the door won’t open, the main thing is not to damage the lock or the door leaf. Here’s how to assess the situation before the locksmith arrives, when the lock can be saved and what to have ready.
+206	<h3>What to do if the door has slammed shut with the keys inside?</h3>
+207	<p>First check whether there is another way in: a spare set with relatives, neighbours or the building manager. Don’t try to prise the door open with a knife, a plastic card or a screwdriver — it’s easy to damage the door leaf, the seal and the latch, and the call-out will cost more.</p>
+208	<p>Call a locksmith and tell them whether the door is just on the latch or locked with a key — the opening method depends on it. See the <a href="#prices">price table</a> for guide prices.</p>
+209	<h3>Why won’t the key turn in the door lock?</h3>
+210	<p>The most common causes are a worn cylinder, dirt in the mechanism, a bent key or a sagging door that makes the bolt catch on the strike plate. Sometimes the lock jams after someone tries to open it with the wrong key.</p>
+211	<p>Don’t use force: a key broken in the cylinder will make opening harder. The locksmith will find the exact cause during diagnosis. If the cause is wear, a <a href="{url:svc-reparacion}">door lock repair</a> will help.</p>
+212	<h3>Can a flat be opened without replacing the lock?</h3>
+213	<p>Yes, if the mechanism is sound and the door has slammed shut on the latch or is locked with a standard cylinder. Replacement is needed when the cylinder is broken or worn, a piece of key is stuck inside or the lock cannot be opened any other way.</p>
+214	<p>In that case, the locksmith explains in advance why the mechanism cannot be saved and tells you the price of a new cylinder. Find out more in the <a href="#no-damage">opening without damage</a> section.</p>
+215	<h3>Should you change the lock after losing your keys?</h3>
+216	<p>Getting back into your flat and keeping it secure are two different things. If your keys were lost together with documents or a key ring showing your address, a stranger could use them.</p>
+217	<p>In that case it’s best to replace the cylinder straight away: it’s quicker and cheaper than replacing the whole lock, and the old keys will no longer work. Find out more about <a href="{url:svc-cambio}">lock cylinder replacement</a>.</p>
+218	<h3>What should you have ready before the locksmith arrives?</h3>
+219	<p>The exact address with the floor and entry code, a short description of the problem and, if possible, a photo of the lock from outside — it makes it easier to estimate the price in advance. Have a document proving your right of access ready: DNI, NIE or passport and a document with your address. If your documents are inside, let the dispatcher know — the locksmith will check them straight after opening. See which documents are accepted in the <a href="#documents">documents</a> section.</p>
+221	Frequently asked questions about emergency flat opening
+224	How much does emergency flat opening cost in Bilbao?
+225	<p>The price depends on the type of door and lock, the reason the door won’t open, the time of the call-out and the address. You’ll find guide prices for the most common situations in the <a href="#prices">price table</a>. The dispatcher gives you an approximate price by phone, and the locksmith gives the final price after inspecting the lock and before starting. No work begins without your consent.</p>
+226	How quickly will a locksmith arrive to open the door?
+227	<p>Arrival time depends on the area, the time of day and how busy the on-call locksmiths are. The dispatcher gives you an approximate time as soon as you call and lets you know if the locksmith is delayed. We reach central Bilbao districts fastest — Abando, Indautxu, Casco Viejo; travel to Greater Bilbao municipalities usually takes longer.</p>
+228	Can the front door be opened without damaging the lock?
+229	<p>Usually yes — especially if the door has slammed shut on the latch and the cylinder is in good condition. With armoured doors and high-security cylinders it is sometimes impossible to save the mechanism. We aim to open the door without damage, and if that is not possible, we explain why in advance and agree a replacement with you. Find out more in the <a href="#no-damage">opening without damage</a> section.</p>
+230	What to do if your keys are inside the flat?
+231	<p>Don’t try to force the door or the lock: you could damage the door leaf and make opening harder. Call a locksmith and say whether the door is locked with a key or has just slammed shut, and whether the key is in the lock on the inside. Have a document proving your address ready — if it is inside, the locksmith will check it straight after opening.</p>
+232	Do you open flats at night?
+233	<p>Yes, the service runs around the clock, including weekends and public holidays. At night from 22:00 to 08:00 and on public holidays a surcharge applies — the dispatcher tells you the amount when you call, before the locksmith sets off. At night it is faster to call than to send a request through the website. If someone inside the flat is in danger or there is a fire risk, call the emergency services on 112 first.</p>
+234	How long does it take to open a front door?
+235	<p>The quickest door to open is one that has simply slammed shut on the latch, with a standard cylinder in good condition. An armoured door, a multi-point lock or a piece of key stuck in the cylinder takes longer. The locksmith will be more precise after inspecting it. If the cylinder needs replacing, add the time to fit a new one — usually during the same visit.</p>
+236	Can an armoured door be opened?
+237	<p>Yes, our locksmiths work with armoured doors (<span lang="es">puertas acorazadas</span>) and multi-point locks. These doors are designed to resist opening, so the work is more complex and the mechanism cannot always be saved. Before starting, the locksmith assesses the door and agrees the opening method and price with you. Find out more about door types in the <a href="#types">doors and locks</a> section.</p>
+239	<p>Don’t try to get the broken piece out with a hairpin, glue or another key — it’s easy to push it further in and damage the cylinder. If the door is open, don’t close it. The locksmith will extract the piece with a special tool, check the mechanism and, if the cylinder is damaged, replace it on the spot. Find out more about <a href="{url:svc-extraccion}">broken key extraction</a>.</p>
+240	Do you need to change the lock after an emergency opening?
+241	<p>Not necessarily. If the door was opened without damage and the mechanism is sound, it’s enough to check it works. Replacement is needed if the cylinder is damaged or worn, and also if you have lost your keys — so nobody can use the old set. The locksmith will tell you whether <a href="{url:svc-cambio}">replacing the cylinder</a> is enough or a new lock is needed.</p>
+242	What documents are needed to open a flat?
+243	<p>A photo ID (DNI, NIE or passport) and proof of your link to the address: <span lang="es">empadronamiento</span>, <span lang="es">escritura</span>, a rental contract or a utility bill. A tenant just needs the rental contract and a photo ID. If the documents are inside, the locksmith will check them straight after opening. Find out more in the <a href="#documents">documents</a> section.</p>
+244	Can I find out the price in advance from a photo?
+245	<p>Yes. Send a photo of the door and lock via <a href="https://wa.me/34944123456" rel="noopener" target="_blank">WhatsApp</a> and briefly describe the problem. The locksmith will identify the type of mechanism and give you an approximate price. Two photos work best: a close-up of the cylinder and the whole door. The final price is confirmed on site after inspection — before work begins.</p>
+246	Do you cover the Bilbao suburbs?
+247	<p>Yes. As well as every district of Bilbao, we cover the municipalities of Greater Bilbao: Barakaldo, Getxo, Portugalete, Santurtzi, Leioa, Sestao, Basauri, Erandio and others. The price and arrival time outside the city depend on the distance — the dispatcher will tell you when you call. You can check your area on the <a href="#areas">service area map</a>.</p>
+248	More services
+249	Other Cerrajero24 services in&nbsp;Bilbao
+251	Call a locksmith to open your flat in&nbsp;Bilbao
+252	Can’t get into your flat? Contact Cerrajero24 to check the price and book a locksmith.
+253	Open 24/7 — including weekends and holidays
+254	Coverage: Bilbao and Biscay
+257	Call a locksmith
+258	Flat opening
+259	Ask for a flat opening price
+263	I’ve lost my keys
+264	The key is inside
+267	The armoured door won’t open
+269	Emergency flat opening in Bilbao 24/7 — Cerrajero24
+270	Door slammed shut, keys lost or lock jammed? Emergency flat opening in Bilbao around the clock. Careful work, with the price agreed before we start.
+271	Door slammed shut, keys lost or lock jammed? We’ll open your flat in Bilbao around the clock, with the price agreed before we start.
+272	Emergency flat opening in Bilbao
+273	Emergency flat door opening
+274	Opening flat front doors when the door has slammed shut, the keys are lost, the lock is jammed or the key has broken. Around the clock in Bilbao and Greater Bilbao.

@@ -1,0 +1,37 @@
+{
+  "pages": [
+    {"key": "home", "template": "default", "order": 0},
+    {"key": "services", "template": "templates/page-services.php", "order": 1},
+    {"key": "svc-puertas", "template": "templates/page-service.php", "parent": "services", "order": 1},
+    {"key": "svc-coches", "template": "templates/page-service.php", "parent": "services", "order": 2},
+    {"key": "svc-cajas", "template": "templates/page-service.php", "parent": "services", "order": 3},
+    {"key": "svc-garajes", "template": "templates/page-service.php", "parent": "services", "order": 4},
+    {"key": "svc-locales", "template": "templates/page-service.php", "parent": "services", "order": 5},
+    {"key": "svc-reparacion", "template": "templates/page-service.php", "parent": "services", "order": 6},
+    {"key": "svc-cambio", "template": "templates/page-service.php", "parent": "services", "order": 7},
+    {"key": "svc-instalacion", "template": "templates/page-service.php", "parent": "services", "order": 8},
+    {"key": "svc-extraccion", "template": "templates/page-service.php", "parent": "services", "order": 9},
+    {"key": "contacts", "template": "templates/page-contacts.php", "order": 2},
+    {"key": "privacy", "template": "default", "order": 10},
+    {"key": "cookies", "template": "default", "order": 11},
+    {"key": "terms", "template": "default", "order": 12},
+    {"key": "legal", "template": "default", "order": 13}
+  ],
+  "media": [
+    "master.webp", "master-multilock.webp", "master-drill.webp", "locksmiths-door.webp", "lock-multipoint.webp",
+    "safe-opening.webp", "guggenheim.webp", "guggenheim-480.webp", "casco-viejo.webp", "casco-viejo-480.webp",
+    
+    "services/apertura-puertas.webp", "services/apertura-coches.webp", "services/apertura-cajas-fuertes.webp",
+    "services/apertura-garajes.webp", "services/apertura-locales.webp", "services/reparacion-cerraduras.webp",
+    "services/cambio-cerraduras-bombines.webp", "services/instalacion-cerraduras.webp", "services/extraccion-llaves-rotas.webp"
+  ],
+  "options": {
+    "phone": "+34 944 123 456",
+    "whatsapp": "https://wa.me/34944123456",
+    "email": "info@cerrajero24.es",
+    "maps_url": "https://www.google.com/maps/search/?api=1&query=Cerrajero24",
+    "maps_review_url": "https://www.google.com/maps/search/?api=1&query=Cerrajero24",
+    "rating": "5.0",
+    "reviews_count": "70"
+  }
+}
