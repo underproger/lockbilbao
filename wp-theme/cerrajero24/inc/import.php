@@ -445,6 +445,12 @@ class C24_Import {
 		$saved = $form->save();
 		update_post_meta( $saved, '_c24_form', 'lead' );
 		update_option( 'c24_form_id', $saved );
+		update_option( 'c24_form_rev', C24_FORM_REV );
+		if ( class_exists( 'WPCF7_ConfigValidator' ) ) {
+			$validator = new WPCF7_ConfigValidator( wpcf7_contact_form( $saved ) );
+			$validator->validate();
+			$validator->save();
+		}
 		$this->log[] = 'Форма CF7: #' . $saved;
 	}
 

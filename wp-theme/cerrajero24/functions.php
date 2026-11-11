@@ -5,7 +5,7 @@
 
 defined( 'ABSPATH' ) || exit;
 
-define( 'C24_VER', '1.1.1' );
+define( 'C24_VER', '1.1.2' );
 define( 'C24_DIR', get_template_directory() );
 define( 'C24_URI', get_template_directory_uri() );
 define( 'C24_BRAND', 'CerrajeroUCR' );

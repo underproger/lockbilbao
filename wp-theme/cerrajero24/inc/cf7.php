@@ -29,7 +29,7 @@ function c24_cf7_form_template() {
 	return implode( "\n", [
 		'[text form]',
 		'[text service]',
-		'[text name]',
+		'[text client_name]',
 		'[select dial "+34" "+33" "+351" "+44" "+49" "+39" "+48" "+40" "+380"]',
 		'[tel* phone]',
 		'[text phone_full]',
@@ -37,7 +37,7 @@ function c24_cf7_form_template() {
 		'[text problem]',
 		'[file photo limit:10mb filetypes:jpg|jpeg|png|webp|heic|heif|gif]',
 		'[acceptance consent optional]',
-		'[text page]',
+		'[text page_url]',
 		'[text utm_source] [text utm_medium] [text utm_campaign] [text utm_term] [text utm_content]',
 		'[submit "Enviar"]',
 	] );
@@ -47,11 +47,11 @@ function c24_cf7_mail_body() {
 	return implode( "\n", [
 		'Formulario: [form]',
 		'Servicio: [service]',
-		'Nombre: [name]',
+		'Nombre: [client_name]',
 		'Teléfono: [phone_full]',
 		'Dirección / zona: [address]',
 		'Qué ha pasado: [problem]',
-		'Página: [page]',
+		'Página: [page_url]',
 		'UTM: [utm_source] / [utm_medium] / [utm_campaign] / [utm_term] / [utm_content]',
 		'',
 		'-- ',
@@ -102,7 +102,7 @@ function c24_form( $type, $args = [] ) {
 	$name_field = function ( $id ) {
 		return '<div class="field">' . "\n" .
 			'            <label for="' . $id . '">' . esc_html( c24__( 'Nombre' ) ) . ' <span class="field__opt">' . esc_html( c24__( 'opcional' ) ) . '</span></label>' . "\n" .
-			'            <input class="input" id="' . $id . '" name="name" type="text" autocomplete="name">' . "\n" .
+			'            <input class="input" id="' . $id . '" name="client_name" type="text" autocomplete="name">' . "\n" .
 			'          </div>';
 	};
 	$btn = '<button class="btn btn--lime btn--block btn--lg" type="submit">' . esc_html( c24__( 'Llamar al cerrajero' ) ) . ' <svg aria-hidden="true"><use href="#i-arrow"/></svg></button>';
@@ -328,3 +328,47 @@ function c24_detach_plugin_hooks( $slug, $prefix ) {
 		}
 	}
 }
+
+/* ---------------- Обновление формы CF7 при обновлении темы ---------------- */
+
+/**
+ * Версия 2: поля «name» и «page» переименованы в client_name и page_url — WordPress резервирует эти имена
+ * для своих запросов, и CF7 показывал ошибку конфигурации «Unavailable names».
+ * Шаблон формы обновляется целиком (им управляет тема), в письмах меняются только теги, остальные настройки
+ * (получатели, тема письма, отправитель) остаются как в админке.
+ */
+define( 'C24_FORM_REV', 2 );
+
+function c24_upgrade_form() {
+	$id = c24_form_id();
+	if ( ! $id || ! function_exists( 'wpcf7_contact_form' ) || ! ( $form = wpcf7_contact_form( $id ) ) ) {
+		return false;
+	}
+	$props = [ 'form' => c24_cf7_form_template() ];
+	foreach ( [ 'mail', 'mail_2' ] as $key ) {
+		$mail = $form->prop( $key );
+		if ( is_array( $mail ) ) {
+			foreach ( [ 'subject', 'body', 'sender', 'recipient', 'additional_headers' ] as $f ) {
+				if ( isset( $mail[ $f ] ) ) {
+					$mail[ $f ] = str_replace( [ '[name]', '[page]' ], [ '[client_name]', '[page_url]' ], (string) $mail[ $f ] );
+				}
+			}
+			$props[ $key ] = $mail;
+		}
+	}
+	$form->set_properties( $props );
+	$form->save();
+	if ( class_exists( 'WPCF7_ConfigValidator' ) ) {
+		$validator = new WPCF7_ConfigValidator( $form );
+		$validator->validate();
+		$validator->save();
+	}
+	update_option( 'c24_form_rev', C24_FORM_REV );
+	return true;
+}
+
+add_action( 'admin_init', function () {
+	if ( (int) get_option( 'c24_form_rev' ) < C24_FORM_REV && c24_form_id() ) {
+		c24_upgrade_form();
+	}
+} );

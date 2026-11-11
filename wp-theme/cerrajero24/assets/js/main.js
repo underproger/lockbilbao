@@ -489,7 +489,7 @@
 
       var data = new FormData(form);
       data.set('phone_full', (dial ? dial.value : '') + ' ' + phone.value);
-      data.set('page', location.href);
+      data.set('page_url', location.href);
       // UTM-метки из URL — для учёта рекламы
       new URLSearchParams(location.search).forEach(function (v, k) { if (/^utm_/.test(k)) data.set(k, v); });
 
