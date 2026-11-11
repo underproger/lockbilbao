@@ -1,0 +1,262 @@
+1	Lock and cylinder replacement
+2	Lock and cylinder replacement
+3	Replacing the cylinder, mechanism or door hardware.
+4	Lock and cylinder replacement <span class="accent">in&nbsp;Bilbao</span>
+5	Lost your keys, moved into&nbsp;a new flat or want better protection for your door? We replace the cylinder or the whole lock in&nbsp;a single visit. We’ll choose a cylinder to suit your door and&nbsp;budget — from&nbsp;standard to&nbsp;high-security.
+6	Bilbao • Biscay
+7	Replaced in one visit
+8	Cylinder measured on the spot
+9	Break-in protection
+10	Anti-bump cylinders
+11	Price agreed before&nbsp;work begins
+12	Quoted in advance, no surprises
+13	Leave your number — we’ll call you back in a couple of minutes
+14	When you need help
+15	When should a lock or cylinder be replaced?
+16	It’s worth replacing the cylinder not only when the lock breaks, but also when you’re not sure who might have keys.
+17	Lost keys
+18	Especially if documents with your address went missing along with the keys.
+19	Moved into a new flat
+20	You don’t know how many copies of the keys the previous occupants kept.
+21	Former occupants still have keys
+22	A tenant moved out or an employee left and the keys weren’t returned.
+23	Cylinder worn or broken
+24	The key is hard to turn, spins freely or gets stuck.
+25	Want better protection
+26	A standard cylinder is vulnerable to bumping and drilling.
+27	After a break-in attempt
+28	The lock is damaged or shows signs of forced entry.
+29	Not sure which cylinder to choose? Call a locksmith.
+30	Tell us about your door and lock and we’ll suggest the right option.
+31	Call a locksmith
+32	Prices
+33	How much does lock replacement cost in&nbsp;<span class="accent">Bilbao</span>?
+34	The price is made up of the locksmith’s labour and the cost of the new cylinder or lock. Cylinders differ in security grade, so the locksmith offers several options to choose from.
+35	Lock and cylinder replacement prices in Bilbao
+36	Service
+37	Price
+38	Standard cylinder replacement
+39	Upgrade to an anti-bump cylinder
+40	Upgrade to a high-security cylinder
+41	Lever lock replacement
+42	Multi-point lock replacement
+43	Replacing several cylinders on one key
+44	Emergency night-time replacement
+45	Locksmith call-out within Bilbao
+46	Call-out
+47	The dispatcher tells you the call-out fee within Bilbao and Greater Bilbao when you call, before the locksmith sets off.
+48	Cylinder price
+49	The price of the new cylinder or lock depends on the model and security grade and is charged separately. The locksmith shows you the options before work starts.
+50	IVA (VAT)
+51	[State whether IVA is included in the prices in the table.]
+52	Night and holiday rate
+53	Applies at night from 22:00 to 08:00, at weekends and on public holidays. We tell you the surcharge in advance.
+54	Final price
+55	The locksmith tells you once you’ve chosen the cylinder or lock — before work starts.
+56	Check the price of a lock replacement
+57	Send us a photo of the lock — we’ll suggest options and give you a price.
+58	What the price depends on
+59	What makes up the price of a lock replacement?
+60	Four things set the price. Send a photo of the lock from outside and of the door edge — the locksmith will identify the lock type and suggest options before setting off.
+61	Type of lock
+62	Cylinder, lever or multi-point mechanism.
+63	Cylinder size
+64	The cylinder length depends on the thickness of the door and any escutcheons.
+65	Security grade
+66	Standard, anti-bump or high-security cylinder.
+67	Number of locks
+68	One cylinder or several, including keyed-alike sets.
+69	Final price
+70	The locksmith tells you once you’ve chosen the cylinder or lock and&nbsp;before work starts — nothing is done without&nbsp;your consent.
+71	If the security escutcheon, handle or strike plate also needs replacing along with the cylinder, we agree their price separately — before work starts.
+72	Call a locksmith
+73	Need a lock replaced? Call a locksmith
+74	Leave your name and phone number — the dispatcher will call you back within&nbsp;a few minutes, check what lock you have and&nbsp;arrange a convenient time. We do emergency replacements after lost keys around the clock in&nbsp;Bilbao and&nbsp;Greater Bilbao.
+75	Cylinders and locks
+76	What we replace
+77	We choose cylinders and locks to suit the door design and the level of protection you need. Before replacing, the locksmith measures the cylinder and shows you the options.
+78	Standard cylinders <span lang="es">bombín</span>
+79	A basic replacement for wear or lost keys.
+80	Anti-bump cylinders <span lang="es">antibumping</span>
+81	Protection against opening with a bump key — one of the most common methods used in home burglaries.
+82	High-security cylinders
+83	Anti-drill, anti-snap and anti-pick, with keys and an owner’s card.
+84	Lever locks <span lang="es">de gorjas</span>
+85	Mechanism replacement in older and armoured doors.
+86	Multi-point locks <span lang="es">multipunto</span>
+87	Mechanism replacement on metal and armoured doors.
+88	Shutter, garage and mailbox locks
+89	Cylinders for metal shutters, garage doors and mailboxes (<span lang="es">buzones</span>).
+90	We measure the cylinder on the spot
+91	Choosing a cylinder
+92	How to choose a new cylinder for your door
+93	A good cylinder must be the right size and protect against common break-in methods. The locksmith will help you choose one to suit your door and budget.
+94	Size — measured on site
+95	<p>A cylinder is measured from the central fixing screw to each end: for example, 30×30 or 30×40 mm. A cylinder that’s too long sticks out of the door and is easier to snap.</p>
+96	Anti-bump and anti-drill protection
+97	<p>Standard cylinders are vulnerable to bump keys and drills. Security cylinders (<span lang="es">antibumping</span>, <span lang="es">antitaladro</span>) are specially reinforced against these methods.</p>
+98	Anti-snap and anti-extraction protection
+99	<p>An anti-snap cylinder (<span lang="es">antirrotura</span>) and a security escutcheon (<span lang="es">escudo</span>) stop the cylinder from being snapped and pulled out of the door.</p>
+100	Keys with an owner’s card
+101	<p>Copies of keys for a high-security cylinder are only cut on presentation of the owner’s card (<span lang="es">tarjeta de propiedad</span>). That way nobody can make a duplicate without your knowledge.</p>
+102	One key for several doors
+103	<p>If you’re replacing several locks — front door, storage room, garage — we can choose keyed-alike cylinders that open with one key.</p>
+104	How it works
+105	How do I book a lock replacement in&nbsp;Bilbao?
+106	Request
+107	Call or send a request. Send a photo of the lock — it makes it easier to suggest options.
+108	Options and price
+109	The dispatcher gives you an estimate for the labour and for cylinders of different grades and arranges a time.
+110	Cylinder or lock replacement
+111	The locksmith measures the cylinder, you choose the model, and it’s fitted in the same visit.
+112	Checking and keys
+113	We check the lock works from both sides and hand you a new set of keys.
+114	Lost your keys just now?
+115	We replace cylinders in an emergency around the clock — including at night and on public holidays.
+116	Call a locksmith
+117	Bilbao · Biscay
+118	Why Cerrajero24
+119	Why people trust <span class="accent">Cerrajero24</span> with lock replacements
+120	Replaced in one visit
+121	The locksmith carries cylinders in common sizes to replace yours straight away.
+122	Choose by security grade
+123	We show you several options — from standard to high-security.
+124	Transparent pricing
+125	We tell you the price of the labour and the cylinder before work starts.
+126	Emergency replacement 24/7
+127	After lost keys or a break-in attempt — at any time of day or night.
+128	All types of locks
+129	Cylinder, lever and multi-point locks on home and office doors.
+130	Guarantee
+131	A guarantee on the work and the cylinders fitted. The terms are set out in writing.
+132	Reviews
+133	Customer reviews of lock replacements in&nbsp;Bilbao
+134	Original reviews on Google
+135	Customer reviews of lock replacements
+136	Joseba
+137	After moving in · Deusto
+138	We bought a flat and decided to change the cylinder straight away — we had no idea who still had keys. The locksmith showed us three cylinders and explained the difference. We chose an anti-bump one, and he fitted it in half an hour.
+139	Verónica
+140	Lost my keys · Abando
+141	I lost my bag with my keys and documents. I called in the evening, the locksmith came, opened the door and fitted a new cylinder on the spot. I slept soundly.
+142	Luis
+143	Keyed-alike cylinders · Getxo
+144	We replaced the locks on the front door, storage room and garage. The locksmith fitted keyed-alike cylinders — now we have one key instead of a bunch. Very handy.
+145	Ksenia
+146	Rented flat · Santutxu
+147	The landlady let me change the cylinder when I moved in. The locksmith fitted a new one and advised me to keep the old one and put it back when I move out. Clear and straightforward, with the price given in advance.
+148	Gaspar
+149	After a break-in attempt · Barakaldo
+150	Someone tried to force the door and the cylinder was damaged. The locksmith fitted a high-security cylinder with an owner’s card plus a security escutcheon, and explained in detail how it all works.
+151	See all reviews
+152	Legality and safety
+153	What documents do I need for a lock replacement?
+154	Replacing a lock gives access to a home, so the locksmith must make sure you have the right to change the lock on that door.
+155	Accepted documents:
+156	DNI
+157	NIE
+158	Passport
+159	Escritura
+160	Empadronamiento
+161	Rental contract
+162	Owner’s permission
+163	If you are the owner
+164	<p>A photo ID — DNI, NIE or passport — plus proof of your link to the address is enough: an <span lang="es">escritura</span>, an <span lang="es">empadronamiento</span> certificate or a utility bill in your name.</p>
+165	If you rent
+166	<p>A tenant can replace the cylinder, but it’s best to let the landlord know first. Keep the old cylinder — when you move out you can put it back or give the landlord the keys to the new one.</p>
+167	If the lock is being replaced in an office
+168	<p>You’ll need permission from the owner or manager. If you need an invoice in the company’s name, give the details to the dispatcher.</p>
+169	If the door is locked and you have no keys
+170	<p>The locksmith opens the door first, then checks your documents and replaces the cylinder. Find out more about <a href="{url:svc-puertas}">emergency flat opening</a>.</p>
+171	Why a locksmith may refuse the job
+172	<p>If your right to the property can’t be proven with documents or in any other way, the locksmith may decline to replace the lock. This protects you too: a stranger can’t change the lock on your door.</p>
+173	Service area
+174	Lock replacement in every district of <span class="accent">Bilbao</span>
+175	We replace locks and cylinders in flats, houses, offices and shops across Bilbao’s districts and nearby towns in Bizkaia.
+176	Bilbao districts
+177	8 districts
+178	Deusto
+179	Uribarri
+180	Otxarkoaga-Txurdinaga
+181	Begoña
+182	Ibaiondo
+183	Abando
+184	Errekalde
+185	Basurto-Zorrotza
+186	Popular neighbourhoods: Casco Viejo, Indautxu, San Ignacio, Santutxu, Miribilla and others.
+187	Lock replacement in the Bilbao area
+188	Barakaldo
+189	Getxo
+190	Portugalete
+191	Santurtzi
+192	Leioa
+193	Sestao
+194	Basauri
+195	Erandio
+196	and other municipalities of Greater Bilbao.
+197	Good to know
+198	How do you know it’s time to replace a lock or cylinder?
+199	The cylinder is the most vulnerable part of a door: it’s where burglars most often try to force the lock, and it’s also the first part to wear out. Here’s when it’s worth replacing it and how to choose a new one.
+200	<h3>What’s the difference between replacing the cylinder and replacing the lock?</h3>
+201	<p>The cylinder (<span lang="es">bombín</span>) is the removable part of the lock that the key goes into. It can be replaced without removing the whole lock — faster and cheaper. The whole lock is replaced if the case or bolts are broken, or if you want to switch to another system, such as a multi-point lock.</p>
+202	<h3>When must the cylinder be replaced?</h3>
+203	<p>After losing your keys if your address may have gone missing with them; after moving into a flat you’ve bought or rented; when former occupants, employees or tenants still have keys; after a break-in attempt. In all these cases, a new cylinder makes the old keys useless.</p>
+204	<p>If your keys are lost and the door is locked, the locksmith opens it first and then fits a new cylinder straight away. Find out more about <a href="{url:svc-puertas}">emergency flat opening</a>.</p>
+205	<h3>What is bumping, and how can you protect against it?</h3>
+206	<p>Bumping is a way of opening standard cylinders with a specially cut key blank. It leaves almost no trace, which makes it dangerous. Anti-bump cylinders (<span lang="es">antibumping</span>) are designed so that this method doesn’t work on them.</p>
+207	<p>When choosing, also look for protection against drilling (<span lang="es">antitaladro</span>), extraction (<span lang="es">antiextracción</span>) and snapping (<span lang="es">antirrotura</span>). Find out more in the section <a href="#choose">on choosing a cylinder</a>.</p>
+208	<h3>How do I measure a cylinder for replacement?</h3>
+209	<p>A cylinder is measured from the central fixing screw on the door edge to each end. Typical sizes are 30×30, 30×35 and 30×40 mm. The locksmith measures it on the spot and chooses the right one: the cylinder shouldn’t stick out noticeably from the door or escutcheon.</p>
+210	<h3>Can I replace the lock in a rented flat?</h3>
+211	<p>Yes, but it’s best to let the landlord know. Good practice is to keep the old cylinder and, when you move out, put it back or give the landlord the keys to the new one. If the lock breaks through wear, its repair is usually agreed with the landlord. Find out more in the section <a href="#documents">on documents</a>.</p>
+212	FAQ
+213	Frequently asked questions about lock replacement
+214	Still have questions?
+215	Contact a locksmith — we’ll answer and tell you what to do right now.
+216	How much does cylinder replacement cost in Bilbao?
+217	<p>The price is made up of the locksmith’s labour and the new cylinder, whose price depends on its security grade. See the <a href="#prices">price table</a> for guide prices. The locksmith shows you the options and gives you the final price before work starts.</p>
+218	How long does cylinder replacement take?
+219	<p>Usually not long: replacing a cylinder is one of a locksmith’s quickest jobs. It takes longer if the whole lock, the escutcheon or several cylinders need replacing.</p>
+220	Which cylinder should I fit?
+221	<p>For a flat, we recommend at least an anti-bump cylinder. If the door opens onto the street or there have been burglaries in the building, a high-security anti-drill, anti-snap cylinder with an owner’s card. The locksmith will show you the options on the spot.</p>
+222	Should I replace the lock after losing my keys?
+223	<p>Yes, if your address may have gone missing with the keys — documents, letters, a key ring with your flat number. Replacing the cylinder is quick and inexpensive, and the old keys will no longer fit.</p>
+224	Can one key open several locks?
+225	<p>Yes, we can choose cylinders that open with the same key: for example, for the front door, storage room and garage. It depends on the model — the locksmith will advise you.</p>
+226	What is an owner’s card?
+227	<p>It’s a card (<span lang="es">tarjeta de propiedad</span>) supplied with high-security cylinders. Without it, a key cutter won’t copy the key, so nobody can make a duplicate without your knowledge.</p>
+228	Can I replace the lock in a rented flat?
+229	<p>Yes, but it’s best to let the landlord know and keep the old cylinder. Find out more in the section <a href="#documents">on documents</a>.</p>
+230	Do you replace locks at night?
+231	<p>Yes, we do emergency replacements after lost keys or a break-in attempt around the clock. A surcharge applies at night and on public holidays — the dispatcher will tell you the amount when you call.</p>
+232	Do you guarantee the new lock?
+233	<p>Yes, on the work and on the cylinders and locks fitted. The terms and period are stated in the document you receive after the job.</p>
+234	Do you cover the Bilbao suburbs?
+235	<p>Yes. As well as every district of Bilbao, we cover the municipalities of Greater Bilbao: Barakaldo, Getxo, Portugalete, Santurtzi, Leioa, Sestao, Basauri, Erandio and others. The dispatcher will tell you the price and arrival time outside the city when you call. You can check your area on the <a href="#areas">service area map</a>.</p>
+236	More services
+237	Other Cerrajero24 services in&nbsp;Bilbao
+238	Request a locksmith
+239	Book a lock replacement in&nbsp;Bilbao
+240	Need a cylinder or lock replaced? Contact Cerrajero24 to choose a cylinder and find out the price.
+241	Open 24/7 — including weekends and holidays
+242	Coverage: Bilbao and Biscay
+243	We agree the price before starting
+244	Replaced in one visit
+245	Call a locksmith
+246	Lock replacement
+247	Check the price of a lock replacement
+248	Leave your number and, if you can, attach a photo of the lock from outside and of the door edge. The locksmith will call you back, suggest options and give you a price.
+249	Photo of the lock
+250	Lost keys
+251	Moved into a new flat
+252	Cylinder worn or broken
+253	I want better protection
+254	After a break-in attempt
+255	Replacing several locks
+256	Other
+257	Lock and cylinder replacement in Bilbao — Cerrajero24
+258	Lost your keys or moved house? We replace the cylinder or lock on your front door in Bilbao in one visit, including anti-bump cylinders. Price agreed before work.
+259	We replace the cylinder or lock on your front door in Bilbao in one visit. Anti-bump cylinders, price agreed before work.
+260	Lock and cylinder replacement in Bilbao
+261	Door lock and cylinder replacement
+262	Replacement of cylinders (bombines) and locks on front, interior and office doors: after lost keys, a move, mechanism wear or to improve security. Bilbao and Greater Bilbao.

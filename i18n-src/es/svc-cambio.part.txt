@@ -1,0 +1,178 @@
+3	Cambio de bombín, mecanismo o herrajes de la puerta.
+4	Cambio de cerraduras y bombines <span class="accent">en&nbsp;Bilbao</span>
+5	¿Ha perdido las llaves, se ha mudado a&nbsp;un piso nuevo o quiere proteger mejor la puerta? Cambiamos el bombín o toda la cerradura en&nbsp;una sola visita. Elegimos el bombín según su puerta y&nbsp;su presupuesto, desde uno estándar hasta&nbsp;uno de alta seguridad.
+7	Cambio en una sola visita
+8	Medimos el bombín en el sitio
+9	Protección antirrobo
+10	Bombines antibumping
+15	¿Cuándo hay que cambiar la cerradura o el bombín?
+16	Conviene cambiar el bombín no solo cuando la cerradura se rompe, sino también cuando no está seguro de quién puede tener llaves.
+18	Sobre todo si junto con las llaves se perdieron documentos con su dirección.
+19	Se ha mudado a un piso nuevo
+20	No se sabe cuántas copias de las llaves tienen los anteriores inquilinos.
+21	Las llaves las tienen antiguos inquilinos
+22	El inquilino se fue o un empleado dejó la empresa y no devolvió las llaves.
+23	El bombín está gastado o roto
+24	La llave gira con dificultad, gira en vacío o se queda enganchada.
+25	Quiere más seguridad
+26	Un bombín estándar es vulnerable al bumping y al taladro.
+27	Tras un intento de robo
+28	La cerradura está dañada o tiene marcas de forzamiento.
+29	¿No sabe qué bombín elegir? Llame al cerrajero.
+30	Cuéntenos cómo es su puerta y su cerradura y le recomendaremos la opción adecuada.
+33	¿Cuánto cuesta cambiar una cerradura en&nbsp;<span class="accent">Bilbao</span>?
+34	El precio incluye el trabajo del cerrajero y el del bombín o la cerradura nueva. Los bombines se diferencian por su nivel de seguridad, así que el cerrajero le ofrece varias opciones.
+35	Precios de cambio de cerraduras y bombines en Bilbao
+38	Cambio de bombín estándar
+39	Cambio por bombín antibumping
+40	Cambio por bombín de alta seguridad
+41	Cambio de cerradura de gorjas
+42	Cambio de cerradura multipunto
+44	Cambio urgente de noche
+48	Precio del bombín
+49	El precio del bombín o la cerradura nueva depende del modelo y del nivel de seguridad y se paga aparte. El cerrajero le enseña las opciones antes de empezar.
+55	El cerrajero se lo dice cuando ha elegido el bombín o la cerradura, antes de empezar.
+56	Consultar el precio del cambio de cerradura
+57	Envíenos una foto de la cerradura y le propondremos opciones con su precio.
+59	¿De qué depende el precio del cambio de cerradura?
+60	El precio depende de cuatro factores. Envíe una foto de la cerradura por fuera y del canto de la puerta: el cerrajero sabrá qué cerradura es y le propondrá opciones antes de salir.
+62	Mecanismo de bombín, de gorjas o multipunto.
+63	Medida del bombín
+64	La longitud del bombín depende del grosor de la puerta y de los escudos.
+65	Nivel de seguridad
+66	Bombín estándar, antibumping o de alta seguridad.
+67	Número de cerraduras
+68	Uno o varios bombines, también con llave única.
+70	El cerrajero se lo dice cuando ha elegido el bombín o la cerradura y&nbsp;antes de empezar: sin su consentimiento no&nbsp;se empieza ningún trabajo.
+71	Si además del bombín hay que cambiar el escudo de seguridad, la manilla o el cerradero, su precio se acuerda aparte, antes de empezar.
+73	¿Necesita cambiar la cerradura? Llame al cerrajero
+74	Déjenos su nombre y teléfono: el operador le llamará en&nbsp;pocos minutos, le preguntará qué cerradura tiene y&nbsp;acordará con usted la hora de la visita. Hacemos cambios urgentes tras la pérdida de llaves las 24 horas en&nbsp;Bilbao y&nbsp;el Gran Bilbao.
+75	Bombines y cerraduras
+76	Qué cambiamos
+77	Elegimos bombines y cerraduras según la puerta y el nivel de seguridad que necesita. Antes del cambio, el cerrajero mide el bombín y le enseña las opciones.
+78	Bombines estándar
+79	El cambio básico por desgaste o pérdida de llaves.
+80	Bombines antibumping
+81	Protección contra la apertura con llave de bumping, uno de los métodos más habituales en los robos en viviendas.
+82	Bombines de alta seguridad
+83	Antitaladro, antirrotura y antiganzúa, con llaves y tarjeta de propiedad.
+85	Cambio del mecanismo en puertas antiguas y acorazadas.
+87	Cambio del mecanismo en puertas metálicas y acorazadas.
+88	Cerraduras de persianas, garajes y buzones
+89	Bombines de cierres metálicos, portones de garaje y buzones.
+90	Medimos el bombín en el sitio
+91	Elegir el bombín
+92	Cómo elegir el bombín nuevo para su puerta
+93	Un buen bombín debe tener la medida adecuada y proteger contra los métodos de apertura más habituales. El cerrajero le ayudará a elegir el más adecuado para su puerta y su presupuesto.
+94	La medida, en el sitio
+95	<p>El bombín se mide desde el tornillo central de fijación hasta cada extremo: por ejemplo, 30×30 o 30×40 mm. Un bombín demasiado largo sobresale de la puerta y es más fácil de romper.</p>
+96	Protección antibumping y antitaladro
+97	<p>Los bombines estándar son vulnerables a las llaves de bumping y al taladro. Los bombines de seguridad (antibumping, antitaladro) están reforzados precisamente contra estos métodos.</p>
+98	Protección antirrotura y antiextracción
+99	<p>Un bombín antirrotura y un escudo de seguridad impiden romper el bombín y sacarlo de la puerta.</p>
+100	Llaves con tarjeta de propiedad
+101	<p>La copia de la llave de un bombín de alta seguridad solo se hace presentando la tarjeta de propiedad. Así nadie puede hacer un duplicado sin que usted lo sepa.</p>
+102	Una sola llave para varias puertas
+103	<p>Si cambia varias cerraduras —la puerta de entrada, el trastero, el garaje—, se pueden elegir bombines de llave única.</p>
+105	¿Cómo pedir el cambio de cerradura en&nbsp;Bilbao?
+107	Llame o deje una solicitud. Envíe una foto de la cerradura: así es más fácil proponerle opciones.
+108	Opciones y precio
+109	El operador le da un precio orientativo del trabajo y de bombines de distintos niveles y acuerda la hora de la visita.
+110	Cambio del bombín o de la cerradura
+111	El cerrajero mide el bombín, usted elige el modelo y él lo instala en la misma visita.
+113	Comprobamos la cerradura por ambos lados y le entregamos el juego de llaves nuevo.
+114	¿Acaba de perder las llaves?
+115	Cambiamos el bombín de urgencia las 24 horas, también de noche y en festivos.
+119	Por qué confían el cambio de cerraduras a <span class="accent">Cerrajero24</span>
+120	Cambio en una sola visita
+121	El cerrajero lleva bombines de las medidas más habituales para cambiarlo en el momento.
+122	A elegir según la seguridad
+123	Le enseñamos varias opciones, desde la estándar hasta la de alta seguridad.
+125	Le decimos el precio del trabajo y del bombín antes de empezar.
+126	Cambio urgente 24/7
+127	Tras perder las llaves o un intento de robo, a cualquier hora del día o de la noche.
+129	Cerraduras de bombín, de gorjas y multipunto en puertas de viviendas y oficinas.
+130	Garantía
+131	Garantía del trabajo y de los bombines instalados. Las condiciones constan por escrito.
+133	Opiniones de clientes sobre el cambio de cerraduras en&nbsp;Bilbao
+135	Opiniones de clientes sobre el cambio de cerraduras
+136	Joseba
+137	Tras la mudanza · Deusto
+138	Compramos un piso y decidimos cambiar el bombín enseguida: no sabíamos quién tenía llaves. El cerrajero nos enseñó tres bombines y nos explicó la diferencia. Elegimos uno antibumping y lo puso en media hora.
+139	Verónica
+140	Perdí las llaves · Abando
+141	Perdí el bolso con las llaves y la documentación. Llamé por la tarde, vino el cerrajero, abrió la puerta y puso un bombín nuevo en el momento. Dormí tranquila.
+142	Luis
+143	Bombines de llave única · Getxo
+144	Cambiamos las cerraduras de la puerta de entrada, el trastero y el garaje. El cerrajero nos puso bombines de llave única: ahora, en vez de un manojo, una sola llave. Muy cómodo.
+145	Ksenia
+146	Piso de alquiler · Santutxu
+147	La propietaria me dejó cambiar el bombín al entrar. El cerrajero puso uno nuevo y me aconsejó guardar el viejo para volver a ponerlo al irme. Todo claro y con el precio de antemano.
+148	Gaspar
+149	Tras un intento de robo · Barakaldo
+150	Intentaron forzar la puerta y el bombín quedó dañado. El cerrajero puso un bombín de alta seguridad con tarjeta de propiedad y un escudo, y nos explicó con detalle cómo funciona.
+153	¿Qué documentos hacen falta para cambiar la cerradura?
+154	Cambiar la cerradura da acceso a la vivienda, así que el cerrajero tiene que asegurarse de que usted tiene derecho a cambiar la cerradura de esa puerta.
+162	Autorización del propietario
+163	Si es el propietario
+164	<p>Basta con un documento con foto —DNI, NIE o pasaporte— y algo que le vincule con la dirección: escritura, empadronamiento o una factura de suministros a su nombre.</p>
+165	Si vive de alquiler
+166	<p>El inquilino puede cambiar el bombín, pero es mejor avisar antes al propietario. Guarde el bombín viejo: al irse puede volver a ponerlo o entregar al propietario las llaves del nuevo.</p>
+167	Si se cambia la cerradura de una oficina
+168	<p>Hará falta la autorización del propietario o del responsable. Si necesita factura a nombre de la empresa, facilite los datos al operador.</p>
+169	Si la puerta está cerrada y no tiene llaves
+170	<p>Primero el cerrajero abre la puerta, después comprueba los documentos y cambia el bombín. Más información sobre la <a href="{url:svc-puertas}">apertura urgente de pisos</a>.</p>
+172	<p>Si no es posible acreditar el derecho sobre la vivienda ni con documentos ni de otra forma, el cerrajero puede negarse a cambiar la cerradura. Esto también le protege a usted: un desconocido no podrá cambiar la cerradura de su puerta.</p>
+174	Cambio de cerraduras en todos los barrios de <span class="accent">Bilbao</span>
+175	Cambiamos cerraduras y bombines en pisos, casas, oficinas y tiendas de los barrios de Bilbao y de los municipios cercanos de Bizkaia.
+187	Cambio de cerraduras en los alrededores de Bilbao
+198	¿Cómo saber si ha llegado el momento de cambiar la cerradura o el bombín?
+199	El bombín es la parte más vulnerable de la puerta: es por donde más se intenta forzar la cerradura y lo primero que se desgasta. Le contamos cuándo conviene cambiarlo y cómo elegir el nuevo.
+200	<h3>¿En qué se diferencia cambiar el bombín de cambiar la cerradura?</h3>
+201	<p>El bombín, o cilindro, es la parte desmontable de la cerradura donde se introduce la llave. Se cambia sin desmontar toda la cerradura: es más rápido y más barato. La cerradura entera se cambia si se ha roto la caja o los pestillos o si quiere pasar a otro sistema, por ejemplo, a una multipunto.</p>
+202	<h3>¿Cuándo es imprescindible cambiar el bombín?</h3>
+203	<p>Tras perder las llaves, si con ellas pudo perderse su dirección; al mudarse a un piso comprado o alquilado; cuando las llaves las tienen antiguos inquilinos, empleados o arrendatarios; tras un intento de robo. En todos estos casos, un bombín nuevo deja inservibles las llaves antiguas.</p>
+204	<p>Si ha perdido las llaves y la puerta está cerrada, el cerrajero primero la abre y luego pone un bombín nuevo en el momento. Más información sobre la <a href="{url:svc-puertas}">apertura urgente de pisos</a>.</p>
+205	<h3>¿Qué es el bumping y cómo protegerse?</h3>
+206	<p>El bumping es un método para abrir bombines estándar con una llave preparada especialmente. Casi no deja marcas y por eso es peligroso. Los bombines antibumping están diseñados para que este método no funcione.</p>
+207	<p>Al elegir, fíjese también en la protección antitaladro, antiextracción y antirrotura. Más información en la sección <a href="#choose">sobre cómo elegir el bombín</a>.</p>
+208	<h3>¿Cómo se mide el bombín para cambiarlo?</h3>
+209	<p>El bombín se mide desde el tornillo central de fijación, en el canto de la puerta, hasta cada extremo. Las medidas habituales son 30×30, 30×35 y 30×40 mm. El cerrajero lo mide en el sitio y elige el adecuado: el bombín no debe sobresalir mucho de la puerta ni del escudo.</p>
+210	<h3>¿Se puede cambiar la cerradura en un piso de alquiler?</h3>
+211	<p>Sí, pero es mejor avisar al propietario. Lo recomendable es guardar el bombín viejo y, al irse, volver a ponerlo o entregar al propietario las llaves del nuevo. Si la cerradura se rompe por el desgaste, su reparación suele acordarse con el propietario. Más información en la sección <a href="#documents">de documentos</a>.</p>
+213	Preguntas frecuentes sobre el cambio de cerraduras
+216	¿Cuánto cuesta cambiar el bombín en Bilbao?
+217	<p>El precio incluye el trabajo del cerrajero y el bombín nuevo, cuyo precio depende del nivel de seguridad. Tiene precios orientativos en la <a href="#prices">tabla de precios</a>. El cerrajero le enseña las opciones y le dice el precio final antes de empezar.</p>
+218	¿Cuánto se tarda en cambiar el bombín?
+219	<p>Normalmente poco: cambiar el bombín es uno de los trabajos más rápidos del cerrajero. Lleva más tiempo si hay que cambiar toda la cerradura, el escudo o varios bombines.</p>
+220	¿Qué bombín conviene poner?
+221	<p>Para un piso recomendamos como mínimo un bombín antibumping. Si la puerta da a la calle o ha habido robos en el edificio, un bombín de alta seguridad antitaladro y antirrotura con tarjeta de propiedad. El cerrajero le enseñará las opciones en el sitio.</p>
+222	¿Hay que cambiar la cerradura tras perder las llaves?
+223	<p>Sí, si junto con las llaves pudo perderse su dirección: documentos, cartas, un llavero con el número del piso. Cambiar el bombín es rápido y barato, y las llaves antiguas dejarán de servir.</p>
+224	¿Se puede tener una sola llave para varias cerraduras?
+225	<p>Sí, se pueden elegir bombines que se abren con la misma llave: por ejemplo, para la puerta de entrada, el trastero y el garaje. Depende del modelo: el cerrajero le orientará.</p>
+226	¿Qué es la tarjeta de propiedad?
+227	<p>Es una tarjeta que acompaña a los bombines de alta seguridad. Sin ella no se puede hacer una copia de la llave, así que nadie puede hacer un duplicado sin que usted lo sepa.</p>
+228	¿Se puede cambiar la cerradura en un piso de alquiler?
+229	<p>Sí, pero es mejor avisar al propietario y guardar el bombín viejo. Más información en la sección <a href="#documents">de documentos</a>.</p>
+230	¿Cambian cerraduras de noche?
+231	<p>Sí, hacemos cambios urgentes tras la pérdida de llaves o un intento de robo las 24 horas. De noche y en festivos se aplica un recargo: el operador le dirá su importe al llamar.</p>
+232	¿Dan garantía de la cerradura nueva?
+233	<p>Sí, del trabajo y de los bombines y cerraduras instalados. Las condiciones y el plazo constan en el documento que le entregamos tras el trabajo.</p>
+239	Pedir el cambio de cerradura en&nbsp;Bilbao
+240	¿Necesita cambiar el bombín o la cerradura? Contacte con Cerrajero24 para elegir el bombín y saber el precio.
+244	Cambio en una sola visita
+246	Cambio de cerradura
+247	Consultar el precio del cambio de cerradura
+248	Déjenos su número y, si puede, adjunte una foto de la cerradura por fuera y del canto de la puerta. El cerrajero le llamará, le propondrá opciones y le dirá el precio.
+251	Me he mudado a un piso nuevo
+252	El bombín está gastado o roto
+253	Quiero más seguridad
+254	Tras un intento de robo
+255	Cambio de varias cerraduras
+257	Cambio de cerraduras y bombines en Bilbao — Cerrajero24
+258	¿Ha perdido las llaves o se ha mudado? Cambiamos el bombín o la cerradura de su puerta en Bilbao en una sola visita, también bombines antibumping. Precio antes de empezar.
+259	Cambiamos el bombín o la cerradura de su puerta en Bilbao en una sola visita. Bombines antibumping, precio antes de empezar.
+260	Cambio de cerraduras y bombines en Bilbao
+261	Cambio de cerraduras y bombines
+262	Cambio de bombines y cerraduras de puertas de entrada, de interior y de oficinas: por pérdida de llaves, mudanza, desgaste del mecanismo o para mejorar la seguridad. Bilbao y el Gran Bilbao.
