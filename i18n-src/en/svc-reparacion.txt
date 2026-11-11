@@ -115,8 +115,8 @@
 115	Our on-call locksmith is available around the clock — we’ll open the door and repair the lock.
 116	Call a locksmith
 117	Bilbao · Biscay
-118	Why Cerrajero24
-119	Why people trust <span class="accent">Cerrajero24</span> with lock repairs
+118	Why CerrajeroUCR
+119	Why people trust <span class="accent">CerrajeroUCR</span> with lock repairs
 120	On-site diagnosis
 121	We find the cause of the fault and explain it in plain words.
 122	Repair, not a hard sell
@@ -234,10 +234,10 @@
 234	Do you cover the Bilbao suburbs?
 235	<p>Yes. As well as every district of Bilbao, we cover the municipalities of Greater Bilbao: Barakaldo, Getxo, Portugalete, Santurtzi, Leioa, Sestao, Basauri, Erandio and others. The dispatcher will tell you the price and arrival time outside the city when you call. You can check your area on the <a href="#areas">service area map</a>.</p>
 236	More services
-237	Other Cerrajero24 services in&nbsp;Bilbao
+237	Other CerrajeroUCR services in&nbsp;Bilbao
 238	Request a locksmith
 239	Book a lock repair in&nbsp;Bilbao
-240	Lock sticking or door not closing properly? Contact Cerrajero24 to check the price and choose a convenient time.
+240	Lock sticking or door not closing properly? Contact CerrajeroUCR to check the price and choose a convenient time.
 241	Open 24/7 — including weekends and holidays
 242	Coverage: Bilbao and Biscay
 243	We agree the price before starting
@@ -253,7 +253,7 @@
 253	Latch or handle not working
 254	Multi-point lock not working
 255	Other
-256	Door lock repair in Bilbao — Cerrajero24
+256	Door lock repair in Bilbao — CerrajeroUCR
 257	Key hard to turn or lock sticking? We repair cylinder, lever and multi-point locks in Bilbao. On-site diagnosis, price agreed before work.
 258	Lock sticking or key hard to turn? We’ll repair your door lock in Bilbao, with the price agreed before work starts.
 259	Door lock repair in Bilbao

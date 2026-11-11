@@ -115,8 +115,8 @@
 115	We replace cylinders in an emergency around the clock — including at night and on public holidays.
 116	Call a locksmith
 117	Bilbao · Biscay
-118	Why Cerrajero24
-119	Why people trust <span class="accent">Cerrajero24</span> with lock replacements
+118	Why CerrajeroUCR
+119	Why people trust <span class="accent">CerrajeroUCR</span> with lock replacements
 120	Replaced in one visit
 121	The locksmith carries cylinders in common sizes to replace yours straight away.
 122	Choose by security grade
@@ -234,10 +234,10 @@
 234	Do you cover the Bilbao suburbs?
 235	<p>Yes. As well as every district of Bilbao, we cover the municipalities of Greater Bilbao: Barakaldo, Getxo, Portugalete, Santurtzi, Leioa, Sestao, Basauri, Erandio and others. The dispatcher will tell you the price and arrival time outside the city when you call. You can check your area on the <a href="#areas">service area map</a>.</p>
 236	More services
-237	Other Cerrajero24 services in&nbsp;Bilbao
+237	Other CerrajeroUCR services in&nbsp;Bilbao
 238	Request a locksmith
 239	Book a lock replacement in&nbsp;Bilbao
-240	Need a cylinder or lock replaced? Contact Cerrajero24 to choose a cylinder and find out the price.
+240	Need a cylinder or lock replaced? Contact CerrajeroUCR to choose a cylinder and find out the price.
 241	Open 24/7 — including weekends and holidays
 242	Coverage: Bilbao and Biscay
 243	We agree the price before starting
@@ -254,7 +254,7 @@
 254	After a break-in attempt
 255	Replacing several locks
 256	Other
-257	Lock and cylinder replacement in Bilbao — Cerrajero24
+257	Lock and cylinder replacement in Bilbao — CerrajeroUCR
 258	Lost your keys or moved house? We replace the cylinder or lock on your front door in Bilbao in one visit, including anti-bump cylinders. Price agreed before work.
 259	We replace the cylinder or lock on your front door in Bilbao in one visit. Anti-bump cylinders, price agreed before work.
 260	Lock and cylinder replacement in Bilbao

@@ -37,7 +37,7 @@
 37	El precio final se acuerda antes de empezar el trabajo.
 38	Consultar el precio de apertura de una cerradura
 39	Contacte con el cerrajero y reciba una estimación previa.
-40	Por qué elegir Cerrajero24
+40	Por qué elegir CerrajeroUCR
 41	¿Por qué nos eligen <span class="accent">para abrir cerraduras?</span>
 42	Ayudamos rápido, con cuidado y con total transparencia. Trabajamos en Bilbao y Bizkaia, explicamos el precio por adelantado y buscamos la solución adecuada para cada caso.
 43	Desplazamiento rápido
@@ -145,8 +145,8 @@
 145	A última hora de la tarde dejó de abrirse el maletero, y dentro estaban las cosas para el viaje de la mañana siguiente. El cerrajero llegó a la hora acordada, lo abrió sin daños y me enseñó que se había roto la varilla de la cerradura. Me dijo dónde cambiarla a buen precio y no intentó venderme trabajos innecesarios.
 146	Llamar a un cerrajero de confianza
 147	Sobre nosotros
-148	Sobre la empresa y los cerrajeros de Cerrajero24
-149	Cerrajero24 es un servicio de apertura urgente y mantenimiento de cerraduras en Bilbao y el Gran Bilbao. Abrimos puertas de pisos y casas, coches, cajas fuertes y garajes, y después de la apertura reparamos, cambiamos e instalamos cerraduras.
+148	Sobre la empresa y los cerrajeros de CerrajeroUCR
+149	CerrajeroUCR es un servicio de apertura urgente y mantenimiento de cerraduras en Bilbao y el Gran Bilbao. Abrimos puertas de pisos y casas, coches, cajas fuertes y garajes, y después de la apertura reparamos, cambiamos e instalamos cerraduras.
 150	Al servicio acude un cerrajero uniformado, con documentación y todas las herramientas necesarias. Antes de empezar le explica lo que va a hacer y le dice el precio. Al terminar, comprueba la cerradura con usted y le entrega un documento con la garantía.
 151	las 24 horas, sin descanso ni festivos
 152	municipios del Gran Bilbao en nuestra zona de servicio
@@ -179,12 +179,12 @@
 179	Galdakao
 180	Etxebarri
 181	y otros municipios del área metropolitana del Gran Bilbao.
-182	Conviene saber · Cerrajero24
+182	Conviene saber · CerrajeroUCR
 183	Apertura urgente de cerraduras y puertas en&nbsp;<span class="accent">Bilbao</span>: lo que conviene saber antes de llamar al cerrajero
 184	Si la puerta de entrada no se abre, lo primero es averiguar qué ocurre y no dañar la cerradura con maniobras improvisadas. A continuación le explicamos cómo se realiza la apertura urgente de una puerta, cuándo hay que cambiar el mecanismo y qué conviene preparar antes de que llegue el cerrajero.
 185	<h3>¿Se puede abrir una puerta sin dañar la cerradura?</h3>
 186	<p>En muchos casos es posible abrir la puerta de entrada conservando la cerradura y la hoja. El resultado depende de cómo esté construida la puerta, del tipo de bombín, del estado del mecanismo y de la causa del bloqueo. Por ejemplo, una puerta cerrada de resbalón y una cerradura multipunto averiada requieren un enfoque distinto.</p>
-187	<p>El cerrajero de Cerrajero24 examina primero la puerta y valora si es posible abrirla sin daños. Si para recuperar el acceso hay que dañar o sustituir alguna pieza, el técnico le explicará la situación y acordará con usted los pasos antes de empezar. Más información en la página de <a href="{url:svc-puertas}">apertura urgente de puertas</a>.</p>
+187	<p>El cerrajero de CerrajeroUCR examina primero la puerta y valora si es posible abrirla sin daños. Si para recuperar el acceso hay que dañar o sustituir alguna pieza, el técnico le explicará la situación y acordará con usted los pasos antes de empezar. Más información en la página de <a href="{url:svc-puertas}">apertura urgente de puertas</a>.</p>
 188	<h3>¿Qué hacer si la puerta de entrada se ha atascado?</h3>
 189	<p>No fuerce la llave, no golpee la cerradura ni intente abrir la puerta con lo primero que tenga a mano. Podría agravar la avería, dañar el bombín y encarecer la reparación posterior. Compruebe si la hoja está descolgada y le impide cerrar, y si la llave presenta signos de daño.</p>
 190	<p>Si el mecanismo sigue sin funcionar, contacte con el cerrajero. Indíquele si la llave gira, si la manilla abre y qué cerradura tiene. Con estos datos el técnico podrá valorar de antemano la complejidad del servicio. Si la causa es el desgaste del mecanismo, la solución es la <a href="{url:svc-reparacion}">reparación de la cerradura</a>.</p>
@@ -241,6 +241,6 @@
 241	Abrir una caja fuerte
 242	Cambiar o instalar una cerradura
 243	Otro
-244	Cerrajero urgente en Bilbao 24 horas — Cerrajero24
+244	Cerrajero urgente en Bilbao 24 horas — CerrajeroUCR
 245	Cerrajero urgente en Bilbao y el Gran Bilbao las 24 horas. Abrimos puertas, coches, cajas fuertes y garajes; cambiamos y reparamos cerraduras. Precio antes de empezar.
 246	Abrimos puertas, coches, cajas fuertes y garajes en Bilbao y el Gran Bilbao. Las 24 horas, con el precio acordado antes de empezar.

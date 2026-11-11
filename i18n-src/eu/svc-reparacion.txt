@@ -115,8 +115,8 @@
 115	Guardiako sarrailagilea egunean 24 orduz dago prest: atea irekiko dugu eta sarraila konponduko dugu.
 116	Deitu sarrailagileari
 117	Bilbo · Bizkaia
-118	Zergatik Cerrajero24
-119	Zergatik uzten duten sarrailen konponketa <span class="accent">Cerrajero24</span>-ren esku
+118	Zergatik CerrajeroUCR
+119	Zergatik uzten duten sarrailen konponketa <span class="accent">CerrajeroUCR</span>-ren esku
 120	Diagnostikoa bertan
 121	Matxuraren arrazoia aurkitzen dugu eta hitz errazekin azaltzen dizugu.
 122	Konpondu, ez berria saldu
@@ -234,10 +234,10 @@
 234	Bilbo ingurura ere joaten zarete?
 235	<p>Bai. Bilboko auzo guztiez gain, Bilbo Handiko udalerrietara ere joaten gara: Barakaldo, Getxo, Portugalete, Santurtzi, Leioa, Sestao, Basauri, Erandio eta beste batzuk. Hiritik kanpoko prezioa eta iristeko denbora operadoreak esango dizkizu deitzean. Zure eremua <a href="#areas">zerbitzu-eremuaren mapan</a> egiazta dezakezu.</p>
 236	Zerbitzu gehiago
-237	Cerrajero24ren beste zerbitzu batzuk Bilbon
+237	CerrajeroUCR-ren beste zerbitzu batzuk Bilbon
 238	Zerbitzu-eskaera
 239	Eskatu sarraila baten konponketa Bilbon
-240	Sarraila trabatzen da edo atea gaizki ixten da? Jarri harremanetan Cerrajero24rekin prezioa galdetzeko eta bisitarako ordua aukeratzeko.
+240	Sarraila trabatzen da edo atea gaizki ixten da? Jarri harremanetan CerrajeroUCR-rekin prezioa galdetzeko eta bisitarako ordua aukeratzeko.
 241	24/7 lanean, asteburuetan eta jaiegunetan ere
 242	Eremua: Bilbo eta Bizkaia
 243	Prezioa hasi aurretik adosten dugu
@@ -253,7 +253,7 @@
 253	Krisketak edo heldulekuak ez du funtzionatzen
 254	Puntu anitzeko sarrailak ez du funtzionatzen
 255	Beste bat
-256	Ate-sarrailak konpontzea Bilbon — Cerrajero24
+256	Ate-sarrailak konpontzea Bilbon — CerrajeroUCR
 257	Giltzak nekez biratzen du edo sarraila trabatzen da? Bonbinadun, gorja-sarrailak eta puntu anitzeko sarrailak konpontzen ditugu Bilbon. Diagnostikoa bertan, prezioa lana hasi aurretik.
 258	Sarraila trabatzen da edo giltzak nekez biratzen du? Zure ate-sarraila konponduko dugu Bilbon, prezioa lana hasi aurretik.
 259	Ate-sarrailak konpontzea Bilbon

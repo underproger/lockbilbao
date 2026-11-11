@@ -80,7 +80,7 @@
 111	Sarrailagileak sartzeko eskubidea egiaztatzen du eta atea edo sarraila adostutako metodoarekin irekitzen du.
 113	Atearen eta sarrailaren funtzionamendua egiaztatzen dugu. Behar izanez gero, bonbina edo giltzarrapoa aldatzen dugu.
 114	Garajea ez da irekitzen orain bertan?
-119	Zergatik aukeratu <span class="accent">Cerrajero24</span> zure garajea irekitzeko
+119	Zergatik aukeratu <span class="accent">CerrajeroUCR</span> zure garajea irekitzeko
 122	Zerbitzua Bilbon eta inguruetan
 123	Garaje partikularrak, aparkalekuak, biltegiak eta trastelekuak, hirian eta Bilbo Handian.
 124	Lan arduratsua
@@ -151,7 +151,7 @@
 232	Zer agiri behar dira garaje bat irekitzeko?
 233	<p>Argazkidun agiri bat eta garajearen edo trastelekuaren gaineko eskubidea egiaztatzen duen zerbait: eskritura (<span lang="es">escritura</span>), plazaren alokairu-kontratua edo erkidegoaren ordainagiria. Informazio gehiago <a href="#documents">agiriei</a> buruzko atalean.</p>
 239	Deitu sarrailagile bati zure garajea Bilbon irekitzeko
-240	Atea edo garajea ez da irekitzen? Jarri harremanetan Cerrajero24rekin prezioa jakiteko eta sarrailagile bat eskatzeko.
+240	Atea edo garajea ez da irekitzen? Jarri harremanetan CerrajeroUCR-rekin prezioa jakiteko eta sarrailagile bat eskatzeko.
 244	Sarraila eta atea gordetzen saiatzen gara
 246	Garajea irekitzea
 247	Galdetu garaje bat irekitzearen prezioa
@@ -162,7 +162,7 @@
 253	Urruneko agintea ez dabil
 254	Giltzarrapoa ez da irekitzen
 255	Trastelekua itxita dago
-257	Garajeak eta ateak irekitzea Bilbon 24/7 — Cerrajero24
+257	Garajeak eta ateak irekitzea Bilbon 24/7 — CerrajeroUCR
 258	Garajearen, pertsianaren edo trastelekuaren sarraila trabatu da? Garaje-ateak, metalezko itxierak eta giltzarrapoak irekitzen ditugu Bilbon. Prezioa hasi aurretik.
 259	Garajearen edo pertsianaren sarraila trabatu da? Garajeak eta ateak Bilbon irekitzen ditugu, prezioa hasi aurretik adostuta.
 260	Garajeak eta ateak irekitzea Bilbon

@@ -103,7 +103,7 @@
     ],
     "pr_cta_title": "Consultar el precio de apertura de una cerradura",
     "pr_cta_text": "Contacte con el cerrajero y reciba una estimación previa.",
-    "why_kicker": "Por qué elegir Cerrajero24",
+    "why_kicker": "Por qué elegir CerrajeroUCR",
     "why_title": "¿Por qué nos eligen <span class=\"accent\">para abrir cerraduras?</span>",
     "why_lead": "Ayudamos rápido, con cuidado y con total transparencia. Trabajamos en Bilbao y Bizkaia, explicamos el precio por adelantado y buscamos la solución adecuada para cada caso.",
     "why_cards": [
@@ -349,8 +349,8 @@
     "rv_cta_text": "Llamar a un cerrajero de confianza",
     "rv_cta_type": "call",
     "about_kicker": "Sobre nosotros",
-    "about_title": "Sobre la empresa y los cerrajeros de Cerrajero24",
-    "about_lead": "Cerrajero24 es un servicio de apertura urgente y mantenimiento de cerraduras en Bilbao y el Gran Bilbao. Abrimos puertas de pisos y casas, coches, cajas fuertes y garajes, y después de la apertura reparamos, cambiamos e instalamos cerraduras.",
+    "about_title": "Sobre la empresa y los cerrajeros de CerrajeroUCR",
+    "about_lead": "CerrajeroUCR es un servicio de apertura urgente y mantenimiento de cerraduras en Bilbao y el Gran Bilbao. Abrimos puertas de pisos y casas, coches, cajas fuertes y garajes, y después de la apertura reparamos, cambiamos e instalamos cerraduras.",
     "about_text": "Al servicio acude un cerrajero uniformado, con documentación y todas las herramientas necesarias. Antes de empezar le explica lo que va a hacer y le dice el precio. Al terminar, comprueba la cerradura con usted y le entrega un documento con la garantía.",
     "about_facts": [
      {
@@ -456,10 +456,10 @@
      }
     ],
     "geo_card_2_note": "y otros municipios del área metropolitana del Gran Bilbao.",
-    "lr_kicker": "Conviene saber · Cerrajero24",
+    "lr_kicker": "Conviene saber · CerrajeroUCR",
     "lr_title": "Apertura urgente de cerraduras y puertas en&nbsp;<span class=\"accent\">Bilbao</span>: lo que conviene saber antes de llamar al cerrajero",
     "lr_lead": "Si la puerta de entrada no se abre, lo primero es averiguar qué ocurre y no dañar la cerradura con maniobras improvisadas. A continuación le explicamos cómo se realiza la apertura urgente de una puerta, cuándo hay que cambiar el mecanismo y qué conviene preparar antes de que llegue el cerrajero.",
-    "lr_body": "<h3>¿Se puede abrir una puerta sin dañar la cerradura?</h3>\n<p>En muchos casos es posible abrir la puerta de entrada conservando la cerradura y la hoja. El resultado depende de cómo esté construida la puerta, del tipo de bombín, del estado del mecanismo y de la causa del bloqueo. Por ejemplo, una puerta cerrada de resbalón y una cerradura multipunto averiada requieren un enfoque distinto.</p>\n<p>El cerrajero de Cerrajero24 examina primero la puerta y valora si es posible abrirla sin daños. Si para recuperar el acceso hay que dañar o sustituir alguna pieza, el técnico le explicará la situación y acordará con usted los pasos antes de empezar. Más información en la página de <a href=\"{url:svc-puertas}\">apertura urgente de puertas</a>.</p>\n<h3>¿Qué hacer si la puerta de entrada se ha atascado?</h3>\n<p>No fuerce la llave, no golpee la cerradura ni intente abrir la puerta con lo primero que tenga a mano. Podría agravar la avería, dañar el bombín y encarecer la reparación posterior. Compruebe si la hoja está descolgada y le impide cerrar, y si la llave presenta signos de daño.</p>\n<p>Si el mecanismo sigue sin funcionar, contacte con el cerrajero. Indíquele si la llave gira, si la manilla abre y qué cerradura tiene. Con estos datos el técnico podrá valorar de antemano la complejidad del servicio. Si la causa es el desgaste del mecanismo, la solución es la <a href=\"{url:svc-reparacion}\">reparación de la cerradura</a>.</p>\n<h3>¿Cuándo hay que cambiar la cerradura después de la apertura?</h3>\n<p>No es obligatorio cambiar la cerradura después de cada apertura urgente. Si el mecanismo está en buen estado y la puerta se ha abierto sin daños, normalmente basta con comprobar que funciona. El cambio puede ser necesario cuando el bombín está desgastado, la llave se ha roto dentro, el mecanismo está dañado o sigue atascándose.</p>\n<p>Otro caso es la pérdida de las llaves o la mudanza a un piso nuevo. Aunque la puerta abra bien, un bombín nuevo evita que alguien use los juegos de llaves antiguos. El cerrajero le dirá si basta con cambiar el bombín o hace falta cambiar toda la cerradura. Más información en la sección de <a href=\"{url:svc-cambio}\">cambio de cerraduras y bombines</a>.</p>\n<h3>¿Cómo prepararse para la llegada del cerrajero?</h3>\n<p>Al llamar, indique la dirección en Bilbao o Bizkaia, el tipo de inmueble y describa brevemente el problema: la puerta se ha cerrado de golpe, ha perdido las llaves, la cerradura se ha atascado o la llave está dañada. Si puede, envíe una foto de la puerta y de la cerradura: nos ayudará a hacer una valoración previa.</p>\n<p>Tenga a mano un documento u otra prueba de su derecho a acceder al inmueble. Si los documentos se han quedado dentro, avise al operador de antemano. Antes de trabajar, el cerrajero comprobará que usted está autorizado, revisará el estado de la cerradura y acordará el precio y los posibles gastos adicionales. Puede dejar su solicitud <a href=\"#request\">en el formulario de abajo</a> o por teléfono.</p>",
+    "lr_body": "<h3>¿Se puede abrir una puerta sin dañar la cerradura?</h3>\n<p>En muchos casos es posible abrir la puerta de entrada conservando la cerradura y la hoja. El resultado depende de cómo esté construida la puerta, del tipo de bombín, del estado del mecanismo y de la causa del bloqueo. Por ejemplo, una puerta cerrada de resbalón y una cerradura multipunto averiada requieren un enfoque distinto.</p>\n<p>El cerrajero de CerrajeroUCR examina primero la puerta y valora si es posible abrirla sin daños. Si para recuperar el acceso hay que dañar o sustituir alguna pieza, el técnico le explicará la situación y acordará con usted los pasos antes de empezar. Más información en la página de <a href=\"{url:svc-puertas}\">apertura urgente de puertas</a>.</p>\n<h3>¿Qué hacer si la puerta de entrada se ha atascado?</h3>\n<p>No fuerce la llave, no golpee la cerradura ni intente abrir la puerta con lo primero que tenga a mano. Podría agravar la avería, dañar el bombín y encarecer la reparación posterior. Compruebe si la hoja está descolgada y le impide cerrar, y si la llave presenta signos de daño.</p>\n<p>Si el mecanismo sigue sin funcionar, contacte con el cerrajero. Indíquele si la llave gira, si la manilla abre y qué cerradura tiene. Con estos datos el técnico podrá valorar de antemano la complejidad del servicio. Si la causa es el desgaste del mecanismo, la solución es la <a href=\"{url:svc-reparacion}\">reparación de la cerradura</a>.</p>\n<h3>¿Cuándo hay que cambiar la cerradura después de la apertura?</h3>\n<p>No es obligatorio cambiar la cerradura después de cada apertura urgente. Si el mecanismo está en buen estado y la puerta se ha abierto sin daños, normalmente basta con comprobar que funciona. El cambio puede ser necesario cuando el bombín está desgastado, la llave se ha roto dentro, el mecanismo está dañado o sigue atascándose.</p>\n<p>Otro caso es la pérdida de las llaves o la mudanza a un piso nuevo. Aunque la puerta abra bien, un bombín nuevo evita que alguien use los juegos de llaves antiguos. El cerrajero le dirá si basta con cambiar el bombín o hace falta cambiar toda la cerradura. Más información en la sección de <a href=\"{url:svc-cambio}\">cambio de cerraduras y bombines</a>.</p>\n<h3>¿Cómo prepararse para la llegada del cerrajero?</h3>\n<p>Al llamar, indique la dirección en Bilbao o Bizkaia, el tipo de inmueble y describa brevemente el problema: la puerta se ha cerrado de golpe, ha perdido las llaves, la cerradura se ha atascado o la llave está dañada. Si puede, envíe una foto de la puerta y de la cerradura: nos ayudará a hacer una valoración previa.</p>\n<p>Tenga a mano un documento u otra prueba de su derecho a acceder al inmueble. Si los documentos se han quedado dentro, avise al operador de antemano. Antes de trabajar, el cerrajero comprobará que usted está autorizado, revisará el estado de la cerradura y acordará el precio y los posibles gastos adicionales. Puede dejar su solicitud <a href=\"#request\">en el formulario de abajo</a> o por teléfono.</p>",
     "faq_kicker": "Preguntas",
     "faq_title": "Preguntas frecuentes sobre la apertura urgente de cerraduras en&nbsp;Bilbao",
     "faq_help_title": "¿Tiene más preguntas?",
@@ -534,7 +534,7 @@
     "modal_text": "Déjenos su número y, si puede, adjunte una foto de la cerradura. El cerrajero le llamará y le dará un precio orientativo.",
     "modal_file": "Foto de la cerradura",
     "modal_options": "La puerta se ha cerrado de golpe\nPuerta cerrada con llave y sin llave\nSe ha roto la llave\nLa cerradura se ha atascado\nAbrir un coche\nAbrir una caja fuerte\nCambiar o instalar una cerradura\nOtro",
-    "seo_title": "Cerrajero urgente en Bilbao 24 horas — Cerrajero24",
+    "seo_title": "Cerrajero urgente en Bilbao 24 horas — CerrajeroUCR",
     "seo_desc": "Cerrajero urgente en Bilbao y el Gran Bilbao las 24 horas. Abrimos puertas, coches, cajas fuertes y garajes; cambiamos y reparamos cerraduras. Precio antes de empezar.",
     "og_desc": "Abrimos puertas, coches, cajas fuertes y garajes en Bilbao y el Gran Bilbao. Las 24 horas, con el precio acordado antes de empezar."
    }
@@ -710,7 +710,7 @@
     ],
     "pr_cta_title": "Consultar el precio de apertura de una cerradura",
     "pr_cta_text": "Contacte con el cerrajero y reciba una estimación previa.",
-    "why_kicker": "Por qué elegir Cerrajero24",
+    "why_kicker": "Por qué elegir CerrajeroUCR",
     "why_title": "¿Por qué nos eligen <span class=\"accent\">para abrir cerraduras?</span>",
     "why_lead": "Ayudamos rápido, con cuidado y con total transparencia. Trabajamos en Bilbao y Bizkaia, explicamos el precio por adelantado y buscamos la solución adecuada para cada caso.",
     "why_cards": [
@@ -776,12 +776,12 @@
     "flow_cta_sub": "Estamos disponibles y preparados para ayudarle en cualquier situación.",
     "flow_cta_btn": "Llamar al cerrajero",
     "faq_kicker": "Preguntas",
-    "faq_title": "Preguntas frecuentes sobre los servicios de Cerrajero24",
+    "faq_title": "Preguntas frecuentes sobre los servicios de CerrajeroUCR",
     "faq_help_title": "¿Tiene más preguntas?",
     "faq_help_text": "Contacte con el cerrajero: le responderemos y le diremos qué hacer ahora mismo.",
     "faq_items": [
      {
-      "q": "¿Qué servicios ofrece Cerrajero24?",
+      "q": "¿Qué servicios ofrece CerrajeroUCR?",
       "a": "<p>Apertura urgente de pisos y puertas de entrada, coches, cajas fuertes, garajes y locales comerciales, además de la reparación, el cambio y la instalación de cerraduras y la extracción de llaves rotas. Trabajamos en Bilbao y en los municipios del Gran Bilbao. Si no está seguro de qué servicio necesita, consulte <a href=\"#choose\">la guía por situaciones</a> o explíquenos el problema por teléfono: el operador le orientará.</p>"
      },
      {
@@ -814,7 +814,7 @@
      }
     ],
     "final_kicker": "Solicitud de servicio",
-    "final_title": "Llame a un cerrajero de Cerrajero24 en&nbsp;Bilbao",
+    "final_title": "Llame a un cerrajero de CerrajeroUCR en&nbsp;Bilbao",
     "final_lead": "¿No puede abrir la puerta, el coche o la caja fuerte? Déjenos su solicitud y un técnico le llamará para conocer el problema y concretar el desplazamiento.",
     "final_hours": "Las 24 horas, sin descanso ni festivos",
     "final_guarantees": [
@@ -829,8 +829,8 @@
      }
     ],
     "final_form_title": "Solicitud de cerrajero",
-    "seo_title": "Cerrajero en Bilbao: apertura, reparación y cambio de cerraduras 24 h — Cerrajero24",
-    "seo_desc": "Todos los servicios de Cerrajero24 en Bilbao y el Gran Bilbao: apertura urgente de pisos, coches, cajas fuertes y garajes; reparación, cambio e instalación de cerraduras. Las 24 horas, precio antes de empezar.",
+    "seo_title": "Cerrajero en Bilbao: apertura, reparación y cambio de cerraduras 24 h — CerrajeroUCR",
+    "seo_desc": "Todos los servicios de CerrajeroUCR en Bilbao y el Gran Bilbao: apertura urgente de pisos, coches, cajas fuertes y garajes; reparación, cambio e instalación de cerraduras. Las 24 horas, precio antes de empezar.",
     "og_desc": "Apertura urgente de pisos, coches, cajas fuertes y garajes; reparación, cambio e instalación de cerraduras en Bilbao y el Gran Bilbao."
    }
   },
@@ -1109,7 +1109,7 @@
     "edge_photo": "img:master-drill.webp",
     "edge_city": "img:casco-viejo.webp",
     "edge_chip": "Bilbao · Bizkaia",
-    "edge_kicker": "Por qué Cerrajero24",
+    "edge_kicker": "Por qué CerrajeroUCR",
     "edge_title": "Ventajas de nuestro servicio de apertura de pisos en&nbsp;<span class=\"accent\">Bilbao</span>",
     "edge_items": [
      {
@@ -1383,10 +1383,10 @@
      }
     ],
     "more_kicker": "Más servicios",
-    "more_title": "Otros servicios de Cerrajero24 en&nbsp;Bilbao",
+    "more_title": "Otros servicios de CerrajeroUCR en&nbsp;Bilbao",
     "final_kicker": "Solicitud de servicio",
     "final_title": "Llame a un cerrajero para abrir su piso en&nbsp;Bilbao",
-    "final_lead": "¿No puede entrar en su piso? Contacte con Cerrajero24 para conocer el precio y pedir que vaya un cerrajero.",
+    "final_lead": "¿No puede entrar en su piso? Contacte con CerrajeroUCR para conocer el precio y pedir que vaya un cerrajero.",
     "final_hours": "Trabajamos 24/7, sin descanso ni festivos",
     "final_guarantees": [
      {
@@ -1405,7 +1405,7 @@
     "modal_text": "Déjenos su número y, si puede, adjunte una foto de la cerradura. El cerrajero le llamará y le dará un precio orientativo.",
     "modal_file": "Foto de la cerradura",
     "modal_options": "La puerta se ha cerrado de golpe\nHe perdido las llaves\nLa llave está dentro\nLa cerradura se ha atascado\nSe ha roto la llave\nNo se abre la puerta acorazada\nOtro",
-    "seo_title": "Apertura urgente de pisos en Bilbao 24 h — Cerrajero24",
+    "seo_title": "Apertura urgente de pisos en Bilbao 24 h — CerrajeroUCR",
     "seo_desc": "¿Se le ha cerrado la puerta, ha perdido las llaves o se ha atascado la cerradura? Apertura urgente de pisos en Bilbao las 24 horas. Con cuidado y con el precio acordado antes de empezar.",
     "og_desc": "¿Se le ha cerrado la puerta, ha perdido las llaves o se ha atascado la cerradura? Abrimos su piso en Bilbao las 24 horas, con el precio antes de empezar.",
     "schema_name": "Apertura urgente de pisos en Bilbao",
@@ -1688,8 +1688,8 @@
     "edge_photo": "img:master-drill.webp",
     "edge_city": "img:guggenheim.webp",
     "edge_chip": "Bilbao · Bizkaia",
-    "edge_kicker": "Por qué Cerrajero24",
-    "edge_title": "Por qué elegir <span class=\"accent\">Cerrajero24</span> para abrir su coche",
+    "edge_kicker": "Por qué CerrajeroUCR",
+    "edge_title": "Por qué elegir <span class=\"accent\">CerrajeroUCR</span> para abrir su coche",
     "edge_items": [
      {
       "icon": "i-clock24",
@@ -1954,10 +1954,10 @@
      }
     ],
     "more_kicker": "Más servicios",
-    "more_title": "Otros servicios de Cerrajero24 en&nbsp;Bilbao",
+    "more_title": "Otros servicios de CerrajeroUCR en&nbsp;Bilbao",
     "final_kicker": "Solicitud de servicio",
     "final_title": "Llame a un cerrajero para abrir su coche en&nbsp;Bilbao",
-    "final_lead": "¿No puede entrar en su coche? Contacte con Cerrajero24 para conocer el precio y pedir que vaya un cerrajero.",
+    "final_lead": "¿No puede entrar en su coche? Contacte con CerrajeroUCR para conocer el precio y pedir que vaya un cerrajero.",
     "final_hours": "Trabajamos 24/7, sin descanso ni festivos",
     "final_guarantees": [
      {
@@ -1976,7 +1976,7 @@
     "modal_text": "Déjenos su número y, si puede, adjunte una foto del coche o de la llave. El cerrajero le llamará y le dará un precio orientativo.",
     "modal_file": "Foto del coche o de la llave",
     "modal_options": "Llaves dentro del coche\nEl maletero se ha cerrado\nEl mando no funciona\nLlaves perdidas\nLa cerradura de la puerta se ha atascado\nOtro",
-    "seo_title": "Apertura urgente de coches en Bilbao 24 h — Cerrajero24",
+    "seo_title": "Apertura urgente de coches en Bilbao 24 h — CerrajeroUCR",
     "seo_desc": "¿Llaves dentro del coche, maletero cerrado o mando sin pila? Abrimos su coche en Bilbao 24/7 sin dañar cristales ni gomas. Precio antes de empezar.",
     "og_desc": "¿Llaves dentro, maletero cerrado o mando sin pila? Abrimos su coche en Bilbao las 24 horas, con el precio antes de empezar.",
     "schema_name": "Apertura urgente de coches en Bilbao",
@@ -2259,8 +2259,8 @@
     "edge_photo": "img:master-drill.webp",
     "edge_city": "img:casco-viejo.webp",
     "edge_chip": "Bilbao · Bizkaia",
-    "edge_kicker": "Por qué Cerrajero24",
-    "edge_title": "Por qué elegir <span class=\"accent\">Cerrajero24</span> para abrir su caja fuerte",
+    "edge_kicker": "Por qué CerrajeroUCR",
+    "edge_title": "Por qué elegir <span class=\"accent\">CerrajeroUCR</span> para abrir su caja fuerte",
     "edge_items": [
      {
       "icon": "i-clock24",
@@ -2525,10 +2525,10 @@
      }
     ],
     "more_kicker": "Más servicios",
-    "more_title": "Otros servicios de Cerrajero24 en&nbsp;Bilbao",
+    "more_title": "Otros servicios de CerrajeroUCR en&nbsp;Bilbao",
     "final_kicker": "Solicitud de servicio",
     "final_title": "Llame a un cerrajero para abrir una caja fuerte en&nbsp;Bilbao",
-    "final_lead": "¿No se abre la caja fuerte? Contacte con Cerrajero24 para conocer el precio y pedir que vaya un cerrajero.",
+    "final_lead": "¿No se abre la caja fuerte? Contacte con CerrajeroUCR para conocer el precio y pedir que vaya un cerrajero.",
     "final_hours": "Trabajamos 24/7, sin descanso ni festivos",
     "final_guarantees": [
      {
@@ -2547,7 +2547,7 @@
     "modal_text": "Déjenos su número y, si puede, adjunte una foto de la caja fuerte. El cerrajero le llamará y le dará un precio orientativo.",
     "modal_file": "Foto de la caja fuerte",
     "modal_options": "He olvidado el código\nSe han agotado las pilas\nHe perdido la llave\nEl mecanismo se ha atascado\nLa caja fuerte se ha bloqueado\nOtro",
-    "seo_title": "Apertura de cajas fuertes en Bilbao 24 h — Cerrajero24",
+    "seo_title": "Apertura de cajas fuertes en Bilbao 24 h — CerrajeroUCR",
     "seo_desc": "¿Código olvidado, llave perdida o pilas agotadas? Abrimos cajas fuertes mecánicas, de combinación y electrónicas en Bilbao, primero sin taladrar. Precio antes de empezar.",
     "og_desc": "¿Ha olvidado el código o perdido la llave de la caja fuerte? La abrimos en Bilbao, sea mecánica, de combinación o electrónica, con el precio antes de empezar.",
     "schema_name": "Apertura de cajas fuertes en Bilbao",
@@ -2830,8 +2830,8 @@
     "edge_photo": "img:master-drill.webp",
     "edge_city": "img:casco-viejo.webp",
     "edge_chip": "Bilbao · Bizkaia",
-    "edge_kicker": "Por qué Cerrajero24",
-    "edge_title": "Por qué elegir <span class=\"accent\">Cerrajero24</span> para abrir su garaje",
+    "edge_kicker": "Por qué CerrajeroUCR",
+    "edge_title": "Por qué elegir <span class=\"accent\">CerrajeroUCR</span> para abrir su garaje",
     "edge_items": [
      {
       "icon": "i-clock24",
@@ -3096,10 +3096,10 @@
      }
     ],
     "more_kicker": "Más servicios",
-    "more_title": "Otros servicios de Cerrajero24 en&nbsp;Bilbao",
+    "more_title": "Otros servicios de CerrajeroUCR en&nbsp;Bilbao",
     "final_kicker": "Solicitud de servicio",
     "final_title": "Llame a un cerrajero para abrir su garaje en&nbsp;Bilbao",
-    "final_lead": "¿No se abre el portón o el garaje? Contacte con Cerrajero24 para conocer el precio y pedir que vaya un cerrajero.",
+    "final_lead": "¿No se abre el portón o el garaje? Contacte con CerrajeroUCR para conocer el precio y pedir que vaya un cerrajero.",
     "final_hours": "Trabajamos 24/7, sin descanso ni festivos",
     "final_guarantees": [
      {
@@ -3118,7 +3118,7 @@
     "modal_text": "Déjenos su número y, si puede, adjunte una foto de la puerta o de la cerradura. El cerrajero le llamará y le dará un precio orientativo.",
     "modal_file": "Foto de la puerta o de la cerradura",
     "modal_options": "La cerradura del portón se ha atascado\nNo se abre la persiana\nLlaves perdidas\nEl mando no funciona\nNo se abre el candado\nEl trastero está cerrado\nOtro",
-    "seo_title": "Apertura de garajes y portones en Bilbao 24 h — Cerrajero24",
+    "seo_title": "Apertura de garajes y portones en Bilbao 24 h — CerrajeroUCR",
     "seo_desc": "¿Se ha atascado la cerradura del garaje, de la persiana o del trastero? Abrimos portones, cierres metálicos y candados en Bilbao. Precio antes de empezar.",
     "og_desc": "¿Se ha atascado la cerradura del garaje o de la persiana? Abrimos garajes y portones en Bilbao, con el precio antes de empezar.",
     "schema_name": "Apertura de garajes y portones en Bilbao",
@@ -3401,8 +3401,8 @@
     "edge_photo": "img:master-drill.webp",
     "edge_city": "img:guggenheim.webp",
     "edge_chip": "Bilbao · Bizkaia",
-    "edge_kicker": "Por qué Cerrajero24",
-    "edge_title": "Por qué los negocios eligen <span class=\"accent\">Cerrajero24</span>",
+    "edge_kicker": "Por qué CerrajeroUCR",
+    "edge_title": "Por qué los negocios eligen <span class=\"accent\">CerrajeroUCR</span>",
     "edge_items": [
      {
       "icon": "i-clock24",
@@ -3667,10 +3667,10 @@
      }
     ],
     "more_kicker": "Más servicios",
-    "more_title": "Otros servicios de Cerrajero24 en&nbsp;Bilbao",
+    "more_title": "Otros servicios de CerrajeroUCR en&nbsp;Bilbao",
     "final_kicker": "Solicitud de servicio",
     "final_title": "Llame a un cerrajero para abrir su local en&nbsp;Bilbao",
-    "final_lead": "¿No puede entrar en la oficina, la tienda o el almacén? Contacte con Cerrajero24 para conocer el precio y pedir que vaya un cerrajero.",
+    "final_lead": "¿No puede entrar en la oficina, la tienda o el almacén? Contacte con CerrajeroUCR para conocer el precio y pedir que vaya un cerrajero.",
     "final_hours": "Trabajamos 24/7, sin descanso ni festivos",
     "final_guarantees": [
      {
@@ -3689,7 +3689,7 @@
     "modal_text": "Déjenos su número y, si puede, adjunte una foto de la puerta o de la cerradura. El cerrajero le llamará y le dará un precio orientativo.",
     "modal_file": "Foto de la puerta o de la cerradura",
     "modal_options": "No se abre la puerta de la oficina\nLa cerradura del cierre se ha atascado\nLlaves perdidas\nSe ha roto la llave en la cerradura\nCerradura dañada tras un intento de robo\nHay que cambiar los bombines\nOtro",
-    "seo_title": "Apertura de oficinas y tiendas en Bilbao 24 h — Cerrajero24",
+    "seo_title": "Apertura de oficinas y tiendas en Bilbao 24 h — CerrajeroUCR",
     "seo_desc": "¿No se abre la oficina, la tienda o el almacén? Abrimos su local en Bilbao 24/7 y, si hace falta, cambiamos los bombines en el momento. Precio antes de empezar.",
     "og_desc": "¿No se abre la oficina, la tienda o el almacén? Abrimos su local en Bilbao las 24 horas, con el precio antes de empezar.",
     "schema_name": "Apertura de oficinas y locales comerciales en Bilbao",
@@ -3972,8 +3972,8 @@
     "edge_photo": "img:master-drill.webp",
     "edge_city": "img:guggenheim.webp",
     "edge_chip": "Bilbao · Bizkaia",
-    "edge_kicker": "Por qué Cerrajero24",
-    "edge_title": "Por qué confían la reparación de cerraduras a <span class=\"accent\">Cerrajero24</span>",
+    "edge_kicker": "Por qué CerrajeroUCR",
+    "edge_title": "Por qué confían la reparación de cerraduras a <span class=\"accent\">CerrajeroUCR</span>",
     "edge_items": [
      {
       "icon": "i-wrench",
@@ -4234,10 +4234,10 @@
      }
     ],
     "more_kicker": "Más servicios",
-    "more_title": "Otros servicios de Cerrajero24 en&nbsp;Bilbao",
+    "more_title": "Otros servicios de CerrajeroUCR en&nbsp;Bilbao",
     "final_kicker": "Solicitud de servicio",
     "final_title": "Pedir la reparación de una cerradura en&nbsp;Bilbao",
-    "final_lead": "¿La cerradura se atasca o la puerta cierra mal? Contacte con Cerrajero24 para consultar el precio y elegir la hora de la visita.",
+    "final_lead": "¿La cerradura se atasca o la puerta cierra mal? Contacte con CerrajeroUCR para consultar el precio y elegir la hora de la visita.",
     "final_hours": "Trabajamos 24/7, sin descanso ni festivos",
     "final_guarantees": [
      {
@@ -4256,7 +4256,7 @@
     "modal_text": "Déjenos su número y, si puede, adjunte una foto de la cerradura. El cerrajero le llamará y le dará un precio orientativo.",
     "modal_file": "Foto de la cerradura",
     "modal_options": "La llave gira con dificultad\nLa cerradura se atasca\nLa puerta cierra con esfuerzo\nNo funciona el picaporte o la manilla\nNo funciona la cerradura multipunto\nOtro",
-    "seo_title": "Reparación de cerraduras en Bilbao — Cerrajero24",
+    "seo_title": "Reparación de cerraduras en Bilbao — CerrajeroUCR",
     "seo_desc": "¿La llave gira con dificultad o la cerradura se atasca? Reparamos cerraduras de bombín, de gorjas y multipunto en Bilbao. Diagnóstico en el sitio y precio antes de empezar.",
     "og_desc": "¿La cerradura se atasca o la llave gira con dificultad? Reparamos la cerradura de su puerta en Bilbao, con precio antes de empezar.",
     "schema_name": "Reparación de cerraduras en Bilbao",
@@ -4539,8 +4539,8 @@
     "edge_photo": "img:master-drill.webp",
     "edge_city": "img:casco-viejo.webp",
     "edge_chip": "Bilbao · Bizkaia",
-    "edge_kicker": "Por qué Cerrajero24",
-    "edge_title": "Por qué confían el cambio de cerraduras a <span class=\"accent\">Cerrajero24</span>",
+    "edge_kicker": "Por qué CerrajeroUCR",
+    "edge_title": "Por qué confían el cambio de cerraduras a <span class=\"accent\">CerrajeroUCR</span>",
     "edge_items": [
      {
       "icon": "x-cyl-swap",
@@ -4805,10 +4805,10 @@
      }
     ],
     "more_kicker": "Más servicios",
-    "more_title": "Otros servicios de Cerrajero24 en&nbsp;Bilbao",
+    "more_title": "Otros servicios de CerrajeroUCR en&nbsp;Bilbao",
     "final_kicker": "Solicitud de servicio",
     "final_title": "Pedir el cambio de cerradura en&nbsp;Bilbao",
-    "final_lead": "¿Necesita cambiar el bombín o la cerradura? Contacte con Cerrajero24 para elegir el bombín y saber el precio.",
+    "final_lead": "¿Necesita cambiar el bombín o la cerradura? Contacte con CerrajeroUCR para elegir el bombín y saber el precio.",
     "final_hours": "Trabajamos 24/7, sin descanso ni festivos",
     "final_guarantees": [
      {
@@ -4827,7 +4827,7 @@
     "modal_text": "Déjenos su número y, si puede, adjunte una foto de la cerradura por fuera y del canto de la puerta. El cerrajero le llamará, le propondrá opciones y le dirá el precio.",
     "modal_file": "Foto de la cerradura",
     "modal_options": "Llaves perdidas\nMe he mudado a un piso nuevo\nEl bombín está gastado o roto\nQuiero más seguridad\nTras un intento de robo\nCambio de varias cerraduras\nOtro",
-    "seo_title": "Cambio de cerraduras y bombines en Bilbao — Cerrajero24",
+    "seo_title": "Cambio de cerraduras y bombines en Bilbao — CerrajeroUCR",
     "seo_desc": "¿Ha perdido las llaves o se ha mudado? Cambiamos el bombín o la cerradura de su puerta en Bilbao en una sola visita, también bombines antibumping. Precio antes de empezar.",
     "og_desc": "Cambiamos el bombín o la cerradura de su puerta en Bilbao en una sola visita. Bombines antibumping, precio antes de empezar.",
     "schema_name": "Cambio de cerraduras y bombines en Bilbao",
@@ -5110,8 +5110,8 @@
     "edge_photo": "img:master-drill.webp",
     "edge_city": "img:guggenheim.webp",
     "edge_chip": "Bilbao · Bizkaia",
-    "edge_kicker": "Por qué Cerrajero24",
-    "edge_title": "Por qué confían la instalación de cerraduras a <span class=\"accent\">Cerrajero24</span>",
+    "edge_kicker": "Por qué CerrajeroUCR",
+    "edge_title": "Por qué confían la instalación de cerraduras a <span class=\"accent\">CerrajeroUCR</span>",
     "edge_items": [
      {
       "icon": "x-lock-plus",
@@ -5376,10 +5376,10 @@
      }
     ],
     "more_kicker": "Más servicios",
-    "more_title": "Otros servicios de Cerrajero24 en&nbsp;Bilbao",
+    "more_title": "Otros servicios de CerrajeroUCR en&nbsp;Bilbao",
     "final_kicker": "Solicitud de servicio",
     "final_title": "Pedir la instalación de una cerradura en&nbsp;Bilbao",
-    "final_lead": "¿Quiere poner una cerradura nueva o adicional? Contacte con Cerrajero24 para elegir la cerradura y saber el precio.",
+    "final_lead": "¿Quiere poner una cerradura nueva o adicional? Contacte con CerrajeroUCR para elegir la cerradura y saber el precio.",
     "final_hours": "Trabajamos 24/7, sin descanso ni festivos",
     "final_guarantees": [
      {
@@ -5398,7 +5398,7 @@
     "modal_text": "Déjenos su número y, si puede, adjunte una foto de la puerta. El cerrajero le llamará, le propondrá opciones y le dirá el precio.",
     "modal_file": "Foto de la puerta",
     "modal_options": "Cerradura adicional o cerrojo\nCerradura en una puerta nueva\nEscudo de seguridad\nCerradura multipunto\nCerradura de puerta de interior\nCerradura para oficina o tienda\nOtro",
-    "seo_title": "Instalación de cerraduras en Bilbao — Cerrajero24",
+    "seo_title": "Instalación de cerraduras en Bilbao — CerrajeroUCR",
     "seo_desc": "Instalamos cerraduras adicionales, cerrojos y escudos de seguridad, y embutimos cerraduras en puertas nuevas. Elección a medida de su puerta y montaje cuidadoso en Bilbao.",
     "og_desc": "Instalación de cerraduras, cerrojos y escudos de seguridad en Bilbao. A medida de su puerta, con precio antes de empezar.",
     "schema_name": "Instalación de cerraduras en Bilbao",
@@ -5681,8 +5681,8 @@
     "edge_photo": "img:master-drill.webp",
     "edge_city": "img:casco-viejo.webp",
     "edge_chip": "Bilbao · Bizkaia",
-    "edge_kicker": "Por qué Cerrajero24",
-    "edge_title": "Por qué eligen <span class=\"accent\">Cerrajero24</span> para extraer llaves",
+    "edge_kicker": "Por qué CerrajeroUCR",
+    "edge_title": "Por qué eligen <span class=\"accent\">CerrajeroUCR</span> para extraer llaves",
     "edge_items": [
      {
       "icon": "i-clock24",
@@ -5947,10 +5947,10 @@
      }
     ],
     "more_kicker": "Más servicios",
-    "more_title": "Otros servicios de Cerrajero24 en&nbsp;Bilbao",
+    "more_title": "Otros servicios de CerrajeroUCR en&nbsp;Bilbao",
     "final_kicker": "Solicitud de servicio",
     "final_title": "Llamar al cerrajero para extraer una llave en&nbsp;Bilbao",
-    "final_lead": "¿Se ha roto la llave en la cerradura? Contacte con Cerrajero24 para consultar el precio y pedir que vaya un especialista.",
+    "final_lead": "¿Se ha roto la llave en la cerradura? Contacte con CerrajeroUCR para consultar el precio y pedir que vaya un especialista.",
     "final_hours": "Trabajamos 24/7, sin descanso ni festivos",
     "final_guarantees": [
      {
@@ -5969,7 +5969,7 @@
     "modal_text": "Déjenos su número y, si puede, adjunte una foto de la cerradura. El cerrajero le llamará y le dará un precio orientativo.",
     "modal_file": "Foto de la cerradura",
     "modal_options": "La llave se ha roto en la puerta\nPuerta cerrada y el trozo dentro\nBuzón\nCerradura del coche\nGaraje o candado\nLa llave se ha atascado\nOtro",
-    "seo_title": "Extracción de llaves rotas en Bilbao 24/7 — Cerrajero24",
+    "seo_title": "Extracción de llaves rotas en Bilbao 24/7 — CerrajeroUCR",
     "seo_desc": "¿Se ha roto la llave en la cerradura de la puerta, del buzón o del coche? Sacamos el trozo en Bilbao 24/7, siempre que se pueda sin cambiar el bombín.",
     "og_desc": "¿Se ha roto la llave en la cerradura? Sacamos el trozo en Bilbao las 24 horas, siempre que se pueda sin cambiar el bombín.",
     "schema_name": "Extracción de llaves rotas en Bilbao",
@@ -5982,7 +5982,7 @@
    "slug": "contacto",
    "fields": {
     "crumb": "Contacto",
-    "sh_title": "Contacto de Cerrajero24 <span class=\"accent\">en&nbsp;Bilbao</span>",
+    "sh_title": "Contacto de CerrajeroUCR <span class=\"accent\">en&nbsp;Bilbao</span>",
     "sh_lead": "Atendemos avisos las 24 horas, sin descanso ni festivos. Lo más rápido es llamar: el operador de guardia le dirá enseguida qué trabajo necesita y le dará un precio y un tiempo de llegada orientativos.",
     "ct_call_label": "Llamada urgente · 24/7",
     "ct_call_text": "La forma más rápida de llamar a un cerrajero: respondemos también de&nbsp;noche y&nbsp;en&nbsp;festivos.",
@@ -6115,14 +6115,14 @@
     ],
     "geo_card_2_note": "y otros municipios del Gran Bilbao.",
     "company_kicker": "Sobre nosotros",
-    "company_title": "Datos de la empresa Cerrajero24",
+    "company_title": "Datos de la empresa CerrajeroUCR",
     "company_lead": "Datos fiscales, perfil en&nbsp;Google y documentos legales de la web, todo en&nbsp;un mismo lugar.",
     "req_title": "Datos de la empresa",
     "req_rows": [
      {
       "label": "Nombre",
       "type": "text",
-      "value": "Cerrajero24"
+      "value": "CerrajeroUCR"
      },
      {
       "label": "Actividad",
@@ -6150,7 +6150,7 @@
       "value": ""
      }
     ],
-    "google_title": "Cerrajero24 en&nbsp;Google Maps",
+    "google_title": "CerrajeroUCR en&nbsp;Google Maps",
     "google_text": "En el perfil de la empresa encontrará opiniones de clientes y datos de contacto. Si el cerrajero le ha ayudado, le agradeceremos una opinión: ayuda a otras personas a encontrar antes un cerrajero de confianza.",
     "google_btn_1": "Abrir en Google Maps",
     "google_btn_2": "Dejar una opinión",
@@ -6174,7 +6174,7 @@
      }
     ],
     "faq_kicker": "Preguntas",
-    "faq_title": "Preguntas frecuentes sobre cómo contactar con&nbsp;Cerrajero24",
+    "faq_title": "Preguntas frecuentes sobre cómo contactar con&nbsp;CerrajeroUCR",
     "faq_help_title": "¿Necesita un cerrajero ahora mismo?",
     "faq_help_text": "Llámenos: el cerrajero de guardia atiende las 24 horas.",
     "faq_items": [
@@ -6200,11 +6200,11 @@
      },
      {
       "q": "¿Cómo puedo dejar una opinión o consultar algo sobre un trabajo realizado?",
-      "a": "<p>Puede dejar su opinión en nuestro perfil de Google Maps: encontrará el enlace en el bloque <a href=\"#company\">«Datos de la empresa»</a>. Las consultas sobre un trabajo realizado, la garantía o los documentos es mejor enviarlas a <a href=\"mailto:info@cerrajero24.es\">info@cerrajero24.es</a>: indique la fecha del servicio, la dirección y el teléfono desde el que llamó, y así encontraremos su aviso antes.</p>"
+      "a": "<p>Puede dejar su opinión en nuestro perfil de Google Maps: encontrará el enlace en el bloque <a href=\"#company\">«Datos de la empresa»</a>. Las consultas sobre un trabajo realizado, la garantía o los documentos es mejor enviarlas a <a href=\"mailto:info@cerrajeroucr.es\">info@cerrajeroucr.es</a>: indique la fecha del servicio, la dirección y el teléfono desde el que llamó, y así encontraremos su aviso antes.</p>"
      }
     ],
-    "seo_title": "Contacto de Cerrajero24 — cerrajero en Bilbao 24 horas",
-    "seo_desc": "Teléfono, WhatsApp y correo de Cerrajero24. Apertura urgente y cambio de cerraduras en Bilbao y el Gran Bilbao las 24 horas. Llámenos o déjenos su solicitud y le llamaremos.",
+    "seo_title": "Contacto de CerrajeroUCR — cerrajero en Bilbao 24 horas",
+    "seo_desc": "Teléfono, WhatsApp y correo de CerrajeroUCR. Apertura urgente y cambio de cerraduras en Bilbao y el Gran Bilbao las 24 horas. Llámenos o déjenos su solicitud y le llamaremos.",
     "og_desc": "Teléfono, WhatsApp y correo. Apertura urgente y cambio de cerraduras en Bilbao y el Gran Bilbao las 24 horas."
    }
   },
@@ -6212,7 +6212,7 @@
    "title": "Política de privacidad",
    "slug": "politica-de-privacidad",
    "fields": {
-    "seo_title": "Política de privacidad — Cerrajero24",
+    "seo_title": "Política de privacidad — CerrajeroUCR",
     "seo_desc": ""
    },
    "content": "<p>El texto de este documento se publicará próximamente.</p>"
@@ -6221,7 +6221,7 @@
    "title": "Política de cookies",
    "slug": "politica-de-cookies",
    "fields": {
-    "seo_title": "Política de cookies — Cerrajero24",
+    "seo_title": "Política de cookies — CerrajeroUCR",
     "seo_desc": ""
    },
    "content": "<p>El texto de este documento se publicará próximamente.</p>"
@@ -6230,7 +6230,7 @@
    "title": "Condiciones del servicio",
    "slug": "condiciones-del-servicio",
    "fields": {
-    "seo_title": "Condiciones del servicio — Cerrajero24",
+    "seo_title": "Condiciones del servicio — CerrajeroUCR",
     "seo_desc": ""
    },
    "content": "<p>El texto de este documento se publicará próximamente.</p>"
@@ -6239,18 +6239,18 @@
    "title": "Aviso legal",
    "slug": "aviso-legal",
    "fields": {
-    "seo_title": "Aviso legal — Cerrajero24",
+    "seo_title": "Aviso legal — CerrajeroUCR",
     "seo_desc": ""
    },
    "content": "<p>El texto de este documento se publicará próximamente.</p>"
   }
  },
  "media": {
-  "master.webp": "Cerrajero de Cerrajero24 abriendo con cuidado la cerradura de una puerta de entrada en Bilbao",
+  "master.webp": "Cerrajero de CerrajeroUCR abriendo con cuidado la cerradura de una puerta de entrada en Bilbao",
   "guggenheim-480.webp": "Museo Guggenheim y puente de La Salve en Bilbao",
   "casco-viejo-480.webp": "Mercado de la Ribera e iglesia de San Antón, Casco Viejo de Bilbao",
   "lock-multipoint.webp": "Cerrajero desmontando la cerradura multipunto de una puerta de entrada",
-  "safe-opening.webp": "Cerrajero de Cerrajero24 abriendo con cuidado una caja fuerte electrónica",
+  "safe-opening.webp": "Cerrajero de CerrajeroUCR abriendo con cuidado una caja fuerte electrónica",
   "guggenheim.webp": "Museo Guggenheim a orillas de la ría del Nervión, Bilbao",
   "services/apertura-puertas.webp": "Apertura de la puerta de entrada de un piso",
   "services/apertura-coches.webp": "Apertura urgente de un coche",
@@ -6261,9 +6261,9 @@
   "services/cambio-cerraduras-bombines.webp": "Cambio del bombín de una cerradura",
   "services/instalacion-cerraduras.webp": "Instalación y montaje de una cerradura",
   "services/extraccion-llaves-rotas.webp": "Extracción de una llave rota de la cerradura",
-  "master-multilock.webp": "Cerrajero de Cerrajero24 desmontando una cerradura multipunto de una puerta de entrada",
-  "locksmiths-door.webp": "Cerrajeros de Cerrajero24 cambiando la cerradura de una puerta",
-  "master-drill.webp": "Cerrajero de Cerrajero24 con atornillador junto a la cerradura de una puerta",
+  "master-multilock.webp": "Cerrajero de CerrajeroUCR desmontando una cerradura multipunto de una puerta de entrada",
+  "locksmiths-door.webp": "Cerrajeros de CerrajeroUCR cambiando la cerradura de una puerta",
+  "master-drill.webp": "Cerrajero de CerrajeroUCR con atornillador junto a la cerradura de una puerta",
   "casco-viejo.webp": "Casco Viejo y ría del Nervión, Bilbao"
  },
  "menus": {

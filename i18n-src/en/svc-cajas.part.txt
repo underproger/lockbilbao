@@ -82,7 +82,7 @@
 112	Checking and restoring
 113	We test the lock and change the code or batteries. If a new lock is needed, we offer it straight away.
 114	Need access to your safe right now?
-119	Why choose <span class="accent">Cerrajero24</span> for safe opening
+119	Why choose <span class="accent">CerrajeroUCR</span> for safe opening
 122	We work on site
 123	We come to your home, office or shop — no need to take the safe anywhere.
 124	Saving the safe comes first
@@ -160,7 +160,7 @@
 234	What should I do if a hotel or holiday flat safe won’t open?
 235	<p>Contact reception or the owner of the flat: the safe belongs to them, and they or a locksmith they call should open it.</p>
 241	Call a locksmith to open a safe in&nbsp;Bilbao
-242	Safe won’t open? Contact Cerrajero24 to check the price and book a locksmith.
+242	Safe won’t open? Contact CerrajeroUCR to check the price and book a locksmith.
 246	Non-drilling methods first
 248	Safe opening
 249	Ask for a safe opening price
@@ -171,7 +171,7 @@
 254	I’ve lost the key
 255	The mechanism is jammed
 256	The safe has locked out
-258	Safe opening in Bilbao 24/7 — Cerrajero24
+258	Safe opening in Bilbao 24/7 — CerrajeroUCR
 259	Forgotten code, lost key or flat batteries? We open mechanical, combination and electronic safes in Bilbao — without drilling first. Price agreed before work begins.
 260	Forgotten the code or lost the safe key? We’ll open mechanical, combination or electronic safes in Bilbao, with the price agreed before we start.
 261	Safe opening in Bilbao

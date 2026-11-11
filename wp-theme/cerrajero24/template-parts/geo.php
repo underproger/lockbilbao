@@ -14,7 +14,7 @@ foreach ( [ 1, 2 ] as $n ) {
 		'note'  => c24_field( "geo_card_{$n}_note" ),
 	];
 }
-$map_alt = c24__( 'Mapa de la zona de servicio de Cerrajero24: Bilbao y los 26 municipios del Gran Bilbao — Getxo, Santurtzi, Portugalete, Sestao, Barakaldo, Leioa, Erandio, Basauri, Galdakao y otros' );
+$map_alt = c24__( 'Mapa de la zona de servicio de CerrajeroUCR: Bilbao y los 26 municipios del Gran Bilbao — Getxo, Santurtzi, Portugalete, Sestao, Barakaldo, Leioa, Erandio, Basauri, Galdakao y otros' );
 ?>
   <section class="section geo" id="areas" aria-labelledby="areas-title">
     <div class="geo__deco" aria-hidden="true"><i class="geo__ring geo__ring--a"></i><i class="geo__ring geo__ring--b"></i><i class="geo__spark"></i></div>

@@ -83,7 +83,7 @@
 111	The locksmith arrives, checks your right to use the car and opens the door or boot using the agreed method.
 113	We check the doors, boot and central locking. If the cylinder needs repairing, we offer to do it straight away.
 114	Car locked right now?
-119	Why choose <span class="accent">Cerrajero24</span> for car opening
+119	Why choose <span class="accent">CerrajeroUCR</span> for car opening
 121	We take calls 24/7, including weekends and public holidays.
 122	We come to your car
 123	Street, courtyard, shopping centre or underground car park — in Bilbao and the suburbs.
@@ -162,7 +162,7 @@
 234	<p>Yes, around the clock, including weekends and public holidays. At night from 22:00 to 08:00 and on public holidays a surcharge applies — the dispatcher tells you the amount when you call. If a child or animal is in the locked car, call 112 first.</p>
 236	<p>Yes. As well as every district of Bilbao, we cover the municipalities of Greater Bilbao: Barakaldo, Getxo, Portugalete, Santurtzi, Leioa, Sestao, Basauri, Erandio and others. The dispatcher will tell you the price and arrival time outside the city when you call. You can check your area on the <a href="#areas">service area map</a>.</p>
 240	Call a locksmith to open your car in&nbsp;Bilbao
-241	Can’t get into your car? Contact Cerrajero24 to check the price and book a locksmith.
+241	Can’t get into your car? Contact CerrajeroUCR to check the price and book a locksmith.
 245	We aim to open without leaving marks on the car
 247	Car opening
 248	Ask for a car opening price
@@ -172,7 +172,7 @@
 252	The boot slammed shut
 253	The remote doesn’t work
 255	The door lock is jammed
-257	Emergency car opening in Bilbao 24/7 — Cerrajero24
+257	Emergency car opening in Bilbao 24/7 — CerrajeroUCR
 258	Keys in the car, boot locked or flat remote battery? We open your car in Bilbao 24/7 without damaging windows or seals. Price agreed before work begins.
 259	Keys inside, boot locked or flat remote? We’ll open your car in Bilbao around the clock, with the price agreed before we start.
 260	Emergency car opening in Bilbao

@@ -115,8 +115,8 @@
 115	Bonbinak premiaz aldatzen ditugu egunean 24 orduz, gauez eta jaiegunetan ere bai.
 116	Deitu sarrailagileari
 117	Bilbo · Bizkaia
-118	Zergatik Cerrajero24
-119	Zergatik uzten duten sarrailen aldaketa <span class="accent">Cerrajero24</span>-ren esku
+118	Zergatik CerrajeroUCR
+119	Zergatik uzten duten sarrailen aldaketa <span class="accent">CerrajeroUCR</span>-ren esku
 120	Aldaketa bisita bakarrean
 121	Sarrailagileak neurri ohikoenetako bonbinak eramaten ditu, une berean aldatzeko.
 122	Segurtasun-mailaren arabera aukeratzeko
@@ -234,10 +234,10 @@
 234	Bilbo ingurura ere joaten zarete?
 235	<p>Bai. Bilboko auzo guztiez gain, Bilbo Handiko udalerrietara ere joaten gara: Barakaldo, Getxo, Portugalete, Santurtzi, Leioa, Sestao, Basauri, Erandio eta beste batzuk. Hiritik kanpoko prezioa eta iristeko denbora operadoreak esango dizkizu deitzean. Zure eremua <a href="#areas">zerbitzu-eremuaren mapan</a> egiazta dezakezu.</p>
 236	Zerbitzu gehiago
-237	Cerrajero24ren beste zerbitzu batzuk Bilbon
+237	CerrajeroUCR-ren beste zerbitzu batzuk Bilbon
 238	Zerbitzu-eskaera
 239	Eskatu sarraila baten aldaketa Bilbon
-240	Bonbina edo sarraila aldatu behar duzu? Jarri harremanetan Cerrajero24rekin bonbina aukeratzeko eta prezioa jakiteko.
+240	Bonbina edo sarraila aldatu behar duzu? Jarri harremanetan CerrajeroUCR-rekin bonbina aukeratzeko eta prezioa jakiteko.
 241	24/7 lanean, asteburuetan eta jaiegunetan ere
 242	Eremua: Bilbo eta Bizkaia
 243	Prezioa hasi aurretik adosten dugu
@@ -254,7 +254,7 @@
 254	Lapurreta-saiakera baten ondoren
 255	Hainbat sarraila aldatzea
 256	Beste bat
-257	Sarrailak eta bonbinak aldatzea Bilbon — Cerrajero24
+257	Sarrailak eta bonbinak aldatzea Bilbon — CerrajeroUCR
 258	Giltzak galdu dituzu edo etxez aldatu zara? Zure atearen bonbina edo sarraila aldatzen dugu Bilbon bisita bakarrean, baita bumping-aren aurkako bonbinak ere. Prezioa lana hasi aurretik.
 259	Zure atearen bonbina edo sarraila aldatzen dugu Bilbon bisita bakarrean. Bumping-aren aurkako bonbinak, prezioa lana hasi aurretik.
 260	Sarrailak eta bonbinak aldatzea Bilbon

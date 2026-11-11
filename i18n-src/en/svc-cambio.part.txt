@@ -83,7 +83,7 @@
 113	We check the lock works from both sides and hand you a new set of keys.
 114	Lost your keys just now?
 115	We replace cylinders in an emergency around the clock — including at night and on public holidays.
-119	Why people trust <span class="accent">Cerrajero24</span> with lock replacements
+119	Why people trust <span class="accent">CerrajeroUCR</span> with lock replacements
 120	Replaced in one visit
 121	The locksmith carries cylinders in common sizes to replace yours straight away.
 122	Choose by security grade
@@ -160,7 +160,7 @@
 232	Do you guarantee the new lock?
 233	<p>Yes, on the work and on the cylinders and locks fitted. The terms and period are stated in the document you receive after the job.</p>
 239	Book a lock replacement in&nbsp;Bilbao
-240	Need a cylinder or lock replaced? Contact Cerrajero24 to choose a cylinder and find out the price.
+240	Need a cylinder or lock replaced? Contact CerrajeroUCR to choose a cylinder and find out the price.
 244	Replaced in one visit
 246	Lock replacement
 247	Check the price of a lock replacement
@@ -170,7 +170,7 @@
 253	I want better protection
 254	After a break-in attempt
 255	Replacing several locks
-257	Lock and cylinder replacement in Bilbao — Cerrajero24
+257	Lock and cylinder replacement in Bilbao — CerrajeroUCR
 258	Lost your keys or moved house? We replace the cylinder or lock on your front door in Bilbao in one visit, including anti-bump cylinders. Price agreed before work.
 259	We replace the cylinder or lock on your front door in Bilbao in one visit. Anti-bump cylinders, price agreed before work.
 260	Lock and cylinder replacement in Bilbao

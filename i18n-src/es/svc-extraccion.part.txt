@@ -78,7 +78,7 @@
 112	Revisión de la cerradura
 113	Comprobamos la cerradura con la llave de repuesto. Si el bombín está dañado, le proponemos cambiarlo.
 114	¿Se le acaba de romper la llave?
-119	Por qué eligen <span class="accent">Cerrajero24</span> para extraer llaves
+119	Por qué eligen <span class="accent">CerrajeroUCR</span> para extraer llaves
 122	Herramienta especial
 123	Sacamos el trozo sin dañar el bombín.
 124	Sin cambios innecesarios
@@ -149,7 +149,7 @@
 232	¿Cuánto se tarda en extraer una llave?
 233	<p>Normalmente poco, si el trozo no se ha empujado muy adentro. Si hay que cambiar el bombín o abrir la puerta, hay que sumar el tiempo de esos trabajos.</p>
 239	Llamar al cerrajero para extraer una llave en&nbsp;Bilbao
-240	¿Se ha roto la llave en la cerradura? Contacte con Cerrajero24 para consultar el precio y pedir que vaya un especialista.
+240	¿Se ha roto la llave en la cerradura? Contacte con CerrajeroUCR para consultar el precio y pedir que vaya un especialista.
 244	Intentamos salvar el bombín
 246	Extracción de llave
 247	Consultar el precio de la extracción
@@ -159,7 +159,7 @@
 253	Cerradura del coche
 254	Garaje o candado
 255	La llave se ha atascado
-257	Extracción de llaves rotas en Bilbao 24/7 — Cerrajero24
+257	Extracción de llaves rotas en Bilbao 24/7 — CerrajeroUCR
 258	¿Se ha roto la llave en la cerradura de la puerta, del buzón o del coche? Sacamos el trozo en Bilbao 24/7, siempre que se pueda sin cambiar el bombín.
 259	¿Se ha roto la llave en la cerradura? Sacamos el trozo en Bilbao las 24 horas, siempre que se pueda sin cambiar el bombín.
 260	Extracción de llaves rotas en Bilbao

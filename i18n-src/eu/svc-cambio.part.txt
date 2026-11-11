@@ -83,7 +83,7 @@
 113	Sarrailak bi aldeetatik funtzionatzen duela egiaztatzen dugu eta giltza-sorta berria ematen dizugu.
 114	Giltzak oraintxe galdu dituzu?
 115	Bonbinak premiaz aldatzen ditugu egunean 24 orduz, gauez eta jaiegunetan ere bai.
-119	Zergatik uzten duten sarrailen aldaketa <span class="accent">Cerrajero24</span>-ren esku
+119	Zergatik uzten duten sarrailen aldaketa <span class="accent">CerrajeroUCR</span>-ren esku
 120	Aldaketa bisita bakarrean
 121	Sarrailagileak neurri ohikoenetako bonbinak eramaten ditu, une berean aldatzeko.
 122	Segurtasun-mailaren arabera aukeratzeko
@@ -160,7 +160,7 @@
 232	Bermerik ematen duzue sarraila berrian?
 233	<p>Bai, lanean eta jarritako bonbina eta sarrailetan. Baldintzak eta epea lanaren ondoren ematen dizugun agirian jasotzen dira.</p>
 239	Eskatu sarraila baten aldaketa Bilbon
-240	Bonbina edo sarraila aldatu behar duzu? Jarri harremanetan Cerrajero24rekin bonbina aukeratzeko eta prezioa jakiteko.
+240	Bonbina edo sarraila aldatu behar duzu? Jarri harremanetan CerrajeroUCR-rekin bonbina aukeratzeko eta prezioa jakiteko.
 244	Aldaketa bisita bakarrean
 246	Sarrailaren aldaketa
 247	Sarraila aldatzearen prezioa galdetu
@@ -170,7 +170,7 @@
 253	Segurtasun handiagoa nahi dut
 254	Lapurreta-saiakera baten ondoren
 255	Hainbat sarraila aldatzea
-257	Sarrailak eta bonbinak aldatzea Bilbon — Cerrajero24
+257	Sarrailak eta bonbinak aldatzea Bilbon — CerrajeroUCR
 258	Giltzak galdu dituzu edo etxez aldatu zara? Zure atearen bonbina edo sarraila aldatzen dugu Bilbon bisita bakarrean, baita bumping-aren aurkako bonbinak ere. Prezioa lana hasi aurretik.
 259	Zure atearen bonbina edo sarraila aldatzen dugu Bilbon bisita bakarrean. Bumping-aren aurkako bonbinak, prezioa lana hasi aurretik.
 260	Sarrailak eta bonbinak aldatzea Bilbon

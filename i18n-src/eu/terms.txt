@@ -1,2 +1,2 @@
-1	Zerbitzu-baldintzak — Cerrajero24
+1	Zerbitzu-baldintzak — CerrajeroUCR
 2	<p>Dokumentu honen testua laster argitaratuko da.</p>

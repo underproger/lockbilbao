@@ -121,7 +121,7 @@
 121	The on-call locksmith is available around the clock — including at night and on holidays.
 122	Call a locksmith now
 123	Bilbao · Biscay
-124	Why Cerrajero24
+124	Why CerrajeroUCR
 125	The advantages of our flat opening service in&nbsp;<span class="accent">Bilbao</span>
 126	Help around the clock
 127	We take calls 24/7, including weekends and public holidays.
@@ -246,10 +246,10 @@
 246	Do you cover the Bilbao suburbs?
 247	<p>Yes. As well as every district of Bilbao, we cover the municipalities of Greater Bilbao: Barakaldo, Getxo, Portugalete, Santurtzi, Leioa, Sestao, Basauri, Erandio and others. The price and arrival time outside the city depend on the distance — the dispatcher will tell you when you call. You can check your area on the <a href="#areas">service area map</a>.</p>
 248	More services
-249	Other Cerrajero24 services in&nbsp;Bilbao
+249	Other CerrajeroUCR services in&nbsp;Bilbao
 250	Request a locksmith
 251	Call a locksmith to open your flat in&nbsp;Bilbao
-252	Can’t get into your flat? Contact Cerrajero24 to check the price and book a locksmith.
+252	Can’t get into your flat? Contact CerrajeroUCR to check the price and book a locksmith.
 253	Open 24/7 — including weekends and holidays
 254	Coverage: Bilbao and Biscay
 255	We agree the price before starting
@@ -266,7 +266,7 @@
 266	The key broke
 267	The armoured door won’t open
 268	Other
-269	Emergency flat opening in Bilbao 24/7 — Cerrajero24
+269	Emergency flat opening in Bilbao 24/7 — CerrajeroUCR
 270	Door slammed shut, keys lost or lock jammed? Emergency flat opening in Bilbao around the clock. Careful work, with the price agreed before we start.
 271	Door slammed shut, keys lost or lock jammed? We’ll open your flat in Bilbao around the clock, with the price agreed before we start.
 272	Emergency flat opening in Bilbao

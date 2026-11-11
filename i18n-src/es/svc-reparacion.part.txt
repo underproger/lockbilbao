@@ -86,7 +86,7 @@
 113	Comprobamos el funcionamiento de la cerradura y de la puerta y le explicamos cómo alargar la vida del mecanismo.
 114	¿Se le ha bloqueado la cerradura ahora mismo?
 115	El cerrajero de guardia está disponible las 24 horas: abrimos la puerta y reparamos la cerradura.
-119	Por qué confían la reparación de cerraduras a <span class="accent">Cerrajero24</span>
+119	Por qué confían la reparación de cerraduras a <span class="accent">CerrajeroUCR</span>
 120	Diagnóstico en el sitio
 121	Encontramos la causa de la avería y se la explicamos con palabras sencillas.
 122	Reparar, no vender una nueva
@@ -165,7 +165,7 @@
 232	¿Quién paga la reparación de la cerradura en un piso de alquiler?
 233	<p>Según la Ley de Arrendamientos Urbanos (LAU), las pequeñas reparaciones por el desgaste normal suelen correr a cargo del inquilino. El cambio de cerradura conviene acordarlo con el propietario. Más información en la sección <a href="#documents">de documentos</a>.</p>
 239	Pedir la reparación de una cerradura en&nbsp;Bilbao
-240	¿La cerradura se atasca o la puerta cierra mal? Contacte con Cerrajero24 para consultar el precio y elegir la hora de la visita.
+240	¿La cerradura se atasca o la puerta cierra mal? Contacte con CerrajeroUCR para consultar el precio y elegir la hora de la visita.
 244	Garantía de la reparación y las piezas
 246	Reparación de cerradura
 247	Consultar el precio de la reparación
@@ -174,7 +174,7 @@
 252	La puerta cierra con esfuerzo
 253	No funciona el picaporte o la manilla
 254	No funciona la cerradura multipunto
-256	Reparación de cerraduras en Bilbao — Cerrajero24
+256	Reparación de cerraduras en Bilbao — CerrajeroUCR
 257	¿La llave gira con dificultad o la cerradura se atasca? Reparamos cerraduras de bombín, de gorjas y multipunto en Bilbao. Diagnóstico en el sitio y precio antes de empezar.
 258	¿La cerradura se atasca o la llave gira con dificultad? Reparamos la cerradura de su puerta en Bilbao, con precio antes de empezar.
 259	Reparación de cerraduras en Bilbao

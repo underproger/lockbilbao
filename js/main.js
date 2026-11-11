@@ -1,4 +1,4 @@
-/* Cerrajero24 — main.js (vanilla, без зависимостей) */
+/* CerrajeroUCR — main.js (vanilla, без зависимостей) */
 (function () {
   'use strict';
 

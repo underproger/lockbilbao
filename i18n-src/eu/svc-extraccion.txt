@@ -115,8 +115,8 @@
 115	Guardiako sarrailagilea egunean 24 orduz dago prest, gauez eta jaiegunetan ere bai.
 116	Deitu sarrailagileari orain
 117	Bilbo · Bizkaia
-118	Zergatik Cerrajero24
-119	Zergatik aukeratzen duten <span class="accent">Cerrajero24</span> giltzak ateratzeko
+118	Zergatik CerrajeroUCR
+119	Zergatik aukeratzen duten <span class="accent">CerrajeroUCR</span> giltzak ateratzeko
 120	Laguntza egunean 24 orduz
 121	24/7 hartzen ditugu abisuak, asteburuak eta jaiegunak barne.
 122	Tresna berezia
@@ -234,10 +234,10 @@
 234	Bilbo ingurura ere joaten zarete?
 235	<p>Bai. Bilboko auzo guztiez gain, Bilbo Handiko udalerrietara ere joaten gara: Barakaldo, Getxo, Portugalete, Santurtzi, Leioa, Sestao, Basauri, Erandio eta beste batzuk. Hiritik kanpoko prezioa eta iristeko denbora operadoreak esango dizkizu deitzean. Zure eremua <a href="#areas">zerbitzu-eremuaren mapan</a> egiazta dezakezu.</p>
 236	Zerbitzu gehiago
-237	Cerrajero24ren beste zerbitzu batzuk Bilbon
+237	CerrajeroUCR-ren beste zerbitzu batzuk Bilbon
 238	Zerbitzu-eskaera
 239	Deitu sarrailagileari giltza bat ateratzeko Bilbon
-240	Giltza sarrailan hautsi da? Jarri harremanetan Cerrajero24rekin prezioa galdetzeko eta espezialista bat eskatzeko.
+240	Giltza sarrailan hautsi da? Jarri harremanetan CerrajeroUCR-rekin prezioa galdetzeko eta espezialista bat eskatzeko.
 241	24/7 lanean, asteburuetan eta jaiegunetan ere
 242	Eremua: Bilbo eta Bizkaia
 243	Prezioa hasi aurretik adosten dugu
@@ -254,7 +254,7 @@
 254	Garajea edo giltzarrapoa
 255	Giltza trabatu da
 256	Beste bat
-257	Giltza hautsiak ateratzea Bilbon 24/7 — Cerrajero24
+257	Giltza hautsiak ateratzea Bilbon 24/7 — CerrajeroUCR
 258	Giltza atearen, postontziaren edo autoaren sarrailan hautsi da? Zatia ateratzen dugu Bilbon 24/7, ahal den guztietan bonbina aldatu gabe.
 259	Giltza sarrailan hautsi da? Zatia ateratzen dugu Bilbon egunean 24 orduz, ahal den guztietan bonbina aldatu gabe.
 260	Giltza hautsiak ateratzea Bilbon

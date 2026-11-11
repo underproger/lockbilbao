@@ -115,8 +115,8 @@
 115	The on-call locksmith is available around the clock — including at night and on holidays.
 116	Call a locksmith now
 117	Bilbao · Biscay
-118	Why Cerrajero24
-119	Why people choose <span class="accent">Cerrajero24</span> for key extraction
+118	Why CerrajeroUCR
+119	Why people choose <span class="accent">CerrajeroUCR</span> for key extraction
 120	Help around the clock
 121	We take calls 24/7, including weekends and public holidays.
 122	Special tools
@@ -234,10 +234,10 @@
 234	Do you cover the Bilbao suburbs?
 235	<p>Yes. As well as every district of Bilbao, we cover the municipalities of Greater Bilbao: Barakaldo, Getxo, Portugalete, Santurtzi, Leioa, Sestao, Basauri, Erandio and others. The dispatcher will tell you the price and arrival time outside the city when you call. You can check your area on the <a href="#areas">service area map</a>.</p>
 236	More services
-237	Other Cerrajero24 services in&nbsp;Bilbao
+237	Other CerrajeroUCR services in&nbsp;Bilbao
 238	Request a locksmith
 239	Call a locksmith for key extraction in&nbsp;Bilbao
-240	Key snapped in the lock? Contact Cerrajero24 to check the price and book a specialist call-out.
+240	Key snapped in the lock? Contact CerrajeroUCR to check the price and book a specialist call-out.
 241	Open 24/7 — including weekends and holidays
 242	Coverage: Bilbao and Biscay
 243	We agree the price before starting
@@ -254,7 +254,7 @@
 254	Garage or padlock
 255	Key stuck
 256	Other
-257	Broken key extraction in Bilbao 24/7 — Cerrajero24
+257	Broken key extraction in Bilbao 24/7 — CerrajeroUCR
 258	Key snapped in a door, mailbox or car lock? We remove the broken piece in Bilbao 24/7, without replacing the cylinder wherever possible.
 259	Key snapped in the lock? We remove the broken piece in Bilbao around the clock, without replacing the cylinder wherever possible.
 260	Broken key extraction in Bilbao

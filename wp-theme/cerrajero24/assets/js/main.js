@@ -1,4 +1,4 @@
-/* Cerrajero24 — main.js (vanilla, без зависимостей) */
+/* CerrajeroUCR — main.js (vanilla, без зависимостей) */
 (function () {
   'use strict';
 
@@ -8,6 +8,7 @@
   var CONFIG = {
     formEndpoint: C24.endpoint || '',
     formFields: C24.form || null,
+    honeypot: C24.honeypot || '',
     phone: C24.phone || '',
     phoneHref: C24.phoneHref || ''
   };
@@ -506,9 +507,14 @@
       };
 
       if (!CONFIG.formEndpoint) { setTimeout(done, 600); return; }
-      // Служебные поля Contact Form 7 (форма «Cerrajero24 — заявка»)
+      // Служебные поля Contact Form 7 (форма «CerrajeroUCR — заявка»)
       if (CONFIG.formFields) Object.keys(CONFIG.formFields).forEach(function (k) { data.set(k, CONFIG.formFields[k]); });
       if (consent && consent.checked) data.set('consent', '1');
+      // WP Armour: скрытое поле, которое плагин ожидает в каждой отправке (значение берём из его же скрипта)
+      if (CONFIG.honeypot && !data.get(CONFIG.honeypot)) {
+        var wpa = window.wpa_field_info || {};
+        data.set(CONFIG.honeypot, wpa.wpa_field_value || String(Date.now()));
+      }
       fetch(CONFIG.formEndpoint, { method: 'POST', body: data, credentials: 'same-origin' })
         .then(function (r) { if (!r.ok) throw new Error(r.status); return r.json(); })
         .then(function (res) {

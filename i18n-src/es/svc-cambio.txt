@@ -115,8 +115,8 @@
 115	Cambiamos el bombín de urgencia las 24 horas, también de noche y en festivos.
 116	Llamar al cerrajero
 117	Bilbao · Bizkaia
-118	Por qué Cerrajero24
-119	Por qué confían el cambio de cerraduras a <span class="accent">Cerrajero24</span>
+118	Por qué CerrajeroUCR
+119	Por qué confían el cambio de cerraduras a <span class="accent">CerrajeroUCR</span>
 120	Cambio en una sola visita
 121	El cerrajero lleva bombines de las medidas más habituales para cambiarlo en el momento.
 122	A elegir según la seguridad
@@ -234,10 +234,10 @@
 234	¿Van a los alrededores de Bilbao?
 235	<p>Sí. Además de todos los barrios de Bilbao, nos desplazamos a los municipios del Gran Bilbao: Barakaldo, Getxo, Portugalete, Santurtzi, Leioa, Sestao, Basauri, Erandio y otros. El precio y el tiempo de llegada fuera de la ciudad se los indicará el operador al llamar. Puede comprobar su zona en el <a href="#areas">mapa de la zona de servicio</a>.</p>
 236	Más servicios
-237	Otros servicios de Cerrajero24 en&nbsp;Bilbao
+237	Otros servicios de CerrajeroUCR en&nbsp;Bilbao
 238	Solicitud de servicio
 239	Pedir el cambio de cerradura en&nbsp;Bilbao
-240	¿Necesita cambiar el bombín o la cerradura? Contacte con Cerrajero24 para elegir el bombín y saber el precio.
+240	¿Necesita cambiar el bombín o la cerradura? Contacte con CerrajeroUCR para elegir el bombín y saber el precio.
 241	Trabajamos 24/7, sin descanso ni festivos
 242	Zona: Bilbao y Bizkaia
 243	Acordamos el precio antes de empezar
@@ -254,7 +254,7 @@
 254	Tras un intento de robo
 255	Cambio de varias cerraduras
 256	Otro
-257	Cambio de cerraduras y bombines en Bilbao — Cerrajero24
+257	Cambio de cerraduras y bombines en Bilbao — CerrajeroUCR
 258	¿Ha perdido las llaves o se ha mudado? Cambiamos el bombín o la cerradura de su puerta en Bilbao en una sola visita, también bombines antibumping. Precio antes de empezar.
 259	Cambiamos el bombín o la cerradura de su puerta en Bilbao en una sola visita. Bombines antibumping, precio antes de empezar.
 260	Cambio de cerraduras y bombines en Bilbao

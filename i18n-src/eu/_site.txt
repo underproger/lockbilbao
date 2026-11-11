@@ -13,11 +13,11 @@
 13	Cookie-politika
 14	Zerbitzu-baldintzak
 15	Lege-oharra
-16	Cerrajero24ko sarrailagilea, Bilboko etxe bateko sarrera-atearen sarraila kontu handiz irekitzen
+16	CerrajeroUCR-ko sarrailagilea, Bilboko etxe bateko sarrera-atearen sarraila kontu handiz irekitzen
 17	Guggenheim museoa eta La Salbe zubia, Bilbo
 18	Erriberako merkatua eta San Anton eliza, Bilboko Alde Zaharra
 19	Sarrailagilea sarrera-ate bateko puntu anitzeko sarraila desmuntatzen
-20	Cerrajero24ko sarrailagilea, kutxa gotor elektroniko bat kontu handiz irekitzen
+20	CerrajeroUCR-ko sarrailagilea, kutxa gotor elektroniko bat kontu handiz irekitzen
 21	Guggenheim museoa Nerbioi ibaiaren ertzean, Bilbo
 22	Etxebizitza bateko sarrera-atea irekitzea
 23	Auto baten premiazko irekiera
@@ -28,7 +28,7 @@
 28	Sarraila baten bonbina aldatzea
 29	Sarraila bat instalatzea eta txertatzea
 30	Sarrailan hautsitako giltza ateratzea
-31	Cerrajero24ko sarrailagilea, sarrera-ate bateko puntu anitzeko sarraila desmuntatzen
-32	Cerrajero24ko sarrailagileak ate baten sarraila aldatzen
-33	Cerrajero24ko sarrailagilea, torlojugailuarekin ate baten sarrailaren ondoan
+31	CerrajeroUCR-ko sarrailagilea, sarrera-ate bateko puntu anitzeko sarraila desmuntatzen
+32	CerrajeroUCR-ko sarrailagileak ate baten sarraila aldatzen
+33	CerrajeroUCR-ko sarrailagilea, torlojugailuarekin ate baten sarrailaren ondoan
 34	Alde Zaharra eta Nerbioi ibaia, Bilbo

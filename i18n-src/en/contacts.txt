@@ -1,5 +1,5 @@
 1	Contact
-2	Contact Cerrajero24 <span class="accent">in&nbsp;Bilbao</span>
+2	Contact CerrajeroUCR <span class="accent">in&nbsp;Bilbao</span>
 3	We take calls around the clock, including weekends and holidays. The fastest way is to call: the on-call dispatcher will tell you straight away what work is needed and give you an approximate price and the locksmith’s arrival time.
 4	Urgent call · 24/7
 5	The fastest way to get a locksmith — we answer at&nbsp;night and on&nbsp;holidays too.
@@ -53,11 +53,11 @@
 53	Erandio
 54	and other municipalities of Greater Bilbao.
 55	About us
-56	Cerrajero24 company details
+56	CerrajeroUCR company details
 57	Company details, our Google profile and the website’s legal documents — all in&nbsp;one place.
 58	Company details
 59	Name
-60	Cerrajero24
+60	CerrajeroUCR
 61	Activity
 62	Emergency lock opening, repair, replacement and&nbsp;installation
 63	NIF / CIF
@@ -65,7 +65,7 @@
 65	Bilbao and&nbsp;Greater Bilbao, Biscay, Spain
 66	Phone
 67	E-mail
-68	Cerrajero24 on&nbsp;Google Maps
+68	CerrajeroUCR on&nbsp;Google Maps
 69	Our company profile has customer reviews and contact details. If our locksmith helped you, we would be grateful for a review: it helps others find a trusted locksmith faster.
 70	Open in Google Maps
 71	Leave a review
@@ -75,7 +75,7 @@
 75	Terms of service
 76	Legal notice (<span lang="es">aviso legal</span>)
 77	FAQ
-78	Frequently asked questions about contacting Cerrajero24
+78	Frequently asked questions about contacting CerrajeroUCR
 79	Need a locksmith right now?
 80	Call us — the on-call locksmith is available around the clock.
 81	What is the fastest way to call a locksmith?
@@ -89,7 +89,7 @@
 89	Can I find out the price before the locksmith arrives?
 90	<p>An approximate one, yes. The dispatcher gives it to you over the phone if you describe the situation and the type of door and lock, and a photo of the lock makes the estimate more accurate. The locksmith gives the final price after an on-site inspection and before starting, and work only begins with your consent. You will find guide prices in the <a href="{url:services}#prices">price table</a>.</p>
 91	How can I leave a review or ask about completed work?
-92	<p>You can leave a review on our Google Maps profile — the link is in the <a href="#company">“Company details”</a> section. Questions about completed work, the guarantee or documents are best sent to <a href="mailto:info@cerrajero24.es">info@cerrajero24.es</a>: include the date of the call-out, the address and the phone number you called from, so we can find your job faster.</p>
-93	Contact Cerrajero24 — 24/7 locksmith in Bilbao
-94	Cerrajero24 phone, WhatsApp and e-mail. Emergency lock opening and lock replacement in Bilbao and Greater Bilbao around the clock. Call us or send a request and we’ll call you back.
+92	<p>You can leave a review on our Google Maps profile — the link is in the <a href="#company">“Company details”</a> section. Questions about completed work, the guarantee or documents are best sent to <a href="mailto:info@cerrajeroucr.es">info@cerrajeroucr.es</a>: include the date of the call-out, the address and the phone number you called from, so we can find your job faster.</p>
+93	Contact CerrajeroUCR — 24/7 locksmith in Bilbao
+94	CerrajeroUCR phone, WhatsApp and e-mail. Emergency lock opening and lock replacement in Bilbao and Greater Bilbao around the clock. Call us or send a request and we’ll call you back.
 95	Phone, WhatsApp and e-mail. Emergency lock opening and lock replacement in Bilbao and Greater Bilbao around the clock.

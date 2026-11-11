@@ -486,7 +486,7 @@ pages['contacts'] = {'title': 'Контакты', 'slug': 'contacto', 'fields': 
 # правовые страницы: заглушки
 for key, slug, title in (('privacy', 'politica-de-privacidad', 'Политика конфиденциальности'), ('cookies', 'politica-de-cookies', 'Политика cookies'),
                          ('terms', 'condiciones-del-servicio', 'Условия оказания услуг'), ('legal', 'aviso-legal', 'Юридическая информация')):
-    pages[key] = {'title': title, 'slug': slug, 'content': '<p>Текст документа будет добавлен.</p>', 'fields': {'seo_title': title + ' — Cerrajero24', 'seo_desc': ''}}
+    pages[key] = {'title': title, 'slug': slug, 'content': '<p>Текст документа будет добавлен.</p>', 'fields': {'seo_title': title + ' — CerrajeroUCR', 'seo_desc': ''}}
 
 strings = json.load(open(ROOT + 'wp-theme/cerrajero24/import/strings.json'))
 out = {'pages': pages, 'media': media, 'menus': MENUS, 'strings': {k: v['ru'] for k, v in strings.items()}}

@@ -115,8 +115,8 @@
 115	The on-call locksmith is available around the clock — including at night and on holidays.
 116	Call a locksmith now
 117	Bilbao · Biscay
-118	Why Cerrajero24
-119	Why choose <span class="accent">Cerrajero24</span> for car opening
+118	Why CerrajeroUCR
+119	Why choose <span class="accent">CerrajeroUCR</span> for car opening
 120	Help around the clock
 121	We take calls 24/7, including weekends and public holidays.
 122	We come to your car
@@ -235,10 +235,10 @@
 235	Do you cover the Bilbao suburbs?
 236	<p>Yes. As well as every district of Bilbao, we cover the municipalities of Greater Bilbao: Barakaldo, Getxo, Portugalete, Santurtzi, Leioa, Sestao, Basauri, Erandio and others. The dispatcher will tell you the price and arrival time outside the city when you call. You can check your area on the <a href="#areas">service area map</a>.</p>
 237	More services
-238	Other Cerrajero24 services in&nbsp;Bilbao
+238	Other CerrajeroUCR services in&nbsp;Bilbao
 239	Request a locksmith
 240	Call a locksmith to open your car in&nbsp;Bilbao
-241	Can’t get into your car? Contact Cerrajero24 to check the price and book a locksmith.
+241	Can’t get into your car? Contact CerrajeroUCR to check the price and book a locksmith.
 242	Open 24/7 — including weekends and holidays
 243	Coverage: Bilbao and Biscay
 244	We agree the price before starting
@@ -254,7 +254,7 @@
 254	Lost keys
 255	The door lock is jammed
 256	Other
-257	Emergency car opening in Bilbao 24/7 — Cerrajero24
+257	Emergency car opening in Bilbao 24/7 — CerrajeroUCR
 258	Keys in the car, boot locked or flat remote battery? We open your car in Bilbao 24/7 without damaging windows or seals. Price agreed before work begins.
 259	Keys inside, boot locked or flat remote? We’ll open your car in Bilbao around the clock, with the price agreed before we start.
 260	Emergency car opening in Bilbao

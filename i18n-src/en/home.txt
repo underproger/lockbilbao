@@ -37,7 +37,7 @@
 37	The final price is agreed before any work begins.
 38	Ask for a lock opening price
 39	Contact a locksmith and get a preliminary estimate.
-40	Why choose Cerrajero24
+40	Why choose CerrajeroUCR
 41	Why customers choose <span class="accent">our lock opening service</span>
 42	We help quickly, carefully and transparently. We work across Bilbao and Biscay, explain the price in advance and find the right solution for your situation.
 43	Fast call-out
@@ -145,8 +145,8 @@
 145	Late one evening the boot stopped opening, with our things for an early trip inside. The locksmith arrived at the agreed time, opened it without damage and showed me that the lock rod had broken. He told me where to get it replaced cheaply and didn’t try to sell me anything I didn’t need.
 146	Call a locksmith with a proven reputation
 147	About us
-148	About Cerrajero24 and our locksmiths
-149	Cerrajero24 is an emergency lock opening and lock maintenance service in Bilbao and Greater Bilbao. We open doors of flats and houses, cars, safes and garages, and afterwards we repair, replace and install locks.
+148	About CerrajeroUCR and our locksmiths
+149	CerrajeroUCR is an emergency lock opening and lock maintenance service in Bilbao and Greater Bilbao. We open doors of flats and houses, cars, safes and garages, and afterwards we repair, replace and install locks.
 150	A uniformed locksmith with ID and a full set of tools comes to every call-out. Before starting, he explains what he will do and tells you the price. Afterwards, he checks the lock with you and gives you a document with the guarantee.
 151	around the clock, including weekends and holidays
 152	Greater Bilbao municipalities in our service area
@@ -179,12 +179,12 @@
 179	Galdakao
 180	Etxebarri
 181	and other municipalities in the Greater Bilbao area.
-182	Good to know · Cerrajero24
+182	Good to know · CerrajeroUCR
 183	Emergency lock and door opening in&nbsp;<span class="accent">Bilbao</span>: what to know before calling a locksmith
 184	If your front door will not open, the first step is to work out what the problem is and avoid damaging the lock with improvised attempts. Below we explain how emergency door opening works, when a mechanism needs replacing and what to have ready before the locksmith arrives.
 185	<h3>Can a door be opened without damaging the lock?</h3>
 186	<p>In many cases the front door can be opened while keeping the lock and the door leaf intact. The result depends on how the door is built, the type of cylinder, the condition of the mechanism and the reason it is blocked. For example, a door that has slammed shut and a faulty multi-point lock need different approaches.</p>
-187	<p>The Cerrajero24 locksmith first inspects the door and assesses whether it can be opened without damage. If restoring access means damaging or replacing some parts, the specialist will explain the situation and agree the steps with you before starting. Find out more on the <a href="{url:svc-puertas}">emergency door opening</a> page.</p>
+187	<p>The CerrajeroUCR locksmith first inspects the door and assesses whether it can be opened without damage. If restoring access means damaging or replacing some parts, the specialist will explain the situation and agree the steps with you before starting. Find out more on the <a href="{url:svc-puertas}">emergency door opening</a> page.</p>
 188	<h3>What to do if your front door is jammed?</h3>
 189	<p>Do not force the key, hit the lock or try to prise the door open with whatever is at hand. This can make the fault worse, damage the cylinder and increase the cost of the repair. Check whether a sagging door leaf is stopping it from closing and whether the key shows any signs of damage.</p>
 190	<p>If the mechanism still does not work, contact a locksmith. Tell them whether the key turns, whether the handle opens the door and what kind of lock you have. With this information the specialist can assess the job in advance. If the cause is a worn mechanism, a <a href="{url:svc-reparacion}">door lock repair</a> will help.</p>
@@ -241,6 +241,6 @@
 241	Open a safe
 242	Replace or install a lock
 243	Other
-244	Emergency locksmith in Bilbao 24/7 — Cerrajero24
+244	Emergency locksmith in Bilbao 24/7 — CerrajeroUCR
 245	24/7 emergency locksmith in Bilbao and Greater Bilbao. We open doors, cars, safes and garages, and replace and repair locks. Price agreed before work begins.
 246	We open doors, cars, safes and garages in Bilbao and Greater Bilbao. Around the clock, with the price agreed before we start.

@@ -83,7 +83,7 @@
 111	Sarrailagilea iristen da, autoa erabiltzeko eskubidea duzula egiaztatzen du eta atea edo maletategia adostutako metodoarekin irekitzen du.
 113	Ateak, maletategia eta itxiera zentralizatua egiaztatzen ditugu. Bonbina konpondu behar bada, une berean proposatzen dizugu.
 114	Autoa itxita dago orain bertan?
-119	Zergatik aukeratu <span class="accent">Cerrajero24</span> zure autoa irekitzeko
+119	Zergatik aukeratu <span class="accent">CerrajeroUCR</span> zure autoa irekitzeko
 121	24/7 hartzen ditugu abisuak, asteburuak eta jaiegunak barne.
 122	Zure autoraino joaten gara
 123	Kalea, patioa, merkataritza-gunea edo lurpeko aparkalekua, Bilbon eta inguruetan.
@@ -162,7 +162,7 @@
 234	<p>Bai, egunean 24 orduz, asteburuak eta jaiegunak barne. Gauez, 22:00etatik 08:00etara, eta jaiegunetan gainkostu bat aplikatzen da; operadoreak haren zenbatekoa esaten dizu deitzean. Itxitako autoan haur bat edo animalia bat badago, deitu lehenik 112ra.</p>
 236	<p>Bai. Bilboko auzo guztiez gain, Bilbo Handiko udalerrietara ere joaten gara: Barakaldo, Getxo, Portugalete, Santurtzi, Leioa, Sestao, Basauri, Erandio eta beste batzuk. Hiritik kanpoko prezioa eta iristeko denbora operadoreak esango dizkizu deitzean. Zure eremua <a href="#areas">zerbitzu-eremuaren mapan</a> egiazta dezakezu.</p>
 240	Deitu sarrailagile bati zure autoa Bilbon irekitzeko
-241	Ezin zara autoan sartu? Jarri harremanetan Cerrajero24rekin prezioa jakiteko eta sarrailagile bat eskatzeko.
+241	Ezin zara autoan sartu? Jarri harremanetan CerrajeroUCR-rekin prezioa jakiteko eta sarrailagile bat eskatzeko.
 245	Autoan markarik utzi gabe irekitzen saiatzen gara
 247	Autoa irekitzea
 248	Galdetu auto bat irekitzearen prezioa
@@ -172,7 +172,7 @@
 252	Maletategia itxi da
 253	Urruneko agintea ez dabil
 255	Atearen sarraila trabatu da
-257	Autoen premiazko irekiera Bilbon 24/7 — Cerrajero24
+257	Autoen premiazko irekiera Bilbon 24/7 — CerrajeroUCR
 258	Giltzak autoan, maletategia itxita edo urruneko agintea pilarik gabe? Zure autoa Bilbon irekitzen dugu 24/7, kristalak eta juntak kaltetu gabe. Prezioa hasi aurretik.
 259	Giltzak barruan, maletategia itxita edo urruneko agintea pilarik gabe? Zure autoa Bilbon irekiko dugu egunean 24 orduz, prezioa hasi aurretik adostuta.
 260	Autoen premiazko irekiera Bilbon

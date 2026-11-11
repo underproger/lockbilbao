@@ -3,7 +3,7 @@
  * Импорт контента: языки Polylang (ES — основной, без префикса в URL; EU; EN), медиа, страницы с шаблонами,
  * связи переводов, меню, переводы строк, форма Contact Form 7 и контакты.
  *
- * Запуск: «Инструменты → Импорт Cerrajero24» или WP-CLI: wp c24 import
+ * Запуск: «Инструменты → Импорт CerrajeroUCR» или WP-CLI: wp c24 import
  * Повторный запуск обновляет те же страницы (ищутся по ключу _c24_key), а не создаёт дубли.
  *
  * Данные: import/pages.json (структура) и import/{es,eu,en}.json (тексты на языке).
@@ -56,6 +56,7 @@ class C24_Import {
 		$this->import_strings();
 		$this->import_form();
 		$this->import_options();
+		$this->site_basics();
 
 		update_option( 'permalink_structure', '/%postname%/' );
 		delete_option( 'rewrite_rules' ); // правила с языковыми префиксами пересоберутся при следующем запросе
@@ -141,6 +142,22 @@ class C24_Import {
 				continue;
 			}
 			$es = $this->find_media( $file, 'es' );
+			if ( $es && get_post_meta( $es, '_c24_md5', true ) !== md5_file( $src ) && md5_file( (string) get_attached_file( $es ) ) !== md5_file( $src ) ) {
+				// Картинка в теме обновилась — загружаем новый файл (новое имя сбрасывает кэш браузеров и CDN).
+				$upload = wp_upload_bits( basename( $file ), null, (string) file_get_contents( $src ) );
+				if ( empty( $upload['error'] ) ) {
+					update_attached_file( $es, $upload['file'] );
+					wp_update_attachment_metadata( $es, wp_generate_attachment_metadata( $es, $upload['file'] ) );
+					foreach ( array_keys( $this->sources ) as $lang ) {
+						$tr = 'es' === $lang ? 0 : $this->find_media( $file, $lang );
+						if ( $tr ) {
+							update_post_meta( $tr, '_wp_attached_file', get_post_meta( $es, '_wp_attached_file', true ) );
+							update_post_meta( $tr, '_wp_attachment_metadata', wp_get_attachment_metadata( $es ) );
+						}
+					}
+					$this->log[] = 'Обновлена картинка ' . $file;
+				}
+			}
 			if ( ! $es ) {
 				$upload = wp_upload_bits( basename( $file ), null, (string) file_get_contents( $src ) );
 				if ( ! empty( $upload['error'] ) ) {
@@ -183,6 +200,9 @@ class C24_Import {
 			foreach ( $ids as $lang => $id ) {
 				$alt = $this->data[ $lang ]['media'][ $file ] ?? '';
 				update_post_meta( $id, '_wp_attachment_image_alt', $alt );
+			}
+			foreach ( $ids as $id ) {
+				update_post_meta( $id, '_c24_md5', md5_file( $src ) );
 			}
 			$this->media[ $file ] = $ids;
 		}
@@ -397,14 +417,21 @@ class C24_Import {
 			return;
 		}
 		$id   = function_exists( 'c24_form_id' ) ? c24_form_id() : 0;
-		$form = $id ? wpcf7_contact_form( $id ) : WPCF7_ContactForm::get_template( [ 'title' => 'Cerrajero24 — заявка' ] );
+		$form = $id ? wpcf7_contact_form( $id ) : WPCF7_ContactForm::get_template( [ 'title' => 'CerrajeroUCR — заявка' ] );
 		$to   = $this->structure['options']['email'] ?? get_option( 'admin_email' );
+		if ( $id ) {
+			$mail = $form->prop( 'mail' );
+			if ( ! empty( $mail['recipient'] ) ) {
+				// Адрес получателя могли поменять в админке — заменяем только старую заглушку.
+				$to = trim( str_ireplace( 'info@cerrajero24.es', $to, $mail['recipient'] ), ', ' );
+			}
+		}
 		$props = [
 			'form' => c24_cf7_form_template(),
 			'mail' => [
 				'active'             => true,
-				'subject'            => 'Cerrajero24: [form]',
-				'sender'             => 'Cerrajero24 <wordpress@' . wp_parse_url( home_url(), PHP_URL_HOST ) . '>',
+				'subject'            => 'CerrajeroUCR: [form]',
+				'sender'             => 'CerrajeroUCR <wordpress@' . wp_parse_url( home_url(), PHP_URL_HOST ) . '>',
 				'recipient'          => $to,
 				'body'               => c24_cf7_mail_body(),
 				'additional_headers' => '',
@@ -414,18 +441,41 @@ class C24_Import {
 			],
 		];
 		$form->set_properties( $props );
-		$form->set_title( 'Cerrajero24 — заявка' );
+		$form->set_title( 'CerrajeroUCR — заявка' );
 		$saved = $form->save();
 		update_post_meta( $saved, '_c24_form', 'lead' );
 		update_option( 'c24_form_id', $saved );
 		$this->log[] = 'Форма CF7: #' . $saved;
 	}
 
+	/* ---------------- Название сайта, стандартный контент ---------------- */
+
+	private function site_basics() {
+		$name = (string) get_option( 'blogname' );
+		// Пустое, стандартное, старое название или кириллические буквы, похожие на латиницу («Сerrajero»).
+		if ( '' === trim( $name ) || in_array( $name, [ 'Cerrajero24', 'My WordPress', 'Мой WordPress' ], true ) || preg_match( '/[\x{0400}-\x{04FF}]/u', $name ) ) {
+			update_option( 'blogname', C24_BRAND );
+			$this->log[] = 'Название сайта: ' . C24_BRAND;
+		}
+		// «Sample Page» / «Hello world!», созданные при установке WordPress (если их не редактировали) — в корзину.
+		$trash = get_posts( [ 'post_type' => [ 'page', 'post' ], 'post_status' => 'any', 'name' => '', 'lang' => '', 'posts_per_page' => -1, 'suppress_filters' => true, 'post_name__in' => [ 'sample-page', 'hello-world' ] ] );
+		foreach ( $trash as $post ) {
+			if ( get_post_meta( $post->ID, '_c24_key', true ) ) {
+				continue;
+			}
+			if ( false !== strpos( $post->post_content, 'wp-admin/' ) || false !== stripos( $post->post_content, 'This is an example page' ) || false !== stripos( $post->post_content, 'Welcome to WordPress' ) ) {
+				wp_trash_post( $post->ID );
+				$this->log[] = 'В корзину: «' . $post->post_title . '»';
+			}
+		}
+	}
+
 	/* ---------------- Контакты ---------------- */
 
 	private function import_options() {
 		foreach ( (array) ( $this->structure['options'] ?? [] ) as $name => $value ) {
-			if ( ! empty( $this->fields['options'][ $name ] ) && ! c24_field( $name, 'option' ) ) {
+			$cur = (string) c24_field( $name, 'option' );
+			if ( ! empty( $this->fields['options'][ $name ] ) && ( '' === $cur || false !== stripos( $cur, 'cerrajero24' ) ) ) {
 				update_field( $this->fields['options'][ $name ]['key'], $value, 'option' );
 			}
 		}
@@ -436,7 +486,7 @@ class C24_Import {
 
 if ( defined( 'WP_CLI' ) && WP_CLI ) {
 	/**
-	 * Импорт контента Cerrajero24.
+	 * Импорт контента CerrajeroUCR.
 	 *
 	 * ## OPTIONS
 	 * [--source=<map>]
@@ -461,7 +511,7 @@ if ( defined( 'WP_CLI' ) && WP_CLI ) {
 }
 
 add_action( 'admin_menu', function () {
-	add_management_page( 'Импорт Cerrajero24', 'Импорт Cerrajero24', 'manage_options', 'c24-import', function () {
+	add_management_page( 'Импорт CerrajeroUCR', 'Импорт CerrajeroUCR', 'manage_options', 'c24-import', function () {
 		$log = null;
 		if ( isset( $_POST['c24_import'] ) && check_admin_referer( 'c24_import' ) ) {
 			$imp = new C24_Import();
@@ -470,7 +520,7 @@ add_action( 'admin_menu', function () {
 		}
 		?>
 		<div class="wrap">
-			<h1>Импорт Cerrajero24</h1>
+			<h1>Импорт CerrajeroUCR</h1>
 			<p>Создаёт языки (испанский — основной, баскский, английский), загружает картинки, создаёт и заполняет страницы на трёх языках, меню, переводы строк, форму заявки Contact Form 7.</p>
 			<p>Повторный запуск <b>перезаписывает</b> тексты страниц, созданных импортом, значениями из файлов темы.</p>
 			<form method="post">

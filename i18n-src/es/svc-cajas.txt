@@ -115,8 +115,8 @@
 115	El cerrajero de guardia atiende las 24 horas, también de noche y en festivos.
 116	Llamar al cerrajero ahora
 117	Bilbao · Bizkaia
-118	Por qué Cerrajero24
-119	Por qué elegir <span class="accent">Cerrajero24</span> para abrir su caja fuerte
+118	Por qué CerrajeroUCR
+119	Por qué elegir <span class="accent">CerrajeroUCR</span> para abrir su caja fuerte
 120	Ayuda las 24 horas
 121	Atendemos avisos 24/7, incluidos fines de semana y festivos.
 122	Trabajamos en el lugar
@@ -236,10 +236,10 @@
 236	¿Van a los alrededores de Bilbao?
 237	<p>Sí. Además de todos los barrios de Bilbao, nos desplazamos a los municipios del Gran Bilbao: Barakaldo, Getxo, Portugalete, Santurtzi, Leioa, Sestao, Basauri, Erandio y otros. El precio y el tiempo de llegada fuera de la ciudad se los indicará el operador al llamar. Puede comprobar su zona en el <a href="#areas">mapa de la zona de servicio</a>.</p>
 238	Más servicios
-239	Otros servicios de Cerrajero24 en&nbsp;Bilbao
+239	Otros servicios de CerrajeroUCR en&nbsp;Bilbao
 240	Solicitud de servicio
 241	Llame a un cerrajero para abrir una caja fuerte en&nbsp;Bilbao
-242	¿No se abre la caja fuerte? Contacte con Cerrajero24 para conocer el precio y pedir que vaya un cerrajero.
+242	¿No se abre la caja fuerte? Contacte con CerrajeroUCR para conocer el precio y pedir que vaya un cerrajero.
 243	Trabajamos 24/7, sin descanso ni festivos
 244	Zona: Bilbao y Bizkaia
 245	Acordamos el precio antes de empezar
@@ -255,7 +255,7 @@
 255	El mecanismo se ha atascado
 256	La caja fuerte se ha bloqueado
 257	Otro
-258	Apertura de cajas fuertes en Bilbao 24 h — Cerrajero24
+258	Apertura de cajas fuertes en Bilbao 24 h — CerrajeroUCR
 259	¿Código olvidado, llave perdida o pilas agotadas? Abrimos cajas fuertes mecánicas, de combinación y electrónicas en Bilbao, primero sin taladrar. Precio antes de empezar.
 260	¿Ha olvidado el código o perdido la llave de la caja fuerte? La abrimos en Bilbao, sea mecánica, de combinación o electrónica, con el precio antes de empezar.
 261	Apertura de cajas fuertes en Bilbao

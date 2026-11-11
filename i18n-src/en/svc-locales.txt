@@ -115,8 +115,8 @@
 115	The on-call locksmith is available around the clock — including at night and at weekends.
 116	Call a locksmith now
 117	Bilbao · Biscay
-118	Why Cerrajero24
-119	Why businesses choose <span class="accent">Cerrajero24</span>
+118	Why CerrajeroUCR
+119	Why businesses choose <span class="accent">CerrajeroUCR</span>
 120	Help around the clock
 121	We take calls 24/7 — including before opening and after closing time.
 122	Call-outs across Bilbao and the suburbs
@@ -236,10 +236,10 @@
 236	Do you cover the Bilbao suburbs?
 237	<p>Yes. As well as every district of Bilbao, we cover the municipalities of Greater Bilbao: Barakaldo, Getxo, Portugalete, Santurtzi, Leioa, Sestao, Basauri, Erandio and others. The dispatcher will tell you the price and arrival time outside the city when you call. You can check your area on the <a href="#areas">service area map</a>.</p>
 238	More services
-239	Other Cerrajero24 services in&nbsp;Bilbao
+239	Other CerrajeroUCR services in&nbsp;Bilbao
 240	Request a locksmith
 241	Call a locksmith to open your premises in&nbsp;Bilbao
-242	Can’t get into your office, shop or warehouse? Contact Cerrajero24 to check the price and book a locksmith.
+242	Can’t get into your office, shop or warehouse? Contact CerrajeroUCR to check the price and book a locksmith.
 243	Open 24/7 — including weekends and holidays
 244	Coverage: Bilbao and Biscay
 245	We agree the price before starting
@@ -256,7 +256,7 @@
 256	Lock damaged after a break-in
 257	The cylinders need replacing
 258	Other
-259	Office and shop opening in Bilbao 24/7 — Cerrajero24
+259	Office and shop opening in Bilbao 24/7 — CerrajeroUCR
 260	Office, shop or warehouse won’t open? We open your premises in Bilbao 24/7 and replace the cylinders on the spot if needed. Price agreed before work begins.
 261	Office, shop or warehouse won’t open? We’ll open your premises in Bilbao around the clock, with the price agreed before we start.
 262	Office and commercial premises opening in Bilbao

@@ -1,7 +1,7 @@
 <?php
 /**
  * Polylang Pro: строки интерфейса темы.
- * Все строки c24__() из файлов темы автоматически появляются в «Языки → Перевод строк» (группа Cerrajero24).
+ * Все строки c24__() из файлов темы автоматически появляются в «Языки → Перевод строк» (группа CerrajeroUCR).
  * Исходный язык строк — испанский.
  */
 
@@ -37,6 +37,6 @@ add_action( 'init', function () {
 		return;
 	}
 	foreach ( c24_theme_strings() as $s ) {
-		pll_register_string( mb_substr( $s, 0, 60 ), $s, 'Cerrajero24', mb_strlen( $s ) > 70 );
+		pll_register_string( mb_substr( $s, 0, 60 ), $s, 'CerrajeroUCR', mb_strlen( $s ) > 70 );
 	}
 } );

@@ -78,7 +78,7 @@
 112	Lock check
 113	We check the lock with the spare key. If the cylinder is damaged, we suggest replacing it.
 114	Key just snapped?
-119	Why people choose <span class="accent">Cerrajero24</span> for key extraction
+119	Why people choose <span class="accent">CerrajeroUCR</span> for key extraction
 122	Special tools
 123	We remove the piece without damaging the cylinder.
 124	No unnecessary replacements
@@ -149,7 +149,7 @@
 232	How long does key extraction take?
 233	<p>Usually not long if the piece hasn’t been pushed in deep. If the cylinder needs replacing or the door needs opening, that adds time for those jobs.</p>
 239	Call a locksmith for key extraction in&nbsp;Bilbao
-240	Key snapped in the lock? Contact Cerrajero24 to check the price and book a specialist call-out.
+240	Key snapped in the lock? Contact CerrajeroUCR to check the price and book a specialist call-out.
 244	We aim to save the cylinder
 246	Key extraction
 247	Check the price of a key extraction
@@ -159,7 +159,7 @@
 253	Car lock
 254	Garage or padlock
 255	Key stuck
-257	Broken key extraction in Bilbao 24/7 — Cerrajero24
+257	Broken key extraction in Bilbao 24/7 — CerrajeroUCR
 258	Key snapped in a door, mailbox or car lock? We remove the broken piece in Bilbao 24/7, without replacing the cylinder wherever possible.
 259	Key snapped in the lock? We remove the broken piece in Bilbao around the clock, without replacing the cylinder wherever possible.
 260	Broken key extraction in Bilbao

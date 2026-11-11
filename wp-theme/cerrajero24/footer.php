@@ -7,7 +7,7 @@ $nif        = c24_nif();
 <footer class="footer" id="contacts">
   <div class="container footer__grid">
     <div class="footer__brand">
-      <a class="logo logo--light" href="<?=esc_url( c24_home() );?>" aria-label="<?=esc_attr( c24__( 'Cerrajero24 — ir a la página de inicio' ) );?>"><?php if ( $logo_light ) : ?><?=c24_img( $logo_light, [ 'alt' => 'Cerrajero24' ] );?><?php else : ?><img src="<?=esc_url( c24_asset( 'img/logo-light.png' ) );?>" alt="Cerrajero24" width="715" height="129"><?php endif; ?></a>
+      <a class="logo logo--light" href="<?=esc_url( c24_home() );?>" aria-label="<?=esc_attr( c24__( 'CerrajeroUCR — ir a la página de inicio' ) );?>"><?php if ( $logo_light ) : ?><?=c24_img( $logo_light, [ 'alt' => C24_BRAND ] );?><?php else : ?><img src="<?=esc_url( c24_asset( 'img/logo-light.png' ) );?>" alt="<?=esc_attr( C24_BRAND );?>" width="806" height="129"><?php endif; ?></a>
       <p><?=esc_html( c24__( 'Apertura urgente, reparación, cambio e instalación de cerraduras en Bilbao y Gran Bilbao.' ) );?></p>
     </div>
 
@@ -24,7 +24,7 @@ $nif        = c24_nif();
   </div>
 
   <div class="container footer__bottom">
-    <p>© <span data-year><?=esc_html( wp_date( 'Y' ) );?></span> Cerrajero24 · NIF: <?=esc_html( $nif ?: '—' );?> · <?=esc_html( c24__( 'Bilbao, Bizkaia, España' ) );?></p>
+    <p>© <span data-year><?=esc_html( wp_date( 'Y' ) );?></span> <?=esc_html( C24_BRAND );?> · NIF: <?=esc_html( $nif ?: '—' );?> · <?=esc_html( c24__( 'Bilbao, Bizkaia, España' ) );?></p>
     <ul role="list">
       <?php c24_menu( 'menu-footer' ); ?>
     </ul>

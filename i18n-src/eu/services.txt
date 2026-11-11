@@ -64,7 +64,7 @@
 64	Azken prezioa lana hasi aurretik adosten da.
 65	Galdetu sarraila irekitzearen prezioa
 66	Jarri harremanetan sarrailagilearekin eta jaso aurrekontu bat.
-67	Zergatik aukeratu Cerrajero24
+67	Zergatik aukeratu CerrajeroUCR
 68	Zergatik aukeratzen gaituzte bezeroek <span class="accent">sarrailak irekitzeko?</span>
 69	Azkar, kontu handiz eta gardentasunez laguntzen dugu. Bilbon eta Bizkaian lan egiten dugu, prezioa aldez aurretik azaltzen dugu eta kasu bakoitzari egokitutako irtenbidea bilatzen dugu.
 70	Sarrailagilea azkar
@@ -95,10 +95,10 @@
 95	Prest gaude edozein egoeratan laguntzeko.
 96	Deitu sarrailagileari
 97	Galderak
-98	Cerrajero24ren zerbitzuei buruzko ohiko galderak
+98	CerrajeroUCR-ren zerbitzuei buruzko ohiko galderak
 99	Galdera gehiago dituzu?
 100	Jarri harremanetan sarrailagilearekin: erantzun egingo dizugu eta orain bertan zer egin esango dizugu.
-101	Zer zerbitzu eskaintzen ditu Cerrajero24k?
+101	Zer zerbitzu eskaintzen ditu CerrajeroUCR-k?
 102	<p>Etxebizitzen eta sarrera-ateen, autoen, kutxa gotorren, garajeen eta merkataritza-lokalen premiazko irekiera, baita sarrailen konponketa, aldaketa eta instalazioa eta giltza hautsiak ateratzea ere. Bilbon eta Bilbo Handiko udalerrietan lan egiten dugu. Zer zerbitzu behar duzun ziur ez badakizu, begiratu <a href="#choose">egoeraren araberako gida</a> edo azaldu arazoa telefonoz: operadoreak orientatuko zaitu.</p>
 103	Egunean 24 orduz lan egiten duzue?
 104	<p>Bai. Abisuak hartu eta joan egiten gara egunean 24 orduz, asteko zazpi egunetan, asteburuak eta jaiegunak barne. Gauez, 22:00etatik 08:00etara, eta asteburu eta jaiegunetan gainkostu bat aplikatzen da; operadoreak haren zenbatekoa esaten dizu deitzean, sarrailagilea abiatu aurretik.</p>
@@ -115,13 +115,13 @@
 115	Lanen bermea ematen duzue?
 116	<p>Bai, sarrailen konponketan, aldaketan eta instalazioan eta pieza berrietan. Bermearen epea eta baldintzak egindako lanaren agirian jasotzen dira; sarrailagileak lana amaitzean ematen du agiri hori. Premiazko irekiera baten ondoren, sarrailagileak beti egiaztatzen du sarrailak ondo funtzionatzen duela eta, behar izanez gero, konponketa proposatzen du.</p>
 117	Zerbitzu-eskaera
-118	Deitu Cerrajero24ko sarrailagile bati Bilbon
+118	Deitu CerrajeroUCR-ko sarrailagile bati Bilbon
 119	Ezin duzu atea, autoa edo kutxa gotorra ireki? Utzi zure eskaera, eta teknikari batek deituko dizu arazoa ezagutu eta joan-etorria zehazteko.
 120	Egunean 24 orduz, asteburuetan eta jaiegunetan ere
 121	Prezioa hasi aurretik adosten dugu
 122	Kalterik gabe irekitzen saiatzen gara
 123	Konponketen eta instalazioen bermea
 124	Sarrailagile-eskaera
-125	Sarrailagilea Bilbon: sarrailak irekitzea, konpontzea eta aldatzea 24/7 — Cerrajero24
-126	Cerrajero24ren zerbitzu guztiak Bilbon eta Bilbo Handian: etxebizitzen, autoen, kutxa gotorren eta garajeen premiazko irekiera; sarrailen konponketa, aldaketa eta instalazioa. Egunean 24 orduz, prezioa hasi aurretik.
+125	Sarrailagilea Bilbon: sarrailak irekitzea, konpontzea eta aldatzea 24/7 — CerrajeroUCR
+126	CerrajeroUCR-ren zerbitzu guztiak Bilbon eta Bilbo Handian: etxebizitzen, autoen, kutxa gotorren eta garajeen premiazko irekiera; sarrailen konponketa, aldaketa eta instalazioa. Egunean 24 orduz, prezioa hasi aurretik.
 127	Etxebizitzen, autoen, kutxa gotorren eta garajeen premiazko irekiera, eta sarrailen konponketa, aldaketa eta instalazioa Bilbon eta Bilbo Handian.

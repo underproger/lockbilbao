@@ -80,7 +80,7 @@
 111	The locksmith checks your right of access and opens the door or lock using the agreed method.
 113	We check the door and lock work. If needed, we replace the cylinder or padlock.
 114	Garage won’t open right now?
-119	Why choose <span class="accent">Cerrajero24</span> for garage opening
+119	Why choose <span class="accent">CerrajeroUCR</span> for garage opening
 122	Call-outs across Bilbao and the suburbs
 123	Private garages, car parks, warehouses and storage rooms — in the city and Greater Bilbao.
 124	Careful work
@@ -151,7 +151,7 @@
 232	What documents are needed to open a garage?
 233	<p>A photo ID and proof of your right to the garage or storage room: an <span lang="es">escritura</span>, a parking space rental contract or a homeowners’ association receipt. Find out more in the <a href="#documents">documents</a> section.</p>
 239	Call a locksmith to open your garage in&nbsp;Bilbao
-240	Gate or garage won’t open? Contact Cerrajero24 to check the price and book a locksmith.
+240	Gate or garage won’t open? Contact CerrajeroUCR to check the price and book a locksmith.
 244	We aim to save the lock and the door
 246	Garage opening
 247	Ask for a garage opening price
@@ -162,7 +162,7 @@
 253	The remote doesn’t work
 254	The padlock won’t open
 255	The storage room is locked
-257	Garage and gate opening in Bilbao 24/7 — Cerrajero24
+257	Garage and gate opening in Bilbao 24/7 — CerrajeroUCR
 258	Garage, shutter or storage room lock jammed? We open garage doors, metal shutters and padlocks in Bilbao. Price agreed before work begins.
 259	Garage or shutter lock jammed? We’ll open your garage or gate in Bilbao, with the price agreed before we start.
 260	Garage and gate opening in Bilbao

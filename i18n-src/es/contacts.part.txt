@@ -1,5 +1,5 @@
 1	Contacto
-2	Contacto de Cerrajero24 <span class="accent">en&nbsp;Bilbao</span>
+2	Contacto de CerrajeroUCR <span class="accent">en&nbsp;Bilbao</span>
 3	Atendemos avisos las 24 horas, sin descanso ni festivos. Lo más rápido es llamar: el operador de guardia le dirá enseguida qué trabajo necesita y le dará un precio y un tiempo de llegada orientativos.
 4	Llamada urgente · 24/7
 5	La forma más rápida de llamar a un cerrajero: respondemos también de&nbsp;noche y&nbsp;en&nbsp;festivos.
@@ -34,11 +34,11 @@
 44	Barrios más solicitados: Casco Viejo, Indautxu, San Ignacio, Santutxu, Miribilla y otros.
 45	Municipios del Gran Bilbao
 54	y otros municipios del Gran Bilbao.
-56	Datos de la empresa Cerrajero24
+56	Datos de la empresa CerrajeroUCR
 57	Datos fiscales, perfil en&nbsp;Google y documentos legales de la web, todo en&nbsp;un mismo lugar.
 58	Datos de la empresa
 59	Nombre
-60	Cerrajero24
+60	CerrajeroUCR
 61	Actividad
 62	Apertura urgente, reparación, cambio e&nbsp;instalación de cerraduras
 63	NIF / CIF
@@ -46,7 +46,7 @@
 65	Bilbao y&nbsp;el Gran Bilbao, Bizkaia, España
 66	Teléfono
 67	Correo electrónico
-68	Cerrajero24 en&nbsp;Google Maps
+68	CerrajeroUCR en&nbsp;Google Maps
 69	En el perfil de la empresa encontrará opiniones de clientes y datos de contacto. Si el cerrajero le ha ayudado, le agradeceremos una opinión: ayuda a otras personas a encontrar antes un cerrajero de confianza.
 70	Abrir en Google Maps
 72	Información legal
@@ -54,7 +54,7 @@
 74	Política de cookies
 75	Condiciones del servicio
 76	Aviso legal
-78	Preguntas frecuentes sobre cómo contactar con&nbsp;Cerrajero24
+78	Preguntas frecuentes sobre cómo contactar con&nbsp;CerrajeroUCR
 79	¿Necesita un cerrajero ahora mismo?
 80	Llámenos: el cerrajero de guardia atiende las 24 horas.
 81	¿Cuál es la forma más rápida de llamar a un cerrajero?
@@ -68,7 +68,7 @@
 89	¿Puedo saber el precio antes de que llegue el cerrajero?
 90	<p>Uno orientativo, sí. El operador se lo indica por teléfono si le describe la situación, el tipo de puerta y de cerradura, y con una foto de la cerradura la estimación es más precisa. El precio final lo da el cerrajero tras revisar la cerradura en el lugar y antes de empezar, y el trabajo solo comienza con su consentimiento. Tiene precios de referencia en la <a href="{url:services}#prices">tabla de precios</a>.</p>
 91	¿Cómo puedo dejar una opinión o consultar algo sobre un trabajo realizado?
-92	<p>Puede dejar su opinión en nuestro perfil de Google Maps: encontrará el enlace en el bloque <a href="#company">«Datos de la empresa»</a>. Las consultas sobre un trabajo realizado, la garantía o los documentos es mejor enviarlas a <a href="mailto:info@cerrajero24.es">info@cerrajero24.es</a>: indique la fecha del servicio, la dirección y el teléfono desde el que llamó, y así encontraremos su aviso antes.</p>
-93	Contacto de Cerrajero24 — cerrajero en Bilbao 24 horas
-94	Teléfono, WhatsApp y correo de Cerrajero24. Apertura urgente y cambio de cerraduras en Bilbao y el Gran Bilbao las 24 horas. Llámenos o déjenos su solicitud y le llamaremos.
+92	<p>Puede dejar su opinión en nuestro perfil de Google Maps: encontrará el enlace en el bloque <a href="#company">«Datos de la empresa»</a>. Las consultas sobre un trabajo realizado, la garantía o los documentos es mejor enviarlas a <a href="mailto:info@cerrajeroucr.es">info@cerrajeroucr.es</a>: indique la fecha del servicio, la dirección y el teléfono desde el que llamó, y así encontraremos su aviso antes.</p>
+93	Contacto de CerrajeroUCR — cerrajero en Bilbao 24 horas
+94	Teléfono, WhatsApp y correo de CerrajeroUCR. Apertura urgente y cambio de cerraduras en Bilbao y el Gran Bilbao las 24 horas. Llámenos o déjenos su solicitud y le llamaremos.
 95	Teléfono, WhatsApp y correo. Apertura urgente y cambio de cerraduras en Bilbao y el Gran Bilbao las 24 horas.

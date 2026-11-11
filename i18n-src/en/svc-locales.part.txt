@@ -80,7 +80,7 @@
 113	We check all locks and hand the new keys over to the person in charge.
 114	Premises locked right now?
 115	The on-call locksmith is available around the clock — including at night and at weekends.
-119	Why businesses choose <span class="accent">Cerrajero24</span>
+119	Why businesses choose <span class="accent">CerrajeroUCR</span>
 121	We take calls 24/7 — including before opening and after closing time.
 123	Offices, shops, warehouses and ground-floor units — in the city and Greater Bilbao.
 124	Opening and replacement in one visit
@@ -155,7 +155,7 @@
 234	What documents are needed to open premises?
 235	<p>A photo ID and proof of your right to the premises: a rental contract, an <span lang="es">escritura</span> or company documents. An employee will need authorisation from the owner or manager. Find out more in the <a href="#documents">documents</a> section.</p>
 241	Call a locksmith to open your premises in&nbsp;Bilbao
-242	Can’t get into your office, shop or warehouse? Contact Cerrajero24 to check the price and book a locksmith.
+242	Can’t get into your office, shop or warehouse? Contact CerrajeroUCR to check the price and book a locksmith.
 246	Opening and cylinder replacement in one visit
 248	Premises opening
 249	Ask for a premises opening price
@@ -165,7 +165,7 @@
 253	The shutter lock is jammed
 256	Lock damaged after a break-in
 257	The cylinders need replacing
-259	Office and shop opening in Bilbao 24/7 — Cerrajero24
+259	Office and shop opening in Bilbao 24/7 — CerrajeroUCR
 260	Office, shop or warehouse won’t open? We open your premises in Bilbao 24/7 and replace the cylinders on the spot if needed. Price agreed before work begins.
 261	Office, shop or warehouse won’t open? We’ll open your premises in Bilbao around the clock, with the price agreed before we start.
 262	Office and commercial premises opening in Bilbao

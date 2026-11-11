@@ -37,7 +37,7 @@
 37	Azken prezioa lana hasi aurretik adosten da.
 38	Galdetu sarraila irekitzearen prezioa
 39	Jarri harremanetan sarrailagilearekin eta jaso aurrekontu bat.
-40	Zergatik aukeratu Cerrajero24
+40	Zergatik aukeratu CerrajeroUCR
 41	Zergatik aukeratzen gaituzte bezeroek <span class="accent">sarrailak irekitzeko?</span>
 42	Azkar, kontu handiz eta gardentasunez laguntzen dugu. Bilbon eta Bizkaian lan egiten dugu, prezioa aldez aurretik azaltzen dugu eta kasu bakoitzari egokitutako irtenbidea bilatzen dugu.
 43	Sarrailagilea azkar
@@ -145,8 +145,8 @@
 145	Arratsalde amaieran maletategia ez zen irekitzen, eta barruan genituen hurrengo goizeko bidaiarako gauzak. Sarrailagilea adostutako orduan iritsi zen, kalterik gabe ireki zuen eta sarrailaren hagaxka hautsita zegoela erakutsi zidan. Non merke aldatu esan zidan, eta ez zidan beharrezkoak ez ziren lanik saldu nahi izan.
 146	Deitu ospe ona duen sarrailagile bati
 147	Guri buruz
-148	Cerrajero24 enpresa eta bere sarrailagileak
-149	Cerrajero24 sarrailen premiazko irekiera eta mantentze-zerbitzua da Bilbon eta Bilbo Handian. Etxebizitzetako eta etxeetako ateak, autoak, kutxa gotorrak eta garajeak irekitzen ditugu, eta irekiera ondoren sarrailak konpondu, aldatu eta instalatzen ditugu.
+148	CerrajeroUCR enpresa eta bere sarrailagileak
+149	CerrajeroUCR sarrailen premiazko irekiera eta mantentze-zerbitzua da Bilbon eta Bilbo Handian. Etxebizitzetako eta etxeetako ateak, autoak, kutxa gotorrak eta garajeak irekitzen ditugu, eta irekiera ondoren sarrailak konpondu, aldatu eta instalatzen ditugu.
 150	Zerbitzu bakoitzera uniformedun sarrailagile bat joaten da, agiriekin eta tresna guztiekin. Hasi aurretik zer egingo duen azaltzen dizu eta prezioa esaten dizu. Amaitzean, sarraila zurekin batera egiaztatzen du eta bermea duen agiri bat ematen dizu.
 151	egunean 24 orduz, asteburuetan eta jaiegunetan ere
 152	Bilbo Handiko udalerri gure zerbitzu-eremuan
@@ -179,12 +179,12 @@
 179	Galdakao
 180	Etxebarri
 181	eta Bilbo Handiko beste udalerri batzuk.
-182	Jakin beharrekoak · Cerrajero24
+182	Jakin beharrekoak · CerrajeroUCR
 183	Sarrailen eta ateen premiazko irekiera <span class="accent">Bilbon</span>: zer jakin sarrailagileari deitu aurretik
 184	Sarrera-atea irekitzen ez bada, lehenik arazoa zein den jakin behar da, eta sarraila ez kaltetu bat-bateko saiakerekin. Jarraian azaltzen dugu nola egiten den ate baten premiazko irekiera, noiz aldatu behar den mekanismoa eta zer prestatu sarrailagilea iritsi aurretik.
 185	<h3>Ireki al daiteke ate bat sarraila kaltetu gabe?</h3>
 186	<p>Kasu askotan sarrera-atea ireki daiteke sarraila eta ate-orria gordeta. Emaitza atearen egituraren, bonbina motaren, mekanismoaren egoeraren eta blokeoaren arrazoiaren araberakoa da. Adibidez, danba itxitako ate batek eta matxuratutako puntu anitzeko sarraila batek ikuspegi desberdinak behar dituzte.</p>
-187	<p>Cerrajero24ko sarrailagileak lehenik atea aztertzen du eta kalterik gabe ireki daitekeen baloratzen du. Sarbidea berreskuratzeko piezaren bat kaltetu edo ordeztu behar bada, teknikariak egoera azalduko dizu eta urratsak zurekin adostuko ditu hasi aurretik. Informazio gehiago <a href="{url:svc-puertas}">ateen premiazko irekiera</a> orrian.</p>
+187	<p>CerrajeroUCR-ko sarrailagileak lehenik atea aztertzen du eta kalterik gabe ireki daitekeen baloratzen du. Sarbidea berreskuratzeko piezaren bat kaltetu edo ordeztu behar bada, teknikariak egoera azalduko dizu eta urratsak zurekin adostuko ditu hasi aurretik. Informazio gehiago <a href="{url:svc-puertas}">ateen premiazko irekiera</a> orrian.</p>
 188	<h3>Zer egin sarrera-atea trabatu bada?</h3>
 189	<p>Ez behartu giltza, ez jo sarraila eta ez saiatu atea eskura duzun lehen gauzarekin irekitzen. Matxura okertu, bonbina kaltetu eta ondorengo konponketa garestitu dezakezu. Egiaztatu ate-orria okertuta dagoen eta ixtea eragozten duen, eta giltzak kalte-zantzurik duen.</p>
 190	<p>Mekanismoak funtzionatzen jarraitzen ez badu, jarri harremanetan sarrailagilearekin. Esan giltzak biratzen duen, heldulekuak irekitzen duen eta zer sarraila duzun. Datu horiekin teknikariak zerbitzuaren zailtasuna aldez aurretik balora dezake. Arrazoia mekanismoaren higadura bada, <a href="{url:svc-reparacion}">sarrailaren konponketa</a> da irtenbidea.</p>
@@ -241,6 +241,6 @@
 241	Kutxa gotor bat ireki
 242	Sarraila bat aldatu edo instalatu
 243	Beste bat
-244	Premiazko sarrailagilea Bilbon 24/7 — Cerrajero24
+244	Premiazko sarrailagilea Bilbon 24/7 — CerrajeroUCR
 245	Premiazko sarrailagilea Bilbon eta Bilbo Handian egunean 24 orduz. Ateak, autoak, kutxa gotorrak eta garajeak irekitzen ditugu; sarrailak aldatu eta konpontzen ditugu. Prezioa hasi aurretik.
 246	Ateak, autoak, kutxa gotorrak eta garajeak irekitzen ditugu Bilbon eta Bilbo Handian. Egunean 24 orduz, prezioa hasi aurretik adostuta.

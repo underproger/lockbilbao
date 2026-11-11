@@ -82,7 +82,7 @@
 112	Comprobación y puesta a punto
 113	Comprobamos la cerradura y cambiamos el código o las pilas. Si hace falta una cerradura nueva, se la proponemos en el momento.
 114	¿Necesita acceder a la caja fuerte ahora mismo?
-119	Por qué elegir <span class="accent">Cerrajero24</span> para abrir su caja fuerte
+119	Por qué elegir <span class="accent">CerrajeroUCR</span> para abrir su caja fuerte
 122	Trabajamos en el lugar
 123	Vamos a su casa, oficina o tienda: no hay que llevar la caja fuerte a ninguna parte.
 124	Primero, conservar la caja fuerte
@@ -160,7 +160,7 @@
 234	¿Qué hacer si no se abre la caja fuerte de un hotel o apartamento?
 235	<p>Diríjase a la recepción o al propietario del apartamento: la caja fuerte es suya y deben abrirla ellos o un cerrajero llamado por ellos.</p>
 241	Llame a un cerrajero para abrir una caja fuerte en&nbsp;Bilbao
-242	¿No se abre la caja fuerte? Contacte con Cerrajero24 para conocer el precio y pedir que vaya un cerrajero.
+242	¿No se abre la caja fuerte? Contacte con CerrajeroUCR para conocer el precio y pedir que vaya un cerrajero.
 246	Primero, los métodos sin taladrar
 248	Apertura de caja fuerte
 249	Consultar el precio de apertura de una caja fuerte
@@ -171,7 +171,7 @@
 254	He perdido la llave
 255	El mecanismo se ha atascado
 256	La caja fuerte se ha bloqueado
-258	Apertura de cajas fuertes en Bilbao 24 h — Cerrajero24
+258	Apertura de cajas fuertes en Bilbao 24 h — CerrajeroUCR
 259	¿Código olvidado, llave perdida o pilas agotadas? Abrimos cajas fuertes mecánicas, de combinación y electrónicas en Bilbao, primero sin taladrar. Precio antes de empezar.
 260	¿Ha olvidado el código o perdido la llave de la caja fuerte? La abrimos en Bilbao, sea mecánica, de combinación o electrónica, con el precio antes de empezar.
 261	Apertura de cajas fuertes en Bilbao

@@ -115,8 +115,8 @@
 115	The on-call locksmith is available around the clock — including at night and on holidays.
 116	Call a locksmith now
 117	Bilbao · Biscay
-118	Why Cerrajero24
-119	Why choose <span class="accent">Cerrajero24</span> for safe opening
+118	Why CerrajeroUCR
+119	Why choose <span class="accent">CerrajeroUCR</span> for safe opening
 120	Help around the clock
 121	We take calls 24/7, including weekends and public holidays.
 122	We work on site
@@ -236,10 +236,10 @@
 236	Do you cover the Bilbao suburbs?
 237	<p>Yes. As well as every district of Bilbao, we cover the municipalities of Greater Bilbao: Barakaldo, Getxo, Portugalete, Santurtzi, Leioa, Sestao, Basauri, Erandio and others. The dispatcher will tell you the price and arrival time outside the city when you call. You can check your area on the <a href="#areas">service area map</a>.</p>
 238	More services
-239	Other Cerrajero24 services in&nbsp;Bilbao
+239	Other CerrajeroUCR services in&nbsp;Bilbao
 240	Request a locksmith
 241	Call a locksmith to open a safe in&nbsp;Bilbao
-242	Safe won’t open? Contact Cerrajero24 to check the price and book a locksmith.
+242	Safe won’t open? Contact CerrajeroUCR to check the price and book a locksmith.
 243	Open 24/7 — including weekends and holidays
 244	Coverage: Bilbao and Biscay
 245	We agree the price before starting
@@ -255,7 +255,7 @@
 255	The mechanism is jammed
 256	The safe has locked out
 257	Other
-258	Safe opening in Bilbao 24/7 — Cerrajero24
+258	Safe opening in Bilbao 24/7 — CerrajeroUCR
 259	Forgotten code, lost key or flat batteries? We open mechanical, combination and electronic safes in Bilbao — without drilling first. Price agreed before work begins.
 260	Forgotten the code or lost the safe key? We’ll open mechanical, combination or electronic safes in Bilbao, with the price agreed before we start.
 261	Safe opening in Bilbao

@@ -115,8 +115,8 @@
 115	Háblenos de su puerta y le diremos qué cerradura poner.
 116	Llamar al cerrajero
 117	Bilbao · Bizkaia
-118	Por qué Cerrajero24
-119	Por qué confían la instalación de cerraduras a <span class="accent">Cerrajero24</span>
+118	Por qué CerrajeroUCR
+119	Por qué confían la instalación de cerraduras a <span class="accent">CerrajeroUCR</span>
 120	A medida de su puerta
 121	Tenemos en cuenta cómo es la puerta, no le ofrecemos la cerradura más cara.
 122	Embutido cuidadoso
@@ -235,10 +235,10 @@
 235	¿Van a los alrededores de Bilbao?
 236	<p>Sí. Además de todos los barrios de Bilbao, nos desplazamos a los municipios del Gran Bilbao: Barakaldo, Getxo, Portugalete, Santurtzi, Leioa, Sestao, Basauri, Erandio y otros. El precio y el tiempo de llegada fuera de la ciudad se los indicará el operador al llamar. Puede comprobar su zona en el <a href="#areas">mapa de la zona de servicio</a>.</p>
 237	Más servicios
-238	Otros servicios de Cerrajero24 en&nbsp;Bilbao
+238	Otros servicios de CerrajeroUCR en&nbsp;Bilbao
 239	Solicitud de servicio
 240	Pedir la instalación de una cerradura en&nbsp;Bilbao
-241	¿Quiere poner una cerradura nueva o adicional? Contacte con Cerrajero24 para elegir la cerradura y saber el precio.
+241	¿Quiere poner una cerradura nueva o adicional? Contacte con CerrajeroUCR para elegir la cerradura y saber el precio.
 242	Trabajamos 24/7, sin descanso ni festivos
 243	Zona: Bilbao y Bizkaia
 244	Acordamos el precio antes de empezar
@@ -255,7 +255,7 @@
 255	Cerradura de puerta de interior
 256	Cerradura para oficina o tienda
 257	Otro
-258	Instalación de cerraduras en Bilbao — Cerrajero24
+258	Instalación de cerraduras en Bilbao — CerrajeroUCR
 259	Instalamos cerraduras adicionales, cerrojos y escudos de seguridad, y embutimos cerraduras en puertas nuevas. Elección a medida de su puerta y montaje cuidadoso en Bilbao.
 260	Instalación de cerraduras, cerrojos y escudos de seguridad en Bilbao. A medida de su puerta, con precio antes de empezar.
 261	Instalación de cerraduras en Bilbao

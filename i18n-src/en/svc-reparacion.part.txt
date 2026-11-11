@@ -86,7 +86,7 @@
 113	We check the lock and door work properly and explain how to make the mechanism last longer.
 114	Lock jammed right now?
 115	Our on-call locksmith is available around the clock — we’ll open the door and repair the lock.
-119	Why people trust <span class="accent">Cerrajero24</span> with lock repairs
+119	Why people trust <span class="accent">CerrajeroUCR</span> with lock repairs
 120	On-site diagnosis
 121	We find the cause of the fault and explain it in plain words.
 122	Repair, not a hard sell
@@ -165,7 +165,7 @@
 232	Who pays for a lock repair in a rented flat?
 233	<p>Under the Urban Leases Act (<span lang="es">LAU</span>), minor repairs due to normal wear are usually paid for by the tenant. It’s best to agree a lock replacement with the landlord. Find out more in the section <a href="#documents">on documents</a>.</p>
 239	Book a lock repair in&nbsp;Bilbao
-240	Lock sticking or door not closing properly? Contact Cerrajero24 to check the price and choose a convenient time.
+240	Lock sticking or door not closing properly? Contact CerrajeroUCR to check the price and choose a convenient time.
 244	Guarantee on repairs and parts
 246	Lock repair
 247	Check the price of a lock repair
@@ -174,7 +174,7 @@
 252	Door takes effort to close
 253	Latch or handle not working
 254	Multi-point lock not working
-256	Door lock repair in Bilbao — Cerrajero24
+256	Door lock repair in Bilbao — CerrajeroUCR
 257	Key hard to turn or lock sticking? We repair cylinder, lever and multi-point locks in Bilbao. On-site diagnosis, price agreed before work.
 258	Lock sticking or key hard to turn? We’ll repair your door lock in Bilbao, with the price agreed before work starts.
 259	Door lock repair in Bilbao

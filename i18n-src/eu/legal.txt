@@ -1,2 +1,2 @@
-1	Lege-oharra — Cerrajero24
+1	Lege-oharra — CerrajeroUCR
 2	<p>Dokumentu honen testua laster argitaratuko da.</p>

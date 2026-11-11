@@ -1,13 +1,14 @@
 <?php
 /**
- * Cerrajero24 — функции темы.
+ * CerrajeroUCR — функции темы.
  */
 
 defined( 'ABSPATH' ) || exit;
 
-define( 'C24_VER', '1.0.0' );
+define( 'C24_VER', '1.1.0' );
 define( 'C24_DIR', get_template_directory() );
 define( 'C24_URI', get_template_directory_uri() );
+define( 'C24_BRAND', 'CerrajeroUCR' );
 
 /**
  * Значение поля SCF/ACF. Своя обёртка вместо объявления get_field(): без SCF поля просто пустые,
@@ -29,7 +30,7 @@ add_action( 'admin_notices', function () {
 		$need[] = 'Contact Form 7';
 	}
 	if ( $need ) {
-		echo '<div class="notice notice-warning"><p><b>Cerrajero24:</b> активируйте плагины — ' . esc_html( implode( ', ', $need ) ) . '.</p></div>';
+		echo '<div class="notice notice-warning"><p><b>CerrajeroUCR:</b> активируйте плагины — ' . esc_html( implode( ', ', $need ) ) . '.</p></div>';
 	}
 } );
 

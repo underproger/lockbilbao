@@ -83,7 +83,7 @@
 113	Comprobamos la cerradura por ambos lados y le entregamos el juego de llaves nuevo.
 114	¿Acaba de perder las llaves?
 115	Cambiamos el bombín de urgencia las 24 horas, también de noche y en festivos.
-119	Por qué confían el cambio de cerraduras a <span class="accent">Cerrajero24</span>
+119	Por qué confían el cambio de cerraduras a <span class="accent">CerrajeroUCR</span>
 120	Cambio en una sola visita
 121	El cerrajero lleva bombines de las medidas más habituales para cambiarlo en el momento.
 122	A elegir según la seguridad
@@ -160,7 +160,7 @@
 232	¿Dan garantía de la cerradura nueva?
 233	<p>Sí, del trabajo y de los bombines y cerraduras instalados. Las condiciones y el plazo constan en el documento que le entregamos tras el trabajo.</p>
 239	Pedir el cambio de cerradura en&nbsp;Bilbao
-240	¿Necesita cambiar el bombín o la cerradura? Contacte con Cerrajero24 para elegir el bombín y saber el precio.
+240	¿Necesita cambiar el bombín o la cerradura? Contacte con CerrajeroUCR para elegir el bombín y saber el precio.
 244	Cambio en una sola visita
 246	Cambio de cerradura
 247	Consultar el precio del cambio de cerradura
@@ -170,7 +170,7 @@
 253	Quiero más seguridad
 254	Tras un intento de robo
 255	Cambio de varias cerraduras
-257	Cambio de cerraduras y bombines en Bilbao — Cerrajero24
+257	Cambio de cerraduras y bombines en Bilbao — CerrajeroUCR
 258	¿Ha perdido las llaves o se ha mudado? Cambiamos el bombín o la cerradura de su puerta en Bilbao en una sola visita, también bombines antibumping. Precio antes de empezar.
 259	Cambiamos el bombín o la cerradura de su puerta en Bilbao en una sola visita. Bombines antibumping, precio antes de empezar.
 260	Cambio de cerraduras y bombines en Bilbao

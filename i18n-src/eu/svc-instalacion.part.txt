@@ -83,7 +83,7 @@
 113	Sarrailaren eta atearen funtzionamendua egiaztatzen dugu, eta giltzak ematen dizkizugu.
 114	Zure atearen segurtasuna indartu nahi duzu?
 115	Kontatu nolakoa den zure atea, eta zer sarraila jarri esango dizugu.
-119	Zergatik uzten duten sarrailen instalazioa <span class="accent">Cerrajero24</span>-ren esku
+119	Zergatik uzten duten sarrailen instalazioa <span class="accent">CerrajeroUCR</span>-ren esku
 120	Zure atearen neurrira
 121	Atea nolakoa den hartzen dugu kontuan; ez dizugu sarrailarik garestiena eskaintzen.
 122	Txertatze zaindua
@@ -158,7 +158,7 @@
 233	Bermerik ematen duzue instalazioan?
 234	<p>Bai, lanean eta instalatutako sarrailetan. Baldintzak eta epea lanaren ondoren ematen dizugun agirian jasotzen dira.</p>
 240	Eskatu sarraila baten instalazioa Bilbon
-241	Sarraila berri edo osagarri bat jarri nahi duzu? Jarri harremanetan Cerrajero24rekin sarraila aukeratzeko eta prezioa jakiteko.
+241	Sarraila berri edo osagarri bat jarri nahi duzu? Jarri harremanetan CerrajeroUCR-rekin sarraila aukeratzeko eta prezioa jakiteko.
 245	Instalazioaren bermea
 247	Sarrailaren instalazioa
 248	Instalazioaren prezioa galdetu
@@ -170,7 +170,7 @@
 254	Puntu anitzeko sarraila
 255	Barruko atearen sarraila
 256	Bulego edo dendarako sarraila
-258	Sarrailak instalatzea Bilbon — Cerrajero24
+258	Sarrailak instalatzea Bilbon — CerrajeroUCR
 259	Sarraila osagarriak, morroiloak eta segurtasun-ezkutuak instalatzen ditugu, eta ate berrietan sarrailak txertatzen ditugu. Zure atearen neurrira aukeratuak eta kontuz muntatuak Bilbon.
 260	Sarrailak, morroiloak eta segurtasun-ezkutuak instalatzea Bilbon. Zure atearen neurrira, prezioa lana hasi aurretik.
 261	Sarrailak instalatzea Bilbon

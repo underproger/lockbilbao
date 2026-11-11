@@ -83,7 +83,7 @@
 111	El cerrajero llega, comprueba su derecho a usar el coche y abre la puerta o el maletero con el método acordado.
 113	Comprobamos las puertas, el maletero y el cierre centralizado. Si hay que reparar el bombín, se lo proponemos en el momento.
 114	¿El coche está cerrado ahora mismo?
-119	Por qué elegir <span class="accent">Cerrajero24</span> para abrir su coche
+119	Por qué elegir <span class="accent">CerrajeroUCR</span> para abrir su coche
 121	Atendemos avisos 24/7, incluidos fines de semana y festivos.
 122	Vamos hasta su coche
 123	Calle, patio, centro comercial o aparcamiento subterráneo, en Bilbao y alrededores.
@@ -162,7 +162,7 @@
 234	<p>Sí, las 24 horas, incluidos fines de semana y festivos. De noche, de 22:00 a 08:00, y en festivos se aplica un recargo; el operador le indica su importe al llamar. Si dentro del coche cerrado hay un niño o un animal, llame primero al 112.</p>
 236	<p>Sí. Además de todos los barrios de Bilbao, nos desplazamos a los municipios del Gran Bilbao: Barakaldo, Getxo, Portugalete, Santurtzi, Leioa, Sestao, Basauri, Erandio y otros. El precio y el tiempo de llegada fuera de la ciudad se los indicará el operador al llamar. Puede comprobar su zona en el <a href="#areas">mapa de la zona de servicio</a>.</p>
 240	Llame a un cerrajero para abrir su coche en&nbsp;Bilbao
-241	¿No puede entrar en su coche? Contacte con Cerrajero24 para conocer el precio y pedir que vaya un cerrajero.
+241	¿No puede entrar en su coche? Contacte con CerrajeroUCR para conocer el precio y pedir que vaya un cerrajero.
 245	Intentamos abrir sin dejar marcas en el coche
 247	Apertura de coche
 248	Consultar el precio de apertura de un coche
@@ -172,7 +172,7 @@
 252	El maletero se ha cerrado
 253	El mando no funciona
 255	La cerradura de la puerta se ha atascado
-257	Apertura urgente de coches en Bilbao 24 h — Cerrajero24
+257	Apertura urgente de coches en Bilbao 24 h — CerrajeroUCR
 258	¿Llaves dentro del coche, maletero cerrado o mando sin pila? Abrimos su coche en Bilbao 24/7 sin dañar cristales ni gomas. Precio antes de empezar.
 259	¿Llaves dentro, maletero cerrado o mando sin pila? Abrimos su coche en Bilbao las 24 horas, con el precio antes de empezar.
 260	Apertura urgente de coches en Bilbao

@@ -115,8 +115,8 @@
 115	Guardiako sarrailagilea egunean 24 orduz dago prest, gauez eta jaiegunetan ere bai.
 116	Deitu sarrailagileari orain
 117	Bilbo · Bizkaia
-118	Zergatik Cerrajero24
-119	Zergatik aukeratu <span class="accent">Cerrajero24</span> zure autoa irekitzeko
+118	Zergatik CerrajeroUCR
+119	Zergatik aukeratu <span class="accent">CerrajeroUCR</span> zure autoa irekitzeko
 120	Laguntza egunean 24 orduz
 121	24/7 hartzen ditugu abisuak, asteburuak eta jaiegunak barne.
 122	Zure autoraino joaten gara
@@ -235,10 +235,10 @@
 235	Bilbo ingurura ere joaten zarete?
 236	<p>Bai. Bilboko auzo guztiez gain, Bilbo Handiko udalerrietara ere joaten gara: Barakaldo, Getxo, Portugalete, Santurtzi, Leioa, Sestao, Basauri, Erandio eta beste batzuk. Hiritik kanpoko prezioa eta iristeko denbora operadoreak esango dizkizu deitzean. Zure eremua <a href="#areas">zerbitzu-eremuaren mapan</a> egiazta dezakezu.</p>
 237	Zerbitzu gehiago
-238	Cerrajero24ren beste zerbitzu batzuk Bilbon
+238	CerrajeroUCR-ren beste zerbitzu batzuk Bilbon
 239	Zerbitzu-eskaera
 240	Deitu sarrailagile bati zure autoa Bilbon irekitzeko
-241	Ezin zara autoan sartu? Jarri harremanetan Cerrajero24rekin prezioa jakiteko eta sarrailagile bat eskatzeko.
+241	Ezin zara autoan sartu? Jarri harremanetan CerrajeroUCR-rekin prezioa jakiteko eta sarrailagile bat eskatzeko.
 242	24/7 lanean, asteburuetan eta jaiegunetan ere
 243	Eremua: Bilbo eta Bizkaia
 244	Prezioa hasi aurretik adosten dugu
@@ -254,7 +254,7 @@
 254	Giltzak galduta
 255	Atearen sarraila trabatu da
 256	Beste bat
-257	Autoen premiazko irekiera Bilbon 24/7 — Cerrajero24
+257	Autoen premiazko irekiera Bilbon 24/7 — CerrajeroUCR
 258	Giltzak autoan, maletategia itxita edo urruneko agintea pilarik gabe? Zure autoa Bilbon irekitzen dugu 24/7, kristalak eta juntak kaltetu gabe. Prezioa hasi aurretik.
 259	Giltzak barruan, maletategia itxita edo urruneko agintea pilarik gabe? Zure autoa Bilbon irekiko dugu egunean 24 orduz, prezioa hasi aurretik adostuta.
 260	Autoen premiazko irekiera Bilbon

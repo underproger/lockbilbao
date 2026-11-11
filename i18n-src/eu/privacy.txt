@@ -1,2 +1,2 @@
-1	Pribatutasun-politika — Cerrajero24
+1	Pribatutasun-politika — CerrajeroUCR
 2	<p>Dokumentu honen testua laster argitaratuko da.</p>

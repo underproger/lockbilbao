@@ -115,8 +115,8 @@
 115	Guardiako sarrailagilea egunean 24 orduz dago prest, gauez eta jaiegunetan ere bai.
 116	Deitu sarrailagileari orain
 117	Bilbo · Bizkaia
-118	Zergatik Cerrajero24
-119	Zergatik aukeratu <span class="accent">Cerrajero24</span> zure garajea irekitzeko
+118	Zergatik CerrajeroUCR
+119	Zergatik aukeratu <span class="accent">CerrajeroUCR</span> zure garajea irekitzeko
 120	Laguntza egunean 24 orduz
 121	24/7 hartzen ditugu abisuak, asteburuak eta jaiegunak barne.
 122	Zerbitzua Bilbon eta inguruetan
@@ -234,10 +234,10 @@
 234	Bilbo ingurura ere joaten zarete?
 235	<p>Bai. Bilboko auzo guztiez gain, Bilbo Handiko udalerrietara ere joaten gara: Barakaldo, Getxo, Portugalete, Santurtzi, Leioa, Sestao, Basauri, Erandio eta beste batzuk. Hiritik kanpoko prezioa eta iristeko denbora operadoreak esango dizkizu deitzean. Zure eremua <a href="#areas">zerbitzu-eremuaren mapan</a> egiazta dezakezu.</p>
 236	Zerbitzu gehiago
-237	Cerrajero24ren beste zerbitzu batzuk Bilbon
+237	CerrajeroUCR-ren beste zerbitzu batzuk Bilbon
 238	Zerbitzu-eskaera
 239	Deitu sarrailagile bati zure garajea Bilbon irekitzeko
-240	Atea edo garajea ez da irekitzen? Jarri harremanetan Cerrajero24rekin prezioa jakiteko eta sarrailagile bat eskatzeko.
+240	Atea edo garajea ez da irekitzen? Jarri harremanetan CerrajeroUCR-rekin prezioa jakiteko eta sarrailagile bat eskatzeko.
 241	24/7 lanean, asteburuetan eta jaiegunetan ere
 242	Eremua: Bilbo eta Bizkaia
 243	Prezioa hasi aurretik adosten dugu
@@ -254,7 +254,7 @@
 254	Giltzarrapoa ez da irekitzen
 255	Trastelekua itxita dago
 256	Beste bat
-257	Garajeak eta ateak irekitzea Bilbon 24/7 — Cerrajero24
+257	Garajeak eta ateak irekitzea Bilbon 24/7 — CerrajeroUCR
 258	Garajearen, pertsianaren edo trastelekuaren sarraila trabatu da? Garaje-ateak, metalezko itxierak eta giltzarrapoak irekitzen ditugu Bilbon. Prezioa hasi aurretik.
 259	Garajearen edo pertsianaren sarraila trabatu da? Garajeak eta ateak Bilbon irekitzen ditugu, prezioa hasi aurretik adostuta.
 260	Garajeak eta ateak irekitzea Bilbon

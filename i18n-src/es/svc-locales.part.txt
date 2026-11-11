@@ -80,7 +80,7 @@
 113	Comprobamos todas las cerraduras y entregamos las llaves nuevas a la persona responsable.
 114	¿El local está cerrado ahora mismo?
 115	El cerrajero de guardia atiende las 24 horas, también de noche y en fin de semana.
-119	Por qué los negocios eligen <span class="accent">Cerrajero24</span>
+119	Por qué los negocios eligen <span class="accent">CerrajeroUCR</span>
 121	Atendemos avisos 24/7, también antes de la apertura y después del cierre.
 123	Oficinas, tiendas, almacenes y lonjas, en la ciudad y el Gran Bilbao.
 124	Apertura y cambio en una sola visita
@@ -155,7 +155,7 @@
 234	¿Qué documentos hacen falta para abrir un local?
 235	<p>Un documento con foto y algo que acredite su derecho sobre el local: el contrato de alquiler, la escritura o documentos de la empresa. Un empleado necesitará la autorización del titular o del responsable. Más información en la sección de <a href="#documents">documentos</a>.</p>
 241	Llame a un cerrajero para abrir su local en&nbsp;Bilbao
-242	¿No puede entrar en la oficina, la tienda o el almacén? Contacte con Cerrajero24 para conocer el precio y pedir que vaya un cerrajero.
+242	¿No puede entrar en la oficina, la tienda o el almacén? Contacte con CerrajeroUCR para conocer el precio y pedir que vaya un cerrajero.
 246	Apertura y cambio de bombines en una sola visita
 248	Apertura de local
 249	Consultar el precio de apertura de un local
@@ -165,7 +165,7 @@
 253	La cerradura del cierre se ha atascado
 256	Cerradura dañada tras un intento de robo
 257	Hay que cambiar los bombines
-259	Apertura de oficinas y tiendas en Bilbao 24 h — Cerrajero24
+259	Apertura de oficinas y tiendas en Bilbao 24 h — CerrajeroUCR
 260	¿No se abre la oficina, la tienda o el almacén? Abrimos su local en Bilbao 24/7 y, si hace falta, cambiamos los bombines en el momento. Precio antes de empezar.
 261	¿No se abre la oficina, la tienda o el almacén? Abrimos su local en Bilbao las 24 horas, con el precio antes de empezar.
 262	Apertura de oficinas y locales comerciales en Bilbao

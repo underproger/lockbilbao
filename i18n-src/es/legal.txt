@@ -1,2 +1,2 @@
-1	Aviso legal — Cerrajero24
+1	Aviso legal — CerrajeroUCR
 2	<p>El texto de este documento se publicará próximamente.</p>

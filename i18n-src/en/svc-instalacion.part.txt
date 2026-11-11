@@ -83,7 +83,7 @@
 113	We check the lock and door work properly and hand you the keys.
 114	Want to make your door more secure?
 115	Tell us about your door — we’ll suggest which lock to fit.
-119	Why people trust <span class="accent">Cerrajero24</span> with lock installation
+119	Why people trust <span class="accent">CerrajeroUCR</span> with lock installation
 120	Chosen for your door
 121	We take the door design into account rather than offering the most expensive lock.
 122	Neat fitting
@@ -158,7 +158,7 @@
 233	Do you guarantee the installation?
 234	<p>Yes, on the work and the locks fitted. The terms and period are stated in the document you receive after the job.</p>
 240	Book a lock installation in&nbsp;Bilbao
-241	Want a new or additional lock fitted? Contact Cerrajero24 to choose a lock and find out the price.
+241	Want a new or additional lock fitted? Contact CerrajeroUCR to choose a lock and find out the price.
 245	Installation guarantee
 247	Lock installation
 248	Check the price of a lock installation
@@ -170,7 +170,7 @@
 254	Multi-point lock
 255	Interior door lock
 256	Lock for an office or shop
-258	Lock installation in Bilbao — Cerrajero24
+258	Lock installation in Bilbao — CerrajeroUCR
 259	We fit additional locks, bolts and security escutcheons, and fit locks to new doors. Chosen to suit your door and neatly fitted in Bilbao.
 260	Installation of locks, bolts and security escutcheons in Bilbao. Chosen to suit your door, price agreed before work.
 261	Lock installation in Bilbao

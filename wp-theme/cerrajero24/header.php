@@ -25,8 +25,8 @@ foreach ( $langs as $l ) {
 
 <header class="header" data-header>
   <div class="container header__inner">
-    <a class="logo" href="<?=esc_url( c24_home() );?>" aria-label="<?=esc_attr( c24__( 'Cerrajero24 — ir a la página de inicio' ) );?>">
-      <?php if ( $logo ) : ?><?=c24_img( $logo, [ 'alt' => 'Cerrajero24' ] );?><?php else : ?><img src="<?=esc_url( c24_asset( 'img/logo.webp' ) );?>" alt="Cerrajero24" width="715" height="129"><?php endif; ?>
+    <a class="logo" href="<?=esc_url( c24_home() );?>" aria-label="<?=esc_attr( c24__( 'CerrajeroUCR — ir a la página de inicio' ) );?>">
+      <?php if ( $logo ) : ?><?=c24_img( $logo, [ 'alt' => C24_BRAND ] );?><?php else : ?><img src="<?=esc_url( c24_asset( 'img/logo.webp' ) );?>" alt="<?=esc_attr( C24_BRAND );?>" width="806" height="129"><?php endif; ?>
     </a>
 
     <nav class="nav" aria-label="<?=esc_attr( c24__( 'Menú principal' ) );?>">

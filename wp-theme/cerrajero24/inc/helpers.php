@@ -41,11 +41,11 @@ function c24_wa() {
 }
 
 function c24_email() {
-	return trim( (string) c24_opt( 'email' ) ) ?: 'info@cerrajero24.es';
+	return trim( (string) c24_opt( 'email' ) ) ?: 'info@cerrajeroucr.es';
 }
 
 function c24_maps() {
-	return trim( (string) c24_opt( 'maps_url' ) ) ?: 'https://www.google.com/maps/search/?api=1&query=Cerrajero24';
+	return trim( (string) c24_opt( 'maps_url' ) ) ?: 'https://www.google.com/maps/search/?api=1&query=CerrajeroUCR';
 }
 
 function c24_maps_review() {
@@ -345,6 +345,17 @@ function c24_area_choices() {
 }
 
 /** Данные для main.js: телефон, отправка формы, районы, строки. */
+/**
+ * Имя скрытого поля антиспам-плагина WP Armour (Honeypot). Формы темы отправляются через REST API CF7,
+ * поэтому поле добавляет main.js — иначе WP Armour считает каждую заявку спамом.
+ */
+function c24_honeypot_field() {
+	if ( ! in_array( 'honeypot/wp-armour.php', (array) get_option( 'active_plugins', [] ), true ) ) {
+		return '';
+	}
+	return (string) get_option( 'wpa_field_name', '' );
+}
+
 function c24_js_data() {
 	$lang  = c24_lang();
 	$areas = [];
@@ -368,6 +379,7 @@ function c24_js_data() {
 			'_wpcf7_unit_tag'       => 'wpcf7-f' . $form_id . '-p' . (int) get_queried_object_id() . '-o1',
 			'_wpcf7_container_post' => (int) get_queried_object_id(),
 		] : null,
+		'honeypot'  => c24_honeypot_field(),
 		'areas'     => $areas,
 		'zones'     => [
 			1 => [ 'title' => c24__( 'Damos servicio — centro de nuestra guardia' ), 'text' => c24__( 'El operador le indicará el precio del desplazamiento y el tiempo aproximado de llegada al llamar.' ) ],

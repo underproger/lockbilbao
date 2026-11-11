@@ -64,7 +64,7 @@
 64	The final price is agreed before any work begins.
 65	Ask for a lock opening price
 66	Contact a locksmith and get a preliminary estimate.
-67	Why choose Cerrajero24
+67	Why choose CerrajeroUCR
 68	Why customers choose <span class="accent">our lock opening service</span>
 69	We help quickly, carefully and transparently. We work across Bilbao and Biscay, explain the price in advance and find the right solution for your situation.
 70	Fast call-out
@@ -95,10 +95,10 @@
 95	We’re available and ready to help in any situation.
 96	Call a locksmith
 97	FAQ
-98	Frequently asked questions about Cerrajero24 services
+98	Frequently asked questions about CerrajeroUCR services
 99	Still have questions?
 100	Contact a locksmith — we’ll answer and tell you what to do right now.
-101	What services does Cerrajero24 offer?
+101	What services does CerrajeroUCR offer?
 102	<p>Emergency opening of flats and front doors, cars, safes, garages and commercial premises, as well as lock repair, replacement and installation and broken key extraction. We work in Bilbao and the municipalities of Greater Bilbao. If you are not sure which service you need, see <a href="#choose">choose by situation</a> or describe the problem by phone — the dispatcher will advise you.</p>
 103	Do you work around the clock?
 104	<p>Yes. We take requests and come out 24 hours a day, seven days a week, including weekends and public holidays. At night, from 22:00 to 08:00, and at weekends and on holidays a surcharge applies — the dispatcher tells you the amount when you call, before the locksmith sets off.</p>
@@ -115,13 +115,13 @@
 115	Do you guarantee your work?
 116	<p>Yes — lock repairs, replacements and installations, as well as new parts. The guarantee period and terms are stated in the work completion document that the locksmith gives you after the job. After an emergency opening, the locksmith always checks that the lock works properly and suggests a repair if needed.</p>
 117	Request a locksmith
-118	Call a Cerrajero24 locksmith in&nbsp;Bilbao
+118	Call a CerrajeroUCR locksmith in&nbsp;Bilbao
 119	Can’t open your door, car or safe? Send us a request and a specialist will contact you to discuss the problem and arrange the call-out.
 120	Around the clock, including weekends and holidays
 121	We agree the price before starting
 122	We aim to open without damage
 123	Guarantee on repairs and installations
 124	Request a locksmith
-125	Locksmith in Bilbao: lock opening, repair and replacement 24/7 — Cerrajero24
-126	All Cerrajero24 services in Bilbao and Greater Bilbao: emergency opening of flats, cars, safes and garages, and lock repair, replacement and installation. Around the clock, price agreed before work begins.
+125	Locksmith in Bilbao: lock opening, repair and replacement 24/7 — CerrajeroUCR
+126	All CerrajeroUCR services in Bilbao and Greater Bilbao: emergency opening of flats, cars, safes and garages, and lock repair, replacement and installation. Around the clock, price agreed before work begins.
 127	Emergency opening of flats, cars, safes and garages, plus lock repair, replacement and installation in Bilbao and Greater Bilbao.

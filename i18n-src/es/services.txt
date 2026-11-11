@@ -64,7 +64,7 @@
 64	El precio final se acuerda antes de empezar el trabajo.
 65	Consultar el precio de apertura de una cerradura
 66	Contacte con el cerrajero y reciba una estimación previa.
-67	Por qué elegir Cerrajero24
+67	Por qué elegir CerrajeroUCR
 68	¿Por qué nos eligen <span class="accent">para abrir cerraduras?</span>
 69	Ayudamos rápido, con cuidado y con total transparencia. Trabajamos en Bilbao y Bizkaia, explicamos el precio por adelantado y buscamos la solución adecuada para cada caso.
 70	Desplazamiento rápido
@@ -95,10 +95,10 @@
 95	Estamos disponibles y preparados para ayudarle en cualquier situación.
 96	Llamar al cerrajero
 97	Preguntas
-98	Preguntas frecuentes sobre los servicios de Cerrajero24
+98	Preguntas frecuentes sobre los servicios de CerrajeroUCR
 99	¿Tiene más preguntas?
 100	Contacte con el cerrajero: le responderemos y le diremos qué hacer ahora mismo.
-101	¿Qué servicios ofrece Cerrajero24?
+101	¿Qué servicios ofrece CerrajeroUCR?
 102	<p>Apertura urgente de pisos y puertas de entrada, coches, cajas fuertes, garajes y locales comerciales, además de la reparación, el cambio y la instalación de cerraduras y la extracción de llaves rotas. Trabajamos en Bilbao y en los municipios del Gran Bilbao. Si no está seguro de qué servicio necesita, consulte <a href="#choose">la guía por situaciones</a> o explíquenos el problema por teléfono: el operador le orientará.</p>
 103	¿Trabajan las 24 horas?
 104	<p>Sí. Atendemos avisos y nos desplazamos las 24 horas del día, los siete días de la semana, incluidos fines de semana y festivos. Por la noche, de 22:00 a 08:00, y en fines de semana y festivos se aplica un recargo; el operador le indica su importe al llamar, antes de que salga el cerrajero.</p>
@@ -115,13 +115,13 @@
 115	¿Dan garantía en los trabajos?
 116	<p>Sí, en la reparación, el cambio y la instalación de cerraduras y en las piezas nuevas. El plazo y las condiciones de la garantía figuran en el documento del trabajo realizado, que el cerrajero entrega al terminar. Después de una apertura urgente, el cerrajero siempre comprueba que la cerradura funciona correctamente y, si hace falta, le propone una reparación.</p>
 117	Solicitud de servicio
-118	Llame a un cerrajero de Cerrajero24 en&nbsp;Bilbao
+118	Llame a un cerrajero de CerrajeroUCR en&nbsp;Bilbao
 119	¿No puede abrir la puerta, el coche o la caja fuerte? Déjenos su solicitud y un técnico le llamará para conocer el problema y concretar el desplazamiento.
 120	Las 24 horas, sin descanso ni festivos
 121	Acordamos el precio antes de empezar
 122	Intentamos abrir sin daños
 123	Garantía en reparaciones e instalaciones
 124	Solicitud de cerrajero
-125	Cerrajero en Bilbao: apertura, reparación y cambio de cerraduras 24 h — Cerrajero24
-126	Todos los servicios de Cerrajero24 en Bilbao y el Gran Bilbao: apertura urgente de pisos, coches, cajas fuertes y garajes; reparación, cambio e instalación de cerraduras. Las 24 horas, precio antes de empezar.
+125	Cerrajero en Bilbao: apertura, reparación y cambio de cerraduras 24 h — CerrajeroUCR
+126	Todos los servicios de CerrajeroUCR en Bilbao y el Gran Bilbao: apertura urgente de pisos, coches, cajas fuertes y garajes; reparación, cambio e instalación de cerraduras. Las 24 horas, precio antes de empezar.
 127	Apertura urgente de pisos, coches, cajas fuertes y garajes; reparación, cambio e instalación de cerraduras en Bilbao y el Gran Bilbao.

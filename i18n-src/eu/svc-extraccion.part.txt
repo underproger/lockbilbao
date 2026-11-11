@@ -78,7 +78,7 @@
 112	Sarrailaren egiaztapena
 113	Sarraila ordezko giltzarekin egiaztatzen dugu. Bonbina kaltetuta badago, aldatzea proposatzen dizugu.
 114	Giltza oraintxe hautsi zaizu?
-119	Zergatik aukeratzen duten <span class="accent">Cerrajero24</span> giltzak ateratzeko
+119	Zergatik aukeratzen duten <span class="accent">CerrajeroUCR</span> giltzak ateratzeko
 122	Tresna berezia
 123	Zatia ateratzen dugu bonbina kaltetu gabe.
 124	Alferrikako aldaketarik gabe
@@ -149,7 +149,7 @@
 232	Zenbat denbora behar da giltza bat ateratzeko?
 233	<p>Normalean gutxi, zatia sakon bultzatu ez bada. Bonbina aldatu edo atea ireki behar bada, lan horien denbora gehitu behar da.</p>
 239	Deitu sarrailagileari giltza bat ateratzeko Bilbon
-240	Giltza sarrailan hautsi da? Jarri harremanetan Cerrajero24rekin prezioa galdetzeko eta espezialista bat eskatzeko.
+240	Giltza sarrailan hautsi da? Jarri harremanetan CerrajeroUCR-rekin prezioa galdetzeko eta espezialista bat eskatzeko.
 244	Bonbina salbatzen saiatzen gara
 246	Giltza ateratzea
 247	Ateratzearen prezioa galdetu
@@ -159,7 +159,7 @@
 253	Autoaren sarraila
 254	Garajea edo giltzarrapoa
 255	Giltza trabatu da
-257	Giltza hautsiak ateratzea Bilbon 24/7 — Cerrajero24
+257	Giltza hautsiak ateratzea Bilbon 24/7 — CerrajeroUCR
 258	Giltza atearen, postontziaren edo autoaren sarrailan hautsi da? Zatia ateratzen dugu Bilbon 24/7, ahal den guztietan bonbina aldatu gabe.
 259	Giltza sarrailan hautsi da? Zatia ateratzen dugu Bilbon egunean 24 orduz, ahal den guztietan bonbina aldatu gabe.
 260	Giltza hautsiak ateratzea Bilbon

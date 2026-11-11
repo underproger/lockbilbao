@@ -82,7 +82,7 @@
 112	Egiaztapena eta konponketa
 113	Sarraila egiaztatzen dugu eta kodea edo pilak aldatzen ditugu. Sarraila berri bat behar bada, une berean proposatzen dizugu.
 114	Kutxa gotorrera sartu behar duzu orain bertan?
-119	Zergatik aukeratu <span class="accent">Cerrajero24</span> zure kutxa gotorra irekitzeko
+119	Zergatik aukeratu <span class="accent">CerrajeroUCR</span> zure kutxa gotorra irekitzeko
 122	Tokian bertan lan egiten dugu
 123	Zure etxera, bulegora edo dendara joaten gara: ez da kutxa gotorra inora eraman behar.
 124	Lehenik, kutxa gotorra gorde
@@ -160,7 +160,7 @@
 234	Zer egin hotel edo apartamentu bateko kutxa gotorra irekitzen ez bada?
 235	<p>Jo harrerara edo apartamentuaren jabearengana: kutxa gotorra haiena da, eta haiek edo haiek deitutako sarrailagile batek ireki behar du.</p>
 241	Deitu sarrailagile bati Bilbon kutxa gotor bat irekitzeko
-242	Kutxa gotorra ez da irekitzen? Jarri harremanetan Cerrajero24rekin prezioa jakiteko eta sarrailagile bat eskatzeko.
+242	Kutxa gotorra ez da irekitzen? Jarri harremanetan CerrajeroUCR-rekin prezioa jakiteko eta sarrailagile bat eskatzeko.
 246	Lehenik, zulatu gabeko metodoak
 248	Kutxa gotorra irekitzea
 249	Galdetu kutxa gotor bat irekitzearen prezioa
@@ -171,7 +171,7 @@
 254	Giltza galdu dut
 255	Mekanismoa trabatu da
 256	Kutxa gotorra blokeatu da
-258	Kutxa gotorren irekiera Bilbon 24/7 — Cerrajero24
+258	Kutxa gotorren irekiera Bilbon 24/7 — CerrajeroUCR
 259	Kodea ahaztuta, giltza galduta edo pilak agortuta? Kutxa gotor mekanikoak, kodedunak eta elektronikoak irekitzen ditugu Bilbon, lehenik zulatu gabe. Prezioa hasi aurretik.
 260	Kutxa gotorraren kodea ahaztu edo giltza galdu duzu? Bilbon irekiko dugu, mekanikoa, kodeduna edo elektronikoa izan, prezioa hasi aurretik adostuta.
 261	Kutxa gotorren irekiera Bilbon

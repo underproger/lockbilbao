@@ -115,8 +115,8 @@
 115	El cerrajero de guardia atiende las 24 horas, también de noche y en fin de semana.
 116	Llamar al cerrajero ahora
 117	Bilbao · Bizkaia
-118	Por qué Cerrajero24
-119	Por qué los negocios eligen <span class="accent">Cerrajero24</span>
+118	Por qué CerrajeroUCR
+119	Por qué los negocios eligen <span class="accent">CerrajeroUCR</span>
 120	Ayuda las 24 horas
 121	Atendemos avisos 24/7, también antes de la apertura y después del cierre.
 122	Servicio en Bilbao y alrededores
@@ -236,10 +236,10 @@
 236	¿Van a los alrededores de Bilbao?
 237	<p>Sí. Además de todos los barrios de Bilbao, nos desplazamos a los municipios del Gran Bilbao: Barakaldo, Getxo, Portugalete, Santurtzi, Leioa, Sestao, Basauri, Erandio y otros. El precio y el tiempo de llegada fuera de la ciudad se los indicará el operador al llamar. Puede comprobar su zona en el <a href="#areas">mapa de la zona de servicio</a>.</p>
 238	Más servicios
-239	Otros servicios de Cerrajero24 en&nbsp;Bilbao
+239	Otros servicios de CerrajeroUCR en&nbsp;Bilbao
 240	Solicitud de servicio
 241	Llame a un cerrajero para abrir su local en&nbsp;Bilbao
-242	¿No puede entrar en la oficina, la tienda o el almacén? Contacte con Cerrajero24 para conocer el precio y pedir que vaya un cerrajero.
+242	¿No puede entrar en la oficina, la tienda o el almacén? Contacte con CerrajeroUCR para conocer el precio y pedir que vaya un cerrajero.
 243	Trabajamos 24/7, sin descanso ni festivos
 244	Zona: Bilbao y Bizkaia
 245	Acordamos el precio antes de empezar
@@ -256,7 +256,7 @@
 256	Cerradura dañada tras un intento de robo
 257	Hay que cambiar los bombines
 258	Otro
-259	Apertura de oficinas y tiendas en Bilbao 24 h — Cerrajero24
+259	Apertura de oficinas y tiendas en Bilbao 24 h — CerrajeroUCR
 260	¿No se abre la oficina, la tienda o el almacén? Abrimos su local en Bilbao 24/7 y, si hace falta, cambiamos los bombines en el momento. Precio antes de empezar.
 261	¿No se abre la oficina, la tienda o el almacén? Abrimos su local en Bilbao las 24 horas, con el precio antes de empezar.
 262	Apertura de oficinas y locales comerciales en Bilbao

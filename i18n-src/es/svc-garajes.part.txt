@@ -80,7 +80,7 @@
 111	El cerrajero comprueba su derecho de acceso y abre la puerta o la cerradura con el método acordado.
 113	Comprobamos el funcionamiento de la puerta y de la cerradura. Si hace falta, cambiamos el bombín o el candado.
 114	¿El garaje no se abre ahora mismo?
-119	Por qué elegir <span class="accent">Cerrajero24</span> para abrir su garaje
+119	Por qué elegir <span class="accent">CerrajeroUCR</span> para abrir su garaje
 122	Servicio en Bilbao y alrededores
 123	Garajes particulares, aparcamientos, almacenes y trasteros, en la ciudad y el Gran Bilbao.
 124	Trabajo cuidadoso
@@ -151,7 +151,7 @@
 232	¿Qué documentos hacen falta para abrir un garaje?
 233	<p>Un documento con foto y algo que acredite su derecho sobre el garaje o el trastero: la escritura, el contrato de alquiler de la plaza o el recibo de la comunidad. Más información en la sección de <a href="#documents">documentos</a>.</p>
 239	Llame a un cerrajero para abrir su garaje en&nbsp;Bilbao
-240	¿No se abre el portón o el garaje? Contacte con Cerrajero24 para conocer el precio y pedir que vaya un cerrajero.
+240	¿No se abre el portón o el garaje? Contacte con CerrajeroUCR para conocer el precio y pedir que vaya un cerrajero.
 244	Intentamos conservar la cerradura y la puerta
 246	Apertura de garaje
 247	Consultar el precio de apertura de un garaje
@@ -162,7 +162,7 @@
 253	El mando no funciona
 254	No se abre el candado
 255	El trastero está cerrado
-257	Apertura de garajes y portones en Bilbao 24 h — Cerrajero24
+257	Apertura de garajes y portones en Bilbao 24 h — CerrajeroUCR
 258	¿Se ha atascado la cerradura del garaje, de la persiana o del trastero? Abrimos portones, cierres metálicos y candados en Bilbao. Precio antes de empezar.
 259	¿Se ha atascado la cerradura del garaje o de la persiana? Abrimos garajes y portones en Bilbao, con el precio antes de empezar.
 260	Apertura de garajes y portones en Bilbao

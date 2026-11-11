@@ -121,7 +121,7 @@
 121	El cerrajero de guardia atiende las 24 horas, también de noche y en festivos.
 122	Llamar al cerrajero ahora
 123	Bilbao · Bizkaia
-124	Por qué Cerrajero24
+124	Por qué CerrajeroUCR
 125	Ventajas de nuestro servicio de apertura de pisos en&nbsp;<span class="accent">Bilbao</span>
 126	Ayuda las 24 horas
 127	Atendemos avisos 24/7, incluidos fines de semana y festivos.
@@ -246,10 +246,10 @@
 246	¿Van a los alrededores de Bilbao?
 247	<p>Sí. Además de todos los barrios de Bilbao, nos desplazamos a los municipios del Gran Bilbao: Barakaldo, Getxo, Portugalete, Santurtzi, Leioa, Sestao, Basauri, Erandio y otros. El precio y el tiempo de llegada fuera de la ciudad dependen de la distancia; el operador se los indicará al llamar. Puede comprobar su zona en el <a href="#areas">mapa de la zona de servicio</a>.</p>
 248	Más servicios
-249	Otros servicios de Cerrajero24 en&nbsp;Bilbao
+249	Otros servicios de CerrajeroUCR en&nbsp;Bilbao
 250	Solicitud de servicio
 251	Llame a un cerrajero para abrir su piso en&nbsp;Bilbao
-252	¿No puede entrar en su piso? Contacte con Cerrajero24 para conocer el precio y pedir que vaya un cerrajero.
+252	¿No puede entrar en su piso? Contacte con CerrajeroUCR para conocer el precio y pedir que vaya un cerrajero.
 253	Trabajamos 24/7, sin descanso ni festivos
 254	Zona: Bilbao y Bizkaia
 255	Acordamos el precio antes de empezar
@@ -266,7 +266,7 @@
 266	Se ha roto la llave
 267	No se abre la puerta acorazada
 268	Otro
-269	Apertura urgente de pisos en Bilbao 24 h — Cerrajero24
+269	Apertura urgente de pisos en Bilbao 24 h — CerrajeroUCR
 270	¿Se le ha cerrado la puerta, ha perdido las llaves o se ha atascado la cerradura? Apertura urgente de pisos en Bilbao las 24 horas. Con cuidado y con el precio acordado antes de empezar.
 271	¿Se le ha cerrado la puerta, ha perdido las llaves o se ha atascado la cerradura? Abrimos su piso en Bilbao las 24 horas, con el precio antes de empezar.
 272	Apertura urgente de pisos en Bilbao

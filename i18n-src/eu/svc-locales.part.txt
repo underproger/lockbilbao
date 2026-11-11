@@ -80,7 +80,7 @@
 113	Sarraila guztiak egiaztatzen ditugu eta giltza berriak arduradunari ematen dizkiogu.
 114	Lokala itxita dago orain bertan?
 115	Guardiako sarrailagilea egunean 24 orduz dago prest, gauez eta asteburuetan ere bai.
-119	Zergatik aukeratzen duten negozioek <span class="accent">Cerrajero24</span>
+119	Zergatik aukeratzen duten negozioek <span class="accent">CerrajeroUCR</span>
 121	24/7 hartzen ditugu abisuak, irekitzeko ordua baino lehen eta itxi ondoren ere bai.
 123	Bulegoak, dendak, biltegiak eta lokalak, hirian eta Bilbo Handian.
 124	Irekiera eta aldaketa bisita bakar batean
@@ -155,7 +155,7 @@
 234	Zer agiri behar dira lokal bat irekitzeko?
 235	<p>Argazkidun agiri bat eta lokalaren gaineko eskubidea egiaztatzen duen zerbait: alokairu-kontratua, eskritura (<span lang="es">escritura</span>) edo enpresaren agiriak. Langile batek titularraren edo arduradunaren baimena beharko du. Informazio gehiago <a href="#documents">agiriei</a> buruzko atalean.</p>
 241	Deitu sarrailagile bati zure lokala Bilbon irekitzeko
-242	Ezin zara bulegoan, dendan edo biltegian sartu? Jarri harremanetan Cerrajero24rekin prezioa jakiteko eta sarrailagile bat eskatzeko.
+242	Ezin zara bulegoan, dendan edo biltegian sartu? Jarri harremanetan CerrajeroUCR-rekin prezioa jakiteko eta sarrailagile bat eskatzeko.
 246	Irekiera eta bonbina-aldaketa bisita bakar batean
 248	Lokala irekitzea
 249	Galdetu lokal bat irekitzearen prezioa
@@ -165,7 +165,7 @@
 253	Itxieraren sarraila trabatu da
 256	Sarraila kaltetuta lapurreta-saiakera baten ondoren
 257	Bonbinak aldatu behar dira
-259	Bulegoak eta dendak irekitzea Bilbon 24/7 — Cerrajero24
+259	Bulegoak eta dendak irekitzea Bilbon 24/7 — CerrajeroUCR
 260	Bulegoa, denda edo biltegia ez da irekitzen? Zure lokala Bilbon irekitzen dugu 24/7 eta, behar izanez gero, bonbinak une berean aldatzen ditugu. Prezioa hasi aurretik.
 261	Bulegoa, denda edo biltegia ez da irekitzen? Zure lokala Bilbon irekiko dugu egunean 24 orduz, prezioa hasi aurretik adostuta.
 262	Bulegoak eta merkataritza-lokalak irekitzea Bilbon

@@ -107,7 +107,7 @@
 121	Guardiako sarrailagilea egunean 24 orduz dago prest, gauez eta jaiegunetan ere bai.
 122	Deitu sarrailagileari orain
 123	Bilbo · Bizkaia
-124	Zergatik Cerrajero24
+124	Zergatik CerrajeroUCR
 125	Bilboko gure etxebizitza-irekiera zerbitzuaren abantailak
 126	Laguntza egunean 24 orduz
 127	24/7 hartzen ditugu abisuak, asteburuak eta jaiegunak barne.
@@ -206,9 +206,9 @@
 246	Bilbo ingurura ere joaten zarete?
 247	<p>Bai. Bilboko auzo guztiez gain, Bilbo Handiko udalerrietara ere joaten gara: Barakaldo, Getxo, Portugalete, Santurtzi, Leioa, Sestao, Basauri, Erandio eta beste batzuk. Hiritik kanpoko prezioa eta iristeko denbora distantziaren araberakoak dira; operadoreak deitzean esango dizkizu. Zure eremua <a href="#areas">zerbitzu-eremuaren mapan</a> egiazta dezakezu.</p>
 248	Zerbitzu gehiago
-249	Cerrajero24ren beste zerbitzu batzuk Bilbon
+249	CerrajeroUCR-ren beste zerbitzu batzuk Bilbon
 251	Deitu sarrailagile bati zure etxebizitza Bilbon irekitzeko
-252	Ezin zara etxera sartu? Jarri harremanetan Cerrajero24rekin prezioa jakiteko eta sarrailagile bat eskatzeko.
+252	Ezin zara etxera sartu? Jarri harremanetan CerrajeroUCR-rekin prezioa jakiteko eta sarrailagile bat eskatzeko.
 253	24/7 lanean, asteburuetan eta jaiegunetan ere
 254	Eremua: Bilbo eta Bizkaia
 257	Deitu sarrailagileari
@@ -217,7 +217,7 @@
 263	Giltzak galdu ditut
 264	Giltza barruan dago
 267	Ate blindatua ez da irekitzen
-269	Etxebizitzen premiazko irekiera Bilbon 24/7 — Cerrajero24
+269	Etxebizitzen premiazko irekiera Bilbon 24/7 — CerrajeroUCR
 270	Atea itxi zaizu, giltzak galdu dituzu edo sarraila trabatu da? Etxebizitzen premiazko irekiera Bilbon egunean 24 orduz. Kontu handiz eta prezioa hasi aurretik adostuta.
 271	Atea itxi zaizu, giltzak galdu dituzu edo sarraila trabatu da? Zure etxebizitza Bilbon irekiko dugu egunean 24 orduz, prezioa hasi aurretik adostuta.
 272	Etxebizitzen premiazko irekiera Bilbon

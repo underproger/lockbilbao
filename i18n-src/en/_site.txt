@@ -13,11 +13,11 @@
 13	Cookie policy
 14	Terms of service
 15	Legal notice
-16	A Cerrajero24 locksmith carefully opening the lock of a front door in Bilbao
+16	A CerrajeroUCR locksmith carefully opening the lock of a front door in Bilbao
 17	The Guggenheim Museum and La Salve bridge in Bilbao
 18	La Ribera market and San Antón church, Casco Viejo, Bilbao
 19	A locksmith dismantling the multi-point lock of a front door
-20	A Cerrajero24 locksmith carefully opening an electronic safe
+20	A CerrajeroUCR locksmith carefully opening an electronic safe
 21	The Guggenheim Museum on the banks of the Nervión, Bilbao
 22	Opening the front door of a flat
 23	Emergency car opening
@@ -28,7 +28,7 @@
 28	Replacing a lock cylinder
 29	Installing and fitting a lock
 30	Extracting a broken key from a lock
-31	A Cerrajero24 locksmith dismantling the multi-point lock of a front door
-32	Cerrajero24 locksmiths replacing a door lock
-33	A Cerrajero24 locksmith with a drill driver at a door lock
+31	A CerrajeroUCR locksmith dismantling the multi-point lock of a front door
+32	CerrajeroUCR locksmiths replacing a door lock
+33	A CerrajeroUCR locksmith with a drill driver at a door lock
 34	Casco Viejo and the Nervión river, Bilbao

@@ -30,7 +30,7 @@ function c24_seo_post_id() {
 
 function c24_seo_title() {
 	if ( is_404() ) {
-		return c24__( 'Página no encontrada — Cerrajero24' );
+		return c24__( 'Página no encontrada — CerrajeroUCR' );
 	}
 	$id = c24_seo_post_id();
 	$t  = $id ? c24_field( 'seo_title', $id ) : '';
@@ -39,7 +39,7 @@ function c24_seo_title() {
 
 function c24_seo_desc() {
 	if ( is_404() ) {
-		return c24__( 'Esta página no existe en la web de Cerrajero24. Vaya al inicio o al catálogo de servicios, o llame: el cerrajero atiende 24/7.' );
+		return c24__( 'Esta página no existe en la web de CerrajeroUCR. Vaya al inicio o al catálogo de servicios, o llame: el cerrajero atiende 24/7.' );
 	}
 	$id = c24_seo_post_id();
 	return $id ? (string) c24_field( 'seo_desc', $id ) : '';
@@ -68,7 +68,7 @@ add_action( 'wp_head', function () {
 			$locale = str_replace( '-', '_', get_locale() );
 			echo '<meta property="og:type" content="website">' . "\n";
 			echo '<meta property="og:locale" content="' . esc_attr( $locale ) . '">' . "\n";
-			echo '<meta property="og:site_name" content="Cerrajero24">' . "\n";
+			echo '<meta property="og:site_name" content="' . esc_attr( C24_BRAND ) . '">' . "\n";
 			echo '<meta property="og:title" content="' . esc_attr( $title ) . '">' . "\n";
 			if ( $og ) {
 				echo '<meta property="og:description" content="' . esc_attr( $og ) . '">' . "\n";
@@ -94,6 +94,36 @@ add_filter( 'wpseo_title', function ( $t ) {
 add_filter( 'wpseo_metadesc', function ( $d ) {
 	return $d ?: c24_seo_desc();
 } );
+// Open Graph / Twitter у Yoast берут шаблон «Заголовок – Название сайта» — подставляем наши поля, если в Yoast пусто.
+foreach ( [ 'wpseo_opengraph_title', 'wpseo_twitter_title' ] as $c24_hook ) {
+	add_filter( $c24_hook, function ( $t ) {
+		$id = c24_seo_post_id();
+		return ( $id && ! get_post_meta( $id, '_yoast_wpseo_opengraph-title', true ) && c24_seo_title() ) ? c24_seo_title() : $t;
+	} );
+}
+foreach ( [ 'wpseo_opengraph_desc', 'wpseo_twitter_description' ] as $c24_hook ) {
+	add_filter( $c24_hook, function ( $d ) {
+		$id = c24_seo_post_id();
+		if ( ! $id || get_post_meta( $id, '_yoast_wpseo_opengraph-description', true ) ) {
+			return $d;
+		}
+		return c24_field( 'og_desc', $id ) ?: ( $d ?: c24_seo_desc() );
+	} );
+}
+add_filter( 'wpseo_opengraph_site_name', function () {
+	return C24_BRAND;
+} );
+// Картинка для соцсетей по умолчанию, если в Yoast её не задали.
+add_action( 'wpseo_add_opengraph_images', function ( $images ) {
+	if ( is_object( $images ) && method_exists( $images, 'has_images' ) && ! $images->has_images() && method_exists( $images, 'add_image' ) ) {
+		$images->add_image( [ 'url' => c24_asset( 'img/og-image.jpg' ), 'width' => 1200, 'height' => 630, 'type' => 'image/jpeg' ] );
+	}
+} );
+// Разметку schema.org для страниц темы выводит тема (Locksmith, Service, FAQPage, хлебные крошки),
+// поэтому граф Yoast на этих страницах отключаем — иначе два WebSite/WebPage с одинаковыми @id.
+add_filter( 'wpseo_json_ld_output', function ( $data ) {
+	return ( is_page() || is_front_page() ) && ! is_404() ? false : $data;
+} );
 
 /* ---------------- schema.org ---------------- */
 
@@ -102,7 +132,7 @@ function c24_schema_business( $full = false ) {
 	$b    = [
 		'@type'     => 'Locksmith',
 		'@id'       => home_url( '/#business' ),
-		'name'      => 'Cerrajero24',
+		'name'      => C24_BRAND,
 		'url'       => $home,
 		'telephone' => preg_replace( '/[^\d+]/', '', c24_phone() ),
 		'image'     => c24_asset( 'img/og-image.jpg' ),
@@ -167,7 +197,7 @@ add_action( 'wp_head', function () {
 	$graph = [ c24_schema_business( in_array( $tpl, [ 'front', 'contacts' ], true ) ) ];
 
 	if ( 'front' === $tpl ) {
-		$graph[] = [ '@type' => 'WebSite', '@id' => home_url( '/#website' ), 'url' => c24_home(), 'name' => 'Cerrajero24', 'inLanguage' => $lang ];
+		$graph[] = [ '@type' => 'WebSite', '@id' => home_url( '/#website' ), 'url' => c24_home(), 'name' => C24_BRAND, 'inLanguage' => $lang ];
 		$graph[] = [ '@type' => 'WebPage', '@id' => $url . '#webpage', 'url' => $url, 'name' => $name, 'isPartOf' => [ '@id' => home_url( '/#website' ) ], 'about' => [ '@id' => home_url( '/#business' ) ], 'inLanguage' => $lang ];
 	} else {
 		$crumbs = [];
