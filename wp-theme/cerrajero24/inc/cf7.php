@@ -255,3 +255,76 @@ add_action( 'rest_api_init', function () {
 		PLL()->curlang = $lang;
 	}
 }, 1 );
+
+/* ---------------- Антиспам форм темы ---------------- */
+
+/**
+ * Метка формы: её вписывает в заявку main.js, поэтому без JavaScript (типичный спам-бот) заявка не пройдёт.
+ * Постоянная для сайта (зависит от ключей в wp-config.php), поэтому не ломается при кэшировании страниц.
+ */
+function c24_form_token() {
+	return substr( wp_hash( 'c24-form-token' ), 0, 20 );
+}
+
+function c24_is_theme_form_request( $request ) {
+	$id = c24_form_id();
+	return $id && $request instanceof WP_REST_Request
+		&& preg_match( '#^/contact-form-7/v1/contact-forms/' . (int) $id . '/feedback/?$#', $request->get_route() );
+}
+
+/**
+ * Отправка формы темы: антиспам-плагины, которые ждут в заявке своё скрытое поле из разметки CF7
+ * (WP Armour / Honeypot), снимаются для этого запроса — их проверку заменяет метка c24_token.
+ * На другие формы (комментарии, вход) это не влияет.
+ */
+add_filter( 'rest_pre_dispatch', function ( $result, $server, $request ) {
+	if ( c24_is_theme_form_request( $request ) ) {
+		foreach ( (array) apply_filters( 'c24_detach_antispam_plugins', [ 'honeypot' ] ) as $slug ) {
+			c24_detach_plugin_hooks( $slug, 'wpcf7' );
+		}
+		add_filter( 'wpcf7_spam', 'c24_check_form_token', 5 );
+	}
+	return $result;
+}, 10, 3 );
+
+function c24_check_form_token( $spam ) {
+	if ( $spam ) {
+		return $spam;
+	}
+	$token = isset( $_POST['c24_token'] ) ? sanitize_text_field( wp_unslash( $_POST['c24_token'] ) ) : '';
+	return ! ( $token && hash_equals( c24_form_token(), $token ) );
+}
+
+/** Снимает с хуков $prefix* все обработчики, объявленные в файлах плагина wp-content/plugins/$slug/. */
+function c24_detach_plugin_hooks( $slug, $prefix ) {
+	global $wp_filter;
+	$dir = trailingslashit( wp_normalize_path( WP_PLUGIN_DIR . '/' . $slug ) );
+	foreach ( $wp_filter as $hook => $obj ) {
+		if ( 0 !== strpos( (string) $hook, $prefix ) || ! is_object( $obj ) || empty( $obj->callbacks ) ) {
+			continue;
+		}
+		foreach ( $obj->callbacks as $priority => $callbacks ) {
+			foreach ( $callbacks as $cb ) {
+				$fn = $cb['function'];
+				try {
+					if ( is_string( $fn ) && false !== strpos( $fn, '::' ) ) {
+						$ref = new ReflectionMethod( $fn );
+					} elseif ( is_string( $fn ) || $fn instanceof Closure ) {
+						$ref = new ReflectionFunction( $fn );
+					} elseif ( is_array( $fn ) && 2 === count( $fn ) ) {
+						$ref = new ReflectionMethod( $fn[0], $fn[1] );
+					} elseif ( is_object( $fn ) && method_exists( $fn, '__invoke' ) ) {
+						$ref = new ReflectionMethod( $fn, '__invoke' );
+					} else {
+						continue;
+					}
+				} catch ( ReflectionException $e ) {
+					continue;
+				}
+				if ( 0 === strpos( wp_normalize_path( (string) $ref->getFileName() ), $dir ) ) {
+					remove_filter( $hook, $fn, $priority );
+				}
+			}
+		}
+	}
+}
