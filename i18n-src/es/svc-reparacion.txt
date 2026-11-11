@@ -1,0 +1,261 @@
+1	Reparación de cerraduras
+2	Reparación de cerraduras
+3	Cerraduras que se atascan, mecanismos rotos, problemas con la llave.
+4	Reparación de cerraduras <span class="accent">en&nbsp;Bilbao</span>
+5	¿La llave gira con dificultad, la cerradura se atasca y&nbsp;la puerta solo cierra con&nbsp;fuerza? Reparamos la cerradura antes de que se bloquee del&nbsp;todo. El cerrajero encuentra la causa en&nbsp;el sitio y&nbsp;le propone la reparación si sale más a cuenta que el cambio.
+6	Bilbao • Bizkaia
+7	Diagnóstico en el sitio
+8	Buscamos la causa, no cambiamos todo sin más
+9	Garantía de la reparación
+10	Las condiciones, en el documento tras el trabajo
+11	Precio antes de&nbsp;empezar
+12	Se lo decimos antes, sin sorpresas
+13	Déjenos su número y le llamamos en un par de minutos
+14	Cuándo necesita ayuda
+15	¿Cuándo hay que reparar la cerradura de la puerta?
+16	La mayoría de las averías empiezan por detalles: la llave gira más dura, la puerta cierra con esfuerzo. Si llama al cerrajero a tiempo, la reparación le saldrá más barata que el cambio.
+17	La llave gira con dificultad
+18	Hay que hacer fuerza y a veces la llave se queda enganchada.
+19	La cerradura se atasca o se bloquea
+20	El mecanismo no responde a la primera o no responde en absoluto.
+21	La puerta cierra con esfuerzo
+22	El pestillo choca con el cerradero y hay que empujar la puerta.
+23	El picaporte no funciona
+24	La puerta no se queda cerrada o no se abre con la manilla.
+25	La manilla está floja o caída
+26	La manilla no vuelve a su sitio o gira en vacío.
+27	La cerradura multipunto no funciona
+28	Los pestillos del contorno de la puerta no salen o no se recogen.
+29	¿No sabe si hay que reparar o cambiar? Llame al cerrajero.
+30	Cuéntenos cómo se comporta la cerradura y le diremos por dónde empezar.
+31	Llamar al cerrajero
+32	Precios
+33	¿Cuánto cuesta reparar una cerradura en&nbsp;<span class="accent">Bilbao</span>?
+34	El precio depende del tipo de cerradura, de la avería y de las piezas necesarias. Le damos un precio orientativo por la descripción o una foto, y el definitivo tras el diagnóstico, antes de empezar.
+35	Precios de reparación de cerraduras en Bilbao
+36	Servicio
+37	Precio
+38	Reparación de cerradura de bombín
+39	Reparación de cerradura de gorjas
+40	Reparación de cerradura multipunto
+41	Ajuste de la puerta y del cerradero
+42	Reparación de picaporte y manilla
+43	Limpieza y lubricación del mecanismo
+44	Reparación urgente de noche
+45	Desplazamiento del cerrajero en Bilbao
+46	Desplazamiento
+47	El operador le indica el precio del desplazamiento en Bilbao y el Gran Bilbao al llamar, antes de que salga el cerrajero.
+48	Aviso urgente de noche
+49	Si la cerradura se bloquea de noche, en fin de semana o festivo, se aplica un recargo. Le decimos su importe de antemano.
+50	IVA
+51	[Indicar si el IVA está incluido en los precios de la tabla.]
+52	Piezas y materiales
+53	Muelles, cerraderos, manillas o un bombín nuevo se pagan aparte y solo con su consentimiento.
+54	Precio final
+55	El cerrajero se lo dice tras el diagnóstico, antes de empezar.
+56	Consultar el precio de la reparación
+57	Describa la avería y le daremos un precio orientativo.
+58	De qué depende el precio
+59	¿Cómo se calcula el precio de la reparación de una cerradura?
+60	El precio depende de cuatro factores. Cuénteselos al operador o envíe una foto de la cerradura: sabrá el precio orientativo antes de que salga el cerrajero.
+61	Tipo de cerradura
+62	De bombín, de gorjas, multipunto, de sobreponer o cerradura de puerta de interior.
+63	Tipo de avería
+64	Desgaste, suciedad, una pieza rota o una puerta descolgada.
+65	Piezas necesarias
+66	Muelles, cerradero, manilla, picaporte o un bombín nuevo.
+67	Hora y dirección del aviso
+68	Visita programada o aviso urgente, barrio de Bilbao o municipio cercano.
+69	Precio final
+70	El cerrajero se lo dice tras el diagnóstico y&nbsp;antes de empezar: sin su consentimiento no&nbsp;se empieza ningún trabajo.
+71	Si la reparación sale más cara que el cambio, el cerrajero se lo dirá y le propondrá cambiar la cerradura o el bombín. Usted decide.
+72	Llamar al cerrajero
+73	¿Se atasca la cerradura? Llame al cerrajero
+74	Déjenos su nombre y teléfono: el operador le llamará en&nbsp;pocos minutos, le preguntará cómo se comporta la cerradura y&nbsp;acordará con usted la hora de la visita. Atendemos avisos urgentes las 24 horas en&nbsp;Bilbao y&nbsp;el Gran Bilbao.
+75	Cerraduras
+76	Reparamos cerraduras de todo tipo
+77	El cerrajero trabaja con los principales tipos de cerraduras que se instalan en puertas de entrada y de interior en España, y elige las piezas para cada modelo.
+78	Cerraduras de bombín
+79	El tipo más habitual en España: desde bombines estándar hasta bombines de seguridad.
+80	Cerraduras de gorjas
+81	Cerraduras con llave de paletón, frecuentes en puertas antiguas y acorazadas.
+82	Cerraduras multipunto
+83	Cerraduras con varios pestillos a lo largo del perímetro de la puerta.
+84	Cerraduras de sobreponer y cerrojos
+85	Cerraduras adicionales instaladas además de la principal.
+86	Cerraduras de puertas de interior
+87	Picaportes, cerraduras de baño y dormitorio, manillas con condena.
+88	Cerraduras de cierres metálicos
+89	Cerraduras de cierres metálicos de tiendas, garajes y almacenes.
+90	Primero, el diagnóstico
+91	Trato honesto
+92	Reparar o cambiar la cerradura: ¿qué sale más a cuenta?
+93	No todas las averías se arreglan cambiando la cerradura. El cerrajero busca primero la causa y le propone la solución más barata y duradera.
+94	Cuando basta con limpiar y lubricar
+95	<p>Si la llave gira con dificultad por la suciedad o el polvo, el mecanismo se limpia y se lubrica con lubricante seco. El aceite y los sprays multiusos no sirven para bombines: con el tiempo acumulan polvo.</p>
+96	Cuando el problema no es la cerradura, sino la puerta
+97	<p>Con el tiempo la puerta se descuelga y el pestillo empieza a chocar con el cerradero. Entonces se ajustan las bisagras o el cerradero: la cerradura en sí está bien.</p>
+98	Cuando se cambian piezas sueltas
+99	<p>Un muelle roto, un picaporte gastado o una manilla floja se cambian por separado, sin cambiar toda la cerradura.</p>
+100	Cuando sale más a cuenta cambiarla
+101	<p>Si el bombín está muy gastado, roto o se han perdido las llaves, cambiar el bombín sale más barato que repararlo y además aumenta la seguridad. Más información sobre el <a href="{url:svc-cambio}">cambio de cerraduras y bombines</a>.</p>
+102	Qué comprobamos tras la reparación
+103	<p>Que la llave gire bien por ambos lados, que la puerta cierre y se bloquee correctamente y que funcionen el picaporte y todos los pestillos.</p>
+104	Proceso
+105	¿Cómo pedir la reparación de una cerradura en&nbsp;Bilbao?
+106	Aviso
+107	Llame o deje una solicitud. Cuéntenos cómo se comporta la cerradura y envíe una foto si puede.
+108	Hora de la visita y precio
+109	El operador le da un precio orientativo y acuerda la hora que le venga bien. Avisos urgentes, las 24 horas.
+110	Diagnóstico y reparación
+111	El cerrajero encuentra la causa, le dice el precio y, con su consentimiento, repara la cerradura.
+112	Comprobación
+113	Comprobamos el funcionamiento de la cerradura y de la puerta y le explicamos cómo alargar la vida del mecanismo.
+114	¿Se le ha bloqueado la cerradura ahora mismo?
+115	El cerrajero de guardia está disponible las 24 horas: abrimos la puerta y reparamos la cerradura.
+116	Llamar al cerrajero
+117	Bilbao · Bizkaia
+118	Por qué Cerrajero24
+119	Por qué confían la reparación de cerraduras a <span class="accent">Cerrajero24</span>
+120	Diagnóstico en el sitio
+121	Encontramos la causa de la avería y se la explicamos con palabras sencillas.
+122	Reparar, no vender una nueva
+123	Solo proponemos el cambio cuando la reparación no sale a cuenta o no es fiable.
+124	Avisos urgentes 24/7
+125	Si la cerradura se ha bloqueado y la puerta no abre, vamos a cualquier hora.
+126	Servicio en Bilbao y alrededores
+127	Pisos, casas, oficinas y tiendas, en la ciudad y en el Gran Bilbao.
+128	Todo tipo de cerraduras
+129	De bombín, de gorjas, multipunto y de sobreponer.
+130	Garantía de la reparación
+131	Garantía del trabajo y de las piezas instaladas. Las condiciones constan por escrito.
+132	Opiniones
+133	Opiniones de clientes sobre la reparación de cerraduras en&nbsp;Bilbao
+134	Opiniones originales en Google
+135	Opiniones de clientes sobre la reparación de cerraduras
+136	Mercedes
+137	La llave giraba con dificultad · Begoña
+138	Hacía semanas que la llave giraba con esfuerzo y tenía miedo de que se rompiera. El cerrajero limpió y lubricó el bombín y ajustó el cerradero: ahora la llave gira suave. No hubo que cambiar nada.
+139	Oleg
+140	La puerta cerraba con esfuerzo · Rekalde
+141	Tenía que empujar la puerta con el hombro para echar la llave. El cerrajero me explicó que las bisagras se habían descolgado y ajustó la puerta y el cerradero. Media hora de trabajo después de medio año sufriendo.
+142	Ana
+143	Picaporte · Uribarri
+144	El picaporte dejó de funcionar y la puerta no se quedaba cerrada. El cerrajero cambió solo el mecanismo del picaporte y dejó la cerradura, que estaba bien. Nos dijeron el precio de antemano.
+145	Timur
+146	Cerradura multipunto · Galdakao
+147	En la puerta acorazada no salían los pestillos de arriba. El cerrajero desmontó la cerradura multipunto, cambió la pieza rota y comprobó todos los puntos de cierre. Funciona como nueva.
+148	Nicole
+149	Manilla de la puerta · Portugalete
+150	La manilla de la puerta de entrada estaba floja y caída. El cerrajero apretó el mecanismo y cambió el muelle. Rápido y barato: pensaba que habría que cambiar toda la cerradura.
+151	Ver todas las opiniones
+152	Legalidad y seguridad
+153	¿Hacen falta documentos para reparar una cerradura?
+154	Si la puerta está abierta y usted está en casa, suele bastar con un documento con foto. El cerrajero le pide que acredite la dirección si hay que abrir o cambiar la cerradura.
+155	Sirven:
+156	DNI
+157	NIE
+158	Pasaporte
+159	Escritura
+160	Contrato de alquiler
+161	Factura de suministros
+162	Cuando basta con un documento con foto
+163	<p>Si deja entrar al cerrajero en su piso u oficina y la reparación no exige abrir la puerta, suele bastar con el DNI, el NIE o el pasaporte.</p>
+164	Cuando hay que acreditar la dirección
+165	<p>Si la cerradura se ha bloqueado y hay que abrir la puerta, necesitará acreditar su vínculo con la dirección: escritura, contrato de alquiler o una factura de suministros. Si los documentos están dentro, el cerrajero los comprueba nada más abrir.</p>
+166	Reparación de la cerradura en un piso de alquiler
+167	<p>Según la Ley de Arrendamientos Urbanos (LAU), las pequeñas reparaciones por el desgaste normal suelen correr a cargo del inquilino. Si hay que cambiar la cerradura, conviene acordarlo con el propietario y entregarle un juego de llaves.</p>
+168	Reparación en una oficina o tienda
+169	<p>El empleado necesitará la autorización del propietario o del responsable. Si necesita factura a nombre de la empresa, facilite los datos al operador.</p>
+170	Cómo se acuerdan los trabajos y las piezas
+171	<p>El cerrajero le dice el precio de la reparación y de las piezas tras el diagnóstico. El trabajo solo empieza con su consentimiento.</p>
+172	Zona de servicio
+173	Reparación de cerraduras en todos los barrios de <span class="accent">Bilbao</span>
+174	Vamos a reparar cerraduras a pisos, casas, oficinas y tiendas en los barrios de Bilbao y en los municipios cercanos de Bizkaia.
+175	Distritos de Bilbao
+176	8 distritos
+177	Deusto
+178	Uribarri
+179	Otxarkoaga-Txurdinaga
+180	Begoña
+181	Ibaiondo
+182	Abando
+183	Errekalde
+184	Basurto-Zorroza
+185	Barrios más solicitados: Casco Viejo, Indautxu, San Ignacio, Santutxu, Miribilla y otros.
+186	Reparación de cerraduras en los alrededores de Bilbao
+187	Barakaldo
+188	Getxo
+189	Portugalete
+190	Santurtzi
+191	Leioa
+192	Sestao
+193	Basauri
+194	Erandio
+195	y otros municipios del Gran Bilbao.
+196	Conviene saber
+197	¿Por qué se rompen las cerraduras y cómo alargar su vida?
+198	Una cerradura rara vez se rompe de repente: normalmente avisa durante semanas o meses. Le contamos en qué fijarse, qué puede hacer usted mismo y cuándo llamar al cerrajero.
+199	<h3>¿Por qué la llave gira con dificultad en la cerradura?</h3>
+200	<p>Las causas más habituales son la suciedad y el polvo en el bombín, el desgaste de la llave o de los pernos y una puerta descolgada. En Bilbao hay que sumar la humedad: en los edificios antiguos y en las cerraduras que están a la intemperie, el mecanismo se oxida antes.</p>
+201	<p>No use aceite ni sprays multiusos: ayudan un par de semanas y luego acumulan polvo. Para los bombines va bien un lubricante seco de grafito o de teflón. Si no funciona, hace falta un diagnóstico.</p>
+202	<h3>¿Por qué la puerta cierra con esfuerzo?</h3>
+203	<p>Lo más habitual es que el problema no sea la cerradura, sino la puerta: se descuelga de las bisagras o se deforma por la humedad, y el pestillo empieza a chocar con el cerradero. Si se cierra a la fuerza, la cerradura se desgasta enseguida.</p>
+204	<p>El cerrajero ajustará las bisagras o recolocará el cerradero: es barato y suele llevar poco tiempo. Más información en la sección <a href="#repair-or-replace">sobre reparar o cambiar</a>.</p>
+205	<h3>¿Cuándo conviene reparar la cerradura y cuándo cambiarla?</h3>
+206	<p>La reparación sale a cuenta si la causa es la suciedad, un ajuste o una sola pieza rota. Hay que cambiarla si el bombín está muy gastado, se han perdido las llaves o la cerradura está descatalogada y ya no hay piezas.</p>
+207	<p>Si hace tiempo que quería mejorar la seguridad de la puerta, aproveche la avería para poner un bombín antibumping y antitaladro. Más información sobre el <a href="{url:svc-cambio}">cambio de cerraduras y bombines</a>.</p>
+208	<h3>¿Qué hacer si la cerradura se ha bloqueado y la puerta no abre?</h3>
+209	<p>No intente girar la llave con unos alicates: puede romperse dentro. Llame al cerrajero: abrirá la puerta y reparará o cambiará la cerradura en la misma visita. Más información sobre la <a href="{url:svc-puertas}">apertura urgente de pisos</a>.</p>
+210	<h3>¿Cómo alargar la vida de la cerradura?</h3>
+211	<p>Una vez al año limpie y lubrique el bombín con lubricante seco, no cuelgue un manojo pesado de la llave y no cierre la puerta de golpe. Si la llave empieza a girar más dura, no espere a que la cerradura se bloquee: reparar a tiempo sale más barato.</p>
+212	Preguntas
+213	Preguntas frecuentes sobre la reparación de cerraduras
+214	¿Tiene más preguntas?
+215	Contacte con el cerrajero: le responderemos y le diremos qué hacer ahora mismo.
+216	¿Cuánto cuesta reparar una cerradura en Bilbao?
+217	<p>El precio depende del tipo de cerradura, de la avería y de las piezas necesarias. Tiene precios orientativos en la <a href="#prices">tabla de precios</a>. El cerrajero le dice el precio definitivo tras el diagnóstico y antes de empezar.</p>
+218	¿Qué es más barato, reparar la cerradura o cambiarla?
+219	<p>Si la causa es la suciedad, el ajuste de la puerta o una sola pieza, reparar suele ser más barato. Si el bombín está muy gastado o se han perdido las llaves, sale más a cuenta cambiarlo. El cerrajero le dirá con honestidad qué conviene en su caso.</p>
+220	¿Se puede reparar la cerradura en el mismo día?
+221	<p>Casi siempre, sí: la mayoría de las averías se arreglan en una sola visita. Si una cerradura antigua necesita una pieza poco común, el cerrajero le dirá cómo dejar la puerta bien cerrada hasta que llegue o le propondrá cambiar el bombín.</p>
+222	¿Por qué la llave gira con dificultad en la cerradura?
+223	<p>Suele deberse a la suciedad y el polvo en el bombín, al desgaste de la llave o a una puerta descolgada. No use aceite: es mejor un lubricante seco. Si no funciona, hace falta un diagnóstico.</p>
+224	¿Con qué se lubrica la cerradura de una puerta?
+225	<p>Los bombines se lubrican con lubricante seco de grafito o de teflón. El aceite y los sprays multiusos acumulan polvo y, con el tiempo, empeoran el funcionamiento del mecanismo.</p>
+226	¿Reparan cerraduras multipunto?
+227	<p>Sí, los cerrajeros trabajan con cerraduras multipunto de puertas metálicas y acorazadas: cambian piezas rotas y ajustan pestillos y cerraderos.</p>
+228	¿Dan garantía de la reparación?
+229	<p>Sí, del trabajo realizado y de las piezas instaladas. Las condiciones y el plazo constan en el documento que le entregamos tras la reparación.</p>
+230	¿Puedo llamar al cerrajero de noche si la cerradura se ha bloqueado?
+231	<p>Sí, atendemos avisos urgentes las 24 horas. De noche y en festivos se aplica un recargo: el operador le dirá su importe al llamar.</p>
+232	¿Quién paga la reparación de la cerradura en un piso de alquiler?
+233	<p>Según la Ley de Arrendamientos Urbanos (LAU), las pequeñas reparaciones por el desgaste normal suelen correr a cargo del inquilino. El cambio de cerradura conviene acordarlo con el propietario. Más información en la sección <a href="#documents">de documentos</a>.</p>
+234	¿Van a los alrededores de Bilbao?
+235	<p>Sí. Además de todos los barrios de Bilbao, nos desplazamos a los municipios del Gran Bilbao: Barakaldo, Getxo, Portugalete, Santurtzi, Leioa, Sestao, Basauri, Erandio y otros. El precio y el tiempo de llegada fuera de la ciudad se los indicará el operador al llamar. Puede comprobar su zona en el <a href="#areas">mapa de la zona de servicio</a>.</p>
+236	Más servicios
+237	Otros servicios de Cerrajero24 en&nbsp;Bilbao
+238	Solicitud de servicio
+239	Pedir la reparación de una cerradura en&nbsp;Bilbao
+240	¿La cerradura se atasca o la puerta cierra mal? Contacte con Cerrajero24 para consultar el precio y elegir la hora de la visita.
+241	Trabajamos 24/7, sin descanso ni festivos
+242	Zona: Bilbao y Bizkaia
+243	Acordamos el precio antes de empezar
+244	Garantía de la reparación y las piezas
+245	Llamar al cerrajero
+246	Reparación de cerradura
+247	Consultar el precio de la reparación
+248	Déjenos su número y, si puede, adjunte una foto de la cerradura. El cerrajero le llamará y le dará un precio orientativo.
+249	Foto de la cerradura
+250	La llave gira con dificultad
+251	La cerradura se atasca
+252	La puerta cierra con esfuerzo
+253	No funciona el picaporte o la manilla
+254	No funciona la cerradura multipunto
+255	Otro
+256	Reparación de cerraduras en Bilbao — Cerrajero24
+257	¿La llave gira con dificultad o la cerradura se atasca? Reparamos cerraduras de bombín, de gorjas y multipunto en Bilbao. Diagnóstico en el sitio y precio antes de empezar.
+258	¿La cerradura se atasca o la llave gira con dificultad? Reparamos la cerradura de su puerta en Bilbao, con precio antes de empezar.
+259	Reparación de cerraduras en Bilbao
+260	Reparación y ajuste de cerraduras
+261	Diagnóstico y reparación de cerraduras de bombín, de gorjas, multipunto y de sobreponer, ajuste de la puerta y del cerradero, reparación de picaportes y manillas. Bilbao y el Gran Bilbao.

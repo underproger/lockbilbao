@@ -1,0 +1,261 @@
+1	Sarrailak konpontzea
+2	Ate-sarrailak konpontzea
+3	Trabatzen diren sarrailak, mekanismo hautsiak, giltzaren arazoak.
+4	Ate-sarrailak konpontzea <span class="accent">Bilbon</span>
+5	Giltzak nekez biratzen du, sarraila trabatzen da eta&nbsp;atea indarrez&nbsp;bakarrik ixten da? Sarraila konponduko dugu erabat blokeatu&nbsp;aurretik. Sarrailagileak arrazoia&nbsp;bertan aurkitzen du eta&nbsp;konponketa proposatzen dizu, aldatzea baino merkeagoa bada.
+6	Bilbo • Bizkaia
+7	Diagnostikoa bertan
+8	Arrazoia bilatzen dugu, ez dugu dena aldatzen
+9	Konponketaren bermea
+10	Baldintzak, lanaren ondorengo agirian
+11	Prezioa lana hasi&nbsp;aurretik
+12	Aldez aurretik esaten dugu, ezustekorik gabe
+13	Utzi zure zenbakia eta bi minututan deituko dizugu
+14	Noiz behar duzu laguntza
+15	Noiz konpondu behar da ate-sarraila?
+16	Matxura gehienak xehetasun txikiekin hasten dira: giltzak gogorrago biratzen du, atea nekez ixten da. Garaiz deitzen badiozu sarrailagileari, konponketa aldatzea baino merkeagoa izango da.
+17	Giltzak nekez biratzen du
+18	Indarra egin behar da, eta giltza batzuetan trabatu egiten da.
+19	Sarraila trabatu edo blokeatu egiten da
+20	Mekanismoak ez du lehen aldian funtzionatzen, edo ez du batere funtzionatzen.
+21	Atea nekez ixten da
+22	Morroiloak kontraplakaren kontra jotzen du, eta atea bultzatu behar da.
+23	Krisketak ez du funtzionatzen
+24	Atea ez da itxita geratzen edo ez da heldulekuarekin irekitzen.
+25	Heldulekua lasaituta edo erorita
+26	Heldulekua ez da bere lekura itzultzen edo hutsean biratzen du.
+27	Puntu anitzeko sarrailak ez du funtzionatzen
+28	Atearen inguruko morroiloak ez dira ateratzen edo ez dira sartzen.
+29	Ez dakizu konpondu ala aldatu? Deitu sarrailagileari.
+30	Kontatu nola dabilen sarraila, eta nondik hasi esango dizugu.
+31	Deitu sarrailagileari
+32	Prezioak
+33	Zenbat balio du sarraila bat konpontzeak <span class="accent">Bilbon</span>?
+34	Prezioa sarraila motaren, matxuraren eta behar diren piezen araberakoa da. Gutxi gorabeherako prezioa deskribapenaren edo argazkiaren arabera ematen dizugu, eta behin betikoa diagnostikoaren ondoren, lana hasi aurretik.
+35	Ate-sarrailen konponketaren prezioak Bilbon
+36	Zerbitzua
+37	Prezioa
+38	Bonbina-sarraila konpontzea
+39	Gorja-sarraila konpontzea
+40	Puntu anitzeko sarraila konpontzea
+41	Atea eta kontraplaka doitzea
+42	Krisketa eta heldulekua konpontzea
+43	Mekanismoa garbitu eta koipeztatzea
+44	Gaueko premiazko konponketa
+45	Sarrailagilearen joan-etorria Bilbon
+46	Joan-etorria
+47	Bilbon eta Bilbo Handian joan-etorriaren prezioa operadoreak esaten dizu deitzean, sarrailagilea abiatu aurretik.
+48	Gaueko premiazko abisua
+49	Sarraila gauez, asteburuan edo jaiegunean blokeatzen bada, gainkostu bat aplikatzen da. Zenbatekoa aldez aurretik esaten dizugu.
+50	BEZ (IVA)
+51	[Adierazi BEZa taulako prezioetan sartuta dagoen.]
+52	Piezak eta materialak
+53	Malguki, kontraplaka, helduleku edo bonbina berriak aparte ordaintzen dira, eta zure baimenarekin bakarrik.
+54	Azken prezioa
+55	Sarrailagileak diagnostikoaren ondoren ematen du, lana hasi aurretik.
+56	Konponketaren prezioa galdetu
+57	Deskribatu matxura, eta gutxi gorabeherako prezioa emango dizugu.
+58	Zeren araberakoa den prezioa
+59	Nola kalkulatzen da sarraila bat konpontzearen prezioa?
+60	Lau faktorek zehazten dute prezioa. Esan iezazkiozu operadoreari edo bidali sarrailaren argazki bat, eta gutxi gorabeherako prezioa jakingo duzu sarrailagilea abiatu aurretik.
+61	Sarraila mota
+62	Bonbinaduna, gorja-sarraila, puntu anitzekoa, gainjarritakoa edo barruko atearen sarraila.
+63	Matxura mota
+64	Higadura, zikinkeria, pieza hautsi bat edo atea okertuta.
+65	Behar diren piezak
+66	Malgukiak, kontraplaka, heldulekua, krisketa edo bonbina berri bat.
+67	Abisuaren ordua eta helbidea
+68	Programatutako bisita edo premiazko abisua, Bilboko auzoa edo inguruko udalerria.
+69	Azken prezioa
+70	Sarrailagileak diagnostikoaren ondoren eta&nbsp;lana hasi aurretik ematen du: zure baimenik gabe ez&nbsp;da lanik hasten.
+71	Konponketa aldatzea baino garestiagoa bada, sarrailagileak esango dizu eta sarraila edo bonbina aldatzea proposatuko dizu. Zuk erabakitzen duzu.
+72	Deitu sarrailagileari
+73	Sarraila trabatzen da? Deitu sarrailagileari
+74	Utzi zure izena eta telefono-zenbakia: operadoreak minutu&nbsp;gutxiren buruan deituko dizu, sarraila nola dabilen galdetuko dizu eta&nbsp;bisitarako ordu egokia adostuko du zurekin. Premiazko abisuak egunean 24 orduz hartzen ditugu Bilbon eta&nbsp;Bilbo Handian.
+75	Sarrailak
+76	Mota guztietako sarrailak konpontzen ditugu
+77	Sarrailagileak Espainian sarrera-ateetan eta barruko ateetan jartzen diren sarraila mota nagusiekin lan egiten du, eta modelo bakoitzerako piezak aukeratzen ditu.
+78	Bonbinadunak <span lang="es">bombín</span>
+79	Espainian ohikoena: bonbina arruntetatik segurtasun-bonbinetara.
+80	Gorja-sarrailak <span lang="es">de gorjas</span>
+81	Pertxa-giltzadun sarrailak, ate zaharretan eta blindatuetan ohikoak.
+82	Puntu anitzekoak <span lang="es">multipunto</span>
+83	Atearen perimetroan zehar hainbat morroilo dituzten sarrailak.
+84	Gainjarritako sarrailak eta morroiloak <span lang="es">cerrojos</span>
+85	Sarraila nagusiaren gainean jarritako sarraila osagarriak.
+86	Barruko ateen sarrailak
+87	Krisketak, komuneko eta logelako sarrailak, blokeagailudun heldulekuak.
+88	Metalezko itxieretako sarrailak
+89	Denda, garaje eta biltegietako metalezko itxieren sarrailak (<span lang="es">cierres metálicos</span>).
+90	Lehenik, diagnostikoa
+91	Jokabide zintzoa
+92	Sarraila konpondu ala aldatu: zer ateratzen da merkeago?
+93	Matxura guztiak ez dira sarraila aldatuz konpontzen. Sarrailagileak lehenik arrazoia bilatzen du eta merkeen eta iraunkorren den irtenbidea proposatzen dizu.
+94	Garbitu eta koipeztatzea nahikoa denean
+95	<p>Zikinkeria edo hautsa dela-eta giltzak nekez biratzen badu, mekanismoa garbitu eta lubrifikatzaile lehor batekin koipeztatzen da. Olioa eta erabilera anitzeko sprayak ez dira egokiak bonbinentzat: denborarekin hautsa biltzen dute.</p>
+96	Arazoa ez denean sarraila, atea baizik
+97	<p>Denborarekin atea erori egiten da, eta morroiloak kontraplakaren kontra jotzen hasten da. Orduan, gontzak edo kontraplaka doitzen dira: sarraila bera ondo dago.</p>
+98	Pieza solteak aldatzen direnean
+99	<p>Malguki hautsi bat, krisketa higatu bat edo helduleku lasaitu bat bereiz aldatzen dira, sarraila osoa aldatu gabe.</p>
+100	Aldatzea merkeagoa denean
+101	<p>Bonbina oso higatuta edo hautsita badago, edo giltzak galdu badira, bonbina aldatzea konpontzea baino merkeagoa da, eta segurtasuna ere hobetzen du. Informazio gehiago <a href="{url:svc-cambio}">sarrailak eta bonbinak aldatzeari</a> buruz.</p>
+102	Zer egiaztatzen dugun konponketaren ondoren
+103	<p>Giltzak bi aldeetatik ondo biratzen duen, atea ondo ixten eta blokeatzen den, eta krisketak eta morroilo guztiek funtzionatzen duten.</p>
+104	Prozesua
+105	Nola eskatu sarraila baten konponketa Bilbon?
+106	Abisua
+107	Deitu edo utzi eskaera bat. Kontatu nola dabilen sarraila, eta bidali argazki bat, ahal baduzu.
+108	Bisitaren ordua eta prezioa
+109	Operadoreak gutxi gorabeherako prezioa ematen dizu eta ordu egokia adosten du. Premiazko abisuak, egunean 24 orduz.
+110	Diagnostikoa eta konponketa
+111	Sarrailagileak arrazoia aurkitzen du, prezioa esaten dizu eta, zure baimenarekin, sarraila konpontzen du.
+112	Emaitzaren egiaztapena
+113	Sarrailaren eta atearen funtzionamendua egiaztatzen dugu, eta mekanismoaren bizitza nola luzatu azaltzen dizugu.
+114	Sarraila oraintxe blokeatu zaizu?
+115	Guardiako sarrailagilea egunean 24 orduz dago prest: atea irekiko dugu eta sarraila konponduko dugu.
+116	Deitu sarrailagileari
+117	Bilbo · Bizkaia
+118	Zergatik Cerrajero24
+119	Zergatik uzten duten sarrailen konponketa <span class="accent">Cerrajero24</span>-ren esku
+120	Diagnostikoa bertan
+121	Matxuraren arrazoia aurkitzen dugu eta hitz errazekin azaltzen dizugu.
+122	Konpondu, ez berria saldu
+123	Konponketa errentagarria edo fidagarria ez denean bakarrik proposatzen dugu aldatzea.
+124	Premiazko abisuak 24/7
+125	Sarraila blokeatu bada eta atea ez bada irekitzen, edozein ordutan joaten gara.
+126	Zerbitzua Bilbon eta inguruetan
+127	Etxebizitzak, etxeak, bulegoak eta dendak, hirian eta Bilbo Handian.
+128	Mota guztietako sarrailak
+129	Bonbinadunak, gorja-sarrailak, puntu anitzekoak eta gainjarritakoak.
+130	Konponketaren bermea
+131	Lanaren eta jarritako piezen bermea. Baldintzak idatziz jasotzen dira.
+132	Iritziak
+133	Bezeroen iritziak sarrailen konponketari buruz Bilbon
+134	Jatorrizko iritziak Googlen
+135	Bezeroen iritziak sarrailen konponketari buruz
+136	Mercedes
+137	Giltzak nekez biratzen zuen · Begoña
+138	Asteak zeramatzan giltzak indarrez biratzen, eta hautsiko zen beldur nintzen. Sarrailagileak bonbina garbitu eta koipeztatu zuen eta kontraplaka doitu zuen: orain giltzak leun biratzen du. Ez zen ezer aldatu behar izan.
+139	Oleg
+140	Atea nekez ixten zen · Errekalde
+141	Atea sorbaldaz bultzatu behar nuen giltzaz ixteko. Sarrailagileak azaldu zidan gontzak erorita zeudela, eta atea eta kontraplaka doitu zituen. Ordu erdiko lana, sei hilabetez sufritu ondoren.
+142	Ana
+143	Krisketa · Uribarri
+144	Krisketak funtzionatzeari utzi zion, eta atea ez zen itxita geratzen. Sarrailagileak krisketaren mekanismoa bakarrik aldatu zuen, eta sarraila utzi zuen, ondo zegoelako. Prezioa aldez aurretik eman ziguten.
+145	Timur
+146	Puntu anitzeko sarraila · Galdakao
+147	Ate blindatuan goiko morroiloak ez ziren ateratzen. Sarrailagileak puntu anitzeko sarraila desmuntatu zuen, pieza hautsia aldatu zuen eta itxiera-puntu guztiak egiaztatu zituen. Berria bezala dabil.
+148	Nicole
+149	Atearen heldulekua · Portugalete
+150	Sarrera-atearen heldulekua lasaituta eta erorita zegoen. Sarrailagileak mekanismoa estutu zuen eta malgukia aldatu zuen. Azkar eta merke: sarraila osoa aldatu beharko zela uste nuen.
+151	Ikusi iritzi guztiak
+152	Legezkotasuna eta segurtasuna
+153	Agiririk behar al da sarraila bat konpontzeko?
+154	Atea irekita badago eta etxean bazaude, normalean nahikoa da argazkidun agiri bat. Sarraila ireki edo aldatu behar bada, sarrailagileak helbidea egiaztatzeko eskatzen dizu.
+155	Balio dute:
+156	NANa
+157	AIZ
+158	Pasaportea
+159	Escritura
+160	Alokairu-kontratua
+161	Hornidura-faktura
+162	Argazkidun agiri bat nahikoa denean
+163	<p>Sarrailagileari etxebizitzan edo bulegoan sartzen uzten badiozu eta konponketak ez badu atea irekitzea eskatzen, normalean nahikoa da NANa, AIZ edo pasaportea.</p>
+164	Helbidea egiaztatu behar denean
+165	<p>Sarraila blokeatu bada eta atea ireki behar bada, helbidearekin duzun lotura egiaztatu beharko duzu: eskritura (<span lang="es">escritura</span>), alokairu-kontratua edo hornidura-faktura bat. Agiriak barruan badaude, sarrailagileak ireki bezain laster egiaztatzen ditu.</p>
+166	Sarrailaren konponketa alokairuko etxebizitzan
+167	<p>Hiri Errentamenduen Legearen arabera (<span lang="es">LAU</span>), higadura arruntak eragindako konponketa txikiak maizterrak ordaindu ohi ditu. Sarraila aldatu behar bada, komeni da jabearekin adostea eta giltza-sorta bat ematea.</p>
+168	Konponketa bulego edo denda batean
+169	<p>Langileak jabearen edo arduradunaren baimena beharko du. Enpresaren izenean faktura behar baduzu, eman datuak operadoreari.</p>
+170	Nola adosten diren lanak eta piezak
+171	<p>Sarrailagileak konponketaren eta piezen prezioa diagnostikoaren ondoren esaten dizu. Lana zure baimenarekin bakarrik hasten da.</p>
+172	Zerbitzu-eremua
+173	Sarrailak konpontzea <span class="accent">Bilboko</span> auzo guztietan
+174	Sarrailak konpontzera joaten gara etxebizitzetara, etxeetara, bulegoetara eta dendetara, Bilboko auzoetan eta Bizkaiko inguruko udalerrietan.
+175	Bilboko barrutiak
+176	8 barruti
+177	Deustu
+178	Uribarri
+179	Otxarkoaga-Txurdinaga
+180	Begoña
+181	Ibaiondo
+182	Abando
+183	Errekalde
+184	Basurto-Zorrotza
+185	Auzo eskatuenak: Alde Zaharra, Indautxu, San Ignazio, Santutxu, Miribilla eta beste batzuk.
+186	Sarrailak konpontzea Bilbo inguruan
+187	Barakaldo
+188	Getxo
+189	Portugalete
+190	Santurtzi
+191	Leioa
+192	Sestao
+193	Basauri
+194	Erandio
+195	eta Bilbo Handiko beste udalerri batzuk.
+196	Jakin beharrekoak
+197	Zergatik hausten dira ate-sarrailak eta nola luzatu haien bizitza?
+198	Sarraila bat oso gutxitan hausten da bat-batean: normalean asteetan edo hilabeteetan ematen ditu seinaleak. Zeri erreparatu, zer egin dezakezun zeuk eta noiz deitu sarrailagileari kontatzen dizugu.
+199	<h3>Zergatik biratzen du giltzak nekez sarrailan?</h3>
+200	<p>Arrazoi ohikoenak bonbinako zikinkeria eta hautsa, giltzaren edo pinen higadura eta atea okertuta egotea dira. Bilbon hezetasuna ere gehitu behar da: eraikin zaharretan eta kalean dauden sarrailetan, mekanismoa lehenago oxidatzen da.</p>
+201	<p>Ez erabili olioa ezta erabilera anitzeko sprayak ere: aste pare batean laguntzen dute, eta gero hautsa biltzen dute. Bonbinentzat grafitozko edo teflonezko lubrifikatzaile lehorra egokia da. Ez badu laguntzen, diagnostikoa behar da.</p>
+202	<h3>Zergatik ixten da atea nekez?</h3>
+203	<p>Gehienetan arazoa ez da sarraila, atea baizik: gontzetan erortzen da edo hezetasunaren eraginez deformatzen da, eta morroiloak kontraplakaren kontra jotzen hasten da. Horrelako atea indarrez ixten bada, sarraila azkar higatzen da.</p>
+204	<p>Sarrailagileak gontzak doituko ditu edo kontraplaka beste leku batean jarriko du: merkea da eta normalean denbora gutxi behar du. Informazio gehiago <a href="#repair-or-replace">konpondu edo aldatzeari buruzko atalean</a>.</p>
+205	<h3>Noiz komeni da sarraila konpontzea, eta noiz aldatzea?</h3>
+206	<p>Konponketa errentagarria da arrazoia zikinkeria, doikuntza bat edo pieza hautsi bakar bat bada. Aldatu egin behar da bonbina oso higatuta badago, giltzak galdu badira edo sarraila katalogotik kanpo badago eta piezarik ez badago.</p>
+207	<p>Aspalditik atearen segurtasuna hobetu nahi bazenuen, aprobetxatu matxura bumping-aren eta zulatzearen aurkako bonbina bat jartzeko. Informazio gehiago <a href="{url:svc-cambio}">sarrailak eta bonbinak aldatzeari</a> buruz.</p>
+208	<h3>Zer egin sarraila blokeatu bada eta atea ez bada irekitzen?</h3>
+209	<p>Ez saiatu giltza alikateekin biratzen: barruan hauts daiteke. Deitu sarrailagileari: atea irekiko du eta sarraila konpondu edo aldatuko du bisita berean. Informazio gehiago <a href="{url:svc-puertas}">etxebizitzen premiazko irekierari</a> buruz.</p>
+210	<h3>Nola luzatu sarrailaren bizitza?</h3>
+211	<p>Urtean behin garbitu bonbina eta koipeztatu lubrifikatzaile lehorrarekin, ez zintzilikatu giltza-sorta astunik giltzatik eta ez itxi atea danbaka. Giltzak gogorrago biratzen hasten bada, ez itxaron sarraila blokeatu arte: garaiz konpontzea merkeagoa da.</p>
+212	Galderak
+213	Sarrailen konponketari buruzko ohiko galderak
+214	Galdera gehiago dituzu?
+215	Jarri harremanetan sarrailagilearekin: erantzun egingo dizugu eta orain bertan zer egin esango dizugu.
+216	Zenbat balio du sarraila bat konpontzeak Bilbon?
+217	<p>Prezioa sarraila motaren, matxuraren eta behar diren piezen araberakoa da. Gutxi gorabeherako prezioak <a href="#prices">prezio-taulan</a> dituzu. Sarrailagileak behin betiko prezioa diagnostikoaren ondoren eta lana hasi aurretik ematen du.</p>
+218	Zer da merkeagoa, sarraila konpontzea ala aldatzea?
+219	<p>Arrazoia zikinkeria, atearen doikuntza edo pieza bakar bat bada, konpontzea merkeagoa izan ohi da. Bonbina oso higatuta badago edo giltzak galdu badira, aldatzea komeni da. Sarrailagileak zintzo esango dizu zer den onena zure kasuan.</p>
+220	Egun berean konpon daiteke sarraila?
+221	<p>Gehienetan bai: matxura gehienak bisita bakarrean konpontzen dira. Sarraila zahar batek pieza arraro bat behar badu, sarrailagileak esango dizu atea nola utzi ondo itxita pieza iritsi arte, edo bonbina aldatzea proposatuko dizu.</p>
+222	Zergatik biratzen du giltzak nekez sarrailan?
+223	<p>Normalean bonbinako zikinkeriagatik eta hautsagatik, giltzaren higaduragatik edo atea okertuta dagoelako. Ez erabili olioa: hobe da lubrifikatzaile lehorra. Ez badu laguntzen, diagnostikoa behar da.</p>
+224	Zerekin koipeztatu ate-sarraila?
+225	<p>Bonbinak grafitozko edo teflonezko lubrifikatzaile lehorrarekin koipeztatzen dira. Olioak eta erabilera anitzeko sprayek hautsa biltzen dute eta, denborarekin, mekanismoaren funtzionamendua okertzen dute.</p>
+226	Puntu anitzeko sarrailak konpontzen dituzue?
+227	<p>Bai, sarrailagileek ate metaliko eta blindatuetako puntu anitzeko sarrailekin (<span lang="es">multipunto</span>) lan egiten dute: pieza hautsiak aldatzen dituzte eta morroiloak eta kontraplakak doitzen dituzte.</p>
+228	Bermerik ematen duzue konponketan?
+229	<p>Bai, egindako lanean eta jarritako piezetan. Baldintzak eta epea konponketaren ondoren ematen dizugun agirian jasotzen dira.</p>
+230	Gauez dei diezaioket sarrailagileari sarraila blokeatu bada?
+231	<p>Bai, premiazko abisuak egunean 24 orduz hartzen ditugu. Gauez eta jaiegunetan gainkostu bat aplikatzen da: operadoreak zenbatekoa esango dizu deitzean.</p>
+232	Nork ordaintzen du sarrailaren konponketa alokairuko etxebizitzan?
+233	<p>Hiri Errentamenduen Legearen arabera (<span lang="es">LAU</span>), higadura arruntak eragindako konponketa txikiak maizterrak ordaindu ohi ditu. Sarraila aldatzea jabearekin adostea komeni da. Informazio gehiago <a href="#documents">agiriei buruzko atalean</a>.</p>
+234	Bilbo ingurura ere joaten zarete?
+235	<p>Bai. Bilboko auzo guztiez gain, Bilbo Handiko udalerrietara ere joaten gara: Barakaldo, Getxo, Portugalete, Santurtzi, Leioa, Sestao, Basauri, Erandio eta beste batzuk. Hiritik kanpoko prezioa eta iristeko denbora operadoreak esango dizkizu deitzean. Zure eremua <a href="#areas">zerbitzu-eremuaren mapan</a> egiazta dezakezu.</p>
+236	Zerbitzu gehiago
+237	Cerrajero24ren beste zerbitzu batzuk Bilbon
+238	Zerbitzu-eskaera
+239	Eskatu sarraila baten konponketa Bilbon
+240	Sarraila trabatzen da edo atea gaizki ixten da? Jarri harremanetan Cerrajero24rekin prezioa galdetzeko eta bisitarako ordua aukeratzeko.
+241	24/7 lanean, asteburuetan eta jaiegunetan ere
+242	Eremua: Bilbo eta Bizkaia
+243	Prezioa hasi aurretik adosten dugu
+244	Konponketaren eta piezen bermea
+245	Deitu sarrailagileari
+246	Sarrailaren konponketa
+247	Konponketaren prezioa galdetu
+248	Utzi zure zenbakia eta, ahal baduzu, erantsi sarrailaren argazki bat. Sarrailagileak deituko dizu gutxi gorabeherako prezio bat emateko.
+249	Sarrailaren argazkia
+250	Giltzak nekez biratzen du
+251	Sarraila trabatzen da
+252	Atea nekez ixten da
+253	Krisketak edo heldulekuak ez du funtzionatzen
+254	Puntu anitzeko sarrailak ez du funtzionatzen
+255	Beste bat
+256	Ate-sarrailak konpontzea Bilbon — Cerrajero24
+257	Giltzak nekez biratzen du edo sarraila trabatzen da? Bonbinadun, gorja-sarrailak eta puntu anitzeko sarrailak konpontzen ditugu Bilbon. Diagnostikoa bertan, prezioa lana hasi aurretik.
+258	Sarraila trabatzen da edo giltzak nekez biratzen du? Zure ate-sarraila konponduko dugu Bilbon, prezioa lana hasi aurretik.
+259	Ate-sarrailak konpontzea Bilbon
+260	Ate-sarrailak konpondu eta doitzea
+261	Bonbinadun, gorja-sarrailen, puntu anitzeko eta gainjarritako sarrailen diagnostikoa eta konponketa, atearen eta kontraplakaren doikuntza, krisketen eta heldulekuen konponketa. Bilbo eta Bilbo Handia.

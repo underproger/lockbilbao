@@ -1,0 +1,182 @@
+1	Lock repair
+3	Sticking locks, broken mechanisms, key problems.
+4	Door lock repair <span class="accent">in&nbsp;Bilbao</span>
+5	Key hard to turn, lock sticking and&nbsp;the door only closes with&nbsp;force? We’ll repair the lock before it jams for&nbsp;good. The locksmith finds the cause on&nbsp;the spot and&nbsp;suggests a repair if it works out cheaper than a replacement.
+7	On-site diagnosis
+8	We find the cause instead of replacing everything
+9	Repair guarantee
+10	Terms in writing after the job
+15	When does a door lock need repairing?
+16	Most faults start small: the key turns a little harder, the door takes effort to close. If you call a locksmith in time, a repair costs less than a replacement.
+17	Key hard to turn
+18	You have to force it, and the key sometimes gets stuck.
+19	Lock sticks or jams
+20	The mechanism doesn’t work first time, or doesn’t work at all.
+21	Door takes effort to close
+22	The bolt hits the strike plate, so you have to push the door.
+23	Latch not catching
+24	The door won’t stay shut or won’t open with the handle.
+25	Loose or drooping handle
+26	The handle doesn’t spring back or spins freely.
+27	Multi-point lock not working
+28	The bolts around the door frame won’t extend or retract.
+29	Not sure whether to repair or replace? Call a locksmith.
+30	Tell us how the lock behaves and we’ll tell you where to start.
+33	How much does lock repair cost in&nbsp;<span class="accent">Bilbao</span>?
+34	The price depends on the type of lock, the fault and the parts needed. We give you an estimate from a description or photo, and the final price after diagnosis, before any work starts.
+35	Door lock repair prices in Bilbao
+38	Cylinder lock repair
+39	Lever lock repair
+40	Multi-point lock repair
+41	Door and strike plate adjustment
+42	Latch and handle repair
+43	Mechanism cleaning and lubrication
+44	Emergency night-time repair
+48	Emergency night call-out
+49	If the lock jams at night, at the weekend or on a public holiday, a surcharge applies. We tell you the amount in advance.
+52	Parts and materials
+53	New springs, strike plates, handles or a cylinder are charged separately — and only with your consent.
+55	The locksmith tells you after diagnosis — before any work starts.
+56	Check the price of a lock repair
+57	Describe the fault and we’ll give you an estimate.
+59	How is the price of a lock repair worked out?
+60	Four things set the price. Tell the dispatcher about them or send a photo of the lock — you’ll know the estimated price before the locksmith sets off.
+62	Cylinder, lever, multi-point, surface-mounted or interior door lock.
+63	Type of fault
+64	Wear, dirt, a broken part or a misaligned door.
+65	Parts needed
+66	Springs, strike plate, handle, latch or a new cylinder.
+68	Scheduled visit or emergency call-out, Bilbao district or nearby town.
+70	The locksmith tells you after diagnosis and&nbsp;before work starts — nothing is done without&nbsp;your consent.
+71	If a repair would cost more than a replacement, the locksmith will tell you and suggest replacing the lock or cylinder — the choice is yours.
+73	Lock sticking? Call a locksmith
+74	Leave your name and phone number — the dispatcher will call you back within&nbsp;a few minutes, ask how the lock is behaving and&nbsp;arrange a convenient time. We take emergency calls around the clock in&nbsp;Bilbao and&nbsp;Greater Bilbao.
+75	Locks
+76	We repair all types of locks
+77	Our locksmiths work with the main types of locks fitted to front and interior doors in Spain, and source parts to suit each model.
+78	Cylinder locks <span lang="es">bombín</span>
+79	The most common type in Spain — from standard to high-security cylinders.
+80	Lever locks <span lang="es">de gorjas</span>
+82	Multi-point locks <span lang="es">multipunto</span>
+84	Surface-mounted locks and bolts <span lang="es">cerrojos</span>
+85	Additional locks fitted on top of the main one.
+86	Interior door locks
+87	Latches, bathroom and bedroom locks, privacy handles.
+89	Locks on <span lang="es">cierres metálicos</span> (metal shutters) of shops, garages and warehouses.
+90	Diagnosis first
+91	An honest approach
+92	Repair or replace the lock: which makes more sense?
+93	Not every fault calls for a replacement. The locksmith finds the cause first and suggests the solution that costs less and lasts longer.
+94	When cleaning and lubrication are enough
+95	<p>If the key is hard to turn because of dirt or dust, the mechanism is cleaned and treated with a dry lubricant. Oil and multi-purpose sprays are not suitable for cylinders: over time they collect dust.</p>
+96	When the door is to blame, not the lock
+97	<p>Over time a door drops, and the bolt starts to hit the strike plate. The hinges or strike plate are then adjusted — the lock itself is fine.</p>
+98	When individual parts are replaced
+99	<p>A broken spring, a worn latch or a loose handle can be replaced on its own — without replacing the whole lock.</p>
+100	When replacement makes more sense
+101	<p>If the cylinder is badly worn, broken or the keys are lost, a new cylinder costs less than a repair and improves security. Find out more about <a href="{url:svc-cambio}">lock and cylinder replacement</a>.</p>
+102	What we check after the repair
+103	<p>How the key turns from both sides, how the door closes and locks, and whether the latch and all the bolts work.</p>
+105	How do I book a lock repair in&nbsp;Bilbao?
+107	Call or send a request. Tell us how the lock behaves and send a photo if you can.
+108	Visit time and price
+109	The dispatcher gives you an estimate and arranges a convenient time. Emergency calls — around the clock.
+110	Diagnosis and repair
+111	The locksmith finds the cause, tells you the price and, once you agree, repairs the lock.
+113	We check the lock and door work properly and explain how to make the mechanism last longer.
+114	Lock jammed right now?
+115	Our on-call locksmith is available around the clock — we’ll open the door and repair the lock.
+119	Why people trust <span class="accent">Cerrajero24</span> with lock repairs
+120	On-site diagnosis
+121	We find the cause of the fault and explain it in plain words.
+122	Repair, not a hard sell
+123	We only suggest a replacement when a repair isn’t worth it or wouldn’t be reliable.
+124	Emergency calls 24/7
+125	If the lock has jammed and the door won’t open, we come at any time.
+127	Flats, houses, offices and shops — in the city and across Greater Bilbao.
+128	All types of locks
+129	Cylinder, lever, multi-point and surface-mounted locks.
+130	Repair guarantee
+131	A guarantee on the work and the parts fitted. The terms are set out in writing.
+133	Customer reviews of lock repairs in&nbsp;Bilbao
+135	Customer reviews of lock repairs
+136	Mercedes
+137	Key hard to turn · Begoña
+138	For weeks the key had been hard to turn, and I was afraid it would snap. The locksmith cleaned and lubricated the cylinder and adjusted the strike plate — now the key turns easily. Nothing had to be replaced.
+139	Oleg
+140	Door hard to close · Rekalde
+141	I had to push the door with my shoulder to lock it. The locksmith explained that the hinges had dropped, and adjusted the door and strike plate. Half an hour’s work after six months of struggling.
+142	Ana
+143	Latch · Uribarri
+144	The latch stopped catching and the door wouldn’t stay shut. The locksmith replaced only the latch mechanism and left the lock, which was fine. We were told the price in advance.
+145	Timur
+146	Multi-point lock · Galdakao
+147	The top bolts on our armoured door wouldn’t extend. The locksmith took the multi-point lock apart, replaced the broken part and checked every locking point. It works like new.
+148	Nicole
+149	Door handle · Portugalete
+150	The front door handle had gone loose and was drooping. The locksmith tightened the mechanism and replaced the spring. Quick and inexpensive — I thought the whole lock would have to be replaced.
+153	Do I need documents for a lock repair?
+154	If the door is open and you are at home, a photo ID is usually enough. The locksmith asks for proof of address if the lock has to be opened or replaced.
+162	When a photo ID is enough
+163	<p>If you let the locksmith into your flat or office and the repair doesn’t involve opening the door, a DNI, NIE or passport is usually enough.</p>
+164	When you need proof of address
+165	<p>If the lock has jammed and the door has to be opened, you’ll need proof of your link to the address: an <span lang="es">escritura</span> (title deed), a rental contract or a utility bill. If the documents are inside, the locksmith checks them straight after opening.</p>
+166	Lock repair in a rented flat
+167	<p>Under the Urban Leases Act (<span lang="es">LAU</span>), minor repairs due to normal wear are usually paid for by the tenant. If the lock needs replacing, it’s best to agree this with the landlord and give them a set of keys.</p>
+168	Repairs in an office or shop
+169	<p>An employee will need permission from the owner or manager. If you need an invoice in the company’s name, give the details to the dispatcher.</p>
+170	How work and parts are agreed
+171	<p>The locksmith tells you the price of the repair and parts after diagnosis. Work only starts once you agree.</p>
+173	Lock repair in every district of <span class="accent">Bilbao</span>
+174	We come out to repair locks in flats, houses, offices and shops across Bilbao’s districts and nearby towns in Bizkaia.
+186	Lock repair in the Bilbao area
+197	Why do door locks break, and how can you make them last longer?
+198	A lock rarely breaks without warning: it usually gives signs for weeks or months. Here’s what to look out for, what you can do yourself and when it’s time to call a locksmith.
+199	<h3>Why is the key hard to turn in the lock?</h3>
+200	<p>The most common causes are dirt and dust in the cylinder, a worn key or pins, and a misaligned door. In Bilbao, damp adds to this: in older buildings and in locks exposed to the weather, the mechanism oxidises faster.</p>
+201	<p>Don’t use oil or multi-purpose sprays — they help for a couple of weeks and then collect dust. Cylinders need a graphite- or PTFE-based dry lubricant. If that doesn’t help, the lock needs a diagnosis.</p>
+202	<h3>Why does the door take effort to close?</h3>
+203	<p>Most often the door, not the lock, is the problem: it drops on its hinges or warps with damp, and the bolt starts to hit the strike plate. Forcing a door like this wears the lock out quickly.</p>
+204	<p>The locksmith will adjust the hinges or reposition the strike plate — it’s inexpensive and usually quick. Find out more in the section <a href="#repair-or-replace">on repair and replacement</a>.</p>
+205	<h3>When is it better to repair a lock, and when to replace it?</h3>
+206	<p>A repair makes sense if the cause is dirt, adjustment or a single broken part. Replacement is needed if the cylinder is badly worn, the keys are lost or the lock has been discontinued and parts are no longer available.</p>
+207	<p>If you’ve been meaning to improve your door’s security, a breakdown is a good moment to fit an anti-bump, anti-drill cylinder. Find out more about <a href="{url:svc-cambio}">lock and cylinder replacement</a>.</p>
+208	<h3>What should I do if the lock has jammed and the door won’t open?</h3>
+209	<p>Don’t try to turn the key with pliers — it may snap inside. Call a locksmith: they’ll open the door and repair or replace the lock in the same visit. Find out more about <a href="{url:svc-puertas}">emergency flat opening</a>.</p>
+210	<h3>How can I make a lock last longer?</h3>
+211	<p>Once a year, clean the cylinder and treat it with a dry lubricant, don’t hang a heavy bunch of keys from the key in the lock and don’t slam the door. If the key starts to turn harder, don’t wait for the lock to jam: an early repair costs less.</p>
+213	Frequently asked questions about lock repair
+216	How much does lock repair cost in Bilbao?
+217	<p>The price depends on the type of lock, the fault and the parts needed. See the <a href="#prices">price table</a> for guide prices. The locksmith gives you the final price after diagnosis and before any work starts.</p>
+218	Which is cheaper — repairing a lock or replacing it?
+219	<p>If the cause is dirt, door adjustment or a single part, a repair is usually cheaper. If the cylinder is badly worn or the keys are lost, replacement makes more sense. The locksmith will tell you honestly what’s best in your case.</p>
+220	Can the lock be repaired the same day?
+221	<p>Usually, yes: most faults are fixed in a single visit. If an older lock needs a rare part, the locksmith will show you how to secure the door until it arrives, or suggest replacing the cylinder.</p>
+222	Why is the key hard to turn in the lock?
+223	<p>Usually because of dirt and dust in the cylinder, a worn key or a misaligned door. Don’t use oil — a dry lubricant is better. If that doesn’t help, the lock needs a diagnosis.</p>
+224	What should I lubricate a door lock with?
+225	<p>Cylinders are lubricated with a graphite- or PTFE-based dry lubricant. Oil and multi-purpose sprays collect dust and, over time, make the mechanism work worse.</p>
+226	Do you repair multi-point locks?
+227	<p>Yes, our locksmiths work with multi-point locks (<span lang="es">multipunto</span>) on metal and armoured doors: they replace broken parts and adjust the bolts and strike plates.</p>
+228	Do you guarantee your repairs?
+229	<p>Yes, on the work carried out and the parts fitted. The terms and period are stated in the document you receive after the repair.</p>
+230	Can I call a locksmith at night if the lock has jammed?
+231	<p>Yes, we take emergency calls around the clock. A surcharge applies at night and on public holidays — the dispatcher will tell you the amount when you call.</p>
+232	Who pays for a lock repair in a rented flat?
+233	<p>Under the Urban Leases Act (<span lang="es">LAU</span>), minor repairs due to normal wear are usually paid for by the tenant. It’s best to agree a lock replacement with the landlord. Find out more in the section <a href="#documents">on documents</a>.</p>
+239	Book a lock repair in&nbsp;Bilbao
+240	Lock sticking or door not closing properly? Contact Cerrajero24 to check the price and choose a convenient time.
+244	Guarantee on repairs and parts
+246	Lock repair
+247	Check the price of a lock repair
+250	Key hard to turn
+251	Lock sticking
+252	Door takes effort to close
+253	Latch or handle not working
+254	Multi-point lock not working
+256	Door lock repair in Bilbao — Cerrajero24
+257	Key hard to turn or lock sticking? We repair cylinder, lever and multi-point locks in Bilbao. On-site diagnosis, price agreed before work.
+258	Lock sticking or key hard to turn? We’ll repair your door lock in Bilbao, with the price agreed before work starts.
+259	Door lock repair in Bilbao
+260	Door lock repair and adjustment
+261	Diagnosis and repair of cylinder, lever, multi-point and surface-mounted locks, door and strike plate adjustment, latch and handle repair. Bilbao and Greater Bilbao.
