@@ -1,0 +1,167 @@
+3	Diagnosis and getting the lock working again.
+4	Broken key extraction <span class="accent">in&nbsp;Bilbao</span>
+5	Key snapped in&nbsp;the lock and&nbsp;half of it is still inside? We carefully remove the broken piece from&nbsp;the cylinder of your front door, mailbox, garage or car. If the mechanism isn’t&nbsp;damaged, the lock will keep working — nothing needs&nbsp;replacing.
+9	No cylinder replacement
+10	If the mechanism isn’t damaged
+15	When do you need a broken key extracted?
+16	Keys snap suddenly — usually through wear or when forced to turn. Don’t try to get the piece out yourself: it’s easy to push it in further.
+17	Key snapped in the door
+18	The broken piece is stuck in the cylinder of your front door.
+19	Door locked, piece inside
+20	The key snapped as you were leaving or coming home.
+21	Mailbox key snapped
+22	The broken piece is stuck in the lock of the mailbox (<span lang="es">buzón</span>) in the entrance hall.
+23	Key stuck and won’t come out
+24	The key is intact but won’t come out of the lock or turn.
+25	Broken piece in a car lock
+26	The key snapped in a door or boot cylinder.
+27	Key snapped in a padlock
+28	A broken piece in the lock of a gate, shutter or storage room.
+29	Piece stuck right now? Call a locksmith.
+30	Tell us where the key snapped — we’ll tell you what to do until we arrive.
+33	How much does broken key extraction cost in&nbsp;<span class="accent">Bilbao</span>?
+34	The price depends on where the key snapped, how deep the piece is and whether the cylinder is damaged. We give you an estimate from a description and the final price before work starts.
+35	Broken key extraction prices in Bilbao
+38	Removing a broken piece from a front door lock
+39	Removing a broken piece and opening a locked door
+40	Removing a key from a mailbox
+41	Removing a key from a car lock
+42	Removing a key from a padlock or garage lock
+43	Cylinder replacement after extraction
+52	New cylinder
+53	If the cylinder is damaged and needs replacing, the new cylinder is charged separately — and only with your consent.
+55	The locksmith tells you after inspecting the lock — before work starts.
+56	Check the price of a key extraction
+57	Tell us where the key snapped — we’ll give you an estimate.
+59	What does the price of a key extraction depend on?
+60	Four things set the price. Tell the dispatcher about them — you’ll know the estimated price before the locksmith sets off.
+61	Where the key snapped
+62	Front door, mailbox, car, garage or padlock.
+63	Position of the piece
+64	Visible from outside or deep inside the cylinder.
+65	Cylinder condition
+66	The mechanism is intact, or damaged and needs replacing.
+68	Day or night, Bilbao district or nearby town.
+71	If the cylinder is damaged and needs replacing, we agree the price of the new cylinder separately — before work starts.
+73	Key snapped in the lock? Call a locksmith
+74	Leave your name and phone number — the dispatcher will call you back within&nbsp;a few minutes, check where the key snapped and whether the door is locked, and&nbsp;give you an estimate. We work around the clock in&nbsp;Bilbao and&nbsp;Greater Bilbao.
+75	Where we extract
+76	We extract keys from all types of locks
+77	A broken piece can get stuck in any lock. The locksmith chooses the tool for the specific mechanism so as not to damage the cylinder.
+78	Front door cylinders <span lang="es">bombín</span>
+79	The most common case — a key snapped in the cylinder of a flat or office.
+81	Broken pieces of bit keys in older and armoured doors.
+82	Mailboxes <span lang="es">buzones</span>
+83	Small locks in which keys snap especially often.
+84	Car locks
+85	Door and boot cylinders.
+87	Locks on storage rooms, gates, shutters and utility rooms.
+88	Garage and metal shutter locks
+89	Locks on gates, roller shutters and <span lang="es">cierres metálicos</span>.
+90	Saving the cylinder comes first
+92	Key extraction without replacing the cylinder
+93	If the mechanism isn’t damaged, once the piece is out the lock keeps working with the spare key — nothing needs replacing.
+94	How we remove the piece
+95	<p>The locksmith uses a special key extraction tool: it grips the broken piece without damaging the cylinder’s pins.</p>
+96	When the cylinder stays usable
+97	<p>If the key snapped through wear and the piece wasn’t pushed in, the mechanism is usually intact. After extraction, the lock works with the spare key.</p>
+98	When the cylinder needs replacing
+99	<p>If someone tried to get the piece out with glue or pushed it in deep, the pins may be damaged. It’s then safer to replace the cylinder — the locksmith does this in the same visit.</p>
+100	Why replacement is agreed in advance
+101	<p>If the cylinder can’t be saved, the locksmith explains why and tells you the price of a new one. Work only starts once you agree.</p>
+102	What we check after extraction
+103	<p>How the spare key goes in and turns, and whether the latch and bolts work. If the key is worn, we’ll advise you to get a new one cut.</p>
+105	How do I call a locksmith if my key has snapped?
+107	Call or send a request. Tell us where the key snapped and whether the door is locked.
+110	Removing the piece
+111	The locksmith removes the broken piece and opens the door if needed.
+112	Lock check
+113	We check the lock with the spare key. If the cylinder is damaged, we suggest replacing it.
+114	Key just snapped?
+119	Why people choose <span class="accent">Cerrajero24</span> for key extraction
+122	Special tools
+123	We remove the piece without damaging the cylinder.
+124	No unnecessary replacements
+125	We only replace the cylinder if it’s actually damaged.
+127	Flats, offices, garages and cars — in the city and across Greater Bilbao.
+128	Replaced in the same visit
+129	If the cylinder can’t be saved, we fit a new one straight away.
+133	Customer reviews of broken key extraction
+135	Customer reviews of key extraction
+136	Lorena
+137	Key in the door · Ibaiondo
+138	My key snapped in the lock just as I was leaving for work. The locksmith removed the piece and checked the lock — the cylinder was fine and the spare key works. He advised me to get a new key cut to replace the old, worn one.
+139	Artyom
+140	Mailbox · Deusto
+141	I snapped my key in the mailbox in our entrance hall. The locksmith got the piece out in a couple of minutes, and the lock is fine. Inexpensive and hassle-free.
+142	Imanol
+143	Door locked · Rekalde
+144	The key snapped as I was locking the door from outside — I couldn’t get in. The locksmith removed the piece, opened the door and checked the mechanism. The cylinder was saved.
+145	Yulia
+146	We tried it ourselves · Portugalete
+147	We first tried to get the piece out with tweezers and pushed it in further. The locksmith told us honestly that the cylinder was damaged, gave us the price of a new one and fitted it on the spot. Lesson learned.
+148	Sergio
+149	Garage lock · Etxebarri
+150	The key snapped in the garage door lock. The locksmith removed the piece and cleaned the lock — now it works even better than before.
+153	Do I need documents for a key extraction?
+154	If the door is open and you’re at home, a photo ID is enough. If the door is locked, the locksmith checks your right of access just as for an emergency opening.
+163	If the door is open
+164	<p>If the key has snapped and you’re at home or the door was left open, a photo ID is enough — DNI, NIE or passport.</p>
+165	If the door is locked
+166	<p>You’ll need proof of your link to the address: an <span lang="es">empadronamiento</span> certificate, an <span lang="es">escritura</span>, a rental contract or a utility bill. If the documents are inside, the locksmith checks them straight after opening.</p>
+167	If the key snapped in a car
+168	<p>You need a photo ID and the <span lang="es">permiso de circulación</span> or <span lang="es">ficha técnica</span>. Find out more about <a href="{url:svc-coches}">emergency car opening</a>.</p>
+169	Mailbox in the entrance hall
+170	<p>The mailbox belongs to a specific flat, so a photo ID and proof of address are enough.</p>
+172	<p>If your right of access can’t be proven with documents or in any other way, the locksmith may decline to open the door. This protects you too.</p>
+174	We extract broken keys in every district of <span class="accent">Bilbao</span>
+175	We come out to flats, offices, garages and cars across Bilbao’s districts and nearby towns in Bizkaia.
+187	Key extraction in the Bilbao area
+199	A snapped key is a common problem, and it’s most often made worse by trying to get the piece out yourself. Here’s what to do straight away and what’s best avoided.
+200	<h3>Why do keys snap in the lock?</h3>
+201	<p>Most often through wear: over time the key thins and cracks near the bow. Another cause is trying to force the key when the lock is sticking. Thin mailbox and padlock keys snap especially often.</p>
+202	<p>If the key starts to turn stiffly, don’t wait for it to snap: clean and lubricate the lock or book a <a href="{url:svc-reparacion}">lock repair</a>.</p>
+203	<h3>What should you avoid if the key has snapped?</h3>
+204	<p>Don’t put the spare key into the lock — it will push the piece in further. Don’t try to get the piece out with glue: it will set inside the mechanism and the cylinder will have to be replaced. Hairpins, needles and tweezers damage the pins more often than they help.</p>
+205	<p>If the door is open, don’t close it until the piece has been removed.</p>
+206	<h3>Can the cylinder be saved after key extraction?</h3>
+207	<p>Yes, if the mechanism isn’t damaged. A piece that snapped through wear and wasn’t pushed in usually comes out without damage. If the cylinder is damaged, the locksmith will suggest replacing it in the same visit. Find out more in the section <a href="#no-damage">on extraction without replacing the cylinder</a>.</p>
+208	<h3>Can a new key be cut from the broken pieces?</h3>
+209	<p>For standard keys, often yes: a key-cutting shop can make a copy from the two parts. High-security keys can only be copied with the owner’s card. If you have no keys left, it’s safer to <a href="{url:svc-cambio}">replace the cylinder</a>.</p>
+211	<p>Tell the dispatcher where the key snapped — in a door, mailbox, car or garage — and whether the door is locked. Keep the other half of the key and have your spare ready if you have one. If the door is locked, you’ll need a photo ID and proof of address. Find out more in the section <a href="#documents">on documents</a>.</p>
+213	Frequently asked questions about key extraction
+216	How much does broken key extraction cost in Bilbao?
+217	<p>The price depends on where the key snapped, how deep the piece is and whether the cylinder needs replacing. See the <a href="#prices">price table</a> for guide prices. The locksmith gives you the final price after inspecting the lock and before work starts.</p>
+218	Can I get the broken piece out myself?
+219	<p>Sometimes — if the piece is sticking out and can be carefully hooked out. But attempts to push it or pull it out with glue more often damage the cylinder. If the piece is inside, it’s better to call a locksmith.</p>
+220	Does the cylinder need replacing after key extraction?
+221	<p>Not necessarily. If the mechanism isn’t damaged, the lock will keep working with the spare key. Replacement is needed if the cylinder is damaged or there’s no spare key.</p>
+222	What should I do if the key has snapped and the door is locked?
+223	<p>Call a locksmith: they’ll remove the piece and open the door. Have a photo ID and proof of address ready — if the documents are inside, the locksmith will check them after opening.</p>
+224	Do you extract keys from mailboxes?
+225	<p>Yes, it’s a common call-out. Mailbox locks are small and the piece usually comes out quickly. If the lock is damaged, it can be replaced.</p>
+226	What should I do if the key is stuck and won’t come out?
+227	<p>Don’t pull or force the key to turn — it may snap. Call a locksmith: they’ll carefully remove the key and check the mechanism.</p>
+228	Can a new key be cut from the broken pieces?
+229	<p>For standard keys, often yes: a key-cutting shop makes the copy from the two parts. High-security keys need the owner’s card.</p>
+230	Do you work at night?
+231	<p>Yes, around the clock, including weekends and public holidays. A surcharge applies at night and on public holidays — the dispatcher will tell you the amount when you call.</p>
+232	How long does key extraction take?
+233	<p>Usually not long if the piece hasn’t been pushed in deep. If the cylinder needs replacing or the door needs opening, that adds time for those jobs.</p>
+239	Call a locksmith for key extraction in&nbsp;Bilbao
+240	Key snapped in the lock? Contact Cerrajero24 to check the price and book a specialist call-out.
+244	We aim to save the cylinder
+246	Key extraction
+247	Check the price of a key extraction
+250	Key snapped in the door
+251	Door locked, piece inside
+252	Mailbox
+253	Car lock
+254	Garage or padlock
+255	Key stuck
+257	Broken key extraction in Bilbao 24/7 — Cerrajero24
+258	Key snapped in a door, mailbox or car lock? We remove the broken piece in Bilbao 24/7, without replacing the cylinder wherever possible.
+259	Key snapped in the lock? We remove the broken piece in Bilbao around the clock, without replacing the cylinder wherever possible.
+260	Broken key extraction in Bilbao
+261	Broken key extraction from locks
+262	Removal of broken key pieces from front door cylinders, mailboxes, cars, padlocks and garage locks, with a mechanism check. Around the clock in Bilbao and Greater Bilbao.

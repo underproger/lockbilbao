@@ -1,0 +1,262 @@
+1	Giltza hautsiak ateratzea
+2	Giltza hautsiak ateratzea
+3	Sarrailaren diagnostikoa eta berriro martxan jartzea.
+4	Giltza hautsiak ateratzea <span class="accent">Bilbon</span>
+5	Giltza sarrailan hautsi da eta&nbsp;erdia barruan geratu da? Zatia kontuz aterako dugu sarrera-atearen, postontziaren, garajearen edo autoaren&nbsp;bonbinatik. Mekanismoak kalterik&nbsp;jasan ez badu, sarrailak funtzionatzen jarraituko du: ez&nbsp;da ezer aldatu beharko.
+6	Bilbo • Bizkaia
+7	24/7 lanean
+8	Gauez, asteburuetan eta&nbsp;jaiegunetan
+9	Bonbina aldatu gabe
+10	Mekanismoak kalterik jasan ez badu
+11	Prezioa lana hasi&nbsp;aurretik
+12	Aldez aurretik esaten dugu, ezustekorik gabe
+13	Utzi zure zenbakia eta bi minututan deituko dizugu
+14	Noiz behar duzu laguntza
+15	Noiz atera behar da giltza hautsi bat?
+16	Giltza bat-batean hausten da, gehienetan higaduragatik edo indarrez biratzean. Ez saiatu zatia zeuk ateratzen: erraza da barrurago bultzatzea.
+17	Giltza atean hautsi da
+18	Zatia etxebizitzaren sarrera-atearen bonbinan geratu da.
+19	Atea itxita, zatia barruan
+20	Giltza etxetik irtetean edo etxera itzultzean hautsi da.
+21	Postontziaren giltza hautsi da
+22	Zatia atariko postontziaren (<span lang="es">buzón</span>) sarrailan trabatuta geratu da.
+23	Giltza trabatu da eta ez da ateratzen
+24	Giltza osorik dago, baina ez da sarrailatik ateratzen eta ez du biratzen.
+25	Zati bat autoaren sarrailan
+26	Giltza atearen edo maletategiaren bonbinan hautsi da.
+27	Giltza giltzarrapo batean hautsi da
+28	Zati bat atearen, pertsianaren edo trastelekuaren sarrailan.
+29	Zati bat trabatuta duzu oraintxe? Deitu sarrailagileari.
+30	Kontatu non hautsi den giltza, eta iritsi arte zer egin esango dizugu.
+31	Deitu sarrailagileari
+32	Prezioak
+33	Zenbat balio du giltza hautsi bat ateratzeak <span class="accent">Bilbon</span>?
+34	Prezioa giltza non hautsi den, zatia zein sakon dagoen eta bonbinak kalterik jasan duen araberakoa da. Gutxi gorabeherako prezioa deskribapenaren arabera ematen dizugu, eta behin betikoa lana hasi aurretik.
+35	Giltza hautsiak ateratzearen prezioak Bilbon
+36	Zerbitzua
+37	Prezioa
+38	Zatia sarrera-atearen sarrailatik ateratzea
+39	Zatia ateratzea eta atea itxita dagoenean irekitzea
+40	Giltza postontzitik ateratzea
+41	Giltza autoaren sarrailatik ateratzea
+42	Giltzarrapotik edo garajeko sarrailatik ateratzea
+43	Bonbina aldatzea atera ondoren
+44	Gaueko premiazko abisua
+45	Sarrailagilearen joan-etorria Bilbon
+46	Joan-etorria
+47	Bilbon eta Bilbo Handian joan-etorriaren prezioa operadoreak esaten dizu deitzean, sarrailagilea abiatu aurretik.
+48	Gaueko eta jaieguneko tarifa
+49	Gauez aplikatzen da, 22:00etatik 08:00etara, eta asteburu eta jaiegunetan. Gainkostua aldez aurretik esaten dizugu.
+50	BEZ (IVA)
+51	[Adierazi BEZa taulako prezioetan sartuta dagoen.]
+52	Bonbina berria
+53	Bonbina kaltetuta badago eta aldatu behar bada, bonbina berria aparte ordaintzen da, eta zure baimenarekin bakarrik.
+54	Azken prezioa
+55	Sarrailagileak sarraila aztertu ondoren ematen du, lana hasi aurretik.
+56	Ateratzearen prezioa galdetu
+57	Kontatu non hautsi den giltza, eta gutxi gorabeherako prezioa emango dizugu.
+58	Zeren araberakoa den prezioa
+59	Zeren araberakoa da giltza bat ateratzearen prezioa?
+60	Lau faktorek zehazten dute prezioa. Esan iezazkiozu operadoreari, eta gutxi gorabeherako prezioa jakingo duzu sarrailagilea abiatu aurretik.
+61	Non hautsi den giltza
+62	Sarrera-atea, postontzia, autoa, garajea edo giltzarrapoa.
+63	Zatia nola dagoen
+64	Kanpotik ikusten da edo bonbinaren barruan sakon geratu da.
+65	Bonbinaren egoera
+66	Mekanismoa ondo dago, edo kaltetuta dago eta aldatu behar da.
+67	Abisuaren ordua eta helbidea
+68	Eguna edo gaua, Bilboko auzoa edo inguruko udalerria.
+69	Azken prezioa
+70	Sarrailagileak ematen du sarraila aztertu ondoren eta&nbsp;hasi aurretik: zure baimenik gabe ez da&nbsp;lanean hasten.
+71	Bonbina kaltetuta badago eta aldatu behar bada, bonbina berriaren prezioa aparte adosten da, lana hasi aurretik.
+72	Deitu sarrailagileari
+73	Giltza sarrailan hautsi da? Deitu sarrailagileari
+74	Utzi zure izena eta telefono-zenbakia: operadoreak minutu&nbsp;gutxiren buruan deituko dizu, giltza non hautsi den eta atea itxita dagoen galdetuko dizu, eta&nbsp;gutxi gorabeherako prezioa emango dizu. Egunean 24 orduz egiten dugu lan Bilbon eta&nbsp;Bilbo Handian.
+75	Non ateratzen ditugun
+76	Mota guztietako sarrailetatik ateratzen ditugu giltzak
+77	Giltza-zati bat edozein sarrailatan gera daiteke trabatuta. Sarrailagileak mekanismo bakoitzerako tresna aukeratzen du, bonbina ez kaltetzeko.
+78	Sarrera-ateen bonbinak <span lang="es">bombín</span>
+79	Kasurik ohikoena: giltza etxebizitza edo bulego baten bonbinan hautsi da.
+80	Gorja-sarrailak <span lang="es">de gorjas</span>
+81	Ate zahar eta blindatuetako gorja-giltzen zatiak.
+82	Postontziak <span lang="es">buzones</span>
+83	Sarraila txikiak, giltzak bereziki sarri hausten direnak.
+84	Autoen sarrailak
+85	Ateen eta maletategiaren bonbinak.
+86	Giltzarrapoak
+87	Trastelekuen, ateen, pertsianen eta gela osagarrien sarrailak.
+88	Garajeetako eta metalezko itxieretako sarrailak
+89	Ateen, pertsianen eta metalezko itxieren (<span lang="es">cierres metálicos</span>) sarrailak.
+90	Lehenik, bonbina salbatzea
+91	Lan arduratsua
+92	Giltza ateratzea bonbina aldatu gabe
+93	Mekanismoak kalterik jasan ez badu, zatia atera ondoren sarrailak ordezko giltzarekin funtzionatzen jarraitzen du: ez da ezer aldatu behar.
+94	Nola ateratzen dugun zatia
+95	<p>Sarrailagileak giltzak ateratzeko tresna berezi bat erabiltzen du: zatia heltzen du bonbinaren pinak kaltetu gabe.</p>
+96	Bonbinak balio duenean
+97	<p>Giltza higaduragatik hautsi bada eta zatia ez bada barrurago bultzatu, mekanismoa ondo egon ohi da. Atera ondoren, sarrailak ordezko giltzarekin funtzionatzen du.</p>
+98	Bonbina aldatu behar denean
+99	<p>Zatia kolarekin ateratzen saiatu badira edo sakon bultzatu badute, pinak kaltetuta egon daitezke. Orduan, seguruagoa da bonbina aldatzea: sarrailagileak bisita berean egiten du.</p>
+100	Zergatik adosten den aldaketa aldez aurretik
+101	<p>Bonbina ezin bada salbatu, sarrailagileak arrazoia azaltzen dizu eta bonbina berriaren prezioa esaten dizu. Lana zure baimenarekin bakarrik hasten da.</p>
+102	Zer egiaztatzen dugun atera ondoren
+103	<p>Ordezko giltza ondo sartzen eta biratzen den, eta krisketak eta morroiloek funtzionatzen duten. Giltza higatuta badago, berri bat egiteko gomendatuko dizugu.</p>
+104	Prozesua
+105	Nola deitu sarrailagileari giltza hautsi bada?
+106	Abisua
+107	Deitu edo utzi eskaera bat. Esan non hautsi den giltza eta atea itxita dagoen.
+108	Aholkularitza eta prezioa
+109	Operadoreak gutxi gorabeherako prezioa eta iristeko denbora ematen dizkizu, eta sarrailagilea iritsi arte zer egin esaten dizu.
+110	Zatia ateratzea
+111	Sarrailagileak zatia ateratzen du eta, behar bada, atea irekitzen du.
+112	Sarrailaren egiaztapena
+113	Sarraila ordezko giltzarekin egiaztatzen dugu. Bonbina kaltetuta badago, aldatzea proposatzen dizugu.
+114	Giltza oraintxe hautsi zaizu?
+115	Guardiako sarrailagilea egunean 24 orduz dago prest, gauez eta jaiegunetan ere bai.
+116	Deitu sarrailagileari orain
+117	Bilbo · Bizkaia
+118	Zergatik Cerrajero24
+119	Zergatik aukeratzen duten <span class="accent">Cerrajero24</span> giltzak ateratzeko
+120	Laguntza egunean 24 orduz
+121	24/7 hartzen ditugu abisuak, asteburuak eta jaiegunak barne.
+122	Tresna berezia
+123	Zatia ateratzen dugu bonbina kaltetu gabe.
+124	Alferrikako aldaketarik gabe
+125	Bonbina benetan kaltetuta badago bakarrik aldatzen dugu.
+126	Zerbitzua Bilbon eta inguruetan
+127	Etxebizitzak, bulegoak, garajeak eta autoak, hirian eta Bilbo Handian.
+128	Aldaketa bisita berean
+129	Bonbina ezin bada salbatu, berri bat jartzen dugu une berean.
+130	Lanen bermea
+131	Lanen eta instalatutako piezen bermea. Baldintzak lana amaitzean ematen dugun agirian jasotzen dira.
+132	Iritziak
+133	Bezeroen iritziak giltza hautsiak ateratzeari buruz
+134	Jatorrizko iritziak Googlen
+135	Bezeroen iritziak giltzak ateratzeari buruz
+136	Lorena
+137	Giltza atean · Ibaiondo
+138	Lanera irtetean giltza sarrailan hautsi zitzaidan. Sarrailagileak zatia atera eta sarraila egiaztatu zuen: bonbina ondo zegoen eta ordezko giltzak funtzionatzen du. Giltza zahar higatuaren ordez berri bat egiteko gomendatu zidan.
+139	Artiom
+140	Postontzia · Deustu
+141	Atariko postontzian hautsi zitzaidan giltza. Sarrailagileak zatia minutu pare batean atera zuen, eta sarraila ondo dago. Merke eta arazorik gabe.
+142	Imanol
+143	Atea itxita · Errekalde
+144	Atea kanpotik ixtean giltza hautsi zitzaidan, eta ezin nintzen sartu. Sarrailagileak zatia atera, atea ireki eta mekanismoa egiaztatu zuen. Bonbina salbatu ahal izan zen.
+145	Yulia
+146	Geuk ateratzen saiatu ginen · Portugalete
+147	Lehenik pintzekin ateratzen saiatu ginen zatia, eta barrurago bultzatu genuen. Sarrailagileak zintzo esan zigun bonbina kaltetuta zegoela, berri baten prezioa eman zigun eta une berean jarri zuen. Ikasgaia ikasita.
+148	Sergio
+149	Garajeko sarraila · Etxebarri
+150	Giltza garajeko atearen sarrailan hautsi zen. Sarrailagileak zatia atera eta sarraila garbitu zuen: orain lehen baino hobeto dabil.
+151	Ikusi iritzi guztiak
+152	Legezkotasuna eta segurtasuna
+153	Agiririk behar al da giltza bat ateratzeko?
+154	Atea irekita badago eta etxean bazaude, nahikoa da argazkidun agiri bat. Atea itxita badago, sarrailagileak sartzeko eskubidea egiaztatzen du, premiazko irekiera batean bezala.
+155	Balio dute:
+156	NANa
+157	AIZ
+158	Pasaportea
+159	Empadronamiento
+160	Escritura
+161	Alokairu-kontratua
+162	Permiso de circulación
+163	Atea irekita badago
+164	<p>Giltza hautsi bada eta etxean bazaude edo atea irekita geratu bada, nahikoa da argazkidun agiri bat: NANa, AIZ edo pasaportea.</p>
+165	Atea itxita badago
+166	<p>Helbidearekin duzun lotura egiaztatu beharko duzu: erroldatze-ziurtagiria (<span lang="es">empadronamiento</span>), eskritura (<span lang="es">escritura</span>), alokairu-kontratua edo hornidura-faktura bat. Agiriak barruan badaude, sarrailagileak ireki bezain laster egiaztatzen ditu.</p>
+167	Giltza autoan hautsi bada
+168	<p>Argazkidun agiri bat eta zirkulazio-baimena (<span lang="es">permiso de circulación</span>) edo fitxa teknikoa (<span lang="es">ficha técnica</span>) behar dira. Informazio gehiago <a href="{url:svc-coches}">autoen premiazko irekierari</a> buruz.</p>
+169	Atariko postontzia
+170	<p>Postontzia etxebizitza bati dagokio; beraz, nahikoa da argazkidun agiri bat eta helbidea egiaztatzen duen zerbait.</p>
+171	Zergatik uko egin diezaiokeen sarrailagileak lanari
+172	<p>Sartzeko eskubidea ez agiriekin ez beste modu batean egiaztatu ezin bada, sarrailagileak atea ez irekitzea erabaki dezake. Horrek zu ere babesten zaitu.</p>
+173	Zerbitzu-eremua
+174	Giltza hautsiak ateratzen ditugu <span class="accent">Bilboko</span> auzo guztietan
+175	Etxebizitzetara, bulegoetara, garajeetara eta autoetara joaten gara, Bilboko auzoetan eta Bizkaiko inguruko udalerrietan.
+176	Bilboko barrutiak
+177	8 barruti
+178	Deustu
+179	Uribarri
+180	Otxarkoaga-Txurdinaga
+181	Begoña
+182	Ibaiondo
+183	Abando
+184	Errekalde
+185	Basurto-Zorrotza
+186	Auzo eskatuenak: Alde Zaharra, Indautxu, San Ignazio, Santutxu, Miribilla eta beste batzuk.
+187	Giltzak ateratzea Bilbo inguruan
+188	Barakaldo
+189	Getxo
+190	Portugalete
+191	Santurtzi
+192	Leioa
+193	Sestao
+194	Basauri
+195	Erandio
+196	eta Bilbo Handiko beste udalerri batzuk.
+197	Jakin beharrekoak
+198	Zer egin giltza sarrailaren barruan hautsi bada?
+199	Giltza hautsia ohiko matxura da, eta gehienetan zatia norberak ateratzeko saiakerek okertzen dute. Berehala zer egin eta zer saihestu kontatzen dizugu.
+200	<h3>Zergatik hausten dira giltzak sarrailan?</h3>
+201	<p>Gehienetan higaduragatik: denborarekin giltza mehetu egiten da eta buruaren ondoan pitzatzen da. Beste arrazoi bat sarraila trabatzen denean giltza indarrez biratu nahi izatea da. Postontzien eta giltzarrapoen giltza meheak bereziki sarri hausten dira.</p>
+202	<p>Giltzak nekez biratzen hasten bada, ez itxaron hautsi arte: garbitu eta koipeztatu sarraila edo eskatu <a href="{url:svc-reparacion}">sarrailaren konponketa</a>.</p>
+203	<h3>Zer ez da egin behar giltza hautsi bada?</h3>
+204	<p>Ez sartu ordezko giltza sarrailan: zatia barrurago bultzatuko du. Ez saiatu zatia kolarekin ateratzen: mekanismoaren barruan gogortuko da, eta bonbina aldatu beharko da. Ilorratzek, orratzek eta pintzek pinak kaltetzen dituzte laguntzen baino gehiago.</p>
+205	<p>Atea irekita badago, ez itxi zatia atera arte.</p>
+206	<h3>Bonbina salba daiteke giltza atera ondoren?</h3>
+207	<p>Bai, mekanismoak kalterik jasan ez badu. Higaduragatik hautsi den eta barrurago bultzatu ez den zatia kalterik gabe ateratzen da normalean. Bonbina kaltetuta badago, sarrailagileak bisita berean aldatzea proposatuko dizu. Informazio gehiago <a href="#no-damage">bonbina aldatu gabe ateratzeari buruzko atalean</a>.</p>
+208	<h3>Giltza berri bat egin daiteke zatietatik abiatuta?</h3>
+209	<p>Giltza arruntekin, askotan bai: giltza-kopien denda batean bi zatietatik abiatuta egin dezakete kopia. Segurtasun handiko giltzak jabetza-txartela erakutsita bakarrik kopiatzen dira. Giltzarik geratzen ez bazaizu, seguruagoa da <a href="{url:svc-cambio}">bonbina aldatzea</a>.</p>
+210	<h3>Zer prestatu sarrailagilea iritsi aurretik?</h3>
+211	<p>Esan operadoreari non hautsi den giltza —atean, postontzian, autoan edo garajean— eta atea itxita dagoen. Gorde giltzaren beste erdia eta izan eskura ordezkoa, baduzu. Atea itxita badago, argazkidun agiri bat eta helbidea egiaztatzen duen zerbait beharko dituzu. Informazio gehiago <a href="#documents">agiriei buruzko atalean</a>.</p>
+212	Galderak
+213	Giltzak ateratzeari buruzko ohiko galderak
+214	Galdera gehiago dituzu?
+215	Jarri harremanetan sarrailagilearekin: erantzun egingo dizugu eta orain bertan zer egin esango dizugu.
+216	Zenbat balio du giltza hautsi bat ateratzeak Bilbon?
+217	<p>Prezioa giltza non hautsi den, zatia zein sakon dagoen eta bonbina aldatu behar den araberakoa da. Gutxi gorabeherako prezioak <a href="#prices">prezio-taulan</a> dituzu. Sarrailagileak behin betiko prezioa sarraila aztertu ondoren eta lana hasi aurretik ematen du.</p>
+218	Giltza-zatia neuk atera dezaket?
+219	<p>Batzuetan, zatia kanpora ateratzen bada eta kontuz heldu badaiteke. Baina gehienetan bultzatzeko edo kolarekin ateratzeko saiakerek bonbina kaltetzen dute. Zatia barruan badago, hobe da sarrailagileari deitzea.</p>
+220	Bonbina aldatu behar da giltza atera ondoren?
+221	<p>Ez nahitaez. Mekanismoak kalterik jasan ez badu, sarrailak ordezko giltzarekin funtzionatzen jarraituko du. Aldatu egin behar da bonbina kaltetuta badago edo ordezko giltzarik ez badago.</p>
+222	Zer egin giltza hautsi bada eta atea itxita badago?
+223	<p>Deitu sarrailagileari: zatia aterako du eta atea irekiko du. Izan prest argazkidun agiri bat eta helbidea egiaztatzen duen zerbait; agiriak barruan badaude, sarrailagileak ireki ondoren egiaztatuko ditu.</p>
+224	Postontzietatik ateratzen dituzue giltzak?
+225	<p>Bai, abisu ohikoa da. Postontzien sarrailak txikiak dira, eta zatia azkar ateratzen da normalean. Sarraila kaltetuta badago, alda daiteke.</p>
+226	Zer egin giltza trabatu bada eta ez bada ateratzen?
+227	<p>Ez tiratu giltzatik eta ez biratu indarrez: hauts daiteke. Deitu sarrailagileari: giltza kontuz aterako du eta mekanismoa egiaztatuko du.</p>
+228	Giltza berri bat egin daiteke zatietatik abiatuta?
+229	<p>Giltza arruntekin, askotan bai: giltza-kopien denda batean bi zatietatik abiatuta egiten dute kopia. Segurtasun handiko giltzetarako jabetza-txartela behar da.</p>
+230	Gauez lan egiten duzue?
+231	<p>Bai, egunean 24 orduz, asteburuetan eta jaiegunetan ere bai. Gauez eta jaiegunetan gainkostu bat aplikatzen da: operadoreak zenbatekoa esango dizu deitzean.</p>
+232	Zenbat denbora behar da giltza bat ateratzeko?
+233	<p>Normalean gutxi, zatia sakon bultzatu ez bada. Bonbina aldatu edo atea ireki behar bada, lan horien denbora gehitu behar da.</p>
+234	Bilbo ingurura ere joaten zarete?
+235	<p>Bai. Bilboko auzo guztiez gain, Bilbo Handiko udalerrietara ere joaten gara: Barakaldo, Getxo, Portugalete, Santurtzi, Leioa, Sestao, Basauri, Erandio eta beste batzuk. Hiritik kanpoko prezioa eta iristeko denbora operadoreak esango dizkizu deitzean. Zure eremua <a href="#areas">zerbitzu-eremuaren mapan</a> egiazta dezakezu.</p>
+236	Zerbitzu gehiago
+237	Cerrajero24ren beste zerbitzu batzuk Bilbon
+238	Zerbitzu-eskaera
+239	Deitu sarrailagileari giltza bat ateratzeko Bilbon
+240	Giltza sarrailan hautsi da? Jarri harremanetan Cerrajero24rekin prezioa galdetzeko eta espezialista bat eskatzeko.
+241	24/7 lanean, asteburuetan eta jaiegunetan ere
+242	Eremua: Bilbo eta Bizkaia
+243	Prezioa hasi aurretik adosten dugu
+244	Bonbina salbatzen saiatzen gara
+245	Deitu sarrailagileari
+246	Giltza ateratzea
+247	Ateratzearen prezioa galdetu
+248	Utzi zure zenbakia eta, ahal baduzu, erantsi sarrailaren argazki bat. Sarrailagileak deituko dizu gutxi gorabeherako prezio bat emateko.
+249	Sarrailaren argazkia
+250	Giltza atean hautsi da
+251	Atea itxita, zatia barruan
+252	Postontzia
+253	Autoaren sarraila
+254	Garajea edo giltzarrapoa
+255	Giltza trabatu da
+256	Beste bat
+257	Giltza hautsiak ateratzea Bilbon 24/7 — Cerrajero24
+258	Giltza atearen, postontziaren edo autoaren sarrailan hautsi da? Zatia ateratzen dugu Bilbon 24/7, ahal den guztietan bonbina aldatu gabe.
+259	Giltza sarrailan hautsi da? Zatia ateratzen dugu Bilbon egunean 24 orduz, ahal den guztietan bonbina aldatu gabe.
+260	Giltza hautsiak ateratzea Bilbon
+261	Giltza hautsiak sarrailetatik ateratzea
+262	Giltza-zatiak ateratzea sarrera-ateen bonbinetatik, postontzietatik, autoetatik, giltzarrapoetatik eta garajeetako sarrailetatik, mekanismoaren egiaztapenarekin. Egunean 24 orduz Bilbon eta Bilbo Handian.
