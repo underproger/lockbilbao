@@ -2,17 +2,17 @@
 /** Блок «Цены» (главная, каталог услуг). */
 defined( 'ABSPATH' ) || exit;
 
-$eyebrow = get_field( 'pr_eyebrow' );
-$title   = get_field( 'pr_title' );
-$lead    = get_field( 'pr_lead' );
-$photo   = get_field( 'pr_photo' );
-$gug     = get_field( 'pr_photo_small' );
-$caption = get_field( 'pr_caption' );
-$rows    = get_field( 'pr_rows' ) ?: [];
-$extras  = get_field( 'pr_extras' ) ?: [];
-$notes   = get_field( 'pr_notes' ) ?: [];
-$cta     = get_field( 'pr_cta_title' );
-$cta_txt = get_field( 'pr_cta_text' );
+$eyebrow = c24_field( 'pr_eyebrow' );
+$title   = c24_field( 'pr_title' );
+$lead    = c24_field( 'pr_lead' );
+$photo   = c24_field( 'pr_photo' );
+$gug     = c24_field( 'pr_photo_small' );
+$caption = c24_field( 'pr_caption' );
+$rows    = c24_field( 'pr_rows' ) ?: [];
+$extras  = c24_field( 'pr_extras' ) ?: [];
+$notes   = c24_field( 'pr_notes' ) ?: [];
+$cta     = c24_field( 'pr_cta_title' );
+$cta_txt = c24_field( 'pr_cta_text' );
 ?>
   <section class="section section--paper pr" id="prices" aria-labelledby="prices-title">
     <img class="pr__leaves" src="<?=esc_url( c24_asset( 'img/leaves.webp' ) );?>" alt="" aria-hidden="true" width="1100" height="825" loading="lazy">
@@ -40,7 +40,7 @@ $cta_txt = get_field( 'pr_cta_text' );
           <table class="pr-table">
             <?php if ( $caption ) : ?><caption class="visually-hidden"><?=esc_html( $caption );?></caption><?php endif; ?>
             <thead>
-              <tr><th scope="col"><?=esc_html( get_field( 'pr_col_1' ) );?></th><th scope="col"><?=esc_html( get_field( 'pr_col_2' ) );?></th></tr>
+              <tr><th scope="col"><?=esc_html( c24_field( 'pr_col_1' ) );?></th><th scope="col"><?=esc_html( c24_field( 'pr_col_2' ) );?></th></tr>
             </thead>
             <tbody>
               <?php foreach ( $rows as $r ) : $p = c24_price( $r['price'] ); ?>

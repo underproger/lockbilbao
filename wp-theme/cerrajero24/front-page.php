@@ -5,42 +5,42 @@
 
 defined( 'ABSPATH' ) || exit;
 
-$hero_eyebrow = get_field( 'hero_eyebrow' );
-$hero_title   = get_field( 'hero_title' );
-$hero_hours   = get_field( 'hero_hours' );
-$hero_photo   = get_field( 'hero_photo' );
-$hero_b1      = get_field( 'hero_bubble_1' );
-$hero_b2      = get_field( 'hero_bubble_2' );
-$hero_chip    = get_field( 'hero_chip' );
-$hero_script  = get_field( 'hero_script' );
+$hero_eyebrow = c24_field( 'hero_eyebrow' );
+$hero_title   = c24_field( 'hero_title' );
+$hero_hours   = c24_field( 'hero_hours' );
+$hero_photo   = c24_field( 'hero_photo' );
+$hero_b1      = c24_field( 'hero_bubble_1' );
+$hero_b2      = c24_field( 'hero_bubble_2' );
+$hero_chip    = c24_field( 'hero_chip' );
+$hero_script  = c24_field( 'hero_script' );
 
-$svc_kicker = get_field( 'svc_kicker' );
-$svc_title  = get_field( 'svc_title' );
-$svc_lead   = get_field( 'svc_lead' );
+$svc_kicker = c24_field( 'svc_kicker' );
+$svc_title  = c24_field( 'svc_title' );
+$svc_lead   = c24_field( 'svc_lead' );
 
-$kinds_kicker = get_field( 'kinds_kicker' );
-$kinds_title  = get_field( 'kinds_title' );
+$kinds_kicker = c24_field( 'kinds_kicker' );
+$kinds_title  = c24_field( 'kinds_title' );
 $kinds_tabs   = [
-	'doors' => [ get_field( 'kinds_tab_1' ), get_field( 'kinds_doors' ) ?: [] ],
-	'locks' => [ get_field( 'kinds_tab_2' ), get_field( 'kinds_locks' ) ?: [] ],
+	'doors' => [ c24_field( 'kinds_tab_1' ), c24_field( 'kinds_doors' ) ?: [] ],
+	'locks' => [ c24_field( 'kinds_tab_2' ), c24_field( 'kinds_locks' ) ?: [] ],
 ];
-$brands_label = get_field( 'brands_label' );
-$brands       = c24_lines( get_field( 'brands_list' ) );
+$brands_label = c24_field( 'brands_label' );
+$brands       = c24_lines( c24_field( 'brands_list' ) );
 
-$safety_photo  = get_field( 'safety_photo' );
-$safety_badge  = get_field( 'safety_badge' );
-$safety_kicker = get_field( 'safety_kicker' );
-$safety_title  = get_field( 'safety_title' );
-$safety_quote  = get_field( 'safety_quote' );
-$safety_items  = get_field( 'safety_items' ) ?: [];
+$safety_photo  = c24_field( 'safety_photo' );
+$safety_badge  = c24_field( 'safety_badge' );
+$safety_kicker = c24_field( 'safety_kicker' );
+$safety_title  = c24_field( 'safety_title' );
+$safety_quote  = c24_field( 'safety_quote' );
+$safety_items  = c24_field( 'safety_items' ) ?: [];
 
-$about_kicker = get_field( 'about_kicker' );
-$about_title  = get_field( 'about_title' );
-$about_lead   = get_field( 'about_lead' );
-$about_text   = get_field( 'about_text' );
-$about_facts  = get_field( 'about_facts' ) ?: [];
-$about_photo  = get_field( 'about_photo' );
-$about_chip   = get_field( 'about_chip' );
+$about_kicker = c24_field( 'about_kicker' );
+$about_title  = c24_field( 'about_title' );
+$about_lead   = c24_field( 'about_lead' );
+$about_text   = c24_field( 'about_text' );
+$about_facts  = c24_field( 'about_facts' ) ?: [];
+$about_photo  = c24_field( 'about_photo' );
+$about_chip   = c24_field( 'about_chip' );
 
 get_header();
 ?>

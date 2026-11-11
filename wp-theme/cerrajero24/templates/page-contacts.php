@@ -5,33 +5,33 @@
 
 defined( 'ABSPATH' ) || exit;
 
-$sh_title = get_field( 'sh_title' );
-$sh_lead  = get_field( 'sh_lead' );
+$sh_title = c24_field( 'sh_title' );
+$sh_lead  = c24_field( 'sh_lead' );
 
-$call_label = get_field( 'ct_call_label' );
-$call_text  = get_field( 'ct_call_text' );
-$wa_text    = get_field( 'ct_wa_text' );
-$mail_text  = get_field( 'ct_mail_text' );
-$facts      = get_field( 'ct_facts' ) ?: [];
+$call_label = c24_field( 'ct_call_label' );
+$call_text  = c24_field( 'ct_call_text' );
+$wa_text    = c24_field( 'ct_wa_text' );
+$mail_text  = c24_field( 'ct_mail_text' );
+$facts      = c24_field( 'ct_facts' ) ?: [];
 
-$brief_kicker = get_field( 'brief_kicker' );
-$brief_title  = get_field( 'brief_title' );
-$brief_lead   = get_field( 'brief_lead' );
-$brief_sos    = get_field( 'brief_sos_text' );
-$brief_sos_l  = get_field( 'brief_sos_label' );
-$brief_items  = get_field( 'brief_items' ) ?: [];
+$brief_kicker = c24_field( 'brief_kicker' );
+$brief_title  = c24_field( 'brief_title' );
+$brief_lead   = c24_field( 'brief_lead' );
+$brief_sos    = c24_field( 'brief_sos_text' );
+$brief_sos_l  = c24_field( 'brief_sos_label' );
+$brief_items  = c24_field( 'brief_items' ) ?: [];
 
-$company_kicker = get_field( 'company_kicker' );
-$company_title  = get_field( 'company_title' );
-$company_lead   = get_field( 'company_lead' );
-$req_title      = get_field( 'req_title' );
-$req_rows       = get_field( 'req_rows' ) ?: [];
-$google_title   = get_field( 'google_title' );
-$google_text    = get_field( 'google_text' );
-$google_btn_1   = get_field( 'google_btn_1' );
-$google_btn_2   = get_field( 'google_btn_2' );
-$legal_title    = get_field( 'legal_title' );
-$legal          = get_field( 'legal_links' ) ?: [];
+$company_kicker = c24_field( 'company_kicker' );
+$company_title  = c24_field( 'company_title' );
+$company_lead   = c24_field( 'company_lead' );
+$req_title      = c24_field( 'req_title' );
+$req_rows       = c24_field( 'req_rows' ) ?: [];
+$google_title   = c24_field( 'google_title' );
+$google_text    = c24_field( 'google_text' );
+$google_btn_1   = c24_field( 'google_btn_1' );
+$google_btn_2   = c24_field( 'google_btn_2' );
+$legal_title    = c24_field( 'legal_title' );
+$legal          = c24_field( 'legal_links' ) ?: [];
 
 get_header();
 ?>
@@ -84,7 +84,7 @@ get_header();
           <?php endif; ?>
         </div>
 
-<?=c24_form( 'contact', [ 'title' => get_field( 'ct_form_title' ), 'lead' => get_field( 'ct_form_lead' ) ] );?>
+<?=c24_form( 'contact', [ 'title' => c24_field( 'ct_form_title' ), 'lead' => c24_field( 'ct_form_lead' ) ] );?>
       </div>
     </div>
   </section>

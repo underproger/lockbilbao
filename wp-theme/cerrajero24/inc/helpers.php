@@ -20,7 +20,7 @@ function c24_lang() {
 /* ---------------- Контакты (страница опций «Контакты») ---------------- */
 
 function c24_opt( $name ) {
-	return get_field( $name, 'option' );
+	return c24_field( $name, 'option' );
 }
 
 function c24_phone() {
@@ -227,7 +227,7 @@ function c24_local_anchors() {
 	];
 	$list = $map[ c24_template_key() ] ?? [];
 	if ( 'service' === c24_template_key() ) {
-		$list[] = get_field( 'nd_id' ) ?: 'no-damage';
+		$list[] = c24_field( 'nd_id' ) ?: 'no-damage';
 	}
 	return $list;
 }
@@ -265,14 +265,14 @@ function c24_services( $exclude = 0 ) {
 function c24_card( $id ) {
 	return [
 		'url'      => get_permalink( $id ),
-		'title'    => get_field( 'card_title', $id ) ?: get_the_title( $id ),
-		'text'     => get_field( 'card_text', $id ),
-		'price'    => get_field( 'card_price', $id ),
-		'icon'     => get_field( 'card_icon', $id ),
-		'group'    => get_field( 'card_group', $id ) ?: 'opening',
-		'tag'      => get_field( 'card_tag', $id ),
-		'tags'     => c24_lines( get_field( 'card_tags', $id ) ),
-		'text_cat' => get_field( 'card_text_catalog', $id ),
+		'title'    => c24_field( 'card_title', $id ) ?: get_the_title( $id ),
+		'text'     => c24_field( 'card_text', $id ),
+		'price'    => c24_field( 'card_price', $id ),
+		'icon'     => c24_field( 'card_icon', $id ),
+		'group'    => c24_field( 'card_group', $id ) ?: 'opening',
+		'tag'      => c24_field( 'card_tag', $id ),
+		'tags'     => c24_lines( c24_field( 'card_tags', $id ) ),
+		'text_cat' => c24_field( 'card_text_catalog', $id ),
 	];
 }
 
@@ -396,9 +396,9 @@ function c24_js_data() {
 function c24_hero_preload() {
 	$id = 0;
 	if ( is_front_page() ) {
-		$id = (int) get_field( 'hero_photo' );
+		$id = (int) c24_field( 'hero_photo' );
 	} elseif ( 'service' === c24_template_key() ) {
-		$id = (int) get_field( 'sh_photo' );
+		$id = (int) c24_field( 'sh_photo' );
 	}
 	if ( ! $id ) {
 		return;
@@ -463,9 +463,9 @@ function c24_crumbs() {
 	$items = [ [ c24__( 'Inicio' ), c24_home() ] ];
 	$ancestors = array_reverse( get_post_ancestors( $id ) );
 	foreach ( $ancestors as $a ) {
-		$items[] = [ get_field( 'crumb', $a ) ?: get_the_title( $a ), get_permalink( $a ) ];
+		$items[] = [ c24_field( 'crumb', $a ) ?: get_the_title( $a ), get_permalink( $a ) ];
 	}
-	$items[] = [ get_field( 'crumb', $id ) ?: get_the_title( $id ), '' ];
+	$items[] = [ c24_field( 'crumb', $id ) ?: get_the_title( $id ), '' ];
 	return $items;
 }
 

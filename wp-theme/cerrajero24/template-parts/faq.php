@@ -2,11 +2,11 @@
 /** Блок FAQ. Разметка FAQPage для schema.org собирается из этих же полей (inc/seo.php). */
 defined( 'ABSPATH' ) || exit;
 
-$kicker = get_field( 'faq_kicker' );
-$title  = get_field( 'faq_title' );
-$htitle = get_field( 'faq_help_title' );
-$htext  = get_field( 'faq_help_text' );
-$items  = get_field( 'faq_items' ) ?: [];
+$kicker = c24_field( 'faq_kicker' );
+$title  = c24_field( 'faq_title' );
+$htitle = c24_field( 'faq_help_title' );
+$htext  = c24_field( 'faq_help_text' );
+$items  = c24_field( 'faq_items' ) ?: [];
 ?>
   <section class="section" id="faq" aria-labelledby="faq-title">
     <div class="container faq">

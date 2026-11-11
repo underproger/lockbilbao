@@ -89,7 +89,7 @@ function c24_privacy_link() {
 /** Название формы для письма: «Страница — форма». */
 function c24_form_label( $what ) {
 	$id   = (int) get_queried_object_id();
-	$page = is_front_page() ? c24__( 'Inicio' ) : ( $id ? ( get_field( 'crumb', $id ) ?: get_the_title( $id ) ) : '404' );
+	$page = is_front_page() ? c24__( 'Inicio' ) : ( $id ? ( c24_field( 'crumb', $id ) ?: get_the_title( $id ) ) : '404' );
 	return $page . ' — ' . $what;
 }
 
@@ -221,8 +221,8 @@ function c24_modal_data() {
 		$front = (int) pll_get_post( $front ) ?: $front;
 	}
 	$get = function ( $name ) use ( $id, $front ) {
-		$v = $id ? get_field( $name, $id ) : '';
-		return $v ?: get_field( $name, $front );
+		$v = $id ? c24_field( $name, $id ) : '';
+		return $v ?: c24_field( $name, $front );
 	};
 	return [
 		'title'   => $get( 'modal_title' ) ?: c24__( 'Consultar precio' ),

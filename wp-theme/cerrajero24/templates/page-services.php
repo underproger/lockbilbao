@@ -5,22 +5,22 @@
 
 defined( 'ABSPATH' ) || exit;
 
-$sh_title  = get_field( 'sh_title' );
-$sh_lead   = get_field( 'sh_lead' );
-$cat_perks = get_field( 'cat_perks' ) ?: [];
+$sh_title  = c24_field( 'sh_title' );
+$sh_lead   = c24_field( 'sh_lead' );
+$cat_perks = c24_field( 'cat_perks' ) ?: [];
 
-$call_label = get_field( 'cat_call_label' );
-$call_text  = get_field( 'cat_call_text' );
+$call_label = c24_field( 'cat_call_label' );
+$call_text  = c24_field( 'cat_call_text' );
 
-$help_title = get_field( 'cat_help_title' );
-$help_text  = get_field( 'cat_help_text' );
-$help_link  = get_field( 'cat_help_link' );
+$help_title = c24_field( 'cat_help_title' );
+$help_text  = c24_field( 'cat_help_text' );
+$help_link  = c24_field( 'cat_help_link' );
 
-$route_kicker = get_field( 'route_kicker' );
-$route_title  = get_field( 'route_title' );
-$route_lead   = get_field( 'route_lead' );
-$route_call   = get_field( 'route_call' );
-$routes       = get_field( 'routes' ) ?: [];
+$route_kicker = c24_field( 'route_kicker' );
+$route_title  = c24_field( 'route_title' );
+$route_lead   = c24_field( 'route_lead' );
+$route_call   = c24_field( 'route_call' );
+$routes       = c24_field( 'routes' ) ?: [];
 
 // Карточки услуг по группам (поле «Группа в каталоге» на странице услуги).
 $groups = [ 'opening' => [], 'repair' => [] ];
@@ -80,9 +80,9 @@ get_header();
     <div class="container">
 
       <?php foreach ( [ 1 => 'opening', 2 => 'repair' ] as $n => $group ) :
-        $kicker = get_field( "grp_{$n}_kicker" );
-        $title  = get_field( "grp_{$n}_title" );
-        $lead   = get_field( "grp_{$n}_lead" );
+        $kicker = c24_field( "grp_{$n}_kicker" );
+        $title  = c24_field( "grp_{$n}_title" );
+        $lead   = c24_field( "grp_{$n}_lead" );
         ?>
       <div class="cat-group" id="<?=$group;?>">
         <header class="sec-head">

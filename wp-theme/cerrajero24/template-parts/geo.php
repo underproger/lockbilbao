@@ -2,16 +2,16 @@
 /** Блок «Районы выезда» с картой и проверкой района. */
 defined( 'ABSPATH' ) || exit;
 
-$kicker = get_field( 'geo_kicker' );
-$title  = get_field( 'geo_title' );
-$lead   = get_field( 'geo_lead' );
+$kicker = c24_field( 'geo_kicker' );
+$title  = c24_field( 'geo_title' );
+$lead   = c24_field( 'geo_lead' );
 $cards  = [];
 foreach ( [ 1, 2 ] as $n ) {
 	$cards[] = [
-		'title' => get_field( "geo_card_{$n}_title" ),
-		'count' => get_field( "geo_card_{$n}_count" ),
-		'areas' => get_field( "geo_card_{$n}_areas" ) ?: [],
-		'note'  => get_field( "geo_card_{$n}_note" ),
+		'title' => c24_field( "geo_card_{$n}_title" ),
+		'count' => c24_field( "geo_card_{$n}_count" ),
+		'areas' => c24_field( "geo_card_{$n}_areas" ) ?: [],
+		'note'  => c24_field( "geo_card_{$n}_note" ),
 	];
 }
 $map_alt = c24__( 'Mapa de la zona de servicio de Cerrajero24: Bilbao y los 26 municipios del Gran Bilbao — Getxo, Santurtzi, Portugalete, Sestao, Barakaldo, Leioa, Erandio, Basauri, Galdakao y otros' );

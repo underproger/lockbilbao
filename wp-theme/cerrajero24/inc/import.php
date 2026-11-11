@@ -425,7 +425,7 @@ class C24_Import {
 
 	private function import_options() {
 		foreach ( (array) ( $this->structure['options'] ?? [] ) as $name => $value ) {
-			if ( ! empty( $this->fields['options'][ $name ] ) && ! get_field( $name, 'option' ) ) {
+			if ( ! empty( $this->fields['options'][ $name ] ) && ! c24_field( $name, 'option' ) ) {
 				update_field( $this->fields['options'][ $name ]['key'], $value, 'option' );
 			}
 		}

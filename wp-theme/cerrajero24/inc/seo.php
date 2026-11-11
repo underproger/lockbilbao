@@ -33,7 +33,7 @@ function c24_seo_title() {
 		return c24__( 'Página no encontrada — Cerrajero24' );
 	}
 	$id = c24_seo_post_id();
-	$t  = $id ? get_field( 'seo_title', $id ) : '';
+	$t  = $id ? c24_field( 'seo_title', $id ) : '';
 	return $t ?: '';
 }
 
@@ -42,7 +42,7 @@ function c24_seo_desc() {
 		return c24__( 'Esta página no existe en la web de Cerrajero24. Vaya al inicio o al catálogo de servicios, o llame: el cerrajero atiende 24/7.' );
 	}
 	$id = c24_seo_post_id();
-	return $id ? (string) get_field( 'seo_desc', $id ) : '';
+	return $id ? (string) c24_field( 'seo_desc', $id ) : '';
 }
 
 /* ---------------- Без SEO-плагина ---------------- */
@@ -64,7 +64,7 @@ add_action( 'wp_head', function () {
 		echo '<meta name="robots" content="' . ( is_404() ? 'noindex, follow' : 'index, follow, max-image-preview:large' ) . '">' . "\n";
 		if ( $id ) {
 			$title = c24_seo_title() ?: wp_get_document_title();
-			$og    = get_field( 'og_desc', $id ) ?: $desc;
+			$og    = c24_field( 'og_desc', $id ) ?: $desc;
 			$locale = str_replace( '-', '_', get_locale() );
 			echo '<meta property="og:type" content="website">' . "\n";
 			echo '<meta property="og:locale" content="' . esc_attr( $locale ) . '">' . "\n";
@@ -181,9 +181,9 @@ add_action( 'wp_head', function () {
 			$graph[]       = [
 				'@type'          => 'Service',
 				'@id'            => $url . '#service',
-				'name'           => get_field( 'schema_name', $id ) ?: wp_strip_all_tags( (string) get_field( 'sh_title', $id ) ),
-				'serviceType'    => get_field( 'schema_type', $id ) ?: get_field( 'crumb', $id ),
-				'description'    => get_field( 'schema_desc', $id ) ?: c24_seo_desc(),
+				'name'           => c24_field( 'schema_name', $id ) ?: wp_strip_all_tags( (string) c24_field( 'sh_title', $id ) ),
+				'serviceType'    => c24_field( 'schema_type', $id ) ?: c24_field( 'crumb', $id ),
+				'description'    => c24_field( 'schema_desc', $id ) ?: c24_seo_desc(),
 				'provider'       => [ '@id' => home_url( '/#business' ) ],
 				'areaServed'     => [ [ '@type' => 'City', 'name' => 'Bilbao' ], [ '@type' => 'AdministrativeArea', 'name' => 'Gran Bilbao' ] ],
 				'hoursAvailable' => c24_schema_hours(),
@@ -205,7 +205,7 @@ add_action( 'wp_head', function () {
 
 	echo '<script type="application/ld+json">' . wp_json_encode( [ '@context' => 'https://schema.org', '@graph' => $graph ], JSON_UNESCAPED_UNICODE | JSON_UNESCAPED_SLASHES ) . '</script>' . "\n";
 
-	$faq = get_field( 'faq_items', $id ) ?: [];
+	$faq = c24_field( 'faq_items', $id ) ?: [];
 	if ( $faq ) {
 		$q = [];
 		foreach ( $faq as $it ) {

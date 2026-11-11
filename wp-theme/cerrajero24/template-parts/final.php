@@ -2,11 +2,11 @@
 /** Финальный блок с формой заявки. */
 defined( 'ABSPATH' ) || exit;
 
-$kicker = get_field( 'final_kicker' );
-$title  = get_field( 'final_title' );
-$lead   = get_field( 'final_lead' );
-$hours  = get_field( 'final_hours' );
-$items  = get_field( 'final_guarantees' ) ?: [];
+$kicker = c24_field( 'final_kicker' );
+$title  = c24_field( 'final_title' );
+$lead   = c24_field( 'final_lead' );
+$hours  = c24_field( 'final_hours' );
+$items  = c24_field( 'final_guarantees' ) ?: [];
 ?>
   <section class="final" id="request" aria-labelledby="request-title">
     <img class="final__orbit" src="<?=esc_url( c24_asset( 'img/orbit.webp' ) );?>" alt="" aria-hidden="true" width="1184" height="1031" loading="lazy">
@@ -31,6 +31,6 @@ $items  = get_field( 'final_guarantees' ) ?: [];
         <?php endif; ?>
       </div>
 
-<?=c24_form( 'final', [ 'title' => get_field( 'final_form_title' ), 'service' => get_field( 'form_service' ) ] );?>
+<?=c24_form( 'final', [ 'title' => c24_field( 'final_form_title' ), 'service' => c24_field( 'form_service' ) ] );?>
     </div>
   </section>

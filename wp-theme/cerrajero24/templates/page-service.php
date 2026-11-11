@@ -5,72 +5,72 @@
 
 defined( 'ABSPATH' ) || exit;
 
-$sh_title  = get_field( 'sh_title' );
-$sh_lead   = get_field( 'sh_lead' );
-$sh_photo  = get_field( 'sh_photo' );
-$sh_bubble = get_field( 'sh_bubble' );
-$sh_chip   = get_field( 'sh_chip' );
+$sh_title  = c24_field( 'sh_title' );
+$sh_lead   = c24_field( 'sh_lead' );
+$sh_photo  = c24_field( 'sh_photo' );
+$sh_bubble = c24_field( 'sh_bubble' );
+$sh_chip   = c24_field( 'sh_chip' );
 
-$quick_perks = get_field( 'quick_perks' ) ?: [];
+$quick_perks = c24_field( 'quick_perks' ) ?: [];
 
-$sit_kicker  = get_field( 'sit_kicker' );
-$sit_title   = get_field( 'sit_title' );
-$sit_lead    = get_field( 'sit_lead' );
-$sit_cards   = get_field( 'sit_cards' ) ?: [];
-$sit_cta     = get_field( 'sit_cta_title' );
-$sit_cta_sub = get_field( 'sit_cta_sub' );
-$sit_cta_btn = get_field( 'sit_cta_btn' );
+$sit_kicker  = c24_field( 'sit_kicker' );
+$sit_title   = c24_field( 'sit_title' );
+$sit_lead    = c24_field( 'sit_lead' );
+$sit_cards   = c24_field( 'sit_cards' ) ?: [];
+$sit_cta     = c24_field( 'sit_cta_title' );
+$sit_cta_sub = c24_field( 'sit_cta_sub' );
+$sit_cta_btn = c24_field( 'sit_cta_btn' );
 
-$sp_kicker   = get_field( 'sp_kicker' );
-$sp_title    = get_field( 'sp_title' );
-$sp_lead     = get_field( 'sp_lead' );
-$sp_caption  = get_field( 'sp_caption' );
-$sp_rows     = get_field( 'sp_rows' ) ?: [];
-$sp_notes    = get_field( 'sp_notes' ) ?: [];
-$sp_cta      = get_field( 'sp_cta_title' );
-$sp_cta_text = get_field( 'sp_cta_text' );
+$sp_kicker   = c24_field( 'sp_kicker' );
+$sp_title    = c24_field( 'sp_title' );
+$sp_lead     = c24_field( 'sp_lead' );
+$sp_caption  = c24_field( 'sp_caption' );
+$sp_rows     = c24_field( 'sp_rows' ) ?: [];
+$sp_notes    = c24_field( 'sp_notes' ) ?: [];
+$sp_cta      = c24_field( 'sp_cta_title' );
+$sp_cta_text = c24_field( 'sp_cta_text' );
 
-$calc_kicker = get_field( 'calc_kicker' );
-$calc_title  = get_field( 'calc_title' );
-$calc_lead   = get_field( 'calc_lead' );
-$calc_items  = get_field( 'calc_items' ) ?: [];
-$calc_total  = get_field( 'calc_total_title' );
-$calc_ttext  = get_field( 'calc_total_text' );
-$calc_note   = get_field( 'calc_note' );
+$calc_kicker = c24_field( 'calc_kicker' );
+$calc_title  = c24_field( 'calc_title' );
+$calc_lead   = c24_field( 'calc_lead' );
+$calc_items  = c24_field( 'calc_items' ) ?: [];
+$calc_total  = c24_field( 'calc_total_title' );
+$calc_ttext  = c24_field( 'calc_total_text' );
+$calc_note   = c24_field( 'calc_note' );
 
-$est_kicker = get_field( 'est_kicker' );
-$est_title  = get_field( 'est_title' );
-$est_lead   = get_field( 'est_lead' );
+$est_kicker = c24_field( 'est_kicker' );
+$est_title  = c24_field( 'est_title' );
+$est_lead   = c24_field( 'est_lead' );
 
-$types_kicker = get_field( 'types_kicker' );
-$types_title  = get_field( 'types_title' );
-$types_lead   = get_field( 'types_lead' );
-$types_cards  = get_field( 'types_cards' ) ?: [];
+$types_kicker = c24_field( 'types_kicker' );
+$types_title  = c24_field( 'types_title' );
+$types_lead   = c24_field( 'types_lead' );
+$types_cards  = c24_field( 'types_cards' ) ?: [];
 
-$nd_id     = get_field( 'nd_id' ) ?: 'no-damage';
-$nd_photo  = get_field( 'nd_photo' );
-$nd_badge  = get_field( 'nd_badge' );
-$nd_kicker = get_field( 'nd_kicker' );
-$nd_title  = get_field( 'nd_title' );
-$nd_lead   = get_field( 'nd_lead' );
-$nd_items  = get_field( 'nd_items' ) ?: [];
+$nd_id     = c24_field( 'nd_id' ) ?: 'no-damage';
+$nd_photo  = c24_field( 'nd_photo' );
+$nd_badge  = c24_field( 'nd_badge' );
+$nd_kicker = c24_field( 'nd_kicker' );
+$nd_title  = c24_field( 'nd_title' );
+$nd_lead   = c24_field( 'nd_lead' );
+$nd_items  = c24_field( 'nd_items' ) ?: [];
 
-$edge_photo  = get_field( 'edge_photo' );
-$edge_city   = get_field( 'edge_city' );
-$edge_chip   = get_field( 'edge_chip' );
-$edge_kicker = get_field( 'edge_kicker' );
-$edge_title  = get_field( 'edge_title' );
-$edge_items  = get_field( 'edge_items' ) ?: [];
+$edge_photo  = c24_field( 'edge_photo' );
+$edge_city   = c24_field( 'edge_city' );
+$edge_chip   = c24_field( 'edge_chip' );
+$edge_kicker = c24_field( 'edge_kicker' );
+$edge_title  = c24_field( 'edge_title' );
+$edge_items  = c24_field( 'edge_items' ) ?: [];
 
-$docs_kicker = get_field( 'docs_kicker' );
-$docs_title  = get_field( 'docs_title' );
-$docs_card   = get_field( 'docs_card_text' );
-$docs_label  = get_field( 'docs_card_label' );
-$docs_chips  = get_field( 'docs_chips' ) ?: [];
-$docs_items  = get_field( 'docs_items' ) ?: [];
+$docs_kicker = c24_field( 'docs_kicker' );
+$docs_title  = c24_field( 'docs_title' );
+$docs_card   = c24_field( 'docs_card_text' );
+$docs_label  = c24_field( 'docs_card_label' );
+$docs_chips  = c24_field( 'docs_chips' ) ?: [];
+$docs_items  = c24_field( 'docs_items' ) ?: [];
 
-$more_kicker = get_field( 'more_kicker' );
-$more_title  = get_field( 'more_title' );
+$more_kicker = c24_field( 'more_kicker' );
+$more_title  = c24_field( 'more_title' );
 
 get_header();
 ?>
@@ -140,7 +140,7 @@ get_header();
         </ul>
         <?php endif; ?>
 
-<?=c24_form( 'quick', [ 'title' => get_field( 'quick_form_title' ) ] );?>
+<?=c24_form( 'quick', [ 'title' => c24_field( 'quick_form_title' ) ] );?>
       </div>
     </div>
   </section>
@@ -197,7 +197,7 @@ get_header();
           <table class="pr-table">
             <?php if ( $sp_caption ) : ?><caption class="visually-hidden"><?=esc_html( $sp_caption );?></caption><?php endif; ?>
             <thead>
-              <tr><th scope="col"><?=esc_html( get_field( 'sp_col_1' ) );?></th><th scope="col"><?=esc_html( get_field( 'sp_col_2' ) );?></th></tr>
+              <tr><th scope="col"><?=esc_html( c24_field( 'sp_col_1' ) );?></th><th scope="col"><?=esc_html( c24_field( 'sp_col_2' ) );?></th></tr>
             </thead>
             <tbody>
               <?php foreach ( $sp_rows as $r ) : $p = c24_price( $r['price'] ); ?>

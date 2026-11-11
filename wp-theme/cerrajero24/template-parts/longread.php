@@ -2,10 +2,10 @@
 /** SEO-текст «Полезно знать» со сворачиванием. Подзаголовкам H3 автоматически даются id guide-1, guide-2… */
 defined( 'ABSPATH' ) || exit;
 
-$kicker = get_field( 'lr_kicker' );
-$title  = get_field( 'lr_title' );
-$lead   = get_field( 'lr_lead' );
-$body   = (string) get_field( 'lr_body' );
+$kicker = c24_field( 'lr_kicker' );
+$title  = c24_field( 'lr_title' );
+$lead   = c24_field( 'lr_lead' );
+$body   = (string) c24_field( 'lr_body' );
 if ( ! $title && ! $body ) {
 	return;
 }

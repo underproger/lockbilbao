@@ -2,12 +2,12 @@
 /** Блок «Этапы работы». $args['line'] — вариант с линией (страница услуги). */
 defined( 'ABSPATH' ) || exit;
 
-$kicker = get_field( 'flow_kicker' );
-$title  = get_field( 'flow_title' );
-$steps  = get_field( 'flow_steps' ) ?: [];
-$cta    = get_field( 'flow_cta_title' );
-$sub    = get_field( 'flow_cta_sub' );
-$btn    = get_field( 'flow_cta_btn' );
+$kicker = c24_field( 'flow_kicker' );
+$title  = c24_field( 'flow_title' );
+$steps  = c24_field( 'flow_steps' ) ?: [];
+$cta    = c24_field( 'flow_cta_title' );
+$sub    = c24_field( 'flow_cta_sub' );
+$btn    = c24_field( 'flow_cta_btn' );
 ?>
   <section class="section flow" id="process" aria-labelledby="process-title">
     <div class="flow__deco" aria-hidden="true"><i class="flow__ring flow__ring--a"></i><i class="flow__ring flow__ring--b"></i><i class="flow__ring flow__ring--c"></i></div>

@@ -2,13 +2,13 @@
 /** Блок «Почему выбирают» (главная, каталог). */
 defined( 'ABSPATH' ) || exit;
 
-$kicker = get_field( 'why_kicker' );
-$title  = get_field( 'why_title' );
-$lead   = get_field( 'why_lead' );
-$cards  = get_field( 'why_cards' ) ?: [];
-$photo  = get_field( 'why_photo' );
-$ptitle = get_field( 'why_photo_title' );
-$ptext  = get_field( 'why_photo_text' );
+$kicker = c24_field( 'why_kicker' );
+$title  = c24_field( 'why_title' );
+$lead   = c24_field( 'why_lead' );
+$cards  = c24_field( 'why_cards' ) ?: [];
+$photo  = c24_field( 'why_photo' );
+$ptitle = c24_field( 'why_photo_title' );
+$ptext  = c24_field( 'why_photo_text' );
 // Раскладка сетки из вёрстки: модификаторы карточек по порядку.
 $mods = [ 'a', 'f', 'b', 'c', 'd', 'e' ];
 ?>

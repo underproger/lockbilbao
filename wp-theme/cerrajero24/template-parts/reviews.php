@@ -2,13 +2,13 @@
 /** Блок «Отзывы» (главная, страница услуги). */
 defined( 'ABSPATH' ) || exit;
 
-$kicker   = get_field( 'rv_kicker' );
-$title    = get_field( 'rv_title' );
-$links    = get_field( 'rv_links' ) ?: [];
-$items    = get_field( 'rv_items' ) ?: [];
-$aria     = get_field( 'rv_aria' );
-$cta      = get_field( 'rv_cta_text' );
-$cta_maps = 'maps' === get_field( 'rv_cta_type' );
+$kicker   = c24_field( 'rv_kicker' );
+$title    = c24_field( 'rv_title' );
+$links    = c24_field( 'rv_links' ) ?: [];
+$items    = c24_field( 'rv_items' ) ?: [];
+$aria     = c24_field( 'rv_aria' );
+$cta      = c24_field( 'rv_cta_text' );
+$cta_maps = 'maps' === c24_field( 'rv_cta_type' );
 ?>
   <section class="section rv" id="reviews" aria-labelledby="reviews-title">
     <div class="rv__deco" aria-hidden="true"><i class="rv__ring rv__ring--a"></i><i class="rv__ring rv__ring--b"></i><i class="rv__spark rv__spark--a"></i><i class="rv__spark rv__spark--b"></i></div>
